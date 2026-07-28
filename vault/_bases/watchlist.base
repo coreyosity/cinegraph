@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.folder == "Watchlist"
+properties:
+  file.name:
+    displayName: Film
+  note.year:
+    displayName: Year
+  note.providers:
+    displayName: Streaming
+views:
+  - type: cards
+    name: Posters
+    image: note.poster
+    order:
+      - file.name
+      - note.year
+    sort:
+      - property: note.year
+        direction: DESC
+  - type: table
+    name: Watchlist
+    order:
+      - file.name
+      - note.year
+      - note.providers
+    sort:
+      - property: note.year
+        direction: DESC
+  - type: table
+    name: Streaming now
+    filters:
+      and:
+        - providers
+    order:
+      - file.name
+      - note.year
+      - note.providers
+    sort:
+      - property: note.year
+        direction: DESC

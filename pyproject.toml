@@ -1,0 +1,28 @@
+# Tooling config for the cinegraph pipeline (scripts/). Packaging stays requirements-based;
+# this file only configures ruff (lint) and mypy (types). Test config lives in pytest.ini.
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+src = ["scripts"]
+
+[tool.ruff.lint]
+# Real-defect rules (pyflakes, bugbear, comprehensions, pyupgrade, isort, simplify, ruff).
+# We lint but deliberately do NOT run `ruff format`: parts of the code (e.g. the Brandes
+# loop in core/graph.py) use a compact hand-formatted style we keep on purpose.
+select = ["F", "E", "W", "I", "B", "C4", "UP", "SIM", "RUF"]
+ignore = [
+    "E501",  # line length is self-managed (a handful of ~100–115col lines)
+    "E701",  # multiple statements on one line (colon) — intentional compact style
+    "E702",  # multiple statements on one line (semicolon) — intentional compact style
+]
+
+[tool.mypy]
+python_version = "3.12"
+mypy_path = "scripts"
+files = ["scripts"]
+ignore_missing_imports = true
+# Pragmatic baseline: check what's annotated, don't demand annotations everywhere.
+check_untyped_defs = true
+warn_redundant_casts = true
+warn_unused_ignores = true

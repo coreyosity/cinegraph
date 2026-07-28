@@ -1,0 +1,112 @@
+filters:
+  and:
+    - type == "film"
+    - file.folder == "Films"
+formulas:
+  decade: (year + "").slice(0, 3) + "0"
+  watch_year: (watched + "").slice(0, 4)
+properties:
+  file.name:
+    displayName: Film
+  note.rating:
+    displayName: My rating
+  note.year:
+    displayName: Year
+  note.director:
+    displayName: Director
+  note.runtime:
+    displayName: Runtime
+  note.watched:
+    displayName: Watched
+views:
+  - type: table
+    name: All films
+    order:
+      - file.name
+      - year
+      - rating
+      - director
+      - runtime
+    sort:
+      - property: rating
+        direction: DESC
+      - property: year
+        direction: DESC
+  - type: cards
+    name: Posters
+    order:
+      - file.name
+      - year
+      - rating
+    sort:
+      - property: rating
+        direction: DESC
+      - property: year
+        direction: DESC
+    image: note.poster
+  - type: table
+    name: Top rated
+    filters:
+      and:
+        - rating >= 4.5
+    order:
+      - file.name
+      - year
+      - rating
+      - director
+    sort:
+      - property: year
+        direction: DESC
+  - type: table
+    name: Recently watched
+    order:
+      - file.name
+      - watched
+      - rating
+      - director
+    sort:
+      - property: watched
+        direction: DESC
+    limit: 100
+  - type: table
+    name: Rating distribution
+    groupBy:
+      property: rating
+      direction: DESC
+    order:
+      - file.name
+      - year
+      - director
+  - type: table
+    name: Watch cadence (by year)
+    groupBy:
+      property: formula.watch_year
+      direction: DESC
+    order:
+      - file.name
+      - watched
+      - rating
+    summaries:
+      rating: Average
+  - type: table
+    name: By decade
+    groupBy:
+      property: formula.decade
+      direction: DESC
+    order:
+      - file.name
+      - year
+      - rating
+    summaries:
+      rating: Average
+  - type: table
+    name: By director
+    groupBy:
+      property: director
+      direction: ASC
+    order:
+      - file.name
+      - year
+      - rating
+    summaries:
+      rating: Average

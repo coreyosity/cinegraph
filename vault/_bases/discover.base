@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.folder == "Discover"
+properties:
+  file.name:
+    displayName: Recommendation
+  note.year:
+    displayName: Year
+  note.score:
+    displayName: Score
+  note.director:
+    displayName: Director
+  note.tmdb_rating:
+    displayName: TMDB
+  note.providers:
+    displayName: Streaming
+views:
+  - type: cards
+    name: Posters
+    order:
+      - file.name
+      - year
+      - score
+    sort:
+      - property: score
+        direction: DESC
+    image: note.poster
+  - type: table
+    name: Ranked
+    order:
+      - file.name
+      - year
+      - score
+      - director
+      - tmdb_rating
+      - note.providers
+    sort:
+      - property: score
+        direction: DESC
+    limit: 100

@@ -1,0 +1,35 @@
+filters:
+  and:
+    - type == "theme"
+properties:
+  file.name:
+    displayName: Theme
+  note.film_count:
+    displayName: Films
+  note.avg_rating:
+    displayName: My avg ★
+  note.rated_count:
+    displayName: Rated
+views:
+  - type: table
+    name: Themes I rate highest
+    filters:
+      and:
+        - rated_count >= 3
+    order:
+      - file.name
+      - note.avg_rating
+      - note.rated_count
+      - note.film_count
+    sort:
+      - property: note.avg_rating
+        direction: DESC
+  - type: table
+    name: Themes by films watched
+    order:
+      - file.name
+      - note.film_count
+      - note.avg_rating
+    sort:
+      - property: note.film_count
+        direction: DESC

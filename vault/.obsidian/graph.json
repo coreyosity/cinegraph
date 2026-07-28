@@ -1,0 +1,26 @@
+{
+  "collapse-filter": true,
+  "search": "-tag:#graph-hide -tag:#genre -tag:#watchlist",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "tag:#film", "color": { "a": 1, "rgb": 3899638 } },
+    { "query": "tag:#person", "color": { "a": 1, "rgb": 16097803 } },
+    { "query": "tag:#studio", "color": { "a": 1, "rgb": 1096065 } }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.9,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.35,
+  "repelStrength": 12,
+  "linkStrength": 0.8,
+  "linkDistance": 120,
+  "scale": 0.5,
+  "close": false
+}

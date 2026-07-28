@@ -1,0 +1,30 @@
+{
+  "name": "cinegraph-views",
+  "version": "0.1.0",
+  "description": "Cinegraph client-side views (poster grid) over /static/films.json",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components/index.js",
+    "./package.json": "./package.json"
+  },
+  "peerDependencies": {
+    "preact": "*"
+  },
+  "quartz": {
+    "name": "cinegraph-views",
+    "displayName": "Cinegraph Views",
+    "description": "Poster grid and other client-side views over films.json",
+    "category": "component",
+    "defaultEnabled": true,
+    "defaultOrder": 55,
+    "components": {
+      "PosterGrid": {
+        "displayName": "Poster Grid",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 40
+      }
+    }
+  }
+}

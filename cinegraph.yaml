@@ -1,0 +1,27 @@
+# cinegraph — project config.
+#
+# Read by the Python pipeline (currently scripts/gen_entities.py). Everything here
+# has a built-in default (see scripts/common.py `_DEFAULT_CONFIG`), so the file is
+# optional — delete a key to fall back to the default.
+
+graph:
+  # An entity (person / studio / genre) that links fewer films than its threshold is
+  # hidden from BOTH graphs, while its page and backlinks stay fully intact:
+  #   • Quartz web graph  — the page is marked `unlisted: true` (dropped from the
+  #                         content index → gone from the graph, search, and RSS)
+  #   • Obsidian graph    — the page is tagged `graph-hide` (see .obsidian/graph.json)
+  # Set a threshold to 1 to never hide that type.
+  min_films:
+    people: 2      # hide one-off actors (thousands of single-film pendant nodes)
+    studios: 2     # hide studios credited on a single film
+    genres: 1      # never hide genres (there are only ~20, all well-connected)
+
+  # People with any of these roles are never hidden, no matter how few films they
+  # link — so e.g. a director you've only seen once still appears as a graph node.
+  always_show_roles:
+    - director
+
+themes:
+  # A TMDB keyword becomes a browsable Theme page (Themes/) once it tags at least this
+  # many films — keeps one-off keywords from creating thousands of pages.
+  min_films: 5

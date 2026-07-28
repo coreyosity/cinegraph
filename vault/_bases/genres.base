@@ -1,0 +1,32 @@
+filters:
+  and:
+    - type == "genre"
+properties:
+  file.name:
+    displayName: Genre
+  note.film_count:
+    displayName: Films
+  note.avg_rating:
+    displayName: My avg ★
+  note.rated_count:
+    displayName: Rated
+views:
+  - type: table
+    name: Genres I rate highest
+    order:
+      - file.name
+      - avg_rating
+      - rated_count
+      - film_count
+    sort:
+      - property: avg_rating
+        direction: DESC
+  - type: table
+    name: Genres by films watched
+    order:
+      - file.name
+      - film_count
+      - avg_rating
+    sort:
+      - property: film_count
+        direction: DESC

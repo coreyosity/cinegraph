@@ -1,0 +1,6 @@
+# Dev/test dependencies (the app itself only needs requirements.txt).
+pytest>=8
+ruff>=0.6
+mypy>=1.11
+types-requests
+types-PyYAML

@@ -1,0 +1,88 @@
+filters:
+  and:
+    - type == "person"
+properties:
+  file.name:
+    displayName: Person
+  note.film_count:
+    displayName: Films
+  note.avg_rating:
+    displayName: My avg ★
+  note.rated_count:
+    displayName: Rated
+  note.roles:
+    displayName: Roles
+views:
+  - type: table
+    name: Best directors (by my rating)
+    filters:
+      and:
+        - roles.contains("director")
+        - rated_count >= 3
+    order:
+      - file.name
+      - note.avg_rating
+      - note.rated_count
+      - note.film_count
+    sort:
+      - property: note.avg_rating
+        direction: DESC
+      - property: note.rated_count
+        direction: DESC
+    limit: 100
+  - type: table
+    name: Best actors (by my rating)
+    filters:
+      and:
+        - roles.contains("actor")
+        - rated_count >= 4
+    order:
+      - file.name
+      - note.avg_rating
+      - note.rated_count
+      - note.film_count
+    sort:
+      - property: note.avg_rating
+        direction: DESC
+      - property: note.rated_count
+        direction: DESC
+    limit: 100
+  - type: table
+    name: Most-watched directors
+    filters:
+      and:
+        - roles.contains("director")
+    order:
+      - file.name
+      - note.film_count
+      - note.avg_rating
+    sort:
+      - property: note.film_count
+        direction: DESC
+    limit: 100
+  - type: table
+    name: Most-watched actors
+    filters:
+      and:
+        - roles.contains("actor")
+    order:
+      - file.name
+      - note.film_count
+      - note.avg_rating
+    sort:
+      - property: note.film_count
+        direction: DESC
+    limit: 100
+  - type: table
+    name: Actor-directors
+    filters:
+      and:
+        - roles.contains("actor")
+        - roles.contains("director")
+    order:
+      - file.name
+      - note.film_count
+      - note.avg_rating
+    sort:
+      - property: note.film_count
+        direction: DESC
