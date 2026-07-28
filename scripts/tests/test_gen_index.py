@@ -43,3 +43,18 @@ def test_build_discover_records_flattens_why_wikilinks(tmp_path):
 def test_build_discover_records_ignores_non_recommendations(tmp_path):
     common.write_note(tmp_path / "Discover" / "note.md", {"type": "film"}, "not a rec")
     assert gen_index.build_discover_records(tmp_path, {}) == []
+
+
+def test_write_json_writes_only_public_static_when_built(tmp_path):
+    (tmp_path / "public" / "static").mkdir(parents=True)   # a built site
+    targets = gen_index.write_json(tmp_path, "films.json", {"count": 1})
+    assert targets == [tmp_path / "public" / "static" / "films.json"]
+    assert (tmp_path / "public" / "static" / "films.json").exists()
+    # must NOT touch the serve-watched quartz/static (that write triggers a clobbering rebuild)
+    assert not (tmp_path / "quartz" / "static" / "films.json").exists()
+
+
+def test_write_json_falls_back_to_quartz_static_when_unbuilt(tmp_path):
+    targets = gen_index.write_json(tmp_path, "films.json", {"count": 1})  # no public/ yet
+    assert targets == [tmp_path / "quartz" / "static" / "films.json"]
+    assert (tmp_path / "quartz" / "static" / "films.json").exists()

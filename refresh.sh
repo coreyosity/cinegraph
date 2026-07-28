@@ -43,8 +43,9 @@ else
   ( cd site && rm -rf public && npx quartz build )   # clean slate avoids ENOTEMPTY
 fi
 
-# Runs last: it reads the build's static/contentIndex.json for canonical page slugs.
-# With --serve live (build skipped above) it reads serve's live index instead — fine.
+# Runs last: reads public/static/contentIndex.json for canonical page slugs and writes the
+# data indexes to public/static. It writes ONLY to public/ (build output, unwatched), never
+# quartz/static, so it's safe to run against a live --serve without triggering a rebuild.
 echo "▶ 7/7  data index (films.json for client-side views)"
 $PY scripts/gen_index.py --vault vault --site site
 

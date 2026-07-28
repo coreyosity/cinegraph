@@ -10,9 +10,13 @@ read it from the build's `static/contentIndex.json` (joined on the note's path)
 rather than re-deriving Quartz's slugify — which would drift and break links. Films
 not yet in the index (e.g. added since the last build) fall back to a computed slug.
 
-Output is written to:
-  - <site>/quartz/static/films.json  (source asset — survives `rm -rf public`)
-  - <site>/public/static/films.json  (live now, so a running `--serve` picks it up)
+Output is written to `<site>/public/static/films.json` — the built site's output, which is
+what the browser fetches. If the site hasn't been built yet (`public/` absent) it falls back
+to `<site>/quartz/static/`. We deliberately do NOT write into `quartz/static` when `public/`
+exists: a live `quartz build --serve` *watches* that dir, so a write there kicks off a full
+rebuild that both drops the server for minutes and wipes these files from `public/static`
+(the build copies static assets but excludes `.json`) → the browser's "Could not load
+films.json". `public/` is build output (unwatched), so writing there serves immediately.
 
 Usage:
     python scripts/gen_index.py --vault vault --site site
@@ -159,11 +163,16 @@ def build_watchlist_records(vault: Path, slugs: dict[str, str], profile, baselin
 
 
 def write_json(site: Path, name: str, payload: dict) -> list[Path]:
+    """Write a data index to the site. Prefer the built output dir (`public/static`) and,
+    when it exists, write ONLY there — never `quartz/static`, which a live `--serve` watches
+    (a write there triggers a clobbering rebuild; see the module docstring). Falls back to
+    `quartz/static` only when the site hasn't been built yet."""
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
-    targets = [site / "quartz" / "static" / name]
     public_static = site / "public" / "static"
     if public_static.exists():
-        targets.append(public_static / name)
+        targets = [public_static / name]
+    else:
+        targets = [site / "quartz" / "static" / name]
     for target in targets:
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(blob, encoding="utf-8")
