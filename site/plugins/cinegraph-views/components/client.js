@@ -7,6 +7,7 @@
 // Serialized via .toString(), so it must be fully self-contained (no closures).
 export function cinegraphViewsClient() {
   var CACHE = null // films.json, fetched once and reused across SPA navigations
+  var BASE = ""    // deploy base path (e.g. "/cinegraph" under project GitHub Pages); see computeBase
 
   function esc(s) {
     return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
@@ -14,8 +15,34 @@ export function cinegraphViewsClient() {
     })
   }
 
+  // Base-path support so the *same* build works at the domain root (local `--serve`) and
+  // under a subpath (project GitHub Pages, e.g. /cinegraph/). Quartz stamps <body data-slug>;
+  // the deploy base is the current path with that slug stripped off. Every root-absolute URL
+  // the client builds — fetches, entity links, and the URLs baked into films.json — is then
+  // prefixed with it. An empty base (root deploy) makes withBase a no-op.
+  function computeBase() {
+    var slug = (document.body && document.body.dataset && document.body.dataset.slug) || ""
+    var path = decodeURIComponent(location.pathname)
+      .replace(/\.html$/, "").replace(/\/index$/, "").replace(/\/+$/, "")
+    var tail = slug.replace(/(^|\/)index$/, "")   // "index"->"", "films/index"->"films"
+    if (!tail) return path                          // home / folder index: the whole path is base
+    var suffix = "/" + tail
+    return path.length >= suffix.length && path.slice(-suffix.length) === suffix
+      ? path.slice(0, -suffix.length)
+      : ""
+  }
+  function withBase(p) {
+    return typeof p === "string" && p.charAt(0) === "/" ? BASE + p : p
+  }
+
   async function filmsPayload() {
-    if (!CACHE) CACHE = await (await fetch("/static/films.json")).json()
+    if (!CACHE) {
+      CACHE = await (await fetch(withBase("/static/films.json"))).json()
+      ;(CACHE.films || []).forEach(function (f) { f.url = withBase(f.url) })
+      ;(CACHE.islands || []).forEach(function (i) {
+        ;(i.examples || []).forEach(function (e) { e.url = withBase(e.url) })
+      })
+    }
     return CACHE
   }
   async function films() {
@@ -190,7 +217,7 @@ export function cinegraphViewsClient() {
     }
     function linked(rows, folder) {
       return rows.map(function (e) {
-        return { label: e.label, value: e.value, link: "/" + folder + "/" + slug(e.label) }
+        return { label: e.label, value: e.value, link: withBase("/" + folder + "/" + slug(e.label)) }
       })
     }
 
@@ -341,7 +368,7 @@ export function cinegraphViewsClient() {
       .selectAll("line").data(links).join("line")
       .attr("stroke-width", function (d) { return Math.min(1 + d.w * 0.4, 4) })
     var node = g.append("g").selectAll("g").data(nodes).join("g").style("cursor", "pointer")
-      .on("click", function (_, d) { window.location.href = "/people/" + slugify(d.id) })
+      .on("click", function (_, d) { window.location.href = withBase("/people/" + slugify(d.id)) })
     node.append("circle").attr("r", function (d) { return 4 + Math.sqrt(d.films) * 2 })
       .attr("fill", "var(--tertiary)").attr("stroke", "var(--light)").attr("stroke-width", 1.2)
     node.append("title").text(function (d) { return d.id + " — " + d.films + " films" })
@@ -432,6 +459,14 @@ export function cinegraphViewsClient() {
     var el = document.querySelector("[data-cinegraph-film]")
     if (!el || el.dataset.done) return
     el.dataset.done = "1"
+    // The hero chips (Director/Cast/Studios/Genres/Themes) are server-rendered with
+    // root-absolute hrefs; prefix them with the deploy base before adding anything else.
+    if (BASE) {
+      var chips = document.querySelectorAll(".film-hero a[href^='/']")
+      for (var ci = 0; ci < chips.length; ci++) {
+        chips[ci].setAttribute("href", BASE + chips[ci].getAttribute("href"))
+      }
+    }
     var cur
     try { cur = JSON.parse(el.textContent || "{}") } catch (e) { return }
     var list
@@ -450,7 +485,7 @@ export function cinegraphViewsClient() {
         row.className = "film-row film-themes"
         row.innerHTML = '<span class="film-row-label">Themes</span><span class="film-chips">' +
           self.themes.slice(0, 12).map(function (t) {
-            return '<a class="film-chip" href="/themes/' + slugify(t) + '">' + esc(t) + "</a>"
+            return '<a class="film-chip" href="' + withBase("/themes/" + slugify(t)) + '">' + esc(t) + "</a>"
           }).join("") + "</span>"
         info.appendChild(row)
       }
@@ -687,7 +722,7 @@ export function cinegraphViewsClient() {
       return '<section class="person-sec"><h2>' + esc(title) + "</h2>" +
         '<div class="film-chips">' + people.map(function (p) {
           var count = showCount ? ' <span class="chip-count">' + p.n + "</span>" : ""
-          return '<a class="film-chip" href="/people/' + slugify(p.name) + '">' + esc(p.name) + count + "</a>"
+          return '<a class="film-chip" href="' + withBase("/people/" + slugify(p.name)) + '">' + esc(p.name) + count + "</a>"
         }).join("") + "</div></section>"
     }
     mount.innerHTML =
@@ -730,7 +765,7 @@ export function cinegraphViewsClient() {
       if (!people.length) return ""
       return '<section class="person-sec"><h2>' + esc(title) + "</h2><div class='film-chips'>" +
         people.map(function (p) {
-          return '<a class="film-chip" href="/' + folder + "/" + slugify(p.name) + '">' +
+          return '<a class="film-chip" href="' + withBase("/" + folder + "/" + slugify(p.name)) + '">' +
             esc(p.name) + ' <span class="chip-count">' + p.n + "</span></a>"
         }).join("") + "</div></section>"
     }
@@ -746,9 +781,10 @@ export function cinegraphViewsClient() {
     if (mount.dataset.done) return
     mount.dataset.done = "1"
     var data
-    try { data = await (await fetch("/static/discover.json")).json() }
+    try { data = await (await fetch(withBase("/static/discover.json"))).json() }
     catch (e) { mount.innerHTML = "<p>Could not load recommendations.</p>"; return }
     var recs = data.recs || []
+    recs.forEach(function (r) { r.url = withBase(r.url) })
     var KEY = "cinegraph-dismissed"
     function getDismissed() { try { return JSON.parse(localStorage.getItem(KEY) || "[]") } catch (e) { return [] } }
     function setDismissed(a) { try { localStorage.setItem(KEY, JSON.stringify(a)) } catch (e) {} }
@@ -805,13 +841,15 @@ export function cinegraphViewsClient() {
     if (mount.dataset.done) return
     mount.dataset.done = "1"
     async function load(name, key) {
-      try { return (await (await fetch("/static/" + name)).json())[key] || [] } catch (e) { return [] }
+      try { return (await (await fetch(withBase("/static/" + name))).json())[key] || [] } catch (e) { return [] }
     }
     var wlData = {}
-    try { wlData = await (await fetch("/static/watchlist.json")).json() } catch (e) {}
+    try { wlData = await (await fetch(withBase("/static/watchlist.json"))).json() } catch (e) {}
     var wl = wlData.watchlist || []
     var acc = wlData.accuracy
     var dc = await load("discover.json", "recs")
+    wl.forEach(function (r) { r.url = withBase(r.url) })
+    dc.forEach(function (r) { r.url = withBase(r.url) })
     if (!wl.length && !dc.length) { mount.innerHTML = "<p>Nothing to show yet.</p>"; return }
     var KEY = "cinegraph-dismissed"
     function getDismissed() { try { return JSON.parse(localStorage.getItem(KEY) || "[]") } catch (e) { return [] } }
@@ -886,6 +924,7 @@ export function cinegraphViewsClient() {
 
   // --- dispatch --------------------------------------------------------------
   function render() {
+    BASE = computeBase()
     var upnext = document.querySelector("[data-upnext]")
     if (upnext) renderUpNext(upnext)
     var discover = document.querySelector("[data-discover]")

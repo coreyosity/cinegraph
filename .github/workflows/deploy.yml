@@ -1,0 +1,69 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Allow the workflow to publish to Pages via OIDC.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time; let a newer push supersede an in-flight one.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # TMDB_KEY (repo secret) is optional: without it the discover/providers steps are
+    # skipped and the site still builds (just without fresh recommendations/streaming).
+    env:
+      TMDB_KEY: ${{ secrets.TMDB_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+      - name: Install site deps
+        run: cd site && npm ci
+
+      # The vault's generated content (People/Studios/Genres/Themes/Discover) is git-ignored,
+      # so rebuild it here. gen_entities is pure-local; discover/providers need the TMDB key.
+      - name: Generate entity pages
+        run: python scripts/gen_entities.py --vault vault
+      - name: Discover recommendations
+        if: ${{ env.TMDB_KEY != '' }}
+        run: python scripts/discover.py --vault vault
+      - name: Streaming providers
+        if: ${{ env.TMDB_KEY != '' }}
+        run: python scripts/gen_providers.py --vault vault || true
+
+      - name: Build Quartz site
+        run: cd site && npx quartz build
+      - name: Bake data indexes (films/discover/watchlist.json)
+        run: python scripts/gen_index.py --vault vault --site site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
