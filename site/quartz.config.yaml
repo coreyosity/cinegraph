@@ -122,7 +122,9 @@ plugins:
   - source: "@quartz-community/og-image"
     enabled: false  # renders a PNG per page via Satori — far too slow at ~9k pages
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false  # emits a CNAME from baseUrl's hostname; on a github.io PROJECT site that
+                    # makes Pages treat coreyosity.github.io as a custom domain and redirect
+                    # /cinegraph/* to the root. No CNAME wanted for a project subpath site.
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
