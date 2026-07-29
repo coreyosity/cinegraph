@@ -99,6 +99,11 @@ export function cinegraphViewsClient() {
     arr = arr.slice()
     if (mode === "year") arr.sort(function (a, b) { return (b.year || 0) - (a.year || 0) })
     else if (mode === "title") arr.sort(function (a, b) { return String(a.title).localeCompare(String(b.title)) })
+    // ISO "YYYY-MM-DD" dates compare correctly as plain strings; "" sinks the undated.
+    else if (mode === "watched") arr.sort(function (a, b) {
+      return String(b.watched || "").localeCompare(String(a.watched || "")) ||
+        String(a.title).localeCompare(String(b.title))
+    })
     else arr.sort(function (a, b) { return (b.rating || -1) - (a.rating || -1) || (b.year || 0) - (a.year || 0) })
     return arr
   }
@@ -112,7 +117,8 @@ export function cinegraphViewsClient() {
       '<div class="poster-grid-toolbar">' +
       '<span class="poster-grid-status">Loading…</span>' +
       '<label class="poster-grid-sort">Sort' +
-      '<select><option value="rating">Rating</option><option value="year">Year</option><option value="title">Title</option></select>' +
+      '<select><option value="watched">Watch date</option><option value="rating">Rating</option>' +
+      '<option value="year">Year</option><option value="title">Title</option></select>' +
       "</label></div>" +
       '<div class="poster-grid"></div>'
     var status = mount.querySelector(".poster-grid-status")
@@ -126,7 +132,8 @@ export function cinegraphViewsClient() {
       return
     }
     if (field) list = list.filter(function (f) { return matches(f, field, value) })
-    if (field) select.value = "year" // filmographies read best chronologically
+    // All films defaults to watch date (the diary read); filmographies stay chronological.
+    select.value = field ? "year" : "watched"
     function draw() {
       var arr = sortFilms(list, select.value)
       grid.innerHTML = arr.map(card).join("")

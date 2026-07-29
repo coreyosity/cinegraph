@@ -79,6 +79,7 @@ def build_records(vault: Path, slugs: dict[str, str]) -> list[dict]:
                 "title": meta.get("title") or path.stem,
                 "year": meta.get("year"),
                 "rating": meta.get("rating"),
+                "watched": meta.get("watched"),
                 "runtime": meta.get("runtime"),
                 "director": meta.get("director"),
                 "cast": as_list(meta.get("cast")),

@@ -15,6 +15,15 @@ const chipRow = (label, names, folder) =>
         h("span", { class: "film-chips" }, names.map((n) => filmChip(n, folder))),
       ])
 
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+// "2023-02-24" -> "24 Feb 2023". Formatted from the string parts rather than via `new Date`,
+// which reads a bare ISO date as UTC midnight and shifts it a day west of Greenwich.
+const watchDate = (v) => {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(v))
+  return m ? Number(m[3]) + " " + MONTHS[Number(m[2]) - 1] + " " + m[1] : String(v)
+}
+
 export const filmHero = (fm) => {
   const cast = asArr(fm.cast), studios = asArr(fm.studios), genres = asArr(fm.genres)
   const providers = asArr(fm.providers)
@@ -38,6 +47,12 @@ export const filmHero = (fm) => {
         tagline.join("  ·  "),
         fm.rating != null ? h("span", { class: "film-rating" }, "  ★ " + fm.rating) : null,
       ]),
+      fm.watched
+        ? h("div", { class: "film-row" }, [
+            h("span", { class: "film-row-label" }, "Watched"),
+            h("span", { class: "film-watched" }, watchDate(fm.watched)),
+          ])
+        : null,
       providers.length
         ? h("div", { class: "film-row film-streaming" }, [
             h("span", { class: "film-row-label" }, "Where to watch"),

@@ -61,6 +61,7 @@ export const cinegraphViewsCss = `
 .film-row { display: flex; gap: 0.6rem; align-items: baseline; flex-wrap: wrap; }
 .film-row-label { flex: 0 0 auto; min-width: 6rem; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--gray); }
 .film-chips { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.film-watched { font-size: 0.85rem; color: var(--darkgray); font-variant-numeric: tabular-nums; }
 .film-chip { font-size: 0.82rem; padding: 0.12rem 0.55rem; border-radius: 999px; background: var(--lightgray); color: var(--darkgray); text-decoration: none; }
 .film-chip:hover { background: var(--tertiary); color: #fff; }
 .film-provider { font-size: 0.8rem; padding: 0.12rem 0.55rem; border-radius: 6px; background: var(--secondary); color: #fff; font-weight: 500; }
