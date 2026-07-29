@@ -17,7 +17,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Tests stage: the same gate CI runs, reused rather than duplicated. Nothing is built or
+  # published unless this passes.
+  test:
+    uses: ./.github/workflows/ci.yml
+
   build:
+    needs: test
     runs-on: ubuntu-latest
     # TMDB_KEY (repo secret) is optional: without it the discover/providers steps are
     # skipped and the site still builds (just without fresh recommendations/streaming).
@@ -59,6 +65,10 @@ jobs:
         run: cd site && npx quartz build
       - name: Bake data indexes (films/discover/watchlist.json)
         run: python scripts/gen_index.py --vault vault --site site
+      # A site missing its indexes still builds and renders — the interactive views just show
+      # "Could not load films.json". Fail here rather than publish that.
+      - name: Verify data indexes made it into the build
+        run: python scripts/verify_indexes.py --site site
 
       - uses: actions/upload-pages-artifact@v3
         with:

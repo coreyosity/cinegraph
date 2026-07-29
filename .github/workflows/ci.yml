@@ -3,6 +3,9 @@ name: CI
 on:
   push:
   pull_request:
+  # Lets the deploy pipeline run this same gate as its first stage, so there is exactly one
+  # definition of "the tests" (see .github/workflows/deploy.yml).
+  workflow_call:
 
 jobs:
   check:
@@ -16,8 +19,17 @@ jobs:
           cache-dependency-path: |
             requirements.txt
             requirements-dev.txt
-      - name: Install dependencies
+      # `make check` also runs the Quartz-side plugin tests (the data-index emitter), so the
+      # node toolchain is part of the gate too.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install Python dependencies
         run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Install site dependencies
+        run: cd site && npm ci
       # Reuse the same gate as local dev, pointing the Makefile at the runner's tools
       # (which live on PATH here, not in a .venv).
       - name: Lint, type-check, and test
