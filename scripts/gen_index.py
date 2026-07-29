@@ -17,13 +17,17 @@ read it from the build's `static/contentIndex.json` (joined on the note's path)
 rather than re-deriving Quartz's slugify — which would drift and break links. Films
 not yet in the index (e.g. added since the last build) fall back to a computed slug.
 
-Output is written to `<site>/public/static/films.json` — the built site's output, which is
-what the browser fetches. If the site hasn't been built yet (`public/` absent) it falls back
-to `<site>/quartz/static/`. We deliberately do NOT write into `quartz/static` when `public/`
-exists: a live `quartz build --serve` *watches* that dir, so a write there kicks off a full
-rebuild that both drops the server for minutes and wipes these files from `public/static`
-(the build copies static assets but excludes `.json`) → the browser's "Could not load
-films.json". `public/` is build output (unwatched), so writing there serves immediately.
+Output is written to `<site>/data/` (the durable copy) and, when the site has already been
+built, also to `<site>/public/static/` — the path the browser actually fetches. The
+cinegraph-views emitter copies `data/*.json` into `public/static` during every build, which
+is what makes the pair survive: a build begins with `rm -rf public` (quartz/build.ts), so
+without the emitter a rebuild would delete these files and the browser would show
+"Could not load films.json" until the generator was re-run.
+
+Neither target is watched, so writing them never triggers a build. Do NOT write into
+`quartz/static` instead — serve's source watcher globs `quartz/static/**/*`
+(quartz/cli/handlers.js), so a write there kicks off a full rebuild that drops the server
+for minutes.
 
 Usage:
     python scripts/gen_index.py --vault vault --site site
@@ -189,16 +193,19 @@ def build_watchlist_records(vault: Path, slugs: dict[str, str], profile, baselin
 
 
 def write_json(site: Path, name: str, payload: dict) -> list[Path]:
-    """Write a data index to the site. Prefer the built output dir (`public/static`) and,
-    when it exists, write ONLY there — never `quartz/static`, which a live `--serve` watches
-    (a write there triggers a clobbering rebuild; see the module docstring). Falls back to
-    `quartz/static` only when the site hasn't been built yet."""
+    """Write a data index to `<site>/data` and, when the site has been built, also straight
+    into `<site>/public/static`.
+
+    `data/` is the durable copy: the cinegraph-views emitter re-copies it into `public/static`
+    on every build, so a rebuild's `rm -rf public` restores these files instead of losing them.
+    The direct `public/static` write is what makes a fresh run visible to an already-running
+    `--serve` without waiting for (or triggering) a rebuild. Neither dir is watched, so no
+    write here kicks off a build. See the module docstring."""
     blob = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
+    targets = [site / "data" / name]
     public_static = site / "public" / "static"
     if public_static.exists():
-        targets = [public_static / name]
-    else:
-        targets = [site / "quartz" / "static" / name]
+        targets.append(public_static / name)
     for target in targets:
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(blob, encoding="utf-8")

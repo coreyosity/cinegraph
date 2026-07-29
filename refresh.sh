@@ -43,9 +43,10 @@ else
   ( cd site && rm -rf public && npx quartz build )   # clean slate avoids ENOTEMPTY
 fi
 
-# Runs last: reads public/static/contentIndex.json for canonical page slugs and writes the
-# data indexes to public/static. It writes ONLY to public/ (build output, unwatched), never
-# quartz/static, so it's safe to run against a live --serve without triggering a rebuild.
+# Runs last so it can read public/static/contentIndex.json for canonical page slugs. Writes
+# to site/data (durable — the cinegraph-views emitter re-copies it into public/static on every
+# build) and to public/static directly, so a live --serve picks it up immediately. Neither dir
+# is watched, so this never triggers a rebuild.
 echo "▶ 7/7  data index (films.json for client-side views)"
 $PY scripts/gen_index.py --vault vault --site site
 

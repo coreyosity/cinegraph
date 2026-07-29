@@ -48,8 +48,6 @@ site/.quartz/
 # (the site builds from site/content -> vault, not docs/). See site/UPSTREAM.md.
 site/docs/
 
-# generated data indexes baked by gen_index.py (rebuilt each run; not source)
-site/quartz/static/films.json
-site/quartz/static/films-detail.json
-site/quartz/static/discover.json
-site/quartz/static/watchlist.json
+# generated data indexes baked by gen_index.py (rebuilt each run; not source). The
+# cinegraph-views emitter copies these into public/static on every build.
+site/data/
