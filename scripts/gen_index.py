@@ -1,4 +1,11 @@
-"""Emit a single films.json data index for the site's client-side views.
+"""Emit the films.json data indexes for the site's client-side views.
+
+The film records are split across two files: `films.json` (the core fields every view
+needs) and `films-detail.json` (the heavy tail — keywords, similarity edges, taste-map
+markers — that only Stats, film pages, and the constellation read). Most pages on the
+site are entity pages that need the core alone, so the tail is fetched on demand rather
+than bundled into every page load. See `split_detail`.
+
 
 Quartz is a *static* build, so interactive views (poster grid, stats dashboard,
 sortable/filterable tables) can't query the vault at runtime. Instead we bake one
@@ -104,6 +111,25 @@ def attach_themes(films: list[dict], vault: Path) -> None:
         f["themes"] = out
 
 
+# Fields only the Stats dashboard, film pages, and the constellation read. Every other
+# view (poster grids, People/Studio/Genre pages, Ensemble) needs none of them, so they
+# ship separately and are fetched on demand — see `split_detail`.
+DETAIL_FIELDS = ("keywords", "related", "community", "bridge", "orphan")
+
+
+def split_detail(films: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Partition each film record into a core payload and the heavy tail above.
+
+    The two lists are *index-aligned* rather than joined on tmdb_id: they're written from
+    one list in one run, so position is a stable key, and it costs no repeated id per row
+    (and still works for the films with no tmdb_id). The client merges row i into film i
+    only when the lengths agree, so a stale cached films.json can't mis-join.
+    """
+    core = [{k: v for k, v in f.items() if k not in DETAIL_FIELDS} for f in films]
+    detail = [{k: f[k] for k in DETAIL_FIELDS if k in f} for f in films]
+    return core, detail
+
+
 def build_discover_records(vault: Path, slugs: dict[str, str]) -> list[dict]:
     """Discover recommendations for the client-side gallery: metadata + the human 'why'
     (its wikilinks flattened to plain titles for card display). Dismissed recs (in
@@ -189,8 +215,11 @@ def main() -> int:
     now = datetime.now(UTC).isoformat(timespec="seconds")
     films = build_records(args.vault, slugs)
     islands = attach_taste_map(films)
+    core, detail = split_detail(films)
     targets = write_json(args.site, "films.json",
-                         {"generated": now, "count": len(films), "islands": islands, "films": films})
+                         {"generated": now, "count": len(core), "films": core})
+    write_json(args.site, "films-detail.json",
+               {"generated": now, "count": len(detail), "islands": islands, "detail": detail})
 
     recs = build_discover_records(args.vault, slugs)
     write_json(args.site, "discover.json", {"generated": now, "count": len(recs), "recs": recs})
@@ -208,8 +237,8 @@ def main() -> int:
 
     missing = sum(1 for path, _m, _b in iter_film_notes(args.vault)
                   if path.relative_to(args.vault).as_posix() not in slugs)
-    print(f"✓ films.json — {len(films)} films, discover.json — {len(recs)} recs "
-          f"→ {', '.join(str(t) for t in targets)}")
+    print(f"✓ films.json — {len(core)} films (+ films-detail.json), "
+          f"discover.json — {len(recs)} recs → {', '.join(str(t) for t in targets)}")
     if missing:
         print(f"  ⚠ {missing} film(s) not in content index yet; used fallback slugs "
               f"(rebuild the site to refresh their URLs)")

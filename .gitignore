@@ -44,5 +44,6 @@ site/docs/
 
 # generated data indexes baked by gen_index.py (rebuilt each run; not source)
 site/quartz/static/films.json
+site/quartz/static/films-detail.json
 site/quartz/static/discover.json
 site/quartz/static/watchlist.json

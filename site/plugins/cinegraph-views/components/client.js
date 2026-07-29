@@ -7,6 +7,7 @@
 // Serialized via .toString(), so it must be fully self-contained (no closures).
 export function cinegraphViewsClient() {
   var CACHE = null // films.json, fetched once and reused across SPA navigations
+  var DETAIL = null // films-detail.json — only the views below pull it in; see detailPayload
   var BASE = ""    // deploy base path (e.g. "/cinegraph" under project GitHub Pages); see computeBase
 
   function esc(s) {
@@ -47,6 +48,26 @@ export function cinegraphViewsClient() {
   }
   async function films() {
     return (await filmsPayload()).films || []
+  }
+
+  // The heavy tail (keywords / related / taste-map markers) lives in a second file so the
+  // ~80% of pages that never read it don't pay for it. Only Stats, film pages, and the
+  // constellation call this. Rows are index-aligned with films.json (see gen_index.split_detail)
+  // and merged *into* the cached film objects, so every view downstream reads them as
+  // ordinary fields. A length mismatch means a skewed cache — skip the merge rather than
+  // join the wrong rows together.
+  async function detailPayload() {
+    if (!DETAIL) {
+      var base = await filmsPayload()
+      var payload = await (await fetch(withBase("/static/films-detail.json"))).json()
+      var list = base.films || []
+      var rows = payload.detail || []
+      if (rows.length === list.length)
+        for (var i = 0; i < list.length; i++)
+          for (var k in rows[i]) list[i][k] = rows[i][k]
+      DETAIL = payload
+    }
+    return DETAIL
   }
 
   // --- filtering: which films belong to an entity page -----------------------
@@ -182,6 +203,7 @@ export function cinegraphViewsClient() {
     var list
     try {
       list = await films()
+      await detailPayload() // "Themes you love/avoid" reads f.keywords
     } catch (e) {
       mount.innerHTML = "<p>Could not load films.json</p>"
       return
@@ -470,7 +492,10 @@ export function cinegraphViewsClient() {
     var cur
     try { cur = JSON.parse(el.textContent || "{}") } catch (e) { return }
     var list
-    try { list = await films() } catch (e) { return }
+    try {
+      list = await films()
+      await detailPayload() // the "Related films" fast path reads f.related
+    } catch (e) { return }
     var byId = {}
     list.forEach(function (f) { if (f.tmdb_id != null) byId[f.tmdb_id] = f })
 
@@ -536,9 +561,12 @@ export function cinegraphViewsClient() {
   async function renderConstellation(mount) {
     if (mount.dataset.rendered) return
     mount.dataset.rendered = "1"
-    var payload
-    try { payload = await filmsPayload() } catch (e) { mount.innerHTML = "<p>Could not load films.json</p>"; return }
-    var list = payload.films || [], islands = payload.islands || []
+    var payload, detail
+    try {
+      payload = await filmsPayload()
+      detail = await detailPayload() // edges (f.related) + island/bridge/orphan markers
+    } catch (e) { mount.innerHTML = "<p>Could not load films.json</p>"; return }
+    var list = payload.films || [], islands = detail.islands || []
     var EDGE_MIN = 4, MAX_NODES = 220
     var byId = {}
     list.forEach(function (f) { if (f.tmdb_id != null) byId[f.tmdb_id] = f })

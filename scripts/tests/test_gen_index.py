@@ -29,6 +29,24 @@ def test_build_records_orders_joins_slugs_and_themes(tmp_path):
     assert "related" in records[0]                             # similarity attached
 
 
+def test_split_detail_partitions_and_stays_index_aligned():
+    films: list[dict] = [
+        {"title": "A", "tmdb_id": 1, "cast": ["X"], "keywords": ["k"], "related": [[2, 5.0]],
+         "community": 0, "bridge": 0.1, "orphan": False},
+        {"title": "B", "tmdb_id": None, "cast": []},   # no tmdb_id, no detail fields
+    ]
+    core, detail = gen_index.split_detail(films)
+
+    assert len(core) == len(detail) == len(films)      # index-aligned: the client's join key
+    assert core[0] == {"title": "A", "tmdb_id": 1, "cast": ["X"]}
+    assert detail[0] == {"keywords": ["k"], "related": [[2, 5.0]],
+                         "community": 0, "bridge": 0.1, "orphan": False}
+    assert detail[1] == {}                             # absent fields are simply omitted
+    # every field survives the split exactly once
+    for original, c, d in zip(films, core, detail, strict=True):
+        assert {**c, **d} == original
+
+
 def test_build_discover_records_flattens_why_wikilinks(tmp_path):
     common.write_note(
         tmp_path / "Discover" / "Rec.md",
