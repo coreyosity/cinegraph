@@ -36,6 +36,12 @@ sample/Genres/
 node_modules/
 public/
 .quartz-cache/
+# The plugin loader symlinks each configured plugin into site/.quartz/plugins/ using an
+# ABSOLUTE path to wherever the repo is checked out, and regenerates it on every build.
+# Committing it pins the link to one machine — on a CI runner that path doesn't exist, the
+# link dangles, and the plugin is silently dropped (no mounts, no client script → no
+# posters, no graph). Always generated, never tracked.
+site/.quartz/
 .DS_Store
 
 # upstream Quartz's own docs — vendored in the engine clone but irrelevant to cinegraph
