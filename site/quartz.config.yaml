@@ -47,8 +47,10 @@ plugins:
     options:
       defaultDateType: modified
       priority:
+        # 'git' intentionally omitted: content is served through the content -> ../vault
+        # symlink, so --serve's incremental rebuilds hand git an unresolved content/… path
+        # it can't match to the tracked vault/… blob, spamming "isn't yet tracked" warnings.
         - frontmatter
-        - git
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
