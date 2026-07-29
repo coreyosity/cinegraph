@@ -26,12 +26,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Both toolchains cache their download dirs (~/.cache/pip, ~/.npm), keyed on the
+      # lockfiles below — a dep install on a cache hit is a local unpack, no network.
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+          cache: npm
+          cache-dependency-path: site/package-lock.json
 
       - name: Install Python deps
         run: pip install -r requirements.txt
