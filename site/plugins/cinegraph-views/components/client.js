@@ -421,6 +421,117 @@ export function cinegraphViewsClient() {
       .on("end", function (ev, d) { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null }))
   }
 
+  // --- tag co-occurrence graph (diary tags logged together) ------------------
+  // Nodes = your log tags (sized by film count), edges = tags logged on the same film.
+  // Communities — your cinema crew / solo nights / family trips — are found by weighted
+  // label propagation: no labelling, they emerge from what you tag together.
+  function detectCommunities(names, edges) {
+    var adj = {}
+    names.forEach(function (n) { adj[n] = [] })
+    edges.forEach(function (e) {
+      adj[e.source].push({ n: e.target, w: e.w })
+      adj[e.target].push({ n: e.source, w: e.w })
+    })
+    var label = {}
+    names.forEach(function (n) { label[n] = n })
+    // Deterministic order (best-connected first) so the clusters/colours are stable per load.
+    var order = names.slice().sort(function (a, b) { return adj[b].length - adj[a].length })
+    for (var iter = 0; iter < 20; iter++) {
+      var changed = false
+      order.forEach(function (n) {
+        var score = {}
+        adj[n].forEach(function (e) { score[label[e.n]] = (score[label[e.n]] || 0) + e.w })
+        var best = label[n], bestW = -1
+        Object.keys(score).forEach(function (lb) {
+          if (score[lb] > bestW || (score[lb] === bestW && lb < best)) { bestW = score[lb]; best = lb }
+        })
+        if (best !== label[n]) { label[n] = best; changed = true }
+      })
+      if (!changed) break
+    }
+    // Number communities by size (largest first) so palette assignment stays stable.
+    var members = {}
+    names.forEach(function (n) { (members[label[n]] = members[label[n]] || []).push(n) })
+    var ranked = Object.keys(members).sort(function (a, b) { return members[b].length - members[a].length })
+    var id = {}
+    ranked.forEach(function (lb, i) { id[lb] = i })
+    var comm = {}
+    names.forEach(function (n) { comm[n] = id[label[n]] })
+    return comm
+  }
+
+  async function renderTagGraph(mount) {
+    if (mount.dataset.rendered) return
+    mount.dataset.rendered = "1"
+    var list
+    try { list = await films() } catch (e) { mount.innerHTML = "<p>Could not load films.json</p>"; return }
+    var MIN_PAIR = 3
+    var freq = {}, pairs = {}
+    list.forEach(function (f) {
+      var t = []
+      ;(f.log_tags || []).forEach(function (x) { if (x && t.indexOf(x) < 0) t.push(x) })
+      t.forEach(function (x) { freq[x] = (freq[x] || 0) + 1 })
+      for (var i = 0; i < t.length; i++)
+        for (var j = i + 1; j < t.length; j++) {
+          var a = t[i], b = t[j]
+          if (a > b) { var s = a; a = b; b = s }
+          var k = a + "\t" + b
+          pairs[k] = (pairs[k] || 0) + 1
+        }
+    })
+    var edges = []
+    Object.keys(pairs).forEach(function (k) {
+      if (pairs[k] < MIN_PAIR) return
+      var ab = k.split("\t")
+      edges.push({ source: ab[0], target: ab[1], w: pairs[k] })
+    })
+    var deg = {}
+    edges.forEach(function (e) { deg[e.source] = 1; deg[e.target] = 1 })
+    var names = Object.keys(deg)
+    if (!names.length) { mount.innerHTML = "<p>Not enough co-tagged films yet — log a few more.</p>"; return }
+    var comm = detectCommunities(names, edges)
+    var nodes = names.map(function (n) { return { id: n, films: freq[n], community: comm[n] } })
+    ensureD3(function () { drawTagForce(mount, nodes, edges) })
+  }
+
+  function drawTagForce(mount, nodes, links) {
+    var d3 = window.d3
+    if (!d3) { mount.innerHTML = "<p>Could not load the graph library.</p>"; return }
+    var W = mount.clientWidth || 700, H = 580
+    mount.innerHTML = ""
+    var svg = d3.select(mount).append("svg")
+      .attr("width", "100%").attr("height", H).attr("viewBox", "0 0 " + W + " " + H)
+    var g = svg.append("g")
+    svg.call(d3.zoom().scaleExtent([0.3, 4]).on("zoom", function (ev) { g.attr("transform", ev.transform) }))
+    var link = g.append("g").attr("stroke", "var(--lightgray)").attr("stroke-opacity", 0.6)
+      .selectAll("line").data(links).join("line")
+      .attr("stroke-width", function (d) { return Math.min(0.6 + d.w * 0.12, 5) })
+    var node = g.append("g").selectAll("g").data(nodes).join("g").style("cursor", "pointer")
+      .on("click", function (_, d) { window.location.href = withBase("/logs/" + slugify(d.id)) })
+    node.append("circle").attr("r", function (d) { return 4 + Math.sqrt(d.films) * 1.8 })
+      .attr("fill", function (d) { return islandColor(d.community) })
+      .attr("stroke", "var(--light)").attr("stroke-width", 1.2)
+    node.append("title").text(function (d) { return d.id + " — " + d.films + " films" })
+    var label = g.append("g").selectAll("text").data(nodes).join("text")
+      .text(function (d) { return d.id }).attr("font-size", 10).attr("fill", "var(--darkgray)")
+      .attr("dx", 9).attr("dy", 3).style("pointer-events", "none")
+    var sim = d3.forceSimulation(nodes)
+      .force("link", d3.forceLink(links).id(function (d) { return d.id }).distance(60).strength(0.4))
+      .force("charge", d3.forceManyBody().strength(-160))
+      .force("center", d3.forceCenter(W / 2, H / 2))
+      .force("collide", d3.forceCollide(22))
+      .on("tick", function () {
+        link.attr("x1", function (d) { return d.source.x }).attr("y1", function (d) { return d.source.y })
+          .attr("x2", function (d) { return d.target.x }).attr("y2", function (d) { return d.target.y })
+        node.attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")" })
+        label.attr("x", function (d) { return d.x }).attr("y", function (d) { return d.y })
+      })
+    node.call(d3.drag()
+      .on("start", function (ev, d) { if (!ev.active) sim.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y })
+      .on("drag", function (ev, d) { d.fx = ev.x; d.fy = ev.y })
+      .on("end", function (ev, d) { if (!ev.active) sim.alphaTarget(0); d.fx = null; d.fy = null }))
+  }
+
   // --- world map (choropleth of your cinema by country) ----------------------
   // Match TMDB country names to the world-atlas feature names; a few differ.
   var COUNTRY_ALIAS = {
@@ -975,6 +1086,8 @@ export function cinegraphViewsClient() {
     if (stats) renderStats(stats)
     var ensemble = document.querySelector("[data-ensemble]")
     if (ensemble) renderEnsemble(ensemble)
+    var tagGraph = document.querySelector("[data-tag-graph]")
+    if (tagGraph) renderTagGraph(tagGraph)
     var film = document.querySelector("[data-cinegraph-film]")
     if (film) renderFilmPage()
     var constellation = document.querySelector("[data-constellation]")

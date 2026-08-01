@@ -22,6 +22,7 @@ anywhere and use the **breadcrumbs** to find your way back here.
 - [[Discover]] — the full gallery of taste-mined recommendations
 - [[Stats]] — at-a-glance charts: ratings, decades, top directors/actors/genres/studios
 - [[Ensemble]] — the network of actors who recur together across your films
+- [[Tag graph]] — your diary tags (who you watch with, where, how) wired into clusters
 - [[Taste Map]] — your constellation charted into named islands, bridges & orphans
 
 ## Stats

@@ -22,6 +22,9 @@ export const PosterGrid = () => {
     if (slug === "ensemble" || slug === "Ensemble")
       return h("div", { class: "ensemble-wrapper", "data-ensemble": "1" })
 
+    if (slug === "tag-graph" || slug === "Tag graph")
+      return h("div", { class: "ensemble-wrapper", "data-tag-graph": "1" })
+
     // The film constellation is the hero graph on the home page (graph only)…
     if (slug === "index")
       return h("div", { class: "constellation-wrapper", "data-constellation": "1" })
