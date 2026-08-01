@@ -53,6 +53,9 @@ providers:
 
 As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien "puppy" of an independent little girl named Lilo and learns about loyalty, friendship, and ʻohana, the Hawaiian tradition of family.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Sanders]]
 > **Cast** [[Daveigh Chase]] · [[Chris Sanders]] · [[Tia Carrere]] · [[David Ogden Stiers]] · [[Kevin McDonald]] · [[Ving Rhames]] · [[Zoe Caldwell]] · [[Jason Scott Lee]] · [[Kevin Michael Richardson]] · [[Susan Hegarty]]

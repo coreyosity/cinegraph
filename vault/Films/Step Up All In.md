@@ -44,6 +44,9 @@ providers:
 
 All-stars from previous installments convene in glittering Las Vegas, battling for a victory that could define their dreams and their careers.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Trish Sie]]
 > **Cast** [[Briana Evigan]] · [[Ryan Guzman]] · [[Chaton Anderson]] · [[Stephen 'tWitch' Boss]] · [[Misha Gabriel]] · [[Izabella Miko]] · [[Alyson Stoner]] · [[Adam Sevani]] · [[Christopher Scott]] · [[Luis Rosado]]

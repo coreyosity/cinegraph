@@ -69,6 +69,9 @@ providers:
 
 Abandoned by her family, Kya raises herself all alone in the marshes outside of her small town. When her former boyfriend is found dead, Kya is instantly branded by the local townspeople and law enforcement as the prime suspect for his murder.
 
+> [!note]- Log
+> Watched 8 Aug 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Olivia Newman]]
 > **Cast** [[Daisy Edgar-Jones]] · [[Taylor John Smith]] · [[Harris Dickinson]] · [[David Strathairn]] · [[Michael Hyatt]] · [[Sterling Macer Jr]] · [[Logan Macrae]] · [[Bill Kelly]] · [[Ahna O'Reilly]] · [[Garret Dillahunt]]

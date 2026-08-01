@@ -47,6 +47,9 @@ providers:
 
 In ancient times, a man named Claus, who delivers toys in his small village, fulfils his destiny to become Santa Claus after meeting an expert toy-making elf, Patch, in the North Pole. In the present day, Santa Claus has become overwhelmed by his workload, and the disgruntled Patch flees the workshop to New York City. There, Patch unknowingly threatens the fate of Christmas by taking a job at a failing toy company run by a scheming businessman.
 
+> [!note]- Log
+> Watched 25 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jeannot Szwarc]]
 > **Cast** [[Dudley Moore]] · [[John Lithgow]] · [[David Huddleston]] · [[Burgess Meredith]] · [[Judy Cornwell]] · [[Jeffrey Kramer]] · [[Christian Fitzpatrick]] · [[Carrie Kei Heim]] · [[John Barrard]] · [[Anthony O'Donnell]]

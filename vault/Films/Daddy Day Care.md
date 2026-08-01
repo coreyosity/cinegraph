@@ -56,6 +56,9 @@ providers:
 
 Two men get laid off and have to become stay-at-home dads when they can't find jobs, which inspires them to open their own day-care center.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steve Carr]]
 > **Cast** [[Eddie Murphy]] · [[Jeff Garlin]] · [[Steve Zahn]] · [[Regina King]] · [[Kevin Nealon]] · [[Jonathan Katz]] · [[Siobhan Fallon Hogan]] · [[Lisa Edelstein]] · [[Lacey Chabert]] · [[Laura Kightlinger]]

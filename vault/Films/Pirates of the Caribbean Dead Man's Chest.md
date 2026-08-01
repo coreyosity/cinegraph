@@ -56,6 +56,9 @@ providers:
 
 Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gore Verbinski]]
 > **Cast** [[Johnny Depp]] · [[Orlando Bloom]] · [[Keira Knightley]] · [[Jack Davenport]] · [[Bill Nighy]] · [[Jonathan Pryce]] · [[Lee Arenberg]] · [[Mackenzie Crook]] · [[Kevin McNally]] · [[David Bailie]]

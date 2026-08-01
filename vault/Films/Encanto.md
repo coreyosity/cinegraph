@@ -60,6 +60,9 @@ providers:
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Byron Howard]]
 > **Cast** [[Stephanie Beatriz]] · [[María Cecilia Botero]] · [[John Leguizamo]] · [[Diane Guerrero]] · [[Jess Darrow]] · [[Carolina Gaitán]] · [[Angie Cepeda]] · [[Ravi Cabot-Conyers]] · [[Mauro Castillo]] · [[Rhenzy Feliz]]

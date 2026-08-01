@@ -59,6 +59,9 @@ providers:
 
 When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "loot of a thousand worlds," a cyborg cook named John Silver teaches him to battle supernovas and space storms on their journey to find treasure.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Musker]]
 > **Cast** [[Joseph Gordon-Levitt]] · [[Brian Murray]] · [[Emma Thompson]] · [[David Hyde Pierce]] · [[Martin Short]] · [[Dane A. Davis]] · [[Michael Wincott]] · [[Laurie Metcalf]] · [[Roscoe Lee Browne]] · [[Patrick McGoohan]]

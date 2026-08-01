@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1062215
 content_type: movie
 rating: 1.0
-watched: '2024-09-01'
+watched: '2024-08-31'
 runtime: 84
 genres:
 - Horror
@@ -49,9 +49,18 @@ providers:
 - Hulu
 - fuboTV
 - Crave Amazon Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-the-point
 ---
 
 Curtis Pike and his family are selected to test a new home device: a digital assistant called AIA. AIA observes the family's behaviors and begins to anticipate their needs. And she can – and will – make sure nothing – and no one – gets in her family's way.
+
+> [!note]- Log
+> Watched 31 Aug 2024 · ★ 1.0
+> Tags  andrew · dean · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Chris Weitz]]

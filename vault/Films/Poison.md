@@ -41,6 +41,9 @@ providers:
 
 When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]
 > **Cast** [[Benedict Cumberbatch]] · [[Dev Patel]] · [[Ben Kingsley]] · [[Ralph Fiennes]] · [[Eliel Ford]] · [[Benoît Herlin]]

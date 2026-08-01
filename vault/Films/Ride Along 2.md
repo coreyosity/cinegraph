@@ -49,6 +49,9 @@ providers:
 
 As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Story]]
 > **Cast** [[Kevin Hart]] · [[Ice Cube]] · [[Olivia Munn]] · [[Tika Sumpter]] · [[Ken Jeong]] · [[Tyrese Gibson]] · [[Nadine Velazquez]] · [[Benjamin Bratt]] · [[Glen Powell]] · [[Sherri Shepherd]]

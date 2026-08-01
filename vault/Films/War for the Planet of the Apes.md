@@ -5,7 +5,7 @@ year: 2017
 tmdb_id: 281338
 content_type: movie
 rating: 4.0
-watched: '2024-05-09'
+watched: '2024-05-08'
 runtime: 140
 genres:
 - Drama
@@ -101,9 +101,18 @@ providers:
 - Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Crave Amazon Channel
+rewatch: true
+log_tags:
+- andrew
+- disney+
+- home
 ---
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
+
+> [!note]- Log
+> Watched 8 May 2024 · ★ 4.0 · Rewatch
+> Tags  andrew · disney+ · home
 
 > [!info]- Cast & crew
 > **Director** [[Matt Reeves]]

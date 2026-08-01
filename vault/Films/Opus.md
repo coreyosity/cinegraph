@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1202479
 content_type: movie
 rating: 2.5
-watched: '2025-03-17'
+watched: '2025-03-15'
 runtime: 104
 genres:
 - Horror
@@ -57,9 +57,18 @@ providers:
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- cinema
+- dean
+- andrew
+- lighthouse
 ---
 
 A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.
+
+> [!note]- Log
+> Watched 15 Mar 2025 · ★ 2.5
+> Tags  cinema · dean · andrew · lighthouse
 
 > [!info]- Cast & crew
 > **Director** [[Mark Anthony Green]]

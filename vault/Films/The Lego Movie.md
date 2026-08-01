@@ -92,6 +92,9 @@ providers:
 
 An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Phil Lord]]
 > **Cast** [[Chris Pratt]] · [[Elizabeth Banks]] · [[Will Ferrell]] · [[Morgan Freeman]] · [[Will Arnett]] · [[Liam Neeson]] · [[Alison Brie]] · [[Nick Offerman]] · [[Charlie Day]] · [[Jadon Sand]]

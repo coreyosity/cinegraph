@@ -75,6 +75,9 @@ providers:
 
 World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Martin Scorsese]]
 > **Cast** [[Leonardo DiCaprio]] · [[Mark Ruffalo]] · [[Ben Kingsley]] · [[Max von Sydow]] · [[Michelle Williams]] · [[Emily Mortimer]] · [[Patricia Clarkson]] · [[Jackie Earle Haley]] · [[Ted Levine]] · [[John Carroll Lynch]]

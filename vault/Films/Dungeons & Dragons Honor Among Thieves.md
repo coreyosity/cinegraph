@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 493529
 content_type: movie
 rating: 2.5
-watched: '2023-05-02'
+watched: '2023-04-26'
 runtime: 134
 genres:
 - Adventure
@@ -55,9 +55,17 @@ providers:
 - Paramount Plus Premium
 - Paramount+ Amazon Channel
 - Paramount+ Roku Premium Channel
+log_tags:
+- dean
+- odeon-blanch
+- cinema
 ---
 
 A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.
+
+> [!note]- Log
+> Watched 26 Apr 2023 · ★ 2.5
+> Tags  dean · odeon-blanch · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Jonathan Goldstein]]

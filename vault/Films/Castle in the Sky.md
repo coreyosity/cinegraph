@@ -5,7 +5,7 @@ year: 1986
 tmdb_id: 10515
 content_type: movie
 rating: 4.0
-watched: '2023-01-15'
+watched: '2023-01-14'
 runtime: 125
 genres:
 - Adventure
@@ -61,9 +61,17 @@ providers:
 - YouTube TV
 - HBO Max
 - Netflix Kids
+log_tags:
+- dean
+- netflix
+- home
 ---
 
 A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
+
+> [!note]- Log
+> Watched 14 Jan 2023 · ★ 4.0
+> Tags  dean · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]

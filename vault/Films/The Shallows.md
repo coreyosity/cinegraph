@@ -75,6 +75,9 @@ providers:
 
 While surfing on a secluded beach, Nancy finds herself in the feeding grounds of a great white shark. Though stranded only 200 yards from shore, survival proves to be the ultimate test of wills, requiring all of her ingenuity, resourcefulness, and fortitude.
 
+> [!note]- Log
+> Watched 5 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jaume Collet-Serra]]
 > **Cast** [[Blake Lively]] · [[Óscar Jaenada]] · [[Brett Cullen]] · [[Janelle Bailey]] · [[Sedona Legge]] · [[Pablo Calva]] · [[Diego Espejel]] · [[Ava Dean]] · [[Chelsea Moody]] · [[Angelo Josue Lozano Corzo]]

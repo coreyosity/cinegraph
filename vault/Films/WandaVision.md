@@ -53,6 +53,9 @@ providers:
 
 Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Jac Schaeffer]]
 > **Cast** [[Elizabeth Olsen]] · [[Paul Bettany]] · [[Kathryn Hahn]] · [[Teyonah Parris]] · [[Randall Park]] · [[Kat Dennings]]

@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 840705
 content_type: movie
 rating: 4.0
-watched: '2024-11-16'
+watched: '2024-11-15'
 runtime: 103
 genres:
 - Horror
@@ -67,9 +67,17 @@ providers:
 - Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there’s something sinister hiding beneath the island’s lush façade.
+
+> [!note]- Log
+> Watched 15 Nov 2024 · ★ 4.0
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Zoë Kravitz]]

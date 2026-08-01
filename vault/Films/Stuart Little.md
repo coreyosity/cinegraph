@@ -4,7 +4,7 @@ title: Stuart Little
 year: 1999
 tmdb_id: 10137
 content_type: movie
-watched: '2024-10-14'
+watched: '2024-10-13'
 runtime: 84
 genres:
 - Family
@@ -63,9 +63,19 @@ providers:
 - Crave Amazon Channel
 - Foxtel Now
 - Stan
+rewatch: true
+log_tags:
+- dean
+- andrew
+- sky
+- home
 ---
 
 When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.
+
+> [!note]- Log
+> Watched 13 Oct 2024 · Rewatch
+> Tags  dean · andrew · sky · home
 
 > [!info]- Cast & crew
 > **Director** [[Rob Minkoff]]

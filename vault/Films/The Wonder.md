@@ -49,6 +49,9 @@ providers:
 
 Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.
 
+> [!note]- Log
+> Watched 22 Nov 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[Sebastián Lelio]]
 > **Cast** [[Florence Pugh]] · [[Kíla Lord Cassidy]] · [[Tom Burke]] · [[Niamh Algar]] · [[Elaine Cassidy]] · [[Ruth Bradley]] · [[Toby Jones]] · [[Ciarán Hinds]] · [[Dermot Crowley]] · [[Caolan Byrne]]

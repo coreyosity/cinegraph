@@ -61,6 +61,9 @@ providers:
 
 14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Jason Woliner]]
 > **Cast** [[Sacha Baron Cohen]] · [[Maria Bakalova]] · [[Tom Hanks]] · [[Dani Popescu]] · [[Manuel Vieru]] · [[Miroslav Tolj]] · [[Alin Popa]] · [[Ion Gheorghe]] · [[Nicolae Gheorghe]] · [[Marcela Codrea]]

@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 1024773
 content_type: movie
 rating: 2.5
-watched: '2023-09-19'
+watched: '2023-09-18'
 runtime: 99
 genres:
 - Horror
@@ -43,9 +43,20 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Hulu
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-blanch
+- preview
+- scream-unseen
 ---
 
 Desperate to fit in at school, Sam rejects her Indian culture and family to be like everyone else. However, when a mythological demonic spirit latches onto her former best friend, she must come to terms with her heritage to defeat it.
+
+> [!note]- Log
+> Watched 18 Sep 2023 · ★ 2.5
+> Tags  andrew · dean · cinema · odeon-blanch · preview · scream-unseen
 
 > [!info]- Cast & crew
 > **Director** [[Bishal Dutta]]

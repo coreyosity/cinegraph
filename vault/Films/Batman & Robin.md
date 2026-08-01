@@ -58,6 +58,9 @@ providers:
 
 Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poison Ivy, a botanical femme fatale. As the Dynamic Duo contend with these bad guys, a third hero, Batgirl, joins the ranks of the city's crime-fighters.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joel Schumacher]]
 > **Cast** [[George Clooney]] · [[Chris O'Donnell]] · [[Arnold Schwarzenegger]] · [[Uma Thurman]] · [[Alicia Silverstone]] · [[Michael Gough]] · [[Pat Hingle]] · [[John Glover]] · [[Elle Macpherson]] · [[Vivica A. Fox]]

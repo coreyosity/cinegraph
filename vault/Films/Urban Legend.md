@@ -5,7 +5,7 @@ year: 1998
 tmdb_id: 9877
 content_type: movie
 rating: 3.0
-watched: '2025-06-16'
+watched: '2025-06-15'
 runtime: 100
 genres:
 - Horror
@@ -40,9 +40,17 @@ poster: https://image.tmdb.org/t/p/w500/dUvZDNU9G0njhM628NA5phASntq.jpg
 tags:
 - film
 letterboxd: https://boxd.it/1XDi
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 A college campus is plagued by a vicious serial killer murdering students in ways that correspond to various urban legends.
+
+> [!note]- Log
+> Watched 15 Jun 2025 · ★ 3.0
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Jamie Blanks]]

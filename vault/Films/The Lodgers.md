@@ -52,6 +52,9 @@ providers:
 
 1920, rural Ireland. Anglo-Irish twins Rachel and Edward share a strange existence in their crumbling family estate. Each night, the property becomes the domain of a sinister presence (The Lodgers) which enforces three rules upon the twins: they must be in bed by midnight; they may not permit an outsider past the threshold; and if one attempts to escape, the life of the other is placed in jeopardy. When troubled war veteran Sean returns to the nearby village, he is immediately drawn to the mysterious Rachel, who in turn begins to break the rules set out by The Lodgers. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.
 
+> [!note]- Log
+> Watched 20 Apr 2026
+
 > [!info]- Cast & crew
 > **Director** [[Brian O'Malley]]
 > **Cast** [[Charlotte Vega]] · [[Bill Milner]] · [[Eugene Simon]] · [[David Bradley]] · [[Moe Dunford]] · [[Deirdre O'Kane]] · [[Roisin Murphy]] · [[Anthony Murphy]] · [[Brendan O'Rourke]] · [[Emmet Kelly]]

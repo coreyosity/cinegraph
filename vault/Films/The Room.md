@@ -50,6 +50,9 @@ letterboxd: https://boxd.it/1ICY
 
 Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tommy Wiseau]]
 > **Cast** [[Tommy Wiseau]] · [[Juliette Danielle]] · [[Greg Sestero]] · [[Philip Haldiman]] · [[Carolyn Minnott]] · [[Robyn Paris]] · [[Kyle Vogt]] · [[Scott Holmes]] · [[Greg Ellery]] · [[Dan Janjigian]]

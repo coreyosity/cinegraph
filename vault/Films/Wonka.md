@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 787699
 content_type: movie
 rating: 3.5
-watched: '2023-12-10'
+watched: '2023-12-08'
 runtime: 117
 genres:
 - Comedy
@@ -52,9 +52,18 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-blanch
 ---
 
 Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.
+
+> [!note]- Log
+> Watched 8 Dec 2023 · ★ 3.5
+> Tags  dean · andrew · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Paul King]]

@@ -50,6 +50,9 @@ providers:
 
 When a ruptured water main creates an enormous sinkhole right in front of Bob's Burgers, it blocks the entrance indefinitely and ruins the Belchers’ plans for a successful summer. While Bob and Linda struggle to keep the business afloat, the kids try to solve a mystery that could save their family's restaurant. As the dangers mount, these underdogs help each other find hope and fight to get back behind the counter, where they belong.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Bernard Derriman]]
 > **Cast** [[H. Jon Benjamin]] · [[Kristen Schaal]] · [[John Roberts]] · [[Dan Mintz]] · [[Eugene Mirman]] · [[Larry Murphy]] · [[Kevin Kline]] · [[Zach Galifianakis]] · [[David Wain]] · [[Gary Cole]]

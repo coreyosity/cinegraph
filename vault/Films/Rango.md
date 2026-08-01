@@ -74,6 +74,9 @@ providers:
 
 When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the last hope the town has been waiting for, Rango is forced to play his new role to the hilt and uncover the truth behind a looming water crisis—before his act catches up with him.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gore Verbinski]]
 > **Cast** [[Johnny Depp]] · [[Isla Fisher]] · [[Ned Beatty]] · [[Bill Nighy]] · [[Abigail Breslin]] · [[Alfred Molina]] · [[Stephen Root]] · [[Harry Dean Stanton]] · [[Timothy Olyphant]] · [[Ray Winstone]]

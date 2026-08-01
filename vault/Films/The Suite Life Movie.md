@@ -48,6 +48,9 @@ providers:
 
 Cody and Zack are approached to join the Gemini Project, a high-tech research center studying the dynamics between twins. Shockingly, they find themselves interconnected in a whole new way! When one twin experiences something, the other twin feels it too. This newfound revelation helps them see eye to eye for the first time, and it puts them in more danger than they could have imagined.
 
+> [!note]- Log
+> Watched 11 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Sean McNamara]]
 > **Cast** [[Dylan Sprouse]] · [[Cole Sprouse]] · [[Brenda Song]] · [[Debby Ryan]] · [[Phill Lewis]] · [[Matthew Timmons]] · [[John Ducey]] · [[Matthew Glave]] · [[Kara Pacitto]] · [[Katelyn Pacitto]]

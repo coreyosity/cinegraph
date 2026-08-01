@@ -80,6 +80,9 @@ providers:
 
 In a small town in Maine, seven children known as The Losers Club come face to face with life problems, bullies and a monster that takes the shape of a clown called Pennywise.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Andy Muschietti]]
 > **Cast** [[Jaeden Martell]] · [[Jeremy Ray Taylor]] · [[Sophia Lillis]] · [[Finn Wolfhard]] · [[Chosen Jacobs]] · [[Jack Dylan Grazer]] · [[Wyatt Oleff]] · [[Bill Skarsgård]] · [[Nicholas Hamilton]] · [[Jake Sim]]

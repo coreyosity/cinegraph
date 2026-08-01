@@ -70,6 +70,9 @@ providers:
 
 Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.
 
+> [!note]- Log
+> Watched 22 Jun 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Gus Van Sant]]
 > **Cast** [[Matt Damon]] · [[Robin Williams]] · [[Ben Affleck]] · [[Stellan Skarsgård]] · [[Minnie Driver]] · [[Casey Affleck]] · [[Cole Hauser]] · [[Vik Sahay]] · [[John Mighton]] · [[Rachel Majorowski]]

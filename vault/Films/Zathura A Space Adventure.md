@@ -73,6 +73,9 @@ providers:
 
 After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]
 > **Cast** [[Josh Hutcherson]] · [[Jonah Bobo]] · [[Dax Shepard]] · [[Kristen Stewart]] · [[Tim Robbins]] · [[Frank Oz]] · [[John Alexander]] · [[Derek Mears]] · [[Douglas Tait]] · [[Joe Bucaro III]]

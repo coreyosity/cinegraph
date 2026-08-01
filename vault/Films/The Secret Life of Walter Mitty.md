@@ -5,7 +5,7 @@ year: 2013
 tmdb_id: 116745
 content_type: movie
 rating: 4.0
-watched: '2024-10-06'
+watched: '2024-10-05'
 runtime: 114
 genres:
 - Adventure
@@ -59,9 +59,17 @@ tags:
 letterboxd: https://boxd.it/3SWy
 providers:
 - Disney Plus
+log_tags:
+- myself
+- home
+- disney+
 ---
 
 A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.
+
+> [!note]- Log
+> Watched 5 Oct 2024 · ★ 4.0
+> Tags  myself · home · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Ben Stiller]]

@@ -50,6 +50,9 @@ providers:
 
 A group of beavers ask Dr. Dolittle to save their habitat from loggers. The only hope is to get the forest preserved because it's the home of a protected bear, but there's a problem: the bear's the only bear in the forest, so she can't reproduce. Undaunted, Dolittle persuades a circus bear to help out, but he has to teach him not just the ways of the wild, but the wiles of lady bears too.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steve Carr]]
 > **Cast** [[Eddie Murphy]] · [[Kristen Wilson]] · [[Kyla Pratt]] · [[Raven-Symoné]] · [[Steve Zahn]] · [[Lisa Kudrow]] · [[James Avery]] · [[Andy Richter]] · [[Lil' Zane]] · [[Denise Dowse]]

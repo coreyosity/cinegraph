@@ -68,6 +68,9 @@ providers:
 
 In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]
 > **Cast** [[Joseph Gordon-Levitt]] · [[Bruce Willis]] · [[Emily Blunt]] · [[Paul Dano]] · [[Noah Segan]] · [[Piper Perabo]] · [[Jeff Daniels]] · [[Pierce Gagnon]] · [[Xu Qing]] · [[Tracie Thoms]]

@@ -81,6 +81,9 @@ providers:
 
 Modern treasure hunters, led by archaeologist Ben Gates, search for a chest of riches rumored to have been stashed away by George Washington, Thomas Jefferson and Benjamin Franklin during the Revolutionary War. The chest's whereabouts may lie in secret clues embedded in the Constitution and the Declaration of Independence, and Gates is in a race to find the gold before his enemies do.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jon Turteltaub]]
 > **Cast** [[Nicolas Cage]] · [[Diane Kruger]] · [[Justin Bartha]] · [[Sean Bean]] · [[Jon Voight]] · [[Harvey Keitel]] · [[Christopher Plummer]] · [[David Dayan Fisher]] · [[Stewart Finlay-McLennan]] · [[Oleg Taktarov]]

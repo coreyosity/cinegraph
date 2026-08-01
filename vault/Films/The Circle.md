@@ -58,6 +58,9 @@ providers:
 
 When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
+> [!note]- Log
+> Watched 27 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Matthew Vaughn]]
 > **Cast** [[Taron Egerton]] · [[Colin Firth]] · [[Julianne Moore]] · [[Mark Strong]] · [[Hanna Alström]] · [[Halle Berry]] · [[Pedro Pascal]] · [[Channing Tatum]] · [[Edward Holcroft]] · [[Jeff Bridges]]

@@ -58,6 +58,9 @@ providers:
 
 After a horrifying PredAlien crash-lands near a small Colorado town, killing everyone it encounters and producing countless Alien offspring, a lone Predator arrives to "clean up" the infestation.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Colin Strause]]
 > **Cast** [[David Paetkau]] · [[Sam Trammell]] · [[Steven Pasquale]] · [[Reiko Aylesworth]] · [[John Ortiz]] · [[Johnny Lewis]] · [[Ariel Gade]] · [[Kristen Hager]] · [[Robert Joy]] · [[Ian Whyte]]

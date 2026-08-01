@@ -68,9 +68,16 @@ providers:
 - Crave
 - Crave Amazon Channel
 - Stan
+log_tags:
+- myself
+- train
 ---
 
 A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.
+
+> [!note]- Log
+> Watched 22 Sep 2024
+> Tags  myself · train
 
 > [!info]- Cast & crew
 > **Director** [[Mary Harron]]

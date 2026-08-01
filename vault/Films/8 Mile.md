@@ -57,6 +57,9 @@ providers:
 
 For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Curtis Hanson]]
 > **Cast** [[Eminem]] · [[Kim Basinger]] · [[Mekhi Phifer]] · [[Brittany Murphy]] · [[Evan Jones]] · [[Omar Benson Miller]] · [[De'Angelo Wilson]] · [[Eugene Byrd]] · [[Taryn Manning]] · [[Larry Hudson]]

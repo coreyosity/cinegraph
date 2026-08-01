@@ -61,6 +61,9 @@ providers:
 
 Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.
 
+> [!note]- Log
+> Watched 23 Nov 2022
+
 > [!info]- Cast & crew
 > **Director** [[Martin McDonagh]]
 > **Cast** [[Colin Farrell]] · [[Brendan Gleeson]] · [[Ralph Fiennes]] · [[Clémence Poésy]] · [[Thekla Reuten]] · [[Jordan Prentice]] · [[Elizabeth Berrington]] · [[Jérémie Renier]] · [[Mark Donovan]] · [[Éric Godon]]

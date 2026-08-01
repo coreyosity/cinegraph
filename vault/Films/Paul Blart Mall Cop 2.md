@@ -60,6 +60,9 @@ providers:
 
 Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Andy Fickman]]
 > **Cast** [[Kevin James]] · [[Raini Rodriguez]] · [[Neal McDonough]] · [[Daniella Alonso]] · [[Eduardo Verástegui]] · [[David Henrie]] · [[Shirley Knight]] · [[Gary Valentine]] · [[Ana Gasteyer]] · [[Nicholas Turturro]]

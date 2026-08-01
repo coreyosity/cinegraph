@@ -67,6 +67,9 @@ providers:
 
 Two women, one American and one British, swap homes at Christmastime following bad breakups. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Nancy Meyers]]
 > **Cast** [[Cameron Diaz]] · [[Kate Winslet]] · [[Jude Law]] · [[Jack Black]] · [[Eli Wallach]] · [[Edward Burns]] · [[Rufus Sewell]] · [[Miffy Englefield]] · [[Emma Pritchard]] · [[Sarah Parish]]

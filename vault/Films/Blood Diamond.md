@@ -70,6 +70,9 @@ providers:
 
 An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.
 
+> [!note]- Log
+> Watched 24 Sep 2024
+
 > [!info]- Cast & crew
 > **Director** [[Edward Zwick]]
 > **Cast** [[Leonardo DiCaprio]] · [[Djimon Hounsou]] · [[Jennifer Connelly]] · [[Kagiso Kuypers]] · [[Arnold Vosloo]] · [[Antony Coleman]] · [[Benu Mabhena]] · [[Anointing Lukola]] · [[David Harewood]] · [[Basil Wallace]]

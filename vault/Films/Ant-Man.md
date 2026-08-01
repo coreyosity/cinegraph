@@ -54,6 +54,9 @@ providers:
 
 Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Peyton Reed]]
 > **Cast** [[Paul Rudd]] · [[Michael Douglas]] · [[Evangeline Lilly]] · [[Corey Stoll]] · [[Bobby Cannavale]] · [[Anthony Mackie]] · [[Judy Greer]] · [[Abby Ryder Fortson]] · [[Michael Peña]] · [[David Dastmalchian]]

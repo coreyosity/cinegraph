@@ -56,6 +56,9 @@ providers:
 
 The Baker family, while on vacation, find themselves in competition with a rival family of eight children.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Adam Shankman]]
 > **Cast** [[Steve Martin]] · [[Eugene Levy]] · [[Bonnie Hunt]] · [[Tom Welling]] · [[Piper Perabo]] · [[Hilary Duff]] · [[Carmen Electra]] · [[Jaime King]] · [[Taylor Lautner]] · [[Alyson Stoner]]

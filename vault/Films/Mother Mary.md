@@ -4,7 +4,7 @@ title: Mother Mary
 year: 2026
 tmdb_id: 1102883
 content_type: movie
-watched: '2026-04-26'
+watched: '2026-04-24'
 runtime: 112
 genres:
 - Music
@@ -47,9 +47,19 @@ poster: https://image.tmdb.org/t/p/w500/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg
 tags:
 - film
 letterboxd: https://boxd.it/FILw
+log_tags:
+- cinema
+- dean
+- andrew
+- grace
+- lighthouse
 ---
 
 Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.
+
+> [!note]- Log
+> Watched 24 Apr 2026
+> Tags  cinema · dean · andrew · grace · lighthouse
 
 > [!info]- Cast & crew
 > **Director** [[David Lowery]]

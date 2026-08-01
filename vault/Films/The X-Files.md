@@ -54,6 +54,9 @@ providers:
 
 Mulder and Scully, now taken off the FBI's X Files cases, must find a way to fight the shadowy elements of the government to find out the truth about a conspiracy that might mean the alien colonization of Earth.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rob Bowman]]
 > **Cast** [[David Duchovny]] · [[Gillian Anderson]] · [[Mitch Pileggi]] · [[William B. Davis]] · [[John Neville]] · [[Martin Landau]] · [[Jeffrey DeMunn]] · [[Tom Braidwood]] · [[Blythe Danner]] · [[Terry O'Quinn]]

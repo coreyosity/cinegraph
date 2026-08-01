@@ -70,6 +70,9 @@ providers:
 
 A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]
 > **Cast** [[Johnny Depp]] · [[Freddie Highmore]] · [[David Kelly]] · [[Helena Bonham Carter]] · [[Noah Taylor]] · [[Missi Pyle]] · [[James Fox]] · [[Deep Roy]] · [[Christopher Lee]] · [[Adam Godley]]

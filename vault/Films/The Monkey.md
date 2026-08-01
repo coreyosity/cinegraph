@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1124620
 content_type: movie
 rating: 3.0
-watched: '2025-02-18'
+watched: '2025-02-17'
 runtime: 97
 genres:
 - Horror
@@ -76,9 +76,20 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Hulu
+log_tags:
+- odeon-the-point
+- cinema
+- scream-unseen
+- dean
+- andrew
+- preview
 ---
 
 When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.
+
+> [!note]- Log
+> Watched 17 Feb 2025 · ★ 3.0
+> Tags  odeon-the-point · cinema · scream-unseen · dean · andrew · preview
 
 > [!info]- Cast & crew
 > **Director** [[Osgood Perkins]]

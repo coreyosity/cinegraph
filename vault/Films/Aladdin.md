@@ -60,6 +60,9 @@ providers:
 
 In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess Jasmine fall in love, although she can only marry a prince. He and power-hungry Grand Vizier Jafar vie for a magic lamp that can fulfill their wishes.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Musker]]
 > **Cast** [[Scott Weinger]] · [[Robin Williams]] · [[Linda Larkin]] · [[Jonathan Freeman]] · [[Gilbert Gottfried]] · [[Douglas Seale]] · [[Frank Welker]] · [[Brad Kane]] · [[Lea Salonga]] · [[Bruce Adler]]

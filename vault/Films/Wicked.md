@@ -77,9 +77,21 @@ providers:
 - Foxtel Now
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- dean
+- andrew
+- cinema
+- lighthouse
+- eve
+- grace
+- cat
 ---
 
 In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.
+
+> [!note]- Log
+> Watched 26 Nov 2024 · ★ 4.0
+> Tags  dean · andrew · cinema · lighthouse · eve · grace · cat
 
 > [!info]- Cast & crew
 > **Director** [[Jon M. Chu]]

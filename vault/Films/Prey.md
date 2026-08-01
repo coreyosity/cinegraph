@@ -62,6 +62,9 @@ providers:
 
 When danger threatens her camp, the fierce and highly skilled Comanche warrior Naru sets out to protect her people. But the prey she stalks turns out to be a highly evolved alien predator with a technically advanced arsenal.
 
+> [!note]- Log
+> Watched 16 Aug 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Dan Trachtenberg]]
 > **Cast** [[Amber Midthunder]] · [[Dakota Beavers]] · [[Michelle Thrush]] · [[Stormee Kipp]] · [[Julian Black Antelope]] · [[Dane DiLiegro]] · [[Stefany Mathias]] · [[Bennett Taylor]] · [[Mike Paterson]] · [[Nelson Leis]]

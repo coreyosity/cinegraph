@@ -42,6 +42,9 @@ providers:
 
 Four tales unfold in Wes Anderson's anthology of short films adapted from Roald Dahl's beloved stories, "The Wonderful Story of Henry Sugar", "The Swan", "The Rat Catcher", and "Poison."
 
+> [!note]- Log
+> Watched 30 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]
 > **Cast** [[Benedict Cumberbatch]] · [[Dev Patel]] · [[Ben Kingsley]] · [[Richard Ayoade]] · [[Ralph Fiennes]] · [[Rupert Friend]] · [[Asa Jennings]] · [[Eliel Ford]] · [[Truman Hanks]] · [[Benoît Herlin]]

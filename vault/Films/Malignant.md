@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 619778
 content_type: movie
 rating: 3.0
-watched: '2023-11-20'
+watched: '2023-10-31'
 runtime: 111
 genres:
 - Horror
@@ -55,9 +55,18 @@ letterboxd: https://boxd.it/mViE
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+log_tags:
+- andrew
+- dean
+- home
+- bluray
 ---
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.
+
+> [!note]- Log
+> Watched 31 Oct 2023 · ★ 3.0
+> Tags  andrew · dean · home · bluray
 
 > [!info]- Cast & crew
 > **Director** [[James Wan]]

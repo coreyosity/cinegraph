@@ -77,6 +77,9 @@ providers:
 
 Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Jon Watts]]
 > **Cast** [[Tom Holland]] · [[Zendaya]] · [[Benedict Cumberbatch]] · [[Jacob Batalon]] · [[Jon Favreau]] · [[Jamie Foxx]] · [[Willem Dafoe]] · [[Alfred Molina]] · [[Benedict Wong]] · [[Tony Revolori]]

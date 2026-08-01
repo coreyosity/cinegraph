@@ -79,6 +79,9 @@ providers:
 
 An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.
 
+> [!note]- Log
+> Watched 28 May 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Daniel Scheinert]]
 > **Cast** [[Michelle Yeoh]] · [[Stephanie Hsu]] · [[Ke Huy Quan]] · [[James Hong]] · [[Jamie Lee Curtis]] · [[Tallie Medel]] · [[Jenny Slate]] · [[Harry Shum Jr]] · [[Biff Wiff]] · [[Sunita Mani]]

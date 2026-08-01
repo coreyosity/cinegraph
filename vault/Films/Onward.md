@@ -52,6 +52,9 @@ providers:
 
 In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dan Scanlon]]
 > **Cast** [[Tom Holland]] · [[Chris Pratt]] · [[Julia Louis-Dreyfus]] · [[Octavia Spencer]] · [[Mel Rodriguez]] · [[Kyle Bornheimer]] · [[Lena Waithe]] · [[Ali Wong]] · [[Grey DeLisle]] · [[Tracey Ullman]]

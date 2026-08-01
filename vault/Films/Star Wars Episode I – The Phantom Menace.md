@@ -49,6 +49,9 @@ providers:
 
 Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[George Lucas]]
 > **Cast** [[Liam Neeson]] · [[Ewan McGregor]] · [[Natalie Portman]] · [[Jake Lloyd]] · [[Ian McDiarmid]] · [[Pernilla August]] · [[Oliver Ford Davies]] · [[Hugh Quarshie]] · [[Ahmed Best]] · [[Anthony Daniels]]

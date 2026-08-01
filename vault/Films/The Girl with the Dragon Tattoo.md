@@ -5,7 +5,7 @@ year: 2011
 tmdb_id: 65754
 content_type: movie
 rating: 3.5
-watched: '2025-02-09'
+watched: '2025-02-08'
 runtime: 158
 genres:
 - Thriller
@@ -74,9 +74,17 @@ providers:
 - Sony Pictures Core Amazon Channel
 - Stan
 - MGM Amazon Channel
+log_tags:
+- myself
+- netflix
+- home
 ---
 
 Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.
+
+> [!note]- Log
+> Watched 8 Feb 2025 · ★ 3.5
+> Tags  myself · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]

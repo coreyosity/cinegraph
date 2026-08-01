@@ -52,9 +52,18 @@ providers:
 - Stan
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-blanch
 ---
 
 Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.
+
+> [!note]- Log
+> Watched 4 May 2024 · ★ 2.5
+> Tags  andrew · dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[David Leitch]]

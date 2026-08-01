@@ -63,6 +63,9 @@ providers:
 
 A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gabriele Muccino]]
 > **Cast** [[Will Smith]] · [[Jaden Smith]] · [[Thandiwe Newton]] · [[Brian Howe]] · [[James Karen]] · [[Dan Castellaneta]] · [[Kurt Fuller]] · [[Takayo Fischer]] · [[Kevin West]] · [[George Cheung]]

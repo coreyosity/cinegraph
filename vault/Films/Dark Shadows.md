@@ -62,6 +62,9 @@ providers:
 
 Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]
 > **Cast** [[Johnny Depp]] · [[Michelle Pfeiffer]] · [[Eva Green]] · [[Helena Bonham Carter]] · [[Chloë Grace Moretz]] · [[Bella Heathcote]] · [[Gulliver McGrath]] · [[Jackie Earle Haley]] · [[Jonny Lee Miller]] · [[Ray Shirley]]

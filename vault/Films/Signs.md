@@ -59,6 +59,9 @@ providers:
 
 A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Mel Gibson]] · [[Joaquin Phoenix]] · [[Rory Culkin]] · [[Abigail Breslin]] · [[Cherry Jones]] · [[M. Night Shyamalan]] · [[Patricia Kalember]] · [[Ted Sutton]] · [[Merritt Wever]] · [[Lanny Flaherty]]

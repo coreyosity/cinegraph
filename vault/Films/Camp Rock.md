@@ -52,6 +52,9 @@ providers:
 
 When Mitchie gets a chance to attend Camp Rock, her life takes an unpredictable twist, and she learns just how important it is to be true to yourself.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Matthew Diamond]]
 > **Cast** [[Demi Lovato]] · [[Joe Jonas]] · [[Meaghan Jette Martin]] · [[Maria Canals-Barrera]] · [[Alyson Stoner]] · [[Julie Brown]] · [[Daniel Fathers]] · [[Anna Maria Perez De Taglé]] · [[Jasmine Richards]] · [[Jordan Francis]]

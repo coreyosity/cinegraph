@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 693134
 content_type: movie
 rating: 5.0
-watched: '2024-02-28'
+watched: '2024-12-31'
 runtime: 167
 genres:
 - Science Fiction
@@ -59,9 +59,25 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+rewatch: true
+log_tags:
+- eoghan
+- imax
+- cinema
+- cineworld
+- preview
+- dean
+- andrew
+- dad
+- sky
+- wexford
 ---
 
 Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.
+
+> [!note]- Log
+> Watched 31 Dec 2024 · ★ 5.0 · Rewatch
+> Tags  eoghan · imax · cinema · cineworld · preview · dean · andrew · dad · sky · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

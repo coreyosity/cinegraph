@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 1304313
 content_type: movie
 rating: 3.0
-watched: '2026-04-20'
+watched: '2026-04-17'
 runtime: 133
 genres:
 - Horror
@@ -65,9 +65,17 @@ providers:
 - Now TV
 - Crave
 - Crave Amazon Channel
+log_tags:
+- cinema
+- lighthouse
+- conor
 ---
 
 The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.
+
+> [!note]- Log
+> Watched 17 Apr 2026 · ★ 3.0
+> Tags  cinema · lighthouse · conor
 
 > [!info]- Cast & crew
 > **Director** [[Lee Cronin]]

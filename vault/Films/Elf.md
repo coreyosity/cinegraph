@@ -4,7 +4,7 @@ title: Elf
 year: 2003
 tmdb_id: 10719
 content_type: movie
-watched: '2024-07-19'
+watched: '2025-12-26'
 runtime: 97
 genres:
 - Comedy
@@ -63,9 +63,21 @@ providers:
 - Stan
 - Netflix Kids
 - Netflix Standard with Ads
+rewatch: true
+log_tags:
+- mam
+- dad
+- erin
+- caleb
+- wexford
+- sky
 ---
 
 When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.
+
+> [!note]- Log
+> Watched 26 Dec 2025 · Rewatch
+> Tags  mam · dad · erin · caleb · wexford · sky
 
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]

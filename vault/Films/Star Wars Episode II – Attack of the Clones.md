@@ -56,6 +56,9 @@ providers:
 
 Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[George Lucas]]
 > **Cast** [[Hayden Christensen]] · [[Ewan McGregor]] · [[Natalie Portman]] · [[Christopher Lee]] · [[Samuel L. Jackson]] · [[Frank Oz]] · [[Ian McDiarmid]] · [[Pernilla August]] · [[Temuera Morrison]] · [[Jimmy Smits]]

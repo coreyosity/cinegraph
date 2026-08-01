@@ -60,6 +60,9 @@ providers:
 
 A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.
 
+> [!note]- Log
+> Watched 16 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Robert Rodriguez]]
 > **Cast** [[Ben Affleck]] · [[Alice Braga]] · [[William Fichtner]] · [[J. D. Pardo]] · [[Hala Finley]] · [[Ionie Olivia Nieves]] · [[Dayo Okeniyi]] · [[Kelly Frye]] · [[Corina Calderon]] · [[Jeff Fahey]]

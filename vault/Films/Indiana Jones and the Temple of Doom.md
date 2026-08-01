@@ -77,6 +77,9 @@ providers:
 
 After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]
 > **Cast** [[Harrison Ford]] · [[Kate Capshaw]] · [[Ke Huy Quan]] · [[Amrish Puri]] · [[Roshan Seth]] · [[Philip Stone]] · [[Roy Chiao]] · [[David Yip]] · [[Ric Young]] · [[Chua Kah Joo]]

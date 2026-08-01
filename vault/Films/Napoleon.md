@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 753342
 content_type: movie
 rating: 3.5
-watched: '2023-11-26'
+watched: '2023-11-22'
 runtime: 158
 genres:
 - History
@@ -47,9 +47,18 @@ letterboxd: https://boxd.it/shJM
 providers:
 - Apple TV
 - Apple TV Amazon Channel
+log_tags:
+- andrew
+- cinema
+- imax
+- odeon-blanch
 ---
 
 An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.
+
+> [!note]- Log
+> Watched 22 Nov 2023 · ★ 3.5
+> Tags  andrew · cinema · imax · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]

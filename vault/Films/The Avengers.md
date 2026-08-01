@@ -48,6 +48,9 @@ providers:
 
 When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Joss Whedon]]
 > **Cast** [[Robert Downey Jr]] · [[Chris Evans]] · [[Mark Ruffalo]] · [[Chris Hemsworth]] · [[Scarlett Johansson]] · [[Jeremy Renner]] · [[Tom Hiddleston]] · [[Clark Gregg]] · [[Cobie Smulders]] · [[Stellan Skarsgård]]

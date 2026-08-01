@@ -47,6 +47,9 @@ providers:
 
 Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Alan Taylor]]
 > **Cast** [[Chris Hemsworth]] · [[Natalie Portman]] · [[Tom Hiddleston]] · [[Christopher Eccleston]] · [[Anthony Hopkins]] · [[Jaimie Alexander]] · [[Zachary Levi]] · [[Ray Stevenson]] · [[Tadanobu Asano]] · [[Idris Elba]]

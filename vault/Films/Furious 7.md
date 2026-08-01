@@ -61,6 +61,9 @@ providers:
 
 Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Vin Diesel]] · [[Paul Walker]] · [[Dwayne Johnson]] · [[Michelle Rodriguez]] · [[Tyrese Gibson]] · [[Ludacris]] · [[Jordana Brewster]] · [[Jason Statham]] · [[Kurt Russell]] · [[Nathalie Emmanuel]]

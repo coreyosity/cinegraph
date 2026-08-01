@@ -5,7 +5,7 @@ year: 2000
 tmdb_id: 9532
 content_type: movie
 rating: 3.0
-watched: '2024-05-10'
+watched: '2025-05-17'
 runtime: 98
 genres:
 - Horror
@@ -60,9 +60,18 @@ providers:
 - Starz Amazon Channel
 - Crave Amazon Channel
 - Stan
+rewatch: true
+log_tags:
+- prime
+- dean
+- andrew
 ---
 
 After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
+
+> [!note]- Log
+> Watched 17 May 2025 · ★ 3.0 · Rewatch
+> Tags  prime · dean · andrew
 
 > [!info]- Cast & crew
 > **Director** [[James Wong]]

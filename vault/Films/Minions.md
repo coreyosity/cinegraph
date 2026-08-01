@@ -58,6 +58,9 @@ providers:
 
 Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kyle Balda]]
 > **Cast** [[Sandra Bullock]] · [[Jon Hamm]] · [[Michael Keaton]] · [[Allison Janney]] · [[Steve Coogan]] · [[Jennifer Saunders]] · [[Geoffrey Rush]] · [[Steve Carell]] · [[Pierre Coffin]] · [[Katy Mixon]]

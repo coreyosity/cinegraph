@@ -53,6 +53,9 @@ providers:
 
 In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.
 
+> [!note]- Log
+> Watched 23 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Sam Fell]]
 > **Cast** [[Kodi Smit-McPhee]] · [[Tucker Albrizzi]] · [[Anna Kendrick]] · [[Casey Affleck]] · [[Christopher Mintz-Plasse]] · [[Leslie Mann]] · [[Jeff Garlin]] · [[Elaine Stritch]] · [[Bernard Hill]] · [[Jodelle Ferland]]

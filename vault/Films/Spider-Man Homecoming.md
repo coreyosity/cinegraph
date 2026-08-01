@@ -65,6 +65,9 @@ providers:
 
 Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Jon Watts]]
 > **Cast** [[Tom Holland]] · [[Michael Keaton]] · [[Robert Downey Jr]] · [[Marisa Tomei]] · [[Jon Favreau]] · [[Gwyneth Paltrow]] · [[Zendaya]] · [[Donald Glover]] · [[Jacob Batalon]] · [[Laura Harrier]]

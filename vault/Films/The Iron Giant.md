@@ -60,6 +60,9 @@ providers:
 
 In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brad Bird]]
 > **Cast** [[Jennifer Aniston]] · [[Harry Connick Jr]] · [[Vin Diesel]] · [[James Gammon]] · [[Cloris Leachman]] · [[Christopher McDonald]] · [[John Mahoney]] · [[Eli Marienthal]] · [[M. Emmet Walsh]] · [[Jack Angel]]

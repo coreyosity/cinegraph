@@ -44,6 +44,9 @@ providers:
 
 For one month every year, five highly competitive friends hit the ground running in a no-holds-barred game of tag they’ve been playing since the first grade. This year, the game coincides with the wedding of their only undefeated player, which should finally make him an easy target. But he knows they’re coming...and he’s ready.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jeff Tomsic]]
 > **Cast** [[Ed Helms]] · [[Jon Hamm]] · [[Jeremy Renner]] · [[Jake Johnson]] · [[Hannibal Buress]] · [[Annabelle Wallis]] · [[Isla Fisher]] · [[Rashida Jones]] · [[Leslie Bibb]] · [[Maxwell Ross]]

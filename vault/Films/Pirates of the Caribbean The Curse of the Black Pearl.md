@@ -58,6 +58,9 @@ providers:
 
 When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Gore Verbinski]]
 > **Cast** [[Johnny Depp]] · [[Geoffrey Rush]] · [[Orlando Bloom]] · [[Keira Knightley]] · [[Jack Davenport]] · [[Jonathan Pryce]] · [[Lee Arenberg]] · [[Mackenzie Crook]] · [[Damian O'Hare]] · [[Giles New]]

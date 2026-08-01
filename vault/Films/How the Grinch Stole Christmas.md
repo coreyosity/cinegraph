@@ -61,6 +61,9 @@ providers:
 
 The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...
 
+> [!note]- Log
+> Watched 19 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Jim Carrey]] · [[Taylor Momsen]] · [[Jeffrey Tambor]] · [[Christine Baranski]] · [[Bill Irwin]] · [[Molly Shannon]] · [[Clint Howard]] · [[Josh Ryan Evans]] · [[Mindy Sterling]] · [[Bryce Dallas Howard]]

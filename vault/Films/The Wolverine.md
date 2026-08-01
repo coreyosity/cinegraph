@@ -51,6 +51,9 @@ providers:
 
 Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[James Mangold]]
 > **Cast** [[Hugh Jackman]] · [[Hiroyuki Sanada]] · [[Tao Okamoto]] · [[Rila Fukushima]] · [[Famke Janssen]] · [[Will Yun Lee]] · [[Svetlana Khodchenkova]] · [[Hal Yamanouchi]] · [[Brian Tee]] · [[Ken Yamamura]]

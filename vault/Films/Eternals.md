@@ -51,6 +51,9 @@ providers:
 
 The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Chloé Zhao]]
 > **Cast** [[Gemma Chan]] · [[Richard Madden]] · [[Angelina Jolie]] · [[Salma Hayek Pinault]] · [[Kumail Nanjiani]] · [[Lia McHugh]] · [[Brian Tyree Henry]] · [[Lauren Ridloff]] · [[Barry Keoghan]] · [[Don Lee]]

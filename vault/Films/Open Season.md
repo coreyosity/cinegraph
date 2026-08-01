@@ -62,6 +62,9 @@ providers:
 
 Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jill Culton]]
 > **Cast** [[Martin Lawrence]] · [[Ashton Kutcher]] · [[Gary Sinise]] · [[Debra Messing]] · [[Billy Connolly]] · [[Georgia Engel]] · [[Jon Favreau]] · [[Jane Krakowski]] · [[Gordon Tootoosis]] · [[Patrick Warburton]]

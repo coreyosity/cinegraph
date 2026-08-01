@@ -48,6 +48,9 @@ providers:
 
 Young Jim Hawkins and his two best friends embark on a voyage across the high seas in search of buried treasure, but soon find that not everyone on board can be trusted.
 
+> [!note]- Log
+> Watched 24 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brian Henson]]
 > **Cast** [[Tim Curry]] · [[Kevin Bishop]] · [[Billy Connolly]] · [[Jennifer Saunders]] · [[Dave Goelz]] · [[Steve Whitmire]] · [[Frank Oz]] · [[Kevin Clash]] · [[Bill Barretta]] · [[Jerry Nelson]]

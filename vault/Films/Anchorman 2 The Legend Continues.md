@@ -63,6 +63,9 @@ providers:
 
 With the 70s behind him, San Diego's top rated newsman, Ron Burgundy, returns to take New York's first 24-hour news channel by storm.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Adam McKay]]
 > **Cast** [[Will Ferrell]] · [[Steve Carell]] · [[Paul Rudd]] · [[David Koechner]] · [[Christina Applegate]] · [[Dylan Baker]] · [[Meagan Good]] · [[Judah Nelson]] · [[James Marsden]] · [[Greg Kinnear]]

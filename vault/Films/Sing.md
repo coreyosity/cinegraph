@@ -64,6 +64,9 @@ providers:
 
 A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Garth Jennings]]
 > **Cast** [[Matthew McConaughey]] · [[Reese Witherspoon]] · [[Seth MacFarlane]] · [[Scarlett Johansson]] · [[John C. Reilly]] · [[Taron Egerton]] · [[Tori Kelly]] · [[Jennifer Saunders]] · [[Jennifer Hudson]] · [[Garth Jennings]]

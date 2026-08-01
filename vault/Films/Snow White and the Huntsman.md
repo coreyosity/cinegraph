@@ -62,6 +62,9 @@ providers:
 
 After the Evil Queen marries the King, she performs a violent coup in which the King is murdered and his daughter, Snow White, is taken captive. Almost a decade later, a grown Snow White is still in the clutches of the Queen. In order to obtain immortality, The Evil Queen needs the heart of Snow White. After Snow escapes the castle, the Queen sends the Huntsman to find her in the Dark Forest.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rupert Sanders]]
 > **Cast** [[Kristen Stewart]] · [[Chris Hemsworth]] · [[Charlize Theron]] · [[Sam Claflin]] · [[Ian McShane]] · [[Ray Winstone]] · [[Nick Frost]] · [[Noah Huntley]] · [[Toby Jones]] · [[Eddie Marsan]]

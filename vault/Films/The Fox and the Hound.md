@@ -48,6 +48,9 @@ providers:
 
 When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!
 
+> [!note]- Log
+> Watched 10 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Ted Berman]]
 > **Cast** [[Mickey Rooney]] · [[Kurt Russell]] · [[Pearl Bailey]] · [[Jack Albertson]] · [[Sandy Duncan]] · [[Jeanette Nolan]] · [[Pat Buttram]] · [[Richard Bakalyan]] · [[Paul Winchell]] · [[John Fiedler]]

@@ -65,6 +65,9 @@ providers:
 
 Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jan de Bont]]
 > **Cast** [[Keanu Reeves]] · [[Dennis Hopper]] · [[Sandra Bullock]] · [[Joe Morton]] · [[Jeff Daniels]] · [[Alan Ruck]] · [[Glenn Plummer]] · [[Richard Lineback]] · [[Beth Grant]] · [[Hawthorne James]]

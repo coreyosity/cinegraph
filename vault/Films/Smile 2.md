@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1100782
 content_type: movie
 rating: 3.0
-watched: '2024-11-08'
+watched: '2024-11-05'
 runtime: 127
 genres:
 - Horror
@@ -148,9 +148,18 @@ providers:
 - Paramount+ Roku Premium Channel
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-the-point
 ---
 
 About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.
+
+> [!note]- Log
+> Watched 5 Nov 2024 · ★ 3.0
+> Tags  andrew · dean · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Parker Finn]]

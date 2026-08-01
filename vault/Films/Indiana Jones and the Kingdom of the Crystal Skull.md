@@ -75,6 +75,9 @@ providers:
 
 Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend—and Indy's colleague—Professor Oxley has been captured for his knowledge of the skull's whereabouts.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]
 > **Cast** [[Harrison Ford]] · [[Cate Blanchett]] · [[Karen Allen]] · [[Shia LaBeouf]] · [[Ray Winstone]] · [[John Hurt]] · [[Jim Broadbent]] · [[Igor Jijikine]] · [[Dimitri Diatchenko]] · [[Ilia Volok]]

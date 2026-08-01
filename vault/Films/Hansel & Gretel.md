@@ -43,6 +43,9 @@ letterboxd: https://boxd.it/EZ8
 
 Hansel and Gretel is a 2002 film adaptation of the Brothers Grimm children's story. It stars Jacob Smith and Taylor Momsen as the eponymous characters. It includes the Sandman, played by Howie Mandel and Sinbad as a raven.
 
+> [!note]- Log
+> Watched 23 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Gary J. Tunnicliffe]]
 > **Cast** [[Howie Mandel]] · [[Taylor Momsen]] · [[Jacob Smith]] · [[Delta Burke]] · [[Alana Austin]] · [[Gerald McRaney]] · [[Lynn Redgrave]] · [[Dakota Fanning]] · [[Bobcat Goldthwait]] · [[Sinbad]]

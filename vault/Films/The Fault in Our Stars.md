@@ -51,6 +51,9 @@ providers:
 
 Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a patient named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Josh Boone]]
 > **Cast** [[Shailene Woodley]] · [[Ansel Elgort]] · [[Nat Wolff]] · [[Laura Dern]] · [[Sam Trammell]] · [[Willem Dafoe]] · [[Lotte Verbeek]] · [[Ana Dela Cruz]] · [[Randy Kovitz]] · [[Toni Saladna]]

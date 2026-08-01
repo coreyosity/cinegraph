@@ -64,6 +64,9 @@ providers:
 
 This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.
 
+> [!note]- Log
+> Watched 19 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Musker]]
 > **Cast** [[Jodi Benson]] · [[Samuel E. Wright]] · [[Pat Carroll]] · [[Christopher Daniel Barnes]] · [[Kenneth Mars]] · [[Buddy Hackett]] · [[Jason Marin]] · [[René Auberjonois]] · [[Paddi Edwards]] · [[Ben Wright]]

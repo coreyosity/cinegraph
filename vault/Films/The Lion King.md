@@ -58,6 +58,9 @@ providers:
 
 Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Roger Allers]]
 > **Cast** [[Matthew Broderick]] · [[Moira Kelly]] · [[Jeremy Irons]] · [[Nathan Lane]] · [[Ernie Sabella]] · [[James Earl Jones]] · [[Robert Guillaume]] · [[Rowan Atkinson]] · [[Jim Cummings]] · [[Whoopi Goldberg]]

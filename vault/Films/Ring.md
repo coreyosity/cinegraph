@@ -65,6 +65,9 @@ providers:
 
 A mysterious video has been linked to a number of deaths, and when an inquisitive journalist finds the tape and views it herself, she sets in motion a chain of events that puts her own life in danger.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Hideo Nakata]]
 > **Cast** [[Nanako Matsushima]] · [[Hiroyuki Sanada]] · [[Rikiya Ôtaka]] · [[Miki Nakatani]] · [[Yuko Takeuchi]] · [[Hitomi Sato]] · [[Yutaka Matsushige]] · [[Yōichi Numata]] · [[Katsumi Muramatsu]] · [[Masako]]

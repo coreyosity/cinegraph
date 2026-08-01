@@ -58,9 +58,17 @@ providers:
 - Crave Amazon Channel
 - BINGE
 - Foxtel Now
+log_tags:
+- linda
+- cinema
+- odeon-blanch
 ---
 
 Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
+
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 4.5
+> Tags  linda · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Jordan Peele]]

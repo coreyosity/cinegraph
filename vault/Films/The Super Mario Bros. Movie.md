@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 502356
 content_type: movie
 rating: 2.5
-watched: '2023-04-26'
+watched: '2023-04-20'
 runtime: 93
 genres:
 - Family
@@ -58,9 +58,17 @@ providers:
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- dean
+- cinema
+- odeon-blanch
 ---
 
 While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.
+
+> [!note]- Log
+> Watched 20 Apr 2023 · ★ 2.5
+> Tags  dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Aaron Horvath]]

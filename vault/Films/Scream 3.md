@@ -5,7 +5,7 @@ year: 2000
 tmdb_id: 4234
 content_type: movie
 rating: 3.5
-watched: '2023-03-10'
+watched: '2023-03-07'
 runtime: 116
 genres:
 - Horror
@@ -64,9 +64,19 @@ providers:
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
+log_tags:
+- dean
+- chris
+- linda
+- torrent
+- home
 ---
 
 As bodies begin dropping around the Hollywood set of STAB 3, the third film based on the gruesome Woodsboro killings, Sidney and other survivors are once again terrorized by another Ghostface killer.
+
+> [!note]- Log
+> Watched 7 Mar 2023 · ★ 3.5
+> Tags  dean · chris · linda · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

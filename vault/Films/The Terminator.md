@@ -69,6 +69,9 @@ providers:
 
 In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the "Terminator" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[James Cameron]]
 > **Cast** [[Arnold Schwarzenegger]] · [[Michael Biehn]] · [[Linda Hamilton]] · [[Paul Winfield]] · [[Lance Henriksen]] · [[Rick Rossovich]] · [[Bess Motta]] · [[Earl Boen]] · [[Dick Miller]] · [[Shawn Schepps]]

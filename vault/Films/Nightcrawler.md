@@ -77,6 +77,9 @@ providers:
 
 When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.
 
+> [!note]- Log
+> Watched 3 May 2023 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Dan Gilroy]]
 > **Cast** [[Jake Gyllenhaal]] · [[Rene Russo]] · [[Riz Ahmed]] · [[Bill Paxton]] · [[Kevin Rahm]] · [[Michael Hyatt]] · [[Price Carson]] · [[Ann Cusack]] · [[Kent Shocknek]] · [[Sharon Tay]]

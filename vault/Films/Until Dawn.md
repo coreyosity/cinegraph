@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1232546
 content_type: movie
 rating: 2.0
-watched: '2025-05-06'
+watched: '2025-05-05'
 runtime: 103
 genres:
 - Horror
@@ -68,6 +68,9 @@ providers:
 ---
 
 One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.
+
+> [!note]- Log
+> Watched 5 May 2025 · ★ 2.0
 
 > [!info]- Cast & crew
 > **Director** [[David F. Sandberg]]

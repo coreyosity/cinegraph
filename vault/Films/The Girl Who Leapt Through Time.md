@@ -5,7 +5,7 @@ year: 2006
 tmdb_id: 14069
 content_type: movie
 rating: 4.0
-watched: '2025-07-09'
+watched: '2025-07-08'
 runtime: 98
 genres:
 - Fantasy
@@ -60,9 +60,20 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+log_tags:
+- dean
+- cinema
+- andrew
+- lighthouse
+- grace
+- eve
 ---
 
 When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.
+
+> [!note]- Log
+> Watched 8 Jul 2025 · ★ 4.0
+> Tags  dean · cinema · andrew · lighthouse · grace · eve
 
 > [!info]- Cast & crew
 > **Director** [[Mamoru Hosoda]]

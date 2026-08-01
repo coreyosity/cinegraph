@@ -49,6 +49,9 @@ providers:
 
 A version of Shakespeare's play, set in the world of warring indoor and outdoor gnomes. Garden gnomes Gnomeo and Juliet have as many obstacles to overcome as their quasi namesakes when they are caught up in a feud between neighbors. But with plastic pink flamingos and lawnmower races in the mix, can this young couple find lasting happiness?
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kelly Asbury]]
 > **Cast** [[James McAvoy]] · [[Emily Blunt]] · [[Michael Caine]] · [[Maggie Smith]] · [[Julie Walters]] · [[Jim Cummings]] · [[Jason Statham]] · [[Ashley Jensen]] · [[Matt Lucas]] · [[Ozzy Osbourne]]

@@ -81,6 +81,9 @@ providers:
 
 When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go undercover as high school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Phil Lord]]
 > **Cast** [[Jonah Hill]] · [[Channing Tatum]] · [[Brie Larson]] · [[Dave Franco]] · [[Rob Riggle]] · [[DeRay Davis]] · [[Ice Cube]] · [[Dax Flame]] · [[Chris Parnell]] · [[Ellie Kemper]]

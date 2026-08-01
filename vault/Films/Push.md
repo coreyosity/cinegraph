@@ -51,6 +51,9 @@ providers:
 
 After his father, an assassin, is brutally murdered, Nick Gant vows revenge on Division, the covert government agency that dabbles in psychic warfare and experimental drugs. Hiding in Hong Kong's underworld, Nick assembles a band of rogue psychics dedicated to destroying Division. Together with Cassie, a teenage clairvoyant, Nick goes in search of a missing girl and a stolen suitcase that could be the key to accomplishing their mutual goal.
 
+> [!note]- Log
+> Watched 17 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Paul McGuigan]]
 > **Cast** [[Chris Evans]] · [[Dakota Fanning]] · [[Camilla Belle]] · [[Djimon Hounsou]] · [[Cliff Curtis]] · [[Ming-Na Wen]] · [[Joel Gretsch]] · [[Nate Mooney]] · [[Li Xiaolu]] · [[Maggie Siff]]

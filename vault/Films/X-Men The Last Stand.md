@@ -5,7 +5,7 @@ year: 2006
 tmdb_id: 36668
 content_type: movie
 rating: 2.5
-watched: '2024-05-10'
+watched: '2026-07-22'
 runtime: 104
 genres:
 - Adventure
@@ -45,9 +45,18 @@ tags:
 letterboxd: https://boxd.it/1a5Q
 providers:
 - Disney Plus
+rewatch: true
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 When a cure is found to treat mutations, lines are drawn amongst the X-Men led by Professor Charles Xavier, and Magneto's Brotherhood of Mutants.
+
+> [!note]- Log
+> Watched 22 Jul 2026 · ★ 2.5 · Rewatch
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Brett Ratner]]

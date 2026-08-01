@@ -58,6 +58,9 @@ providers:
 
 An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.
 
+> [!note]- Log
+> Watched 15 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Eric Leighton]]
 > **Cast** [[D. B. Sweeney]] · [[Alfre Woodard]] · [[Ossie Davis]] · [[Max Casella]] · [[Hayden Panettiere]] · [[Samuel E. Wright]] · [[Julianna Margulies]] · [[Peter Siragusa]] · [[Joan Plowright]] · [[Della Reese]]

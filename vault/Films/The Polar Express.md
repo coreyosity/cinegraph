@@ -66,6 +66,9 @@ providers:
 
 When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.
 
+> [!note]- Log
+> Watched 19 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]
 > **Cast** [[Tom Hanks]] · [[Leslie Zemeckis]] · [[Eddie Deezen]] · [[Nona Gaye]] · [[Peter Scolari]] · [[Michael Jeter]] · [[Josh Hutcherson]] · [[Daryl Sabara]] · [[Jimmy Bennett]] · [[Tinashe]]

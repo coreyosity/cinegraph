@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1233413
 content_type: movie
 rating: 4.5
-watched: '2025-04-28'
+watched: '2025-04-26'
 runtime: 138
 genres:
 - Horror
@@ -81,9 +81,18 @@ providers:
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- cinema
+- myself
+- odeon-the-point
+- isense
 ---
 
 Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.
+
+> [!note]- Log
+> Watched 26 Apr 2025 · ★ 4.5
+> Tags  cinema · myself · odeon-the-point · isense
 
 > [!info]- Cast & crew
 > **Director** [[Ryan Coogler]]

@@ -71,9 +71,17 @@ providers:
 - Crave
 - Netflix Standard with Ads
 - Crave Amazon Channel
+log_tags:
+- myself
+- home
+- netflix
 ---
 
 Angela Bennett is a freelance computer systems analyst who tracks down software viruses. At night she hooks up to the internet and chats to others 'surfing the net'. While de-bugging a new high-tech game for a cyber friend, she comes across a top secret program and becomes the target of a mysterious organization who will stop at nothing to erase her identity and her existence, in order to protect the project.
+
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 3.0
+> Tags  myself · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Irwin Winkler]]

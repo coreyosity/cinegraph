@@ -84,6 +84,9 @@ providers:
 
 A newly married couple, in the process of starting a family, learn many of life's important lessons from their trouble-loving retriever, Marley. Packed with plenty of laughs to lighten the load, the film explores the highs and lows of marriage, maturity and confronting one's own mortality, as seen through the lens of family life with a dog.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Frankel]]
 > **Cast** [[Owen Wilson]] · [[Jennifer Aniston]] · [[Eric Dane]] · [[Kathleen Turner]] · [[Alan Arkin]] · [[Nathan Gamble]] · [[Haley Bennett]] · [[Haley Higgins]] · [[Ann Dowd]] · [[Clarke Peters]]

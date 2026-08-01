@@ -58,9 +58,20 @@ tags:
 letterboxd: https://boxd.it/2E2E
 providers:
 - Disney Plus
+log_tags:
+- dad
+- caleb
+- erin
+- mam
+- omniplex
+- cinema
 ---
 
 Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.
+
+> [!note]- Log
+> Watched 24 Dec 2022 · ★ 4.0
+> Tags  dad · caleb · erin · mam · omniplex · cinema
 
 > [!info]- Cast & crew
 > **Director** [[James Cameron]]

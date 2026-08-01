@@ -7,3 +7,6 @@ letterboxd: https://boxd.it/H7QI
 tags:
 - film
 ---
+
+> [!note]- Log
+> Watched 15 Apr 2025

@@ -65,6 +65,9 @@ providers:
 
 Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peyton Reed]]
 > **Cast** [[Jim Carrey]] · [[Zooey Deschanel]] · [[Bradley Cooper]] · [[John Michael Higgins]] · [[Rhys Darby]] · [[Danny Masterson]] · [[Fionnula Flanagan]] · [[Terence Stamp]] · [[Sasha Alexander]] · [[Molly Sims]]

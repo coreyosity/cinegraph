@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 747188
 content_type: movie
 rating: 4.0
-watched: '2023-07-23'
+watched: '2023-07-02'
 runtime: 105
 genres:
 - Comedy
@@ -66,9 +66,17 @@ providers:
 - Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- eoghan
+- cinema
+- stella
 ---
 
 In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.
+
+> [!note]- Log
+> Watched 2 Jul 2023 · ★ 4.0
+> Tags  eoghan · cinema · stella
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

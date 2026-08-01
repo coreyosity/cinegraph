@@ -52,6 +52,9 @@ providers:
 
 Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Thor Freudenthal]]
 > **Cast** [[Zachary Gordon]] · [[Robert Capron]] · [[Steve Zahn]] · [[Devon Bostick]] · [[Rachael Harris]] · [[Chloë Grace Moretz]] · [[Laine MacNeil]] · [[Andrew McNee]] · [[Connor Fielding]] · [[Owen Fielding]]

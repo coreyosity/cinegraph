@@ -70,6 +70,9 @@ providers:
 
 While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and many other celebrities are faced with the apocalypse.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Evan Goldberg]]
 > **Cast** [[James Franco]] · [[Jonah Hill]] · [[Seth Rogen]] · [[Jay Baruchel]] · [[Danny McBride]] · [[Craig Robinson]] · [[Michael Cera]] · [[Emma Watson]] · [[Mindy Kaling]] · [[David Krumholtz]]

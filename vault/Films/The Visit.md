@@ -55,6 +55,9 @@ letterboxd: https://boxd.it/9ssO
 
 A brother and sister are sent to their grandparents' remote Pennsylvania farm for a week, where they discover that the elderly couple is involved in something deeply disturbing.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Olivia DeJonge]] · [[Ed Oxenbould]] · [[Deanna Dunagan]] · [[Peter McRobbie]] · [[Kathryn Hahn]] · [[Celia Keenan-Bolger]] · [[Samuel Stricklen]] · [[Patch Darragh]] · [[Jorge Cordova]] · [[Steve Annan]]

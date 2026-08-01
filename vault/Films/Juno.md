@@ -53,6 +53,9 @@ providers:
 
 Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Jason Reitman]]
 > **Cast** [[Elliot Page]] · [[Michael Cera]] · [[Jennifer Garner]] · [[Jason Bateman]] · [[J.K. Simmons]] · [[Allison Janney]] · [[Olivia Thirlby]] · [[Eileen Pedde]] · [[Rainn Wilson]] · [[Daniel Clark]]

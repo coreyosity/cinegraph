@@ -61,6 +61,9 @@ providers:
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
+> [!note]- Log
+> Watched 19 Jun 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Jordan Peele]]
 > **Cast** [[Lupita Nyong'o]] · [[Winston Duke]] · [[Elisabeth Moss]] · [[Tim Heidecker]] · [[Shahadi Wright Joseph]] · [[Evan Alex]] · [[Yahya Abdul-Mateen II]] · [[Anna Diop]] · [[Cali Sheldon]] · [[Noelle Sheldon]]

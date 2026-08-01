@@ -43,6 +43,9 @@ providers:
 
 Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Alden Ehrenreich]] · [[Joonas Suotamo]] · [[Woody Harrelson]] · [[Emilia Clarke]] · [[Donald Glover]] · [[Thandiwe Newton]] · [[Phoebe Waller-Bridge]] · [[Paul Bettany]] · [[Jon Favreau]] · [[Erin Kellyman]]

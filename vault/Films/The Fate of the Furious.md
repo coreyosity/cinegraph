@@ -60,6 +60,9 @@ providers:
 
 When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[F. Gary Gray]]
 > **Cast** [[Vin Diesel]] · [[Jason Statham]] · [[Dwayne Johnson]] · [[Michelle Rodriguez]] · [[Tyrese Gibson]] · [[Ludacris]] · [[Charlize Theron]] · [[Kurt Russell]] · [[Nathalie Emmanuel]] · [[Luke Evans]]

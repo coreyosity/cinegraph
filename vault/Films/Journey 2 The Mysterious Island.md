@@ -50,6 +50,9 @@ providers:
 
 Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brad Peyton]]
 > **Cast** [[Dwayne Johnson]] · [[Josh Hutcherson]] · [[Vanessa Hudgens]] · [[Luis Guzmán]] · [[Michael Caine]] · [[Kristin Davis]] · [[Anna Colwell]] · [[Stephen Caudill]] · [[Branscombe Richmond]] · [[Walter Bankson]]

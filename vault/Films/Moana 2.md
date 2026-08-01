@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1241982
 content_type: movie
 rating: 1.5
-watched: '2024-12-15'
+watched: '2024-12-14'
 runtime: 100
 genres:
 - Adventure
@@ -52,9 +52,17 @@ tags:
 letterboxd: https://boxd.it/LcjW
 providers:
 - Disney Plus
+log_tags:
+- andrew
+- cinema
+- odeon-the-point
 ---
 
 After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.
+
+> [!note]- Log
+> Watched 14 Dec 2024 · ★ 1.5
+> Tags  andrew · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[David G. Derrick Jr]]

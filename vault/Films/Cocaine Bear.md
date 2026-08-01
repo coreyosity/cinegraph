@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 804150
 content_type: movie
 rating: 2.5
-watched: '2023-03-10'
+watched: '2023-02-26'
 runtime: 95
 genres:
 - Thriller
@@ -53,9 +53,17 @@ providers:
 - YouTube TV
 - Crave
 - Crave Amazon Channel
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.
+
+> [!note]- Log
+> Watched 26 Feb 2023 · ★ 2.5
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Elizabeth Banks]]

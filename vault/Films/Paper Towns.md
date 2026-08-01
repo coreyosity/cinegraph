@@ -57,6 +57,9 @@ providers:
 
 Quentin Jacobsen has spent a lifetime loving the magnificently adventurous Margo Roth Spiegelman from afar. So when she cracks open a window and climbs back into his life dressed like a ninja and summoning him for an ingenious campaign of revenge, he follows. After their all-nighter ends and a new day breaks, Quentin arrives at school to discover that Margo, always an enigma, has now become a mystery. But Quentin soon learns that there are clues, and they're for him. Urged down a disconnected path, the closer Quentin gets, the less he sees of the girl he thought he knew.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jake Schreier]]
 > **Cast** [[Nat Wolff]] · [[Cara Delevingne]] · [[Austin Abrams]] · [[Justice Smith]] · [[Halston Sage]] · [[Jaz Sinclair]] · [[Cara Buono]] · [[Josiah Cerio]] · [[Hannah Riley]] · [[Meg Crosbie]]

@@ -55,6 +55,9 @@ providers:
 
 A series of interconnected short films are the backdrop for a maniac screenwriter who pitches insane storylines featuring some of Hollywood's biggest and brightest.  In some countries, like the United Kingdom and the Netherlands, the structure differs. Instead of a pitch, the films are connected by a group of three teenagers searching for the most banned film in the world, Movie 43, which will ultimately lead to the destruction of civilization.
 
+> [!note]- Log
+> Watched 23 Jul 2026
+
 > [!info]- Cast & crew
 > **Director** [[Steven Brill]]
 > **Cast** [[Dennis Quaid]] · [[Greg Kinnear]] · [[Hugh Jackman]] · [[Kate Winslet]] · [[Jeremy Allen White]] · [[Liev Schreiber]] · [[Naomi Watts]] · [[Anna Faris]] · [[Chris Pratt]] · [[Kieran Culkin]]

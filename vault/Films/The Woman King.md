@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 724495
 content_type: movie
 rating: 4.0
-watched: '2022-10-17'
+watched: '2022-10-16'
 runtime: 135
 genres:
 - Action
@@ -64,9 +64,17 @@ providers:
 - BINGE
 - Foxtel Now
 - Stan
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.
+
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 4.0
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Gina Prince-Bythewood]]

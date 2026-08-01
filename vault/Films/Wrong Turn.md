@@ -5,7 +5,7 @@ year: 2003
 tmdb_id: 9902
 content_type: movie
 rating: 2.5
-watched: '2023-11-20'
+watched: '2023-11-19'
 runtime: 84
 genres:
 - Horror
@@ -56,9 +56,17 @@ letterboxd: https://boxd.it/1Xzq
 providers:
 - Stan
 - Lionsgate+ Amazon Channels
+log_tags:
+- andrew
+- home
+- torrent
 ---
 
 Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.
+
+> [!note]- Log
+> Watched 19 Nov 2023 · ★ 2.5
+> Tags  andrew · home · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Rob Schmidt]]

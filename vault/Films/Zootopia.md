@@ -76,6 +76,9 @@ providers:
 
 Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Byron Howard]]
 > **Cast** [[Ginnifer Goodwin]] · [[Jason Bateman]] · [[Idris Elba]] · [[Jenny Slate]] · [[Nate Torrence]] · [[Bonnie Hunt]] · [[Don Lake]] · [[Tommy Chong]] · [[J.K. Simmons]] · [[Octavia Spencer]]

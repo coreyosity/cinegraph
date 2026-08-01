@@ -61,6 +61,9 @@ providers:
 
 Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Jon Watts]]
 > **Cast** [[Tom Holland]] · [[Jake Gyllenhaal]] · [[Samuel L. Jackson]] · [[Marisa Tomei]] · [[Jon Favreau]] · [[Zendaya]] · [[Jacob Batalon]] · [[Tony Revolori]] · [[Angourie Rice]] · [[Remy Hii]]

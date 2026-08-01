@@ -5,7 +5,7 @@ year: 2007
 tmdb_id: 13186
 content_type: movie
 rating: 3.0
-watched: '2023-11-21'
+watched: '2023-11-20'
 runtime: 97
 genres:
 - Horror
@@ -48,9 +48,17 @@ poster: https://image.tmdb.org/t/p/w500/ow3IMhTVLryZuCEoQznVTTmFYuu.jpg
 tags:
 - film
 letterboxd: https://boxd.it/1QDA
+log_tags:
+- andrew
+- home
+- torrent
 ---
 
 Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyptic reality show where participants are challenged to survive a remote West Virginia wasteland. But the show turns into a nightmarish showdown when each realizes they are being hunted by an inbred family of cannibals determined to make them all dinner!
+
+> [!note]- Log
+> Watched 20 Nov 2023 · ★ 3.0
+> Tags  andrew · home · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Joe Lynch]]

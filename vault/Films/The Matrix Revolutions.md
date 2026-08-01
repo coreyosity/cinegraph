@@ -88,6 +88,9 @@ providers:
 
 The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Lana Wachowski]]
 > **Cast** [[Keanu Reeves]] · [[Laurence Fishburne]] · [[Carrie-Anne Moss]] · [[Hugo Weaving]] · [[Jada Pinkett Smith]] · [[Mary Alice]] · [[Harold Perrineau]] · [[Collin Chou]] · [[Harry Lennix]] · [[Ian Bliss]]

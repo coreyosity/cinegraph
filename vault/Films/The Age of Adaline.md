@@ -49,6 +49,9 @@ providers:
 
 After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.
 
+> [!note]- Log
+> Watched 17 Jun 2022
+
 > [!info]- Cast & crew
 > **Director** [[Lee Toland Krieger]]
 > **Cast** [[Blake Lively]] · [[Michiel Huisman]] · [[Harrison Ford]] · [[Ellen Burstyn]] · [[Kathy Baker]] · [[Amanda Crew]] · [[Lynda Boyd]] · [[Hugh Ross]] · [[Richard Harmon]] · [[Fulvio Cecere]]

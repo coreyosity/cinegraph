@@ -67,6 +67,9 @@ providers:
 
 Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.
 
+> [!note]- Log
+> Watched 23 Nov 2022
+
 > [!info]- Cast & crew
 > **Director** [[Steve Box]]
 > **Cast** [[Peter Sallis]] · [[Ralph Fiennes]] · [[Helena Bonham Carter]] · [[Peter Kay]] · [[Nicholas Smith]] · [[Liz Smith]] · [[John Thomson]] · [[Mark Gatiss]] · [[Vincent Ebrahim]] · [[Geraldine McEwan]]

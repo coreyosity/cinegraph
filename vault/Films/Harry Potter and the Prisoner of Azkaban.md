@@ -76,6 +76,9 @@ providers:
 
 Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Alfonso Cuarón]]
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Robbie Coltrane]] · [[Michael Gambon]] · [[Gary Oldman]] · [[David Thewlis]] · [[Timothy Spall]] · [[Alan Rickman]] · [[Tom Felton]]

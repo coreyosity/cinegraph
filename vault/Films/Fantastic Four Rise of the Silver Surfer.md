@@ -72,6 +72,9 @@ providers:
 
 The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Story]]
 > **Cast** [[Ioan Gruffudd]] · [[Jessica Alba]] · [[Chris Evans]] · [[Michael Chiklis]] · [[Julian McMahon]] · [[Laurence Fishburne]] · [[Doug Jones]] · [[Kerry Washington]] · [[Andre Braugher]] · [[Beau Garrett]]

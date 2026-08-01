@@ -65,6 +65,9 @@ providers:
 
 After moving to a small town, Zach Cooper finds a silver lining when he meets next door neighbor Hannah, the daughter of bestselling Goosebumps series author R.L. Stine. When Zach unintentionally unleashes real monsters from their manuscripts and they begin to terrorize the town, it’s suddenly up to Stine, Zach and Hannah to get all of them back in the books where they belong.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Rob Letterman]]
 > **Cast** [[Dylan Minnette]] · [[Jack Black]] · [[Odeya Rush]] · [[Ryan Lee]] · [[Amy Ryan]] · [[Jillian Bell]] · [[Halston Sage]] · [[Steven Krueger]] · [[Keith Arthur Bolden]] · [[Amanda Lund]]

@@ -57,6 +57,9 @@ providers:
 
 A documentary filmmaker travels to Jellystone Park to shoot a project and soon crosses paths with Yogi Bear, his sidekick Boo-Boo, and Ranger Smith.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Eric Brevig]]
 > **Cast** [[Dan Aykroyd]] · [[Justin Timberlake]] · [[Anna Faris]] · [[Tom Cavanagh]] · [[T.J. Miller]] · [[Nate Corddry]] · [[Andy Daly]] · [[David Stott]] · [[Greg Johnson]] · [[Patricia Aldersley]]

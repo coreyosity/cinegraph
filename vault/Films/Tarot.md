@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 719221
 content_type: movie
 rating: 2.0
-watched: '2024-05-07'
+watched: '2024-05-06'
 runtime: 92
 genres:
 - Horror
@@ -52,9 +52,18 @@ providers:
 - fuboTV
 - YouTube TV
 - Crave Amazon Channel
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-blanch
 ---
 
 When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.
+
+> [!note]- Log
+> Watched 6 May 2024 · ★ 2.0
+> Tags  dean · andrew · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Spenser Cohen]]

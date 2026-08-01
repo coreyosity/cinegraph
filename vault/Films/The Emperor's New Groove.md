@@ -53,6 +53,9 @@ providers:
 
 When the self‑absorbed Emperor Kuzco is accidentally transformed into a llama, he must rely on a humble villager to survive the jungle and reclaim his throne.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mark Dindal]]
 > **Cast** [[David Spade]] · [[John Goodman]] · [[Eartha Kitt]] · [[Patrick Warburton]] · [[Wendie Malick]] · [[Kellyann Kelso]] · [[Eli Russell Linnetz]] · [[Stephen J. Anderson]] · [[Bob Bergen]] · [[Rodger Bumpass]]

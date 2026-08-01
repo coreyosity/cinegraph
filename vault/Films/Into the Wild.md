@@ -55,6 +55,9 @@ providers:
 
 After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.
 
+> [!note]- Log
+> Watched 23 Jun 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Sean Penn]]
 > **Cast** [[Emile Hirsch]] · [[Marcia Gay Harden]] · [[William Hurt]] · [[Jena Malone]] · [[Brian H. Dierker]] · [[Catherine Keener]] · [[Vince Vaughn]] · [[Kristen Stewart]] · [[Hal Holbrook]] · [[Thure Lindhardt]]

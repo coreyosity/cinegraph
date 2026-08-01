@@ -50,6 +50,9 @@ providers:
 
 When a struggling comedian shows one act of kindness to a vulnerable woman, it sparks a suffocating obsession which threatens to wreck both their lives.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Richard Gadd]]
 > **Cast** [[Richard Gadd]] · [[Jessica Gunning]] · [[Nava Mau]]

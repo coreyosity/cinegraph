@@ -48,6 +48,9 @@ providers:
 
 Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]
 > **Cast** [[Mark Hamill]] · [[Carrie Fisher]] · [[Adam Driver]] · [[Daisy Ridley]] · [[John Boyega]] · [[Oscar Isaac]] · [[Andy Serkis]] · [[Lupita Nyong'o]] · [[Domhnall Gleeson]] · [[Anthony Daniels]]

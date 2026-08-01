@@ -63,6 +63,9 @@ providers:
 
 John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Seth MacFarlane]]
 > **Cast** [[Mark Wahlberg]] · [[Mila Kunis]] · [[Seth MacFarlane]] · [[Joel McHale]] · [[Giovanni Ribisi]] · [[Patrick Warburton]] · [[Matt Walsh]] · [[Jessica Barth]] · [[Aedin Mincks]] · [[Bill Smitrovich]]

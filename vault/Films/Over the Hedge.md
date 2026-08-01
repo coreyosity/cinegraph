@@ -65,6 +65,9 @@ providers:
 
 A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating – and learns a lesson about family himself.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Karey Kirkpatrick]]
 > **Cast** [[Bruce Willis]] · [[Garry Shandling]] · [[Steve Carell]] · [[Wanda Sykes]] · [[William Shatner]] · [[Nick Nolte]] · [[Thomas Haden Church]] · [[Allison Janney]] · [[Eugene Levy]] · [[Catherine O'Hara]]

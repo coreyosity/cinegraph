@@ -66,6 +66,9 @@ providers:
 
 The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[F. Gary Gray]]
 > **Cast** [[Chris Hemsworth]] · [[Tessa Thompson]] · [[Kumail Nanjiani]] · [[Rebecca Ferguson]] · [[Rafe Spall]] · [[Emma Thompson]] · [[Liam Neeson]] · [[Laurent Bourgeois]] · [[Larry Bourgeois]] · [[Kayvan Novak]]

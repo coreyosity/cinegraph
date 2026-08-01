@@ -60,6 +60,9 @@ providers:
 
 Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Todd Phillips]]
 > **Cast** [[Luke Wilson]] · [[Will Ferrell]] · [[Vince Vaughn]] · [[Jeremy Piven]] · [[Ellen Pompeo]] · [[Craig Kilborn]] · [[Perrey Reeves]] · [[Sara Tanaka]] · [[Juliette Lewis]] · [[Elisha Cuthbert]]

@@ -56,6 +56,9 @@ providers:
 
 On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Lin-Manuel Miranda]]
 > **Cast** [[Andrew Garfield]] · [[Alexandra Shipp]] · [[Robin de Jesús]] · [[Michaela Jaé Rodriguez]] · [[Ben Levi Ross]] · [[Jonathan Marc Sherman]] · [[Vanessa Hudgens]] · [[Joshua Henry]] · [[Bradley Whitford]] · [[Judith Light]]

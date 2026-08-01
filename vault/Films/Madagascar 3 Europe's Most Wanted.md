@@ -69,6 +69,9 @@ providers:
 
 Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Eric Darnell]]
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Frances McDormand]] · [[Sacha Baron Cohen]] · [[Andy Richter]] · [[Cedric the Entertainer]] · [[Jessica Chastain]] · [[Bryan Cranston]]

@@ -92,6 +92,9 @@ providers:
 
 After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, he and Donkey set off to bring him back to rule the kingdom.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Miller]]
 > **Cast** [[Mike Myers]] · [[Eddie Murphy]] · [[Cameron Diaz]] · [[Antonio Banderas]] · [[Julie Andrews]] · [[John Cleese]] · [[Rupert Everett]] · [[Eric Idle]] · [[Justin Timberlake]] · [[Susanne Blakeslee]]

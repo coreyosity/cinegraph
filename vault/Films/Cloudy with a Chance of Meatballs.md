@@ -58,6 +58,9 @@ providers:
 
 Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling the down-and-out citizens of Chewandswallow to feed themselves. But when the falling food reaches gargantuan proportions, Flint must scramble to avert disaster. Can he regain control of the machine and put an end to the wild weather before the town is destroyed?
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Christopher Miller]]
 > **Cast** [[Bill Hader]] · [[Anna Faris]] · [[James Caan]] · [[Andy Samberg]] · [[Bruce Campbell]] · [[Mr. T]] · [[Bobb'e J. Thompson]] · [[Benjamin Bratt]] · [[Neil Patrick Harris]] · [[Al Roker]]

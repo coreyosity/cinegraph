@@ -5,7 +5,7 @@ year: 2019
 tmdb_id: 331482
 content_type: movie
 rating: 4.5
-watched: '2024-07-30'
+watched: '2024-07-29'
 runtime: 135
 genres:
 - Drama
@@ -63,9 +63,17 @@ providers:
 - Foxtel Now
 - Stan
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- disney+
+- home
 ---
 
 Four sisters come of age in America in the aftermath of the Civil War.
+
+> [!note]- Log
+> Watched 29 Jul 2024 · ★ 4.5
+> Tags  myself · disney+ · home
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

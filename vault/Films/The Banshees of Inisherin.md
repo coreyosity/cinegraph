@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 674324
 content_type: movie
 rating: 4.5
-watched: '2022-10-23'
+watched: '2022-10-22'
 runtime: 114
 genres:
 - Drama
@@ -54,9 +54,17 @@ providers:
 - Channel 4 Plus
 - fuboTV
 - YouTube TV
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.
+
+> [!note]- Log
+> Watched 22 Oct 2022 · ★ 4.5
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Martin McDonagh]]

@@ -62,6 +62,9 @@ providers:
 
 12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Harald Zwart]]
 > **Cast** [[Jaden Smith]] · [[Jackie Chan]] · [[Taraji P. Henson]] · [[Wenwen Han]] · [[Zac Wang]] · [[Yu Rongguang]] · [[Wu Zhensu]] · [[Wang Ji]] · [[Tess Liu]] · [[Xu Ming]]

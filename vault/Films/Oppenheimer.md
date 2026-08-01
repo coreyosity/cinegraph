@@ -64,9 +64,19 @@ letterboxd: https://boxd.it/wUow
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- eoghan
+- linda
+- imax
+- cinema
+- cineworld
 ---
 
 The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.
+
+> [!note]- Log
+> Watched 23 Jul 2023 · ★ 4.5
+> Tags  eoghan · linda · imax · cinema · cineworld
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]

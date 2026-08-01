@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 661374
 content_type: movie
 rating: 4.0
-watched: '2023-01-15'
+watched: '2023-01-14'
 runtime: 140
 genres:
 - Comedy
@@ -54,9 +54,19 @@ letterboxd: https://boxd.it/oCkK
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- caleb
+- mam
+- dad
+- netflix
+- wexford
 ---
 
 World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.
+
+> [!note]- Log
+> Watched 14 Jan 2023 · ★ 4.0
+> Tags  caleb · mam · dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]

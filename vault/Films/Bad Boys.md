@@ -80,6 +80,9 @@ providers:
 
 Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Bay]]
 > **Cast** [[Will Smith]] · [[Martin Lawrence]] · [[Téa Leoni]] · [[Tchéky Karyo]] · [[Joe Pantoliano]] · [[Theresa Randle]] · [[Marg Helgenberger]] · [[Nestor Serrano]] · [[Julio Oscar Mechoso]] · [[Saverio Guerra]]

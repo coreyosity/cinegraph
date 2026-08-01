@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 426063
 content_type: movie
 rating: 4.0
-watched: '2025-01-08'
+watched: '2025-01-07'
 runtime: 133
 genres:
 - Horror
@@ -72,9 +72,19 @@ providers:
 - Foxtel Now
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-the-point
+- isense
 ---
 
 A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
+
+> [!note]- Log
+> Watched 7 Jan 2025 · ★ 4.0
+> Tags  dean · andrew · cinema · odeon-the-point · isense
 
 > [!info]- Cast & crew
 > **Director** [[Robert Eggers]]

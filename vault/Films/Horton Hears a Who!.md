@@ -49,6 +49,9 @@ providers:
 
 An imaginative elephant named Horton hears a faint cry for help coming from a tiny speck of dust floating through the air. Horton suspects there may be life on that speck and despite a surrounding community, who thinks he has lost his mind, he is determined to save the tiny particle.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steve Martino]]
 > **Cast** [[Jim Carrey]] · [[Steve Carell]] · [[Carol Burnett]] · [[Will Arnett]] · [[Seth Rogen]] · [[Dan Fogler]] · [[Isla Fisher]] · [[Jonah Hill]] · [[Amy Poehler]] · [[Jaime Pressly]]

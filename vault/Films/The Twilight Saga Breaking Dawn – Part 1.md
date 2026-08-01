@@ -68,6 +68,9 @@ providers:
 
 Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayals and unforeseen tragedies that endanger their world.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Bill Condon]]
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Michael Sheen]] · [[Elizabeth Reaser]] · [[Kellan Lutz]] · [[Nikki Reed]] · [[Jackson Rathbone]]

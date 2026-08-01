@@ -5,7 +5,7 @@ year: 2003
 tmdb_id: 11423
 content_type: movie
 rating: 5.0
-watched: '2024-06-08'
+watched: '2024-06-07'
 runtime: 131
 genres:
 - Crime
@@ -63,9 +63,17 @@ providers:
 - BFI Player Apple TV Channel
 - ITVX Premium
 - Stan
+log_tags:
+- myself
+- home
+- torrent
 ---
 
 A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to unravel the violent mind of the killer in a futile effort to solve the case.
+
+> [!note]- Log
+> Watched 7 Jun 2024 · ★ 5.0
+> Tags  myself · home · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]

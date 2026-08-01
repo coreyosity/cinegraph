@@ -52,6 +52,9 @@ providers:
 
 As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.
 
+> [!note]- Log
+> Watched 26 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Seth MacFarlane]]
 > **Cast** [[Seth MacFarlane]] · [[Charlize Theron]] · [[Amanda Seyfried]] · [[Liam Neeson]] · [[Giovanni Ribisi]] · [[Neil Patrick Harris]] · [[Sarah Silverman]] · [[Christopher Hagen]] · [[Wes Studi]] · [[Matt Clark]]

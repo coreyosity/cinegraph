@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1422096
 content_type: movie
 rating: 2.0
-watched: '2025-10-19'
+watched: '2025-10-06'
 runtime: 73
 genres:
 - Horror
@@ -60,9 +60,21 @@ providers:
 - Shudder Apple TV Channel
 - Crave
 - Crave Amazon Channel
+log_tags:
+- dean
+- andrew
+- eve
+- luke
+- grace
+- cinema
+- odeon-the-point
 ---
 
 A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.
+
+> [!note]- Log
+> Watched 6 Oct 2025 · ★ 2.0
+> Tags  dean · andrew · eve · luke · grace · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Ben Leonberg]]

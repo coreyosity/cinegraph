@@ -71,6 +71,9 @@ providers:
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
+> [!note]- Log
+> Watched 11 Apr 2022
+
 > [!info]- Cast & crew
 > **Director** [[Andy Muschietti]]
 > **Cast** [[Jessica Chastain]] · [[James McAvoy]] · [[Bill Hader]] · [[Isaiah Mustafa]] · [[Jay Ryan]] · [[James Ransone]] · [[Andy Bean]] · [[Bill Skarsgård]] · [[Jaeden Martell]] · [[Wyatt Oleff]]

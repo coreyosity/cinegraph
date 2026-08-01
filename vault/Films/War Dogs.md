@@ -52,6 +52,9 @@ providers:
 
 Based on the true story of two young men, David Packouz and Efraim Diveroli, who won a $300 million contract from the Pentagon to arm America's allies in Afghanistan.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Todd Phillips]]
 > **Cast** [[Miles Teller]] · [[Jonah Hill]] · [[Ana de Armas]] · [[Bradley Cooper]] · [[Kevin Pollak]] · [[Patrick St. Esprit]] · [[Shaun Toub]] · [[JB Blanc]] · [[Gabriel Spahiu]] · [[Julian Sergi]]

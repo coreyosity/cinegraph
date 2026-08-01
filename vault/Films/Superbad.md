@@ -64,6 +64,9 @@ providers:
 
 Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Greg Mottola]]
 > **Cast** [[Jonah Hill]] · [[Michael Cera]] · [[Christopher Mintz-Plasse]] · [[Bill Hader]] · [[Seth Rogen]] · [[Martha MacIsaac]] · [[Emma Stone]] · [[Aviva Baumann]] · [[Joe Lo Truglio]] · [[Kevin Corrigan]]

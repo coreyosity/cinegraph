@@ -68,6 +68,9 @@ providers:
 
 A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Damien Chazelle]]
 > **Cast** [[Ryan Gosling]] · [[Claire Foy]] · [[Jason Clarke]] · [[Kyle Chandler]] · [[Corey Stoll]] · [[Patrick Fugit]] · [[Christopher Abbott]] · [[Ciarán Hinds]] · [[Olivia Hamilton]] · [[Pablo Schreiber]]

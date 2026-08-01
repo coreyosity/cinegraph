@@ -50,6 +50,9 @@ providers:
 
 Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[Cate Shortland]]
 > **Cast** [[Scarlett Johansson]] · [[Florence Pugh]] · [[Rachel Weisz]] · [[David Harbour]] · [[Ray Winstone]] · [[Ever Anderson]] · [[Violet McGraw]] · [[O-T Fagbenle]] · [[William Hurt]] · [[Olga Kurylenko]]

@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 438631
 content_type: movie
 rating: 5.0
-watched: '2022-03-27'
+watched: '2024-02-29'
 runtime: 155
 genres:
 - Science Fiction
@@ -66,9 +66,19 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
+rewatch: true
+log_tags:
+- dean
+- andrew
+- bluray
+- home
 ---
 
 Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.
+
+> [!note]- Log
+> Watched 29 Feb 2024 · ★ 5.0 · Rewatch
+> Tags  dean · andrew · bluray · home
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 792293
 content_type: movie
 rating: 4.0
-watched: '2023-09-22'
+watched: '2023-09-21'
 runtime: 105
 genres:
 - History
@@ -81,9 +81,17 @@ providers:
 - Crave
 - Crave Amazon Channel
 - Stan
+log_tags:
+- myself
+- odeon-blanch
+- cinema
 ---
 
 Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it. When social media starts blowing up, so do his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich—until the billionaires fight back, and both sides find their worlds turned upside down.
+
+> [!note]- Log
+> Watched 21 Sep 2023 · ★ 4.0
+> Tags  myself · odeon-blanch · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Craig Gillespie]]

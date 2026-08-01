@@ -70,6 +70,9 @@ providers:
 
 The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Sam Raimi]]
 > **Cast** [[Tobey Maguire]] · [[Kirsten Dunst]] · [[James Franco]] · [[Thomas Haden Church]] · [[Topher Grace]] · [[Bryce Dallas Howard]] · [[Rosemary Harris]] · [[J.K. Simmons]] · [[James Cromwell]] · [[Dylan Baker]]

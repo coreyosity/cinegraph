@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 823464
 content_type: movie
 rating: 2.5
-watched: '2024-04-08'
+watched: '2024-04-07'
 runtime: 115
 genres:
 - Action
@@ -51,9 +51,19 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+log_tags:
+- andrew
+- cinema
+- odeon-blanch
+- imax
+- 3d
 ---
 
 Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
+
+> [!note]- Log
+> Watched 7 Apr 2024 · ★ 2.5
+> Tags  andrew · cinema · odeon-blanch · imax · 3d
 
 > [!info]- Cast & crew
 > **Director** [[Adam Wingard]]

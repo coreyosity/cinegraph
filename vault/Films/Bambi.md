@@ -48,6 +48,9 @@ providers:
 
 Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Hand]]
 > **Cast** [[Donnie Dunagan]] · [[Peter Behn]] · [[Stan Alexander]] · [[Cammie King]] · [[Will Wright]] · [[Hardie Albright]] · [[Ann Gillis]] · [[Tim Davis]] · [[Sam Edwards]] · [[Sterling Holloway]]

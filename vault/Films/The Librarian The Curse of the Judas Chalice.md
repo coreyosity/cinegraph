@@ -48,6 +48,9 @@ providers:
 
 While on a dangerous mission to recover the historic Judas Chalice, Flynn is saved by Simone. But when double-crossed by a respected professor and ambushed by a ruthless gang, Flynn realizes Simone's secret, his true mission and a shocking discovery are all lying within a decaying New Orleans crypt.
 
+> [!note]- Log
+> Watched 9 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jonathan Frakes]]
 > **Cast** [[Noah Wyle]] · [[Stana Katic]] · [[Jane Curtin]] · [[Bob Newhart]] · [[Bruce Davison]] · [[Dikran Tulaine]] · [[Jason Douglas]] · [[Beth Burvant]] · [[Aimée Spring Fortier]] · [[Earl Maddox]]

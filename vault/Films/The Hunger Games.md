@@ -4,7 +4,7 @@ title: The Hunger Games
 year: 2012
 tmdb_id: 70160
 content_type: movie
-watched: '2023-05-03'
+watched: '2023-12-19'
 runtime: 142
 genres:
 - Science Fiction
@@ -83,9 +83,18 @@ providers:
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
+rewatch: true
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.
+
+> [!note]- Log
+> Watched 19 Dec 2023 · Rewatch
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Gary Ross]]

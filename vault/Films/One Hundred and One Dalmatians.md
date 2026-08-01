@@ -50,6 +50,9 @@ providers:
 
 When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Hamilton Luske]]
 > **Cast** [[Rod Taylor]] · [[J. Pat O'Malley]] · [[Betty Lou Gerson]] · [[Martha Wentworth]] · [[Ben Wright]] · [[Cate Bauer]] · [[David Frankham]] · [[Frederick Worlock]] · [[Lisa Davis]] · [[Tom Conway]]

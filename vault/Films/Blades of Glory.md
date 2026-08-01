@@ -55,6 +55,9 @@ providers:
 
 When a much-publicized ice-skating scandal strips them of their gold medals, two world-class athletes skirt their way back onto the ice via a loophole that allows them to compete together as a pairs team.
 
+> [!note]- Log
+> Watched 12 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Will Speck]]
 > **Cast** [[Will Ferrell]] · [[Jon Heder]] · [[Will Arnett]] · [[Amy Poehler]] · [[Jenna Fischer]] · [[William Fichtner]] · [[Craig T. Nelson]] · [[Romany Malco]] · [[Nick Swardson]] · [[Scott Hamilton]]

@@ -5,7 +5,7 @@ year: 1989
 tmdb_id: 165
 content_type: movie
 rating: 3.5
-watched: '2024-05-10'
+watched: '2025-12-07'
 runtime: 108
 genres:
 - Adventure
@@ -62,9 +62,17 @@ providers:
 - Crave Amazon Channel
 - BINGE
 - Foxtel Now
+log_tags:
+- home
+- myself
+- netflix
 ---
 
 Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.
+
+> [!note]- Log
+> Watched 7 Dec 2025 · ★ 3.5
+> Tags  home · myself · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

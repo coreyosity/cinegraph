@@ -5,7 +5,7 @@ year: 2001
 tmdb_id: 1018
 content_type: movie
 rating: 4.0
-watched: '2026-05-15'
+watched: '2026-05-13'
 runtime: 147
 genres:
 - Thriller
@@ -70,9 +70,16 @@ providers:
 - MUBI Amazon Channel
 - HBO Max
 - HBO Max Amazon Channel
+log_tags:
+- myself
+- home
 ---
 
 Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.
+
+> [!note]- Log
+> Watched 13 May 2026 · ★ 4.0
+> Tags  myself · home
 
 > [!info]- Cast & crew
 > **Director** [[David Lynch]]

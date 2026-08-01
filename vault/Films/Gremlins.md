@@ -72,6 +72,9 @@ providers:
 
 After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joe Dante]]
 > **Cast** [[Zach Galligan]] · [[Phoebe Cates]] · [[Hoyt Axton]] · [[Frances Lee McCain]] · [[Corey Feldman]] · [[Keye Luke]] · [[John Louie]] · [[Dick Miller]] · [[Jackie Joseph]] · [[Polly Holliday]]

@@ -53,6 +53,9 @@ providers:
 
 From the mean streets of the Belleville district of Paris to the dazzling limelight of New York's most famous concert halls, Edith Piaf's life was a constant battle to sing and survive, to live and love. Raised in her grandmother's brothel, Piaf was discovered in 1935 by nightclub owner Louis Leplee, who persuaded her to sing despite her extreme nervousness. Piaf became one of France's immortal icons, her voice one of the indelible signatures of the 20th century.
 
+> [!note]- Log
+> Watched 24 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Olivier Dahan]]
 > **Cast** [[Marion Cotillard]] · [[Sylvie Testud]] · [[Pascal Greggory]] · [[Emmanuelle Seigner]] · [[Jean-Paul Rouve]] · [[Gérard Depardieu]] · [[Clotilde Courau]] · [[Jean-Pierre Martins]] · [[Catherine Allégret]] · [[Marc Barbé]]

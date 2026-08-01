@@ -5,7 +5,7 @@ year: 2018
 tmdb_id: 397722
 content_type: movie
 rating: 3.5
-watched: '2022-10-26'
+watched: '2022-10-25'
 runtime: 92
 genres:
 - Drama
@@ -57,9 +57,17 @@ providers:
 - Amazon Prime Video
 - Starz Apple TV Channel
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 Lily and Amanda, two high school students living in suburban Connecticut, rekindle their unlikely friendship after years of drifting apart. Together, they devise a plan to kill Lily's abusive stepfather by hiring a lowlife drug dealer.
+
+> [!note]- Log
+> Watched 25 Oct 2022 · ★ 3.5
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Cory Finley]]

@@ -61,9 +61,17 @@ providers:
 - YouTube TV
 - Crave
 - Crave Amazon Channel
+log_tags:
+- odeon-the-point
+- andrew
+- dean
 ---
 
 Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.
+
+> [!note]- Log
+> Watched 18 May 2025 · ★ 3.0
+> Tags  odeon-the-point · andrew · dean
 
 > [!info]- Cast & crew
 > **Director** [[Adam Stein]]

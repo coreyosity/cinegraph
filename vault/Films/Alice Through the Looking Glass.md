@@ -63,6 +63,9 @@ providers:
 
 Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[James Bobin]]
 > **Cast** [[Mia Wasikowska]] · [[Johnny Depp]] · [[Anne Hathaway]] · [[Helena Bonham Carter]] · [[Sacha Baron Cohen]] · [[Matt Lucas]] · [[Alan Rickman]] · [[Stephen Fry]] · [[Michael Sheen]] · [[Timothy Spall]]

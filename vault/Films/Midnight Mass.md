@@ -40,6 +40,9 @@ providers:
 
 Two worn-out wrestling brothers take part in a midnight fight on Halloween. What they do not know: While they are trapped in the wrestling arena, their opponents and the audience were infected with a mutated variant of rabies. Equipped only with their martial arts and wrestling masks, the brothers have to fight for their lives and prevent the virus from breaking out.
 
+> [!note]- Log
+> Watched 26 Oct 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Max Martini]]
 > **Cast** [[Chris Margetis]] · [[Mike Carey]] · [[Adrian Pasdar]] · [[D. B. Sweeney]] · [[Randy Couture]] · [[Bas Rutten]] · [[Mike O'Hearn]] · [[Mindy Robinson]] · [[Max Martini]] · [[Luce Rains]]

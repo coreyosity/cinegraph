@@ -55,6 +55,9 @@ providers:
 
 The Baker brood moves to Chicago after patriarch Tom gets a job coaching football at Northwestern University, forcing his writer wife, Kate, and the couple's 12 children to make a major adjustment. The transition works well until work demands pull the parents away from home, leaving the kids bored -- and increasingly mischievous.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]
 > **Cast** [[Steve Martin]] · [[Bonnie Hunt]] · [[Hilary Duff]] · [[Tom Welling]] · [[Piper Perabo]] · [[Kevin G. Schmidt]] · [[Alyson Stoner]] · [[Jacob Smith]] · [[Liliana Mumy]] · [[Morgan York]]

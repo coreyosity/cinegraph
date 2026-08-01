@@ -51,6 +51,9 @@ providers:
 
 Garfield, the fat, lazy, lasagna lover, has everything a cat could want. But when Jon, in an effort to impress the Liz - the vet and an old high-school crush - adopts a dog named Odie and brings him home, Garfield gets the one thing he doesn't want. Competition.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Hewitt]]
 > **Cast** [[Bill Murray]] · [[Breckin Meyer]] · [[Jennifer Love Hewitt]] · [[Stephen Tobolowsky]] · [[Evan Arnold]] · [[Mark Christopher Lawrence]] · [[Jimmy Kimmel]] · [[Debra Messing]] · [[Nick Cannon]] · [[Alan Cumming]]

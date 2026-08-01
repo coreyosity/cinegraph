@@ -50,6 +50,9 @@ providers:
 
 When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Shane Black]]
 > **Cast** [[Robert Downey Jr]] · [[Gwyneth Paltrow]] · [[Don Cheadle]] · [[Guy Pearce]] · [[Rebecca Hall]] · [[Jon Favreau]] · [[Ben Kingsley]] · [[James Badge Dale]] · [[Stephanie Szostak]] · [[Paul Bettany]]

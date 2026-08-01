@@ -25,6 +25,9 @@ letterboxd: https://boxd.it/fdA6
 
 Compilation of the popular psychic ghost story series "Million Scariest Videos - The Most Fearful True Stories Ghost Stories"! This volume contains a total of 27 ghost stories, the most terrifying true ghost stories in the series! These are ghost stories that have attracted particular attention in the ghost story world and have never been heard before, told by 11 ghost storytellers of various personalities! The book is supervised by Kaos Sumikura, the "Jurei Guide" who has produced a number of horror videos such as the "Scary Movie Series" and is the guide for "One Million Horror Stories," a website that collects ghost stories for posting.
 
+> [!note]- Log
+> Watched 20 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Kaosu Sumikura]]
 > **Cast** [[Kaosu Sumikura]] · [[Kazuya Nishiura]]

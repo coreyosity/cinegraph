@@ -66,6 +66,9 @@ providers:
 
 In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuous Chieftain's daughter's island, she answers the Ocean's call to seek out the demigod to set things right.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Ron Clements]]
 > **Cast** [[Auliʻi Cravalho]] · [[Dwayne Johnson]] · [[Rachel House]] · [[Temuera Morrison]] · [[Jemaine Clement]] · [[Nicole Scherzinger]] · [[Alan Tudyk]] · [[Louise Bush]] · [[Oscar Kightley]] · [[Troy Polamalu]]

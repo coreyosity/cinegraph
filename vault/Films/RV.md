@@ -56,6 +56,9 @@ providers:
 
 Climbing aboard their mammoth recreational vehicle for a cross-country road trip to the Colorado Rockies, the Munro family – led by dysfunctional patriarch, Bob – prepares for the adventure of a lifetime. But spending two weeks together in one seriously small space has a way of cramping their style.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Barry Sonnenfeld]]
 > **Cast** [[Robin Williams]] · [[Cheryl Hines]] · [[JoJo]] · [[Josh Hutcherson]] · [[Jeff Daniels]] · [[Kristin Chenoweth]] · [[Hunter Parrish]] · [[Chloe Sonnenfeld]] · [[Alex Ferris]] · [[Will Arnett]]

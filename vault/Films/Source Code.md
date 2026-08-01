@@ -4,7 +4,7 @@ title: Source Code
 year: 2011
 tmdb_id: 45612
 content_type: movie
-watched: '2024-02-08'
+watched: '2024-02-07'
 runtime: 93
 genres:
 - Thriller
@@ -59,9 +59,17 @@ providers:
 - Stan
 - HBO Max
 - HBO Max Amazon Channel
+log_tags:
+- dad
+- netflix
+- wexford
 ---
 
 When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.
+
+> [!note]- Log
+> Watched 7 Feb 2024
+> Tags  dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Duncan Jones]]

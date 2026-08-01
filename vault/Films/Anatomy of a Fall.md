@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 915935
 content_type: movie
 rating: 5.0
-watched: '2025-01-26'
+watched: '2025-01-25'
 runtime: 151
 genres:
 - Thriller
@@ -63,9 +63,17 @@ providers:
 - Crave Amazon Channel
 - MUBI
 - MUBI Amazon Channel
+log_tags:
+- dean
+- home
+- prime
 ---
 
 A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.
+
+> [!note]- Log
+> Watched 25 Jan 2025 · ★ 5.0
+> Tags  dean · home · prime
 
 > [!info]- Cast & crew
 > **Director** [[Justine Triet]]

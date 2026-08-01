@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 667216
 content_type: movie
 rating: 4.5
-watched: '2023-05-02'
+watched: '2023-05-01'
 runtime: 118
 genres:
 - Horror
@@ -61,9 +61,17 @@ providers:
 - Netflix
 - iciTouTV
 - Netflix Standard with Ads
+log_tags:
+- dean
+- cinema
+- odeon-blanch
 ---
 
 While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.
+
+> [!note]- Log
+> Watched 1 May 2023 · ★ 4.5
+> Tags  dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Brandon Cronenberg]]

@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1061474
 content_type: movie
 rating: 4.0
-watched: '2025-07-18'
+watched: '2025-07-14'
 runtime: 130
 genres:
 - Science Fiction
@@ -66,9 +66,19 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- odeon-the-point
+- cinema
+- dean
+- andrew
+- grace
 ---
 
 Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.
+
+> [!note]- Log
+> Watched 14 Jul 2025 · ★ 4.0
+> Tags  odeon-the-point · cinema · dean · andrew · grace
 
 > [!info]- Cast & crew
 > **Director** [[James Gunn]]

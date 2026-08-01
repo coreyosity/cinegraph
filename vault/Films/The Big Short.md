@@ -5,7 +5,7 @@ year: 2015
 tmdb_id: 318846
 content_type: movie
 rating: 4.0
-watched: '2024-09-28'
+watched: '2024-09-27'
 runtime: 131
 genres:
 - Comedy
@@ -59,9 +59,18 @@ providers:
 - Netflix Standard with Ads
 - Paramount Plus Basic with Ads
 - Stan
+log_tags:
+- dad
+- caleb
+- wexford
+- prime
 ---
 
 The men who made millions from a global economic meltdown.
+
+> [!note]- Log
+> Watched 27 Sep 2024 · ★ 4.0
+> Tags  dad · caleb · wexford · prime
 
 > [!info]- Cast & crew
 > **Director** [[Adam McKay]]

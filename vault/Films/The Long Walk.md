@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 604079
 content_type: movie
 rating: 4.0
-watched: '2025-09-29'
+watched: '2025-09-13'
 runtime: 108
 genres:
 - Science Fiction
@@ -67,9 +67,17 @@ providers:
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- cinema
+- myself
+- cineworld
 ---
 
 In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.
+
+> [!note]- Log
+> Watched 13 Sep 2025 · ★ 4.0
+> Tags  cinema · myself · cineworld
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

@@ -51,6 +51,9 @@ providers:
 
 Rodney Copperbottom is a young robot inventor who dreams of making the world a better place, until the evil Ratchet takes over Bigweld Industries. Now, Rodney's dreams – and those of his friends – are in danger of becoming obsolete.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Wedge]]
 > **Cast** [[Ewan McGregor]] · [[Halle Berry]] · [[Greg Kinnear]] · [[Mel Brooks]] · [[Drew Carey]] · [[Amanda Bynes]] · [[Robin Williams]] · [[Jim Broadbent]] · [[Stanley Tucci]] · [[Dianne Wiest]]

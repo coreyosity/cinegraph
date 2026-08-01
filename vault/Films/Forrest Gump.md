@@ -86,6 +86,9 @@ providers:
 
 A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]
 > **Cast** [[Tom Hanks]] · [[Robin Wright]] · [[Gary Sinise]] · [[Sally Field]] · [[Mykelti Williamson]] · [[Michael Conner Humphreys]] · [[Hanna Hall]] · [[Haley Joel Osment]] · [[Siobhan Fallon Hogan]] · [[Rebecca Williams]]

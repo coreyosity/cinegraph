@@ -58,6 +58,9 @@ providers:
 
 Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.
 
+> [!note]- Log
+> Watched 27 Mar 2022
+
 > [!info]- Cast & crew
 > **Director** [[George Lucas]]
 > **Cast** [[Mark Hamill]] · [[Harrison Ford]] · [[Carrie Fisher]] · [[Peter Cushing]] · [[Alec Guinness]] · [[Anthony Daniels]] · [[Kenny Baker]] · [[Peter Mayhew]] · [[David Prowse]] · [[James Earl Jones]]

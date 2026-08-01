@@ -54,6 +54,9 @@ providers:
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Gareth Edwards]]
 > **Cast** [[Felicity Jones]] · [[Diego Luna]] · [[Alan Tudyk]] · [[Donnie Yen]] · [[Jiang Wen]] · [[Ben Mendelsohn]] · [[Guy Henry]] · [[Forest Whitaker]] · [[Riz Ahmed]] · [[Mads Mikkelsen]]

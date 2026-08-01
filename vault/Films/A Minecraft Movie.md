@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 950387
 content_type: movie
 rating: 2.0
-watched: '2025-04-06'
+watched: '2025-04-04'
 runtime: 101
 genres:
 - Family
@@ -69,9 +69,20 @@ providers:
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- cinema
+- dean
+- andrew
+- odeon-the-point
+- eve
+- grace
 ---
 
 Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.
+
+> [!note]- Log
+> Watched 4 Apr 2025 · ★ 2.0
+> Tags  cinema · dean · andrew · odeon-the-point · eve · grace
 
 > [!info]- Cast & crew
 > **Director** [[Jared Hess]]

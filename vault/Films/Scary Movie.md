@@ -67,6 +67,9 @@ providers:
 
 A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Keenen Ivory Wayans]]
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Marlon Wayans]] · [[Shawn Wayans]] · [[Jon Abrahams]] · [[Lochlyn Munro]] · [[Shannon Elizabeth]] · [[Dave Sheridan]] · [[Cheri Oteri]] · [[Tanja Reichert]]

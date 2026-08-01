@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 346698
 content_type: movie
 rating: 4.0
-watched: '2023-08-05'
+watched: '2023-07-28'
 runtime: 114
 genres:
 - Comedy
@@ -66,9 +66,18 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+log_tags:
+- eoghan
+- linda
+- cineworld
+- cinema
 ---
 
 Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.
+
+> [!note]- Log
+> Watched 28 Jul 2023 · ★ 4.0
+> Tags  eoghan · linda · cineworld · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

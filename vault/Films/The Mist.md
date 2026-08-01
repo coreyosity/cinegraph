@@ -71,6 +71,9 @@ providers:
 
 After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Frank Darabont]]
 > **Cast** [[Thomas Jane]] · [[Laurie Holden]] · [[Toby Jones]] · [[Marcia Gay Harden]] · [[Andre Braugher]] · [[William Sadler]] · [[Jeffrey DeMunn]] · [[Frances Sternhagen]] · [[Sam Witwer]] · [[Alexa Davalos]]

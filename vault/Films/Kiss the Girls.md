@@ -66,6 +66,9 @@ providers:
 
 Forensic psychologist and detective Alex Cross travels to North Carolina and teams with escaped kidnap victim Kate McTiernan to hunt down "Casanova," a serial killer who abducts strong-willed women and forces them to submit to his demands. The trail leads to Los Angeles, where the duo discovers that the psychopath may not be working alone.
 
+> [!note]- Log
+> Watched 23 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[Gary Fleder]]
 > **Cast** [[Morgan Freeman]] · [[Ashley Judd]] · [[Cary Elwes]] · [[Alex McArthur]] · [[Tony Goldwyn]] · [[Jay O. Sanders]] · [[Bill Nunn]] · [[Brian Cox]] · [[Richard T. Jones]] · [[Roma Maffia]]

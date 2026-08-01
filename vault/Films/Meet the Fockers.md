@@ -66,6 +66,9 @@ providers:
 
 Hard-to-crack ex-CIA man Jack Byrnes and his wife Dina head for the warmer climes of Florida to meet the parents of their son-in-law-to-be, Greg Focker. Unlike their happily matched offspring, the future in-laws find themselves in a situation of opposites that definitely do not attract.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jay Roach]]
 > **Cast** [[Ben Stiller]] · [[Robert De Niro]] · [[Dustin Hoffman]] · [[Barbra Streisand]] · [[Blythe Danner]] · [[Teri Polo]] · [[Owen Wilson]] · [[Spencer Pickren]] · [[Bradley Pickren]] · [[Alanna Ubach]]

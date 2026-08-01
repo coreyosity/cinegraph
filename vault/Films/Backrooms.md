@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 1083381
 content_type: movie
 rating: 3.0
-watched: '2026-06-08'
+watched: '2026-06-05'
 runtime: 111
 genres:
 - Horror
@@ -57,9 +57,23 @@ poster: https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg
 tags:
 - film
 letterboxd: https://boxd.it/EY6W
+log_tags:
+- cinema
+- lighthouse
+- conor
+- alex cullen
+- martha
+- ella
+- luke mcg
+- eoin wall
+- michal
 ---
 
 A strange doorway appears in the basement of a furniture showroom.
+
+> [!note]- Log
+> Watched 5 Jun 2026 · ★ 3.0
+> Tags  cinema · lighthouse · conor · alex cullen · martha · ella · luke mcg · eoin wall · michal
 
 > [!info]- Cast & crew
 > **Director** [[Kane Parsons]]

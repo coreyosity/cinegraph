@@ -48,6 +48,9 @@ providers:
 
 We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens’ advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Roland Emmerich]]
 > **Cast** [[Liam Hemsworth]] · [[Jeff Goldblum]] · [[Jessie T. Usher]] · [[Bill Pullman]] · [[Maika Monroe]] · [[Travis Tope]] · [[AngelaBaby]] · [[Charlotte Gainsbourg]] · [[Judd Hirsch]] · [[William Fichtner]]

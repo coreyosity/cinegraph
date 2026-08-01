@@ -62,6 +62,9 @@ providers:
 
 At a high-school party, four friends find that losing their collective virginity isn't as easy as they had thought. But they still believe that they need to do so before college. To motivate themselves, they enter a pact to all "score" by their senior prom.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Paul Weitz]]
 > **Cast** [[Jason Biggs]] · [[Chris Klein]] · [[Thomas Ian Nicholas]] · [[Alyson Hannigan]] · [[Shannon Elizabeth]] · [[Tara Reid]] · [[Eddie Kaye Thomas]] · [[Seann William Scott]] · [[Eugene Levy]] · [[Natasha Lyonne]]

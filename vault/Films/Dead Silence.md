@@ -55,6 +55,9 @@ providers:
 
 Jamie returns to his hometown in search of answers to his wife's murder, which occurred after receiving a weird package containing a ventriloquist dummy named Billy, which may be linked to the legend of ventriloquist Mary Shaw. Destined to find out the truth, Jamie goes to the town of Raven's Fair, where Shaw used to perform and is buried. But Jamie is in for more than he expected.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Ryan Kwanten]] · [[Amber Valletta]] · [[Donnie Wahlberg]] · [[Bob Gunton]] · [[Laura Regan]] · [[Michael Fairman]] · [[Joan Heney]] · [[Dmitry Chepovetsky]] · [[Judith Roberts]] · [[Steve Adams]]

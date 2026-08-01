@@ -62,6 +62,9 @@ providers:
 
 God contacts Junior Congressman Evan Baxter and tells him to build an ark in preparation for a great flood.
 
+> [!note]- Log
+> Watched 23 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[Tom Shadyac]]
 > **Cast** [[Steve Carell]] · [[Morgan Freeman]] · [[Lauren Graham]] · [[Johnny Simmons]] · [[Graham Phillips]] · [[Jimmy Bennett]] · [[John Goodman]] · [[Wanda Sykes]] · [[John Michael Higgins]] · [[Jonah Hill]]

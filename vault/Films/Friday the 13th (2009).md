@@ -51,6 +51,9 @@ providers:
 
 A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Marcus Nispel]]
 > **Cast** [[Jared Padalecki]] · [[Travis Van Winkle]] · [[Danielle Panabaker]] · [[Amanda Righetti]] · [[Aaron Yoo]] · [[Derek Mears]] · [[Julianna Guill]] · [[Arlen Escarpeta]] · [[Ben Feldman]] · [[Richard Burgi]]

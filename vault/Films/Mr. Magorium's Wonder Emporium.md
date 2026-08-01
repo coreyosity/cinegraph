@@ -52,6 +52,9 @@ providers:
 
 Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium—the strangest, most fantastic and most wonderful toy store in the world. After Mr. Magorium bequeaths the store to her, a dark and ominous change begins to take over the once-remarkable Emporium.
 
+> [!note]- Log
+> Watched 18 Feb 2025
+
 > [!info]- Cast & crew
 > **Director** [[Zach Helm]]
 > **Cast** [[Dustin Hoffman]] · [[Natalie Portman]] · [[Jason Bateman]] · [[Zach Mills]] · [[Jonathan Potts]] · [[Rebecca Northan]] · [[David Rendall]] · [[Jade Cohen]] · [[Marcia Bennett]] · [[Ted Ludzik]]

@@ -69,6 +69,9 @@ providers:
 
 When millionaire hedge fund manager James is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won't survive more than a few minutes in prison on his own, James desperately turns to Darnell-- a black businessman who's never even had a parking ticket -- for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Etan Cohen]]
 > **Cast** [[Will Ferrell]] · [[Kevin Hart]] · [[Alison Brie]] · [[Craig T. Nelson]] · [[T.I]] · [[Greg Germann]] · [[Matt Walsh]] · [[Mariana Paola Vicente]] · [[Katia Gomez]] · [[Candi Brooks]]

@@ -55,6 +55,9 @@ providers:
 
 A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Gordon Green]]
 > **Cast** [[Seth Rogen]] · [[James Franco]] · [[Gary Cole]] · [[Danny McBride]] · [[Rosie Perez]] · [[Kevin Corrigan]] · [[Craig Robinson]] · [[Amber Heard]] · [[Ed Begley Jr]] · [[Nora Dunn]]

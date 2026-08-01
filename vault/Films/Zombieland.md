@@ -73,6 +73,9 @@ providers:
 
 Columbus has made a habit of running from what scares him. Tallahassee doesn't have fears. If he did, he'd kick their ever-living ass. In a world overrun by zombies, these two are perfectly evolved survivors. But now, they're about to stare down the most terrifying prospect of all: each other.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ruben Fleischer]]
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Emma Stone]] · [[Abigail Breslin]] · [[Amber Heard]] · [[Bill Murray]] · [[Derek Graf]] · [[Elle Alexander]] · [[Melanie Booth]] · [[Chris Burns]]

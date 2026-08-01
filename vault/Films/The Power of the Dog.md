@@ -84,6 +84,9 @@ providers:
 
 A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jane Campion]]
 > **Cast** [[Benedict Cumberbatch]] · [[Kodi Smit-McPhee]] · [[Kirsten Dunst]] · [[Jesse Plemons]] · [[Thomasin McKenzie]] · [[Geneviève Lemon]] · [[Keith Carradine]] · [[Frances Conroy]] · [[Kenneth Radley]] · [[Sean Keenan]]

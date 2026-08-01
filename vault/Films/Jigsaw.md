@@ -56,6 +56,9 @@ providers:
 
 Law enforcement finds itself chasing the ghost of a man dead for over a decade, embroiled in a diabolical new game that's only just begun.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Spierig]]
 > **Cast** [[Tobin Bell]] · [[Matt Passmore]] · [[Callum Keith Rennie]] · [[Hannah Emily Anderson]] · [[Clé Bennett]] · [[Laura Vandervoort]] · [[Paul Braunstein]] · [[Mandela Van Peebles]] · [[Brittany Allen]] · [[Josiah Black]]

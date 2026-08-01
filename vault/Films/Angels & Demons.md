@@ -70,6 +70,9 @@ providers:
 
 Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.
 
+> [!note]- Log
+> Watched 26 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Tom Hanks]] · [[Ewan McGregor]] · [[Ayelet Zurer]] · [[Stellan Skarsgård]] · [[Pierfrancesco Favino]] · [[Nikolaj Lie Kaas]] · [[Armin Mueller-Stahl]] · [[Thure Lindhardt]] · [[David Pasquesi]] · [[Cosimo Fusco]]

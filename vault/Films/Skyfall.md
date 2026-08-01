@@ -5,7 +5,7 @@ year: 2012
 tmdb_id: 37724
 content_type: movie
 rating: 3.5
-watched: '2022-11-23'
+watched: '2026-02-15'
 runtime: 143
 genres:
 - Action
@@ -66,6 +66,9 @@ providers:
 ---
 
 When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.
+
+> [!note]- Log
+> Watched 15 Feb 2026 · ★ 3.5
 
 > [!info]- Cast & crew
 > **Director** [[Sam Mendes]]

@@ -58,9 +58,17 @@ providers:
 - Shudder
 - Shudder Amazon Channel
 - Shudder Apple TV Channel
+log_tags:
+- myself
+- netflix
+- home
 ---
 
 As a serial killer stalks the city, Julia — a young actress who just moved to town with her husband — notices a mysterious stranger watching her from across the street.
+
+> [!note]- Log
+> Watched 24 Sep 2024 · ★ 3.0
+> Tags  myself · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[Chloe Okuno]]

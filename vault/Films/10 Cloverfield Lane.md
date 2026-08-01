@@ -5,7 +5,7 @@ year: 2016
 tmdb_id: 333371
 content_type: movie
 rating: 4.0
-watched: '2023-02-24'
+watched: '2023-02-23'
 runtime: 104
 genres:
 - Thriller
@@ -44,9 +44,17 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Paramount+ Amazon Channel
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.
+
+> [!note]- Log
+> Watched 23 Feb 2023 · ★ 4.0
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Dan Trachtenberg]]

@@ -68,9 +68,17 @@ providers:
 - Super Channel Plus
 - Super Channel Amazon Channel
 - Sony Pictures Core Amazon Channel
+log_tags:
+- prime
+- myself
+- home
 ---
 
 In 1973, a precocious 15-year-old aspiring rock journalist lands a dream assignment from Rolling Stone to tour with a rising rock band, embarking on a coming-of-age journey as he discovers the exhilarating and heartbreaking realities behind rock stardom.
+
+> [!note]- Log
+> Watched 5 May 2025 · ★ 4.0
+> Tags  prime · myself · home
 
 > [!info]- Cast & crew
 > **Director** [[Cameron Crowe]]

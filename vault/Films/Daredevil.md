@@ -56,6 +56,9 @@ providers:
 
 A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mark Steven Johnson]]
 > **Cast** [[Ben Affleck]] · [[Jennifer Garner]] · [[Colin Farrell]] · [[Michael Clarke Duncan]] · [[Jon Favreau]] · [[Scott Terra]] · [[Ellen Pompeo]] · [[Joe Pantoliano]] · [[Leland Orser]] · [[Lennie Loftin]]

@@ -48,6 +48,9 @@ providers:
 
 When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and discovers why all moms are so special.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Simon Wells]]
 > **Cast** [[Seth Green]] · [[Seth Robert Dusky]] · [[Joan Cusack]] · [[Dan Fogler]] · [[Breckin Meyer]] · [[Elisabeth Harnois]] · [[Tom Everett Scott]] · [[Mindy Sterling]] · [[Julene Renee]] · [[Raymond Ochoa]]

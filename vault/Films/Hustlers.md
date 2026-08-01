@@ -56,6 +56,9 @@ providers:
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
+> [!note]- Log
+> Watched 18 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Lorene Scafaria]]
 > **Cast** [[Constance Wu]] · [[Jennifer Lopez]] · [[Julia Stiles]] · [[Keke Palmer]] · [[Lili Reinhart]] · [[Mercedes Ruehl]] · [[Cardi B]] · [[Lizzo]] · [[Mette]] · [[Madeline Brewer]]

@@ -47,6 +47,9 @@ providers:
 
 When a shadowy CIA agent uncovers damning agency secrets, he's hunted across the globe by a sociopathic rogue operative who's put a bounty on his head.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joe Russo]]
 > **Cast** [[Ryan Gosling]] · [[Chris Evans]] · [[Ana de Armas]] · [[Billy Bob Thornton]] · [[Jessica Henwick]] · [[Dhanush]] · [[Alfre Woodard]] · [[Regé-Jean Page]] · [[Wagner Moura]] · [[Julia Butters]]

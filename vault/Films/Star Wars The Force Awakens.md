@@ -50,6 +50,9 @@ providers:
 
 Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[J.J. Abrams]]
 > **Cast** [[Daisy Ridley]] · [[John Boyega]] · [[Oscar Isaac]] · [[Adam Driver]] · [[Carrie Fisher]] · [[Harrison Ford]] · [[Mark Hamill]] · [[Lupita Nyong'o]] · [[Andy Serkis]] · [[Domhnall Gleeson]]

@@ -69,6 +69,9 @@ providers:
 
 Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Pierre Coffin]]
 > **Cast** [[Steve Carell]] · [[Kristen Wiig]] · [[Benjamin Bratt]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Elsie Fisher]] · [[Russell Brand]] · [[Ken Jeong]] · [[Steve Coogan]] · [[Moisés Arias]]

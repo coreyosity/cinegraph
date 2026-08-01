@@ -59,6 +59,9 @@ providers:
 
 Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jennifer Lee]]
 > **Cast** [[Idina Menzel]] · [[Kristen Bell]] · [[Josh Gad]] · [[Jonathan Groff]] · [[Evan Rachel Wood]] · [[Sterling K. Brown]] · [[Alfred Molina]] · [[Rachel Matthews]] · [[Jason Ritter]] · [[Martha Plimpton]]

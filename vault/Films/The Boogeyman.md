@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 532408
 content_type: movie
 rating: 2.0
-watched: '2023-10-10'
+watched: '2023-06-13'
 runtime: 99
 genres:
 - Horror
@@ -44,9 +44,17 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
+log_tags:
+- odeon-blanch
+- dean
+- cinema
 ---
 
 Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it’s too late.
+
+> [!note]- Log
+> Watched 13 Jun 2023 · ★ 2.0
+> Tags  odeon-blanch · dean · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Rob Savage]]

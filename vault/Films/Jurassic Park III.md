@@ -74,6 +74,9 @@ providers:
 
 In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joe Johnston]]
 > **Cast** [[Sam Neill]] · [[William H. Macy]] · [[Téa Leoni]] · [[Alessandro Nivola]] · [[Trevor Morgan]] · [[Michael Jeter]] · [[John Diehl]] · [[Bruce A. Young]] · [[Laura Dern]] · [[Taylor Nichols]]

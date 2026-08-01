@@ -55,6 +55,9 @@ letterboxd: https://boxd.it/dSE
 
 Dispatched to a small Italian town to await further orders, assassin Jack embarks on a double life that may be more relaxing than is good for him.
 
+> [!note]- Log
+> Watched 23 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Anton Corbijn]]
 > **Cast** [[George Clooney]] · [[Violante Placido]] · [[Thekla Reuten]] · [[Paolo Bonacelli]] · [[Johan Leysen]] · [[Irina Björklund]] · [[Lars Hjelm]] · [[Björn Granath]] · [[Giorgio Gobbi]] · [[Silvana Bosi]]

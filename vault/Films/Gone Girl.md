@@ -68,6 +68,9 @@ providers:
 
 With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]
 > **Cast** [[Ben Affleck]] · [[Rosamund Pike]] · [[Neil Patrick Harris]] · [[Tyler Perry]] · [[Carrie Coon]] · [[Kim Dickens]] · [[Patrick Fugit]] · [[David Clennon]] · [[Lisa Banes]] · [[Missi Pyle]]

@@ -61,6 +61,9 @@ providers:
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
+> [!note]- Log
+> Watched 29 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Tom Hanks]] · [[Felicity Jones]] · [[Omar Sy]] · [[Irrfan Khan]] · [[Sidse Babett Knudsen]] · [[Ben Foster]] · [[Ana Ularu]] · [[Ida Darvish]] · [[Paolo Antonio Simioni]] · [[Alessandro Grimaldi]]

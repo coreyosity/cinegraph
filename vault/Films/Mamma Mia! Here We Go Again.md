@@ -63,6 +63,9 @@ providers:
 
 Five years after meeting her three fathers, Sophie Sheridan prepares to open her mother’s hotel. In 1979, young Donna Sheridan meets the men who each could be Sophie’s biological father.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ol Parker]]
 > **Cast** [[Amanda Seyfried]] · [[Lily James]] · [[Pierce Brosnan]] · [[Colin Firth]] · [[Stellan Skarsgård]] · [[Christine Baranski]] · [[Julie Walters]] · [[Alexa Davies]] · [[Jessica Keenan Wynn]] · [[Dominic Cooper]]

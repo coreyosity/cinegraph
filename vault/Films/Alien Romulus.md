@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 945961
 content_type: movie
 rating: 3.5
-watched: '2024-08-22'
+watched: '2024-08-21'
 runtime: 119
 genres:
 - Horror
@@ -57,9 +57,19 @@ providers:
 - YouTube TV
 - Crave
 - Crave Amazon Channel
+log_tags:
+- eoghan
+- david conde
+- david urdaibay
+- cineworld
+- cinema
 ---
 
 While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.
+
+> [!note]- Log
+> Watched 21 Aug 2024 · ★ 3.5
+> Tags  eoghan · david conde · david urdaibay · cineworld · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Fede Álvarez]]

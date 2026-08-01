@@ -70,6 +70,9 @@ providers:
 
 Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investigate the recent rumblings of the dormant volcano the burg is named for. Before long, his worst fears are realized when a massive eruption hits, and immediately, Harry, the mayor and the townspeople find themselves fighting for their lives amid a catastrophic nightmare.
 
+> [!note]- Log
+> Watched 21 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Roger Donaldson]]
 > **Cast** [[Pierce Brosnan]] · [[Linda Hamilton]] · [[Arabella Field]] · [[Jamie Renée Smith]] · [[Jeremy Foley]] · [[Elizabeth Hoffman]] · [[Charles Hallahan]] · [[Grant Heslov]] · [[Kirk Trutner]] · [[Tzi Ma]]

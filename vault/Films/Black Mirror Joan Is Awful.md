@@ -7,3 +7,6 @@ letterboxd: https://boxd.it/GWmi
 tags:
 - film
 ---
+
+> [!note]- Log
+> Watched 15 Apr 2025

@@ -49,6 +49,9 @@ providers:
 
 Two small-town singers chase their pop star dreams at a global music competition, where high stakes, scheming rivals and onstage mishaps test their bond.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Dobkin]]
 > **Cast** [[Rachel McAdams]] · [[Will Ferrell]] · [[Pierce Brosnan]] · [[Dan Stevens]] · [[Jamie Demetriou]] · [[Ólafur Darri Ólafsson]] · [[Melissanthi Mahut]] · [[Joi Johannsson]] · [[Björn Hlynur Haraldsson]] · [[Graham Norton]]

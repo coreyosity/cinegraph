@@ -64,6 +64,9 @@ providers:
 
 After his revival in a hospital morgue, Jason fixes his vengeful attention on the Jarvis family and a group of hitherto carefree teenagers.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joseph Zito]]
 > **Cast** [[Judie Aronson]] · [[Kimberly Beck]] · [[Joan Freeman]] · [[Barbara Howard]] · [[Corey Feldman]] · [[Erich Anderson]] · [[Peter Barton]] · [[Crispin Glover]] · [[Clyde Hayes]] · [[Lawrence Monoson]]

@@ -69,6 +69,9 @@ providers:
 
 When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jonathan Liebesman]]
 > **Cast** [[Pete Ploszek]] · [[Alan Ritchson]] · [[Jeremy Howard]] · [[Noel Fisher]] · [[Megan Fox]] · [[Will Arnett]] · [[William Fichtner]] · [[Danny Woodburn]] · [[Johnny Knoxville]] · [[Tony Shalhoub]]

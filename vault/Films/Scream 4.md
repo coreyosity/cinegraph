@@ -5,7 +5,7 @@ year: 2011
 tmdb_id: 41446
 content_type: movie
 rating: 3.0
-watched: '2023-03-10'
+watched: '2023-03-07'
 runtime: 111
 genres:
 - Horror
@@ -84,9 +84,19 @@ providers:
 - Crave Amazon Channel
 - Stan
 - Lionsgate+ Amazon Channels
+log_tags:
+- dean
+- linda
+- chris
+- torrent
+- home
 ---
 
 Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.
+
+> [!note]- Log
+> Watched 7 Mar 2023 · ★ 3.0
+> Tags  dean · linda · chris · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1184918
 content_type: movie
 rating: 4.5
-watched: '2025-03-09'
+watched: '2025-03-08'
 runtime: 102
 genres:
 - Family
@@ -69,9 +69,17 @@ providers:
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- home
+- myself
+- torrent
 ---
 
 After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.
+
+> [!note]- Log
+> Watched 8 Mar 2025 · ★ 4.5
+> Tags  home · myself · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Chris Sanders]]

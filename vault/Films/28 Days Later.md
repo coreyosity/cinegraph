@@ -5,7 +5,7 @@ year: 2002
 tmdb_id: 170
 content_type: movie
 rating: 4.0
-watched: '2024-05-22'
+watched: '2024-05-21'
 runtime: 113
 genres:
 - Horror
@@ -52,9 +52,17 @@ providers:
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Stan
+log_tags:
+- myself
+- odeon-blanch
+- cinema
 ---
 
 Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.
+
+> [!note]- Log
+> Watched 21 May 2024 · ★ 4.0
+> Tags  myself · odeon-blanch · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Danny Boyle]]

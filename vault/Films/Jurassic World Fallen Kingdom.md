@@ -64,6 +64,9 @@ providers:
 
 Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
 
+> [!note]- Log
+> Watched 17 Jun 2022
+
 > [!info]- Cast & crew
 > **Director** [[J. A. Bayona]]
 > **Cast** [[Chris Pratt]] · [[Bryce Dallas Howard]] · [[Rafe Spall]] · [[Justice Smith]] · [[Daniella Pineda]] · [[James Cromwell]] · [[Toby Jones]] · [[Ted Levine]] · [[Jeff Goldblum]] · [[BD Wong]]

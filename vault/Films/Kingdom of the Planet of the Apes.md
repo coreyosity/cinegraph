@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 653346
 content_type: movie
 rating: 4.0
-watched: '2024-05-12'
+watched: '2024-05-09'
 runtime: 145
 genres:
 - Science Fiction
@@ -59,9 +59,17 @@ providers:
 - YouTube TV
 - Crave
 - Crave Amazon Channel
+log_tags:
+- andrew
+- imax
+- odeon-blanch
 ---
 
 Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.
+
+> [!note]- Log
+> Watched 9 May 2024 · ★ 4.0
+> Tags  andrew · imax · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Wes Ball]]

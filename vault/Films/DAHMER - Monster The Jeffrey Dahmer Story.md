@@ -56,6 +56,9 @@ providers:
 
 This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ryan Murphy]]
 > **Cast** [[Evan Peters]] · [[Richard Jenkins]] · [[Molly Ringwald]] · [[Michael Learned]] · [[Niecy Nash]]

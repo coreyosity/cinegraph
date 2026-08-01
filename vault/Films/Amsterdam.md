@@ -67,9 +67,17 @@ providers:
 - fuboTV
 - YouTube TV
 - Disney Plus
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.
+
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 3.5
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[David O. Russell]]

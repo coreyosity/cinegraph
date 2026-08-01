@@ -70,6 +70,9 @@ providers:
 
 A century has passed since the Fire Nation declared war on the other three nations of air, water, and earth in its attempt for global domination. Aang, the long-lost Avatar, is found by Water Tribe siblings Katara and Sokka and must learn to master water, earth, and fire bending to defeat the Fire Nation and restore balance to the world.
 
+> [!note]- Log
+> Watched 13 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Noah Ringer]] · [[Dev Patel]] · [[Nicola Peltz]] · [[Jackson Rathbone]] · [[Shaun Toub]] · [[Aasif Mandvi]] · [[Cliff Curtis]] · [[Seychelle Gabriel]] · [[Katharine Houghton]] · [[Francis Guinan]]

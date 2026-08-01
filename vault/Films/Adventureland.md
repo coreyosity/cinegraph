@@ -5,7 +5,7 @@ year: 2009
 tmdb_id: 16614
 content_type: movie
 rating: 3.0
-watched: '2026-06-27'
+watched: '2026-06-26'
 runtime: 107
 genres:
 - Comedy
@@ -58,9 +58,17 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Stan
+log_tags:
+- home
+- myself
+- netflix
 ---
 
 It's the summer of 1987, and recent college grad James Brennan can't wait to begin his long-anticipated dream trip to Europe. Unfortunately, James' plans come to a screeching halt when his parents announce that they are unable to subsidize his trip. Forced to take a job at the local amusement park, James prepares for the worst summer ever, until he finds love with a captivating co-worker named Em.
+
+> [!note]- Log
+> Watched 26 Jun 2026 · ★ 3.0
+> Tags  home · myself · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Greg Mottola]]

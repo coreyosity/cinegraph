@@ -64,6 +64,9 @@ providers:
 
 A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Martin McDonagh]]
 > **Cast** [[Colin Farrell]] · [[Sam Rockwell]] · [[Woody Harrelson]] · [[Christopher Walken]] · [[Olga Kurylenko]] · [[Tom Waits]] · [[Abbie Cornish]] · [[Michael Stuhlbarg]] · [[Kevin Corrigan]] · [[Željko Ivanek]]

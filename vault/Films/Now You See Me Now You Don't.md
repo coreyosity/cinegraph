@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 425274
 content_type: movie
 rating: 2.5
-watched: '2025-11-23'
+watched: '2025-11-22'
 runtime: 112
 genres:
 - Crime
@@ -64,9 +64,17 @@ providers:
 - Starz Amazon Channel
 - Crave
 - Crave Amazon Channel
+log_tags:
+- cinema
+- conor
+- odeon-the-point
 ---
 
 The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.
+
+> [!note]- Log
+> Watched 22 Nov 2025 · ★ 2.5
+> Tags  cinema · conor · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Ruben Fleischer]]

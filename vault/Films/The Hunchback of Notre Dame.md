@@ -61,6 +61,9 @@ providers:
 
 Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gary Trousdale]]
 > **Cast** [[Tom Hulce]] · [[Demi Moore]] · [[Kevin Kline]] · [[Tony Jay]] · [[Charles Kimbrough]] · [[Mary Wickes]] · [[Jason Alexander]] · [[Paul Kandel]] · [[Mary Kay Bergman]] · [[David Ogden Stiers]]

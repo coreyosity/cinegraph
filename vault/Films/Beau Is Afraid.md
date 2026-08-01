@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 798286
 content_type: movie
 rating: 4.0
-watched: '2023-10-10'
+watched: '2023-06-07'
 runtime: 179
 genres:
 - Comedy
@@ -74,9 +74,17 @@ providers:
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dean
+- cinema
+- odeon-blanch
 ---
 
 Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.
+
+> [!note]- Log
+> Watched 7 Jun 2023 · ★ 4.0
+> Tags  dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Ari Aster]]

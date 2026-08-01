@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1102493
 content_type: movie
 rating: 4.0
-watched: '2024-11-03'
+watched: '2024-11-02'
 runtime: 99
 genres:
 - Drama
@@ -62,9 +62,17 @@ providers:
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- odeon-the-point
+- cinema
 ---
 
 In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.
+
+> [!note]- Log
+> Watched 2 Nov 2024 · ★ 4.0
+> Tags  myself · odeon-the-point · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Tim Mielants]]

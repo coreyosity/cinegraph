@@ -5,7 +5,7 @@ year: 2014
 tmdb_id: 157336
 content_type: movie
 rating: 5.0
-watched: '2022-03-27'
+watched: '2024-02-13'
 runtime: 169
 genres:
 - Adventure
@@ -83,9 +83,20 @@ providers:
 - Amazon Prime Video
 - Stan
 - Amazon Prime Video with Ads
+rewatch: true
+log_tags:
+- andrew
+- dean
+- cinema
+- imax
+- odeon-blanch
 ---
 
 The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.
+
+> [!note]- Log
+> Watched 13 Feb 2024 · ★ 5.0 · Rewatch
+> Tags  andrew · dean · cinema · imax · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]

@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1071585
 content_type: movie
 rating: 2.5
-watched: '2025-07-02'
+watched: '2025-06-29'
 runtime: 120
 genres:
 - Action
@@ -65,9 +65,20 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Foxtel Now
+log_tags:
+- odeon-the-point
+- grace
+- eve
+- dean
+- andrew
+- cinema
 ---
 
 After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.
+
+> [!note]- Log
+> Watched 29 Jun 2025 · ★ 2.5
+> Tags  odeon-the-point · grace · eve · dean · andrew · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Gerard Johnstone]]

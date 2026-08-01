@@ -62,6 +62,9 @@ providers:
 
 Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Lana Wachowski]]
 > **Cast** [[Keanu Reeves]] · [[Laurence Fishburne]] · [[Carrie-Anne Moss]] · [[Hugo Weaving]] · [[Gloria Foster]] · [[Joe Pantoliano]] · [[Marcus Chong]] · [[Julian Arahanga]] · [[Matt Doran]] · [[Belinda McClory]]

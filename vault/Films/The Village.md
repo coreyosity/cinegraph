@@ -5,7 +5,7 @@ year: 2004
 tmdb_id: 6947
 content_type: movie
 rating: 3.5
-watched: '2025-03-21'
+watched: '2025-03-20'
 runtime: 108
 genres:
 - Drama
@@ -50,9 +50,17 @@ providers:
 - Disney Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- home
+- myself
+- torrent
 ---
 
 When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever.
+
+> [!note]- Log
+> Watched 20 Mar 2025 · ★ 3.5
+> Tags  home · myself · torrent
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

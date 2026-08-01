@@ -45,6 +45,9 @@ providers:
 
 In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
 
+> [!note]- Log
+> Watched 18 Feb 2025
+
 > [!info]- Cast & crew
 > **Director** [[David Ayer]]
 > **Cast** [[Will Smith]] · [[Joel Edgerton]] · [[Lucy Fry]] · [[Noomi Rapace]] · [[Edgar Ramírez]] · [[Ike Barinholtz]] · [[Veronica Ngô]] · [[Alex Meraz]] · [[Happy Anderson]] · [[Dawn Olivieri]]

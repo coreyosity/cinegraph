@@ -58,6 +58,9 @@ providers:
 
 Georgia Nicolson is fourteen, lives with nosey parents who don't understand her, an annoying three year old sister and has to wear a beret to school. She would, however, rather be blonde, have a smaller nose and a boyfriend. Revolving around her hilarious journal entries, prepare to be engulfed in the world of the soaring joys and bottomless angst of being a teenager.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gurinder Chadha]]
 > **Cast** [[Georgia Groome]] · [[Eleanor Tomlinson]] · [[Aaron Taylor-Johnson]] · [[Tommy Bastow]] · [[Alan Davies]] · [[Karen Taylor]] · [[Liam Hess]] · [[Georgia Henshaw]] · [[Manjeeven Grewal]] · [[Kimberley Nixon]]

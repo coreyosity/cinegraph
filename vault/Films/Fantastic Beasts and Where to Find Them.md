@@ -61,6 +61,9 @@ providers:
 
 In 1926, Newt Scamander arrives at the Magical Congress of the United States of America with a magically expanded briefcase, which houses a number of dangerous creatures and their habitats. When the creatures escape from the briefcase, it sends the American wizarding authorities after Newt, and threatens to strain even further the state of magical and non-magical relations.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Yates]]
 > **Cast** [[Eddie Redmayne]] · [[Katherine Waterston]] · [[Dan Fogler]] · [[Alison Sudol]] · [[Colin Farrell]] · [[Jon Voight]] · [[Ron Perlman]] · [[Johnny Depp]] · [[Zoë Kravitz]] · [[Ezra Miller]]

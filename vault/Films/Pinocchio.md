@@ -64,6 +64,9 @@ providers:
 
 When the gentle woodcarver Geppetto builds a marionette to be his substitute son, a benevolent fairy brings the toy to life. The puppet, named Pinocchio, is not yet a human boy. He must earn the right to be real by proving that he is brave, truthful, and unselfish.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Hamilton Luske]]
 > **Cast** [[Dickie Jones]] · [[Cliff Edwards]] · [[Christian Rub]] · [[Evelyn Venable]] · [[Walter Catlett]] · [[Mel Blanc]] · [[Charles Judels]] · [[Frankie Darro]] · [[Don Brodie]] · [[Marion Darlington]]

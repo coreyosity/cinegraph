@@ -64,6 +64,9 @@ providers:
 
 Father and stepfather Dusty and Brad join forces to make Christmastime perfect for the children. Their newfound partnership soon gets put to the test when Dusty's old-school, macho dad and Brad's gentle father arrive to turn the holiday upside down. After a sudden change in plans, the four men decide to take the kids to a luxury resort for a fun-filled getaway that turns into a hilarious and chaotic adventure.
 
+> [!note]- Log
+> Watched 12 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Sean Anders]]
 > **Cast** [[Will Ferrell]] · [[Mark Wahlberg]] · [[Mel Gibson]] · [[John Lithgow]] · [[Linda Cardellini]] · [[Alessandra Ambrosio]] · [[Owen Vaccaro]] · [[Scarlett Estevez]] · [[Didi Costine]] · [[Connor Wise]]

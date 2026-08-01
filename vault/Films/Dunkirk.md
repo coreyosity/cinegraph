@@ -80,6 +80,9 @@ providers:
 
 The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]
 > **Cast** [[Fionn Whitehead]] · [[Tom Hardy]] · [[Mark Rylance]] · [[Kenneth Branagh]] · [[Cillian Murphy]] · [[Barry Keoghan]] · [[Harry Styles]] · [[Aneurin Barnard]] · [[Damien Bonnard]] · [[Lee Armstrong]]

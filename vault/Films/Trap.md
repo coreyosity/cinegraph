@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1032823
 content_type: movie
 rating: 2.5
-watched: '2025-07-29'
+watched: '2025-07-27'
 runtime: 105
 genres:
 - Crime
@@ -58,9 +58,17 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Crave Amazon Channel
+log_tags:
+- netflix
+- dad
+- wexford
 ---
 
 A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.
+
+> [!note]- Log
+> Watched 27 Jul 2025 · ★ 2.5
+> Tags  netflix · dad · wexford
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

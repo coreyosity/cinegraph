@@ -5,7 +5,7 @@ year: 2001
 tmdb_id: 141
 content_type: movie
 rating: 4.0
-watched: '2024-06-09'
+watched: '2024-06-08'
 runtime: 114
 genres:
 - Fantasy
@@ -69,9 +69,17 @@ providers:
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Stan
+log_tags:
+- myself
+- home
+- torrent
 ---
 
 After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.
+
+> [!note]- Log
+> Watched 8 Jun 2024 · ★ 4.0
+> Tags  myself · home · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Richard Kelly]]

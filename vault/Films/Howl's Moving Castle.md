@@ -75,6 +75,9 @@ providers:
 
 Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.
 
+> [!note]- Log
+> Watched 3 Sep 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]
 > **Cast** [[Chieko Baisho]] · [[Takuya Kimura]] · [[Akihiro Miwa]] · [[Tatsuya Gashuin]] · [[Ryunosuke Kamiki]] · [[Mitsunori Isaki]] · [[Yo Oizumi]] · [[Akio Otsuka]] · [[Daijirō Harada]] · [[Haruko Katō]]

@@ -4,7 +4,7 @@ title: 'The Hunger Games: Mockingjay – Part 2'
 year: 2015
 tmdb_id: 131634
 content_type: movie
-watched: '2023-05-03'
+watched: '2023-12-29'
 runtime: 137
 genres:
 - Action
@@ -52,9 +52,18 @@ providers:
 - Crave Amazon Channel
 - Stan
 - Lionsgate+ Amazon Channels
+rewatch: true
+log_tags:
+- dad
+- netflix
+- wexford
 ---
 
 As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly traps, shifting loyalties, and the heavy cost of rebellion, determined to bring freedom to her people and end the Hunger Games once and for all.
+
+> [!note]- Log
+> Watched 29 Dec 2023 · Rewatch
+> Tags  dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

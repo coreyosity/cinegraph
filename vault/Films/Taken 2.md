@@ -57,6 +57,9 @@ providers:
 
 In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
 
+> [!note]- Log
+> Watched 26 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Olivier Megaton]]
 > **Cast** [[Liam Neeson]] · [[Maggie Grace]] · [[Famke Janssen]] · [[Leland Orser]] · [[D. B. Sweeney]] · [[Jon Gries]] · [[Rade Šerbedžija]] · [[Luke Grimes]] · [[Kevork Malikyan]] · [[Alain Figlarz]]

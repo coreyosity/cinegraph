@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 536554
 content_type: movie
 rating: 2.5
-watched: '2023-01-22'
+watched: '2023-01-21'
 runtime: 102
 genres:
 - Science Fiction
@@ -60,9 +60,17 @@ letterboxd: https://boxd.it/jxmG
 providers:
 - Crave
 - Crave Amazon Channel
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.
+
+> [!note]- Log
+> Watched 21 Jan 2023 · ★ 2.5
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Gerard Johnstone]]

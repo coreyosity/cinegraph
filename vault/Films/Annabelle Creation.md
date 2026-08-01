@@ -61,6 +61,9 @@ providers:
 
 Several years after the tragic death of their little girl, a doll maker and his wife welcome a nun and several girls from a shuttered orphanage into their home, soon becoming the target of the doll maker's possessed creation—Annabelle.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David F. Sandberg]]
 > **Cast** [[Stephanie Sigman]] · [[Talitha Eliana Bateman]] · [[Lulu Wilson]] · [[Anthony LaPaglia]] · [[Miranda Otto]] · [[Grace Caroline Currey]] · [[Philippa Coulthard]] · [[Samara Lee]] · [[Tayler Buck]] · [[Lou Lou Safran]]

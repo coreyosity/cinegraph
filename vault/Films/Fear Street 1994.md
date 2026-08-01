@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 591273
 content_type: movie
 rating: 2.5
-watched: '2023-10-21'
+watched: '2023-10-15'
 runtime: 108
 genres:
 - Horror
@@ -51,9 +51,18 @@ letterboxd: https://boxd.it/lLBk
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- andrew
+- dean
+- home
+- netflix
 ---
 
 After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries.
+
+> [!note]- Log
+> Watched 15 Oct 2023 · ★ 2.5
+> Tags  andrew · dean · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Leigh Janiak]]

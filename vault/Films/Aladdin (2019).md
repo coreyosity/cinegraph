@@ -60,6 +60,9 @@ providers:
 
 A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Guy Ritchie]]
 > **Cast** [[Will Smith]] · [[Mena Massoud]] · [[Naomi Scott]] · [[Marwan Kenzari]] · [[Navid Negahban]] · [[Nasim Pedrad]] · [[Billy Magnussen]] · [[Numan Acar]] · [[Jordan A. Nash]] · [[Taliyah Blair]]

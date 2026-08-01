@@ -56,6 +56,9 @@ providers:
 
 Two stoners wake up after a night of partying and cannot remember where they parked their car.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Danny Leiner]]
 > **Cast** [[Ashton Kutcher]] · [[Seann William Scott]] · [[Jennifer Garner]] · [[Marla Sokoloff]] · [[Kristy Swanson]] · [[David Herman]] · [[Hal Sparks]] · [[Charlie O'Connell]] · [[John Toles-Bey]] · [[Christian Middelthon]]

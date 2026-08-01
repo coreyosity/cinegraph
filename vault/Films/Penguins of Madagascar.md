@@ -66,6 +66,9 @@ providers:
 
 Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Simon J. Smith]]
 > **Cast** [[Tom McGrath]] · [[Chris Miller]] · [[Christopher Knights]] · [[Conrad Vernon]] · [[John Malkovich]] · [[Benedict Cumberbatch]] · [[Ken Jeong]] · [[Annet Mahendru]] · [[Peter Stormare]] · [[Andy Richter]]

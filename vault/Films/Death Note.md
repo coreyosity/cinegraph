@@ -68,6 +68,9 @@ letterboxd: https://boxd.it/psEs
 
 Light Yagami finds the "Death Note," a notebook with the power to kill, and decides to create a Utopia by killing the world's criminals, and soon the world's greatest detective, "L," is hired to find the mysterious murderer. An all out battle between the two greatest minds on earth begins and the winner will control the world.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Shusuke Kaneko]]
 > **Cast** [[Tatsuya Fujiwara]] · [[Kenichi Matsuyama]] · [[Asaka Seto]] · [[Shigeki Hosokawa]] · [[Erika Toda]] · [[Shunji Fujimura]] · [[Takeshi Kaga]] · [[Yuu Kashii]] · [[Shido Nakamura]] · [[Sota Aoyama]]

@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 744653
 content_type: movie
 rating: 2.0
-watched: '2025-09-29'
+watched: '2025-09-06'
 runtime: 118
 genres:
 - Comedy
@@ -45,9 +45,18 @@ letterboxd: https://boxd.it/rXju
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- mam
+- dad
+- netflix
+- wexford
 ---
 
 A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.
+
+> [!note]- Log
+> Watched 6 Sep 2025 · ★ 2.0
+> Tags  mam · dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]

@@ -50,6 +50,9 @@ providers:
 
 With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]
 > **Cast** [[Robert Downey Jr]] · [[Gwyneth Paltrow]] · [[Don Cheadle]] · [[Scarlett Johansson]] · [[Sam Rockwell]] · [[Mickey Rourke]] · [[Samuel L. Jackson]] · [[Clark Gregg]] · [[John Slattery]] · [[Garry Shandling]]

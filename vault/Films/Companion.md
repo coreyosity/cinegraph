@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1084199
 content_type: movie
 rating: 3.0
-watched: '2025-01-28'
+watched: '2025-01-27'
 runtime: 97
 genres:
 - Horror
@@ -66,9 +66,19 @@ providers:
 - Crave
 - Netflix Standard with Ads
 - Crave Amazon Channel
+log_tags:
+- dean
+- andrew
+- scream-unseen
+- cinema
+- odeon-the-point
 ---
 
 During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.
+
+> [!note]- Log
+> Watched 27 Jan 2025 · ★ 3.0
+> Tags  dean · andrew · scream-unseen · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Drew Hancock]]

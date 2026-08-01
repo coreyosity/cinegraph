@@ -67,6 +67,9 @@ providers:
 
 Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jordan Vogt-Roberts]]
 > **Cast** [[Tom Hiddleston]] · [[Samuel L. Jackson]] · [[John Goodman]] · [[Brie Larson]] · [[Jing Tian]] · [[Toby Kebbell]] · [[John Ortiz]] · [[Corey Hawkins]] · [[Jason Mitchell]] · [[Shea Whigham]]

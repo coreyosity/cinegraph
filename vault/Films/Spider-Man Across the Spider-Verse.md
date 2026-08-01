@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 569094
 content_type: movie
 rating: 5.0
-watched: '2023-06-02'
+watched: '2023-06-01'
 runtime: 140
 genres:
 - Animation
@@ -86,9 +86,17 @@ providers:
 - Club Illico
 - Netflix Standard with Ads
 - Stan
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
+
+> [!note]- Log
+> Watched 1 Jun 2023 · ★ 5.0
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Kemp Powers]]

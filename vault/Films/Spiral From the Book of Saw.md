@@ -55,6 +55,9 @@ providers:
 
 Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “Zeke” Banks and his rookie partner take charge of a grisly investigation into murders that are eerily reminiscent of the city’s gruesome past.  Unwittingly entrapped in a deepening mystery, Zeke finds himself at the center of the killer’s morbid game.
 
+> [!note]- Log
+> Watched 3 Jul 2022 · ★ 2.5
+
 > [!info]- Cast & crew
 > **Director** [[Darren Lynn Bousman]]
 > **Cast** [[Chris Rock]] · [[Samuel L. Jackson]] · [[Max Minghella]] · [[Marisol Nichols]] · [[Dan Petronijevic]] · [[Richard Zeppieri]] · [[Patrick McManus]] · [[Edie Inksetter]] · [[Thomas Mitchell]] · [[Nazneen Contractor]]

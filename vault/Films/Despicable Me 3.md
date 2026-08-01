@@ -59,6 +59,9 @@ providers:
 
 Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kyle Balda]]
 > **Cast** [[Steve Carell]] · [[Kristen Wiig]] · [[Trey Parker]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Nhev Scharrel]] · [[Pierre Coffin]] · [[Steve Coogan]] · [[Julie Andrews]] · [[Jenny Slate]]

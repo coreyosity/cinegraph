@@ -47,6 +47,9 @@ letterboxd: https://boxd.it/1zKE
 
 When minor-league hockey player Derek Thompson -- who has a penchant for knocking out his opponents' teeth every time he plays -- disillusions a fan, he is sentenced to a stint for one week as a bona fide, tutu-clad, real-life tooth fairy. Soon, Derek is inspired to rekindle his youthful dreams.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Lembeck]]
 > **Cast** [[Dwayne Johnson]] · [[Stephen Merchant]] · [[Ashley Judd]] · [[Julie Andrews]] · [[Ryan Sheckler]] · [[Seth MacFarlane]] · [[Destiny Whitlock]] · [[Chase Ellison]] · [[Darien Provost]] · [[Alex Ferris]]

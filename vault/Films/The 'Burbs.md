@@ -65,6 +65,9 @@ providers:
 
 When secretive new neighbors move in next door, suburbanite Ray Peterson and his friends let their paranoia get the best of them as they start to suspect the newcomers of evildoings and commence an investigation. But it's hardly how Ray, who much prefers drinking beer, reading his newspaper and watching a ball game on the tube expected to spend his vacation.
 
+> [!note]- Log
+> Watched 26 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Joe Dante]]
 > **Cast** [[Tom Hanks]] · [[Bruce Dern]] · [[Carrie Fisher]] · [[Rick Ducommun]] · [[Wendy Schaal]] · [[Corey Feldman]] · [[Courtney Gains]] · [[Henry Gibson]] · [[Gale Gordon]] · [[Dick Miller]]

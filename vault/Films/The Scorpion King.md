@@ -63,6 +63,9 @@ providers:
 
 In ancient Egypt, peasant Mathayus is hired to exact revenge on the powerful Memnon and the sorceress Cassandra, who are ready to overtake Balthazar's village. Amid betrayals, thieves, abductions and more, Mathayus strives to bring justice to his complicated world.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chuck Russell]]
 > **Cast** [[Dwayne Johnson]] · [[Steven Brand]] · [[Michael Clarke Duncan]] · [[Kelly Hu]] · [[Bernard Hill]] · [[Grant Heslov]] · [[Peter Facinelli]] · [[Ralf Moeller]] · [[Branscombe Richmond]] · [[Roger Rees]]

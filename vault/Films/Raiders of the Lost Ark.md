@@ -77,6 +77,9 @@ providers:
 
 When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]
 > **Cast** [[Harrison Ford]] · [[Karen Allen]] · [[Paul Freeman]] · [[John Rhys-Davies]] · [[Ronald Lacey]] · [[Wolf Kahler]] · [[Anthony Higgins]] · [[Denholm Elliott]] · [[Alfred Molina]] · [[Vic Tablian]]

@@ -4,7 +4,7 @@ title: 'The Hunger Games: Catching Fire'
 year: 2013
 tmdb_id: 101299
 content_type: movie
-watched: '2023-12-22'
+watched: '2023-12-20'
 runtime: 146
 genres:
 - Adventure
@@ -60,9 +60,18 @@ providers:
 - Stan
 - Amazon Prime Video with Ads
 - Lionsgate+ Amazon Channels
+rewatch: true
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 After surviving the Hunger Games, Katniss and Peeta struggle with the consequences of their victory as unrest spreads across Panem. Forced back into the spotlight, they become symbols of hope and resistance while the Capitol prepares a new and deadly challenge that will change the future of the nation forever.
+
+> [!note]- Log
+> Watched 20 Dec 2023 · Rewatch
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

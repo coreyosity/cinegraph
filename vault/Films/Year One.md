@@ -49,6 +49,9 @@ providers:
 
 When a couple of lazy hunter-gatherers are banished from their primitive village, they set off on an epic journey through the ancient world.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Harold Ramis]]
 > **Cast** [[Jack Black]] · [[Michael Cera]] · [[Oliver Platt]] · [[David Cross]] · [[Christopher Mintz-Plasse]] · [[Vinnie Jones]] · [[Hank Azaria]] · [[Juno Temple]] · [[Olivia Wilde]] · [[June Diane Raphael]]

@@ -5,7 +5,7 @@ year: 2020
 tmdb_id: 546121
 content_type: movie
 rating: 3.0
-watched: '2023-09-16'
+watched: '2023-08-28'
 runtime: 90
 genres:
 - Thriller
@@ -49,9 +49,18 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Hulu
+log_tags:
+- andrew
+- dean
+- home
+- netflix
 ---
 
 Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
+
+> [!note]- Log
+> Watched 28 Aug 2023 · ★ 3.0
+> Tags  andrew · dean · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Aneesh Chaganty]]

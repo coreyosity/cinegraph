@@ -74,6 +74,9 @@ providers:
 
 Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Guy Ritchie]]
 > **Cast** [[Robert Downey Jr]] · [[Jude Law]] · [[Rachel McAdams]] · [[Mark Strong]] · [[Eddie Marsan]] · [[Robert Maillet]] · [[Geraldine James]] · [[Kelly Reilly]] · [[William Houston]] · [[Hans Matheson]]

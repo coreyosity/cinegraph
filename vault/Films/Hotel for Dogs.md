@@ -56,6 +56,9 @@ providers:
 
 Placed in a foster home that doesn't allow pets, 16-year-old Andi and her younger brother, Bruce, turn an abandoned hotel into a home for their dog. Soon other strays arrive, and the hotel becomes a haven for every orphaned canine in town. But the kids have to do some quick thinking to keep the cops off their tails.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Thor Freudenthal]]
 > **Cast** [[Emma Roberts]] · [[Jake T. Austin]] · [[Don Cheadle]] · [[Johnny Simmons]] · [[Kyla Pratt]] · [[Troy Gentile]] · [[Lisa Kudrow]] · [[Kevin Dillon]] · [[Ajay Naidu]] · [[Eric Edelstein]]

@@ -50,6 +50,9 @@ providers:
 
 A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Betty Thomas]]
 > **Cast** [[Eddie Murphy]] · [[Ossie Davis]] · [[Oliver Platt]] · [[Peter Boyle]] · [[Richard Schiff]] · [[Kristen Wilson]] · [[Jeffrey Tambor]] · [[Kyla Pratt]] · [[Raven-Symoné]] · [[Steven Gilborn]]

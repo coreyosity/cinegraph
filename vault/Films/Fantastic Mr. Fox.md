@@ -65,6 +65,9 @@ providers:
 
 The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.
 
+> [!note]- Log
+> Watched 3 May 2023 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]
 > **Cast** [[George Clooney]] · [[Meryl Streep]] · [[Jason Schwartzman]] · [[Eric Chase Anderson]] · [[Wallace Wolodarsky]] · [[Willem Dafoe]] · [[Michael Gambon]] · [[Robin Hurlstone]] · [[Hugo Guinness]] · [[Bill Murray]]

@@ -69,6 +69,9 @@ providers:
 
 Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.
 
+> [!note]- Log
+> Watched 23 Nov 2022
+
 > [!info]- Cast & crew
 > **Director** [[David Yates]]
 > **Cast** [[Daniel Radcliffe]] · [[Emma Watson]] · [[Rupert Grint]] · [[Toby Jones]] · [[Helena Bonham Carter]] · [[Alan Rickman]] · [[Ralph Fiennes]] · [[Bill Nighy]] · [[Simon McBurney]] · [[Rhys Ifans]]

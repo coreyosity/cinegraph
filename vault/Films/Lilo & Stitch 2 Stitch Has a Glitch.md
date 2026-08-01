@@ -45,6 +45,9 @@ providers:
 
 Now, we find the rowdy extraterrestrial getting used to life with his new ʻohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!
 
+> [!note]- Log
+> Watched 17 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tony Leondis]]
 > **Cast** [[Chris Sanders]] · [[Dakota Fanning]] · [[Tia Carrere]] · [[David Ogden Stiers]] · [[Kevin McDonald]] · [[Kunewa Mook]] · [[Jason Scott Lee]] · [[William J. Caparella]] · [[Holliston Coleman]] · [[Matt Corboy]]

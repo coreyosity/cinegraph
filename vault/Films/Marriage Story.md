@@ -50,6 +50,9 @@ providers:
 
 A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Noah Baumbach]]
 > **Cast** [[Adam Driver]] · [[Scarlett Johansson]] · [[Laura Dern]] · [[Alan Alda]] · [[Ray Liotta]] · [[Julie Hagerty]] · [[Merritt Wever]] · [[Azhy Robertson]] · [[Wallace Shawn]] · [[Martha Kelly]]

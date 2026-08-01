@@ -60,6 +60,9 @@ providers:
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 2.0
+
 > [!info]- Cast & crew
 > **Director** [[Jeff Wadlow]]
 > **Cast** [[Michael Peña]] · [[Maggie Q]] · [[Lucy Hale]] · [[Michael Rooker]] · [[Austin Stowell]] · [[Jimmy O. Yang]] · [[Portia Doubleday]] · [[Charlotte McKinney]] · [[Ryan Hansen]] · [[Mike Vogel]]

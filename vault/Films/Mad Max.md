@@ -5,7 +5,7 @@ year: 1979
 tmdb_id: 9659
 content_type: movie
 rating: 2.0
-watched: '2024-05-23'
+watched: '2024-05-22'
 runtime: 91
 genres:
 - Action
@@ -76,9 +76,17 @@ providers:
 - Crave
 - Crave Amazon Channel
 - Stan
+log_tags:
+- myself
+- home
+- prime
 ---
 
 In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.
+
+> [!note]- Log
+> Watched 22 May 2024 · ★ 2.0
+> Tags  myself · home · prime
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

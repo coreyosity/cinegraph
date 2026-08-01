@@ -46,6 +46,9 @@ letterboxd: https://boxd.it/1STg
 
 After one of his class papers is stolen and turned into a movie, a young student and his best friend exact a hilarious, slapstick revenge on the Hollywood hot shot who has taken credit!
 
+> [!note]- Log
+> Watched 14 May 2025
+
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]
 > **Cast** [[Frankie Muniz]] · [[Paul Giamatti]] · [[Amanda Bynes]] · [[Amanda Detmer]] · [[Sandra Oh]] · [[Russell Hornsby]] · [[Michael Bryan French]] · [[Christine Tucci]] · [[Lee Majors]] · [[Donald Faison]]

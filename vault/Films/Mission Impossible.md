@@ -77,6 +77,9 @@ providers:
 
 When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brian De Palma]]
 > **Cast** [[Tom Cruise]] · [[Jon Voight]] · [[Emmanuelle Béart]] · [[Henry Czerny]] · [[Jean Reno]] · [[Ving Rhames]] · [[Kristin Scott Thomas]] · [[Vanessa Redgrave]] · [[Ingeborga Dapkūnaitė]] · [[Valentina Yakunina]]

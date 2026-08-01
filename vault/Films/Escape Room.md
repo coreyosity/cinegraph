@@ -61,6 +61,9 @@ providers:
 
 Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Adam Robitel]]
 > **Cast** [[Taylor Russell]] · [[Logan Miller]] · [[Jay Ellis]] · [[Deborah Ann Woll]] · [[Nik Dodani]] · [[Tyler Labine]] · [[Yorick van Wageningen]] · [[Cornelius Geaney Jr]] · [[Russell Crous]] · [[Bart Fouche]]

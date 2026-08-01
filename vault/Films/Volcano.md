@@ -4,7 +4,7 @@ title: Volcano
 year: 1997
 tmdb_id: 10357
 content_type: movie
-watched: '2024-08-21'
+watched: '2024-08-19'
 runtime: 104
 genres:
 - Science Fiction
@@ -57,9 +57,18 @@ providers:
 - YouTube TV
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
+log_tags:
+- andrew
+- dean
+- home
+- prime
 ---
 
 An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, working with a geologist, must then use every resource in the city to try and stop the volcano from consuming LA.
+
+> [!note]- Log
+> Watched 19 Aug 2024
+> Tags  andrew · dean · home · prime
 
 > [!info]- Cast & crew
 > **Director** [[Mick Jackson]]

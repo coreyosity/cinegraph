@@ -49,6 +49,9 @@ providers:
 
 A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Andy Serkis]]
 > **Cast** [[Rohan Chand]] · [[Christian Bale]] · [[Cate Blanchett]] · [[Benedict Cumberbatch]] · [[Naomie Harris]] · [[Andy Serkis]] · [[Peter Mullan]] · [[Jack Reynor]] · [[Eddie Marsan]] · [[Tom Hollander]]

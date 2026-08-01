@@ -46,6 +46,9 @@ providers:
 
 A young woman discovers that both her husband and their new home harbor sinister secrets after they leave Manhattan for small-town life.
 
+> [!note]- Log
+> Watched 18 Feb 2025
+
 > [!info]- Cast & crew
 > **Director** [[Shari Springer Berman]]
 > **Cast** [[Amanda Seyfried]] · [[James Norton]] · [[Natalia Dyer]] · [[Alex Neustaedter]] · [[Rhea Seehorn]] · [[Michael O'Keefe]] · [[Karen Allen]] · [[Jack Gore]] · [[F. Murray Abraham]] · [[James Urbaniak]]

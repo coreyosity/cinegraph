@@ -41,6 +41,9 @@ letterboxd: https://boxd.it/1VHW
 
 A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar-smoking drake, Howard, from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet, but then a much less friendly being arrives through the beam...
 
+> [!note]- Log
+> Watched 17 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Willard Huyck]]
 > **Cast** [[Lea Thompson]] · [[Jeffrey Jones]] · [[Tim Robbins]] · [[Ed Gale]] · [[Chip Zien]] · [[Tim Rose]] · [[Steve Sleap]] · [[Peter Baird]] · [[Mary Wells]] · [[Lisa Sturz]]

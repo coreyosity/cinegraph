@@ -53,6 +53,9 @@ providers:
 
 Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the "family business."
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Robert Rodriguez]]
 > **Cast** [[Alexa PenaVega]] · [[Daryl Sabara]] · [[Antonio Banderas]] · [[Carla Gugino]] · [[Alan Cumming]] · [[Tony Shalhoub]] · [[Teri Hatcher]] · [[Robert Patrick]] · [[Dick Clark]] · [[George Clooney]]

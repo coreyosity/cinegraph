@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 593643
 content_type: movie
 rating: 5.0
-watched: '2022-11-22'
+watched: '2022-11-21'
 runtime: 107
 genres:
 - Comedy
@@ -63,9 +63,17 @@ providers:
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.
+
+> [!note]- Log
+> Watched 21 Nov 2022 · ★ 5.0
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Mark Mylod]]

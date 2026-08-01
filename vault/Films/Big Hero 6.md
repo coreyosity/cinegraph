@@ -69,6 +69,9 @@ providers:
 
 A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Don Hall]]
 > **Cast** [[Scott Adsit]] · [[Ryan Potter]] · [[Daniel Henney]] · [[T.J. Miller]] · [[Jamie Chung]] · [[Damon Wayans Jr]] · [[Genesis Rodriguez]] · [[James Cromwell]] · [[Alan Tudyk]] · [[Maya Rudolph]]

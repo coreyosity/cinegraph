@@ -56,6 +56,9 @@ providers:
 
 He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tom Shadyac]]
 > **Cast** [[Jim Carrey]] · [[Courteney Cox]] · [[Sean Young]] · [[Tone Loc]] · [[Dan Marino]] · [[Noble Willingham]] · [[Troy Evans]] · [[Raynor Scheine]] · [[Udo Kier]] · [[Frank Adonis]]

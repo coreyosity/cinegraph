@@ -46,6 +46,9 @@ providers:
 
 When 13-year-old Allie Thompson and her best friend Sam happen upon a weather-making machine discarded by none other than Santa Claus, they use it to cause a snow day in Los Angeles. But when the machine gets out of hand, it threatens to ruin Christmas.
 
+> [!note]- Log
+> Watched 11 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Greg Beeman]]
 > **Cast** [[Hallee Hirsh]] · [[Spencer Breslin]] · [[Hallie Todd]] · [[Brenda Song]] · [[John Salley]] · [[Susan Ruttan]] · [[John B. Lowe]] · [[Greg Kean]] · [[Jason Schombing]] · [[Bill Fagerbakke]]

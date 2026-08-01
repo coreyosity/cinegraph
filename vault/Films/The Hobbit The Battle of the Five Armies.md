@@ -69,6 +69,9 @@ providers:
 
 Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Ian McKellen]] · [[Martin Freeman]] · [[Richard Armitage]] · [[Orlando Bloom]] · [[Evangeline Lilly]] · [[Luke Evans]] · [[Lee Pace]] · [[Benedict Cumberbatch]] · [[Ken Stott]] · [[Aidan Turner]]

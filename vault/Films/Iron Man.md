@@ -52,6 +52,9 @@ providers:
 
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]
 > **Cast** [[Robert Downey Jr]] · [[Terrence Howard]] · [[Jeff Bridges]] · [[Gwyneth Paltrow]] · [[Leslie Bibb]] · [[Shaun Toub]] · [[Faran Tahir]] · [[Clark Gregg]] · [[Bill Smitrovich]] · [[Sayed Badreya]]

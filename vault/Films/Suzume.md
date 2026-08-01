@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 916224
 content_type: movie
 rating: 4.0
-watched: '2025-06-06'
+watched: '2025-06-04'
 runtime: 122
 genres:
 - Animation
@@ -66,9 +66,17 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- netflix
+- home
+- dean
 ---
 
 Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.
+
+> [!note]- Log
+> Watched 4 Jun 2025 · ★ 4.0
+> Tags  netflix · home · dean
 
 > [!info]- Cast & crew
 > **Director** [[Makoto Shinkai]]

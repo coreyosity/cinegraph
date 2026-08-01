@@ -75,6 +75,9 @@ providers:
 
 The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.
 
+> [!note]- Log
+> Watched 3 May 2023 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Richard Curtis]]
 > **Cast** [[Domhnall Gleeson]] · [[Rachel McAdams]] · [[Bill Nighy]] · [[Tom Hollander]] · [[Margot Robbie]] · [[Lydia Wilson]] · [[Lindsay Duncan]] · [[Richard Cordery]] · [[Joshua McGuire]] · [[Will Merrick]]

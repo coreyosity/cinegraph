@@ -72,6 +72,9 @@ providers:
 
 A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rawson Marshall Thurber]]
 > **Cast** [[Jennifer Aniston]] · [[Jason Sudeikis]] · [[Emma Roberts]] · [[Will Poulter]] · [[Ed Helms]] · [[Nick Offerman]] · [[Kathryn Hahn]] · [[Molly C. Quinn]] · [[Tomer Sisley]] · [[Matthew Willig]]

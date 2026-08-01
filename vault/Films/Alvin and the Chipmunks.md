@@ -60,6 +60,9 @@ providers:
 
 A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Hill]]
 > **Cast** [[Jason Lee]] · [[David Cross]] · [[Cameron Richardson]] · [[Jane Lynch]] · [[Justin Long]] · [[Matthew Gray Gubler]] · [[Jesse McCartney]] · [[Allison Karman]] · [[Tiara Parker]] · [[Kira Verrastro]]

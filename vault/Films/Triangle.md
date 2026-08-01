@@ -5,7 +5,7 @@ year: 2009
 tmdb_id: 26466
 content_type: movie
 rating: 3.0
-watched: '2026-05-15'
+watched: '2026-05-14'
 runtime: 99
 genres:
 - Horror
@@ -61,9 +61,17 @@ providers:
 - Amazon Prime Video with Ads
 - Peacock Premium Plus
 - Stan
+log_tags:
+- home
+- myself
+- prime
 ---
 
 When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.
+
+> [!note]- Log
+> Watched 14 May 2026 · ★ 3.0
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Smith]]

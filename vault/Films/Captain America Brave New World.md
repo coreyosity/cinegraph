@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 822119
 content_type: movie
 rating: 3.0
-watched: '2025-03-13'
+watched: '2025-03-11'
 runtime: 119
 genres:
 - Action
@@ -52,9 +52,17 @@ tags:
 letterboxd: https://boxd.it/uYDm
 providers:
 - Disney Plus
+log_tags:
+- cinema
+- myself
+- odeon-the-point
 ---
 
 After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.
+
+> [!note]- Log
+> Watched 11 Mar 2025 · ★ 3.0
+> Tags  cinema · myself · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Julius Onah]]

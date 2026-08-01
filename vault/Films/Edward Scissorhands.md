@@ -72,6 +72,9 @@ providers:
 
 A small suburban town receives a visit from a castaway unfinished science experiment named Edward.
 
+> [!note]- Log
+> Watched 27 Mar 2022
+
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]
 > **Cast** [[Johnny Depp]] · [[Winona Ryder]] · [[Dianne Wiest]] · [[Anthony Michael Hall]] · [[Kathy Baker]] · [[Robert Oliveri]] · [[Conchata Ferrell]] · [[Caroline Aaron]] · [[Dick Anthony Williams]] · [[O-Lan Jones]]

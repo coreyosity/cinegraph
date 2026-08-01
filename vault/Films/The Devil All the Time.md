@@ -59,6 +59,9 @@ providers:
 
 In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Antonio Campos]]
 > **Cast** [[Tom Holland]] · [[Robert Pattinson]] · [[Bill Skarsgård]] · [[Riley Keough]] · [[Jason Clarke]] · [[Sebastian Stan]] · [[Haley Bennett]] · [[Harry Melling]] · [[Eliza Scanlen]] · [[Mia Wasikowska]]

@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 698948
 content_type: movie
 rating: 4.0
-watched: '2025-03-25'
+watched: '2025-03-24'
 runtime: 147
 genres:
 - Drama
@@ -51,9 +51,17 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- home
+- myself
+- prime
 ---
 
 Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.
+
+> [!note]- Log
+> Watched 24 Mar 2025 · ★ 4.0
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]

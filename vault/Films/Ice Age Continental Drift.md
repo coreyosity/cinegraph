@@ -59,6 +59,9 @@ providers:
 
 Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Thurmeier]]
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Seann William Scott]] · [[Josh Peck]] · [[Peter Dinklage]] · [[Wanda Sykes]] · [[Jennifer Lopez]] · [[Queen Latifah]] · [[Keke Palmer]]

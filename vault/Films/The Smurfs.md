@@ -66,6 +66,9 @@ providers:
 
 When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, they tumble from their magical world and into ours -- in fact, smack dab in the middle of Central Park. Just three apples high and stuck in the Big Apple, the Smurfs must find a way to get back to their village before Gargamel tracks them down.
 
+> [!note]- Log
+> Watched 26 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Raja Gosnell]]
 > **Cast** [[Hank Azaria]] · [[Neil Patrick Harris]] · [[Jayma Mays]] · [[Jonathan Winters]] · [[Katy Perry]] · [[Anton Yelchin]] · [[Sofía Vergara]] · [[Tim Gunn]] · [[Frank Welker]] · [[Madison McKinley]]

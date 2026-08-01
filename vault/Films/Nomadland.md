@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 581734
 content_type: movie
 rating: 3.5
-watched: '2026-03-09'
+watched: '2026-03-08'
 runtime: 108
 genres:
 - Drama
@@ -61,9 +61,17 @@ providers:
 - Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.
+
+> [!note]- Log
+> Watched 8 Mar 2026 · ★ 3.5
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Chloé Zhao]]

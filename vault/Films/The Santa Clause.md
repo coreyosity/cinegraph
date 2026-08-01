@@ -55,6 +55,9 @@ providers:
 
 On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.
 
+> [!note]- Log
+> Watched 25 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Pasquin]]
 > **Cast** [[Tim Allen]] · [[Judge Reinhold]] · [[Wendy Crewson]] · [[Eric Lloyd]] · [[David Krumholtz]] · [[Larry Brandenburg]] · [[Mary Gross]] · [[Paige Tamada]] · [[Peter Boyle]] · [[Judith Scott]]

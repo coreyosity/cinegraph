@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 644583
 content_type: movie
 rating: 4.5
-watched: '2022-07-07'
+watched: '2022-07-06'
 runtime: 129
 genres:
 - Drama
@@ -55,9 +55,17 @@ providers:
 - Crave
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
+log_tags:
+- dad
+- wexford
+- prime
 ---
 
 The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.
+
+> [!note]- Log
+> Watched 6 Jul 2022 · ★ 4.5
+> Tags  dad · wexford · prime
 
 > [!info]- Cast & crew
 > **Director** [[Kevin Macdonald]]

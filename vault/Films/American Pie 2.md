@@ -50,6 +50,9 @@ providers:
 
 After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[J.B. Rogers]]
 > **Cast** [[Jason Biggs]] · [[Thomas Ian Nicholas]] · [[Chris Klein]] · [[Seann William Scott]] · [[Eddie Kaye Thomas]] · [[Alyson Hannigan]] · [[Shannon Elizabeth]] · [[Tara Reid]] · [[Mena Suvari]] · [[Natasha Lyonne]]

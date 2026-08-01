@@ -5,7 +5,7 @@ year: 1983
 tmdb_id: 860
 content_type: movie
 rating: 4.0
-watched: '2022-04-05'
+watched: '2024-01-14'
 runtime: 114
 genres:
 - Drama
@@ -58,9 +58,18 @@ providers:
 - YouTube TV
 - MGM Plus
 - MGM Amazon Channel
+rewatch: true
+log_tags:
+- myself
+- home
+- disney+
 ---
 
 High school student David Lightman has a talent for hacking. But while trying to hack into a computer system to play unreleased video games, he unwittingly taps into the Department of Defense's war computer and initiates a confrontation of global proportions. Together with his friend and a wizardly computer genius, David must race against time to outwit his opponent and prevent a nuclear Armageddon.
+
+> [!note]- Log
+> Watched 14 Jan 2024 · ★ 4.0 · Rewatch
+> Tags  myself · home · disney+
 
 > [!info]- Cast & crew
 > **Director** [[John Badham]]

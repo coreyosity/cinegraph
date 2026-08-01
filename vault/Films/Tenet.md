@@ -66,6 +66,9 @@ providers:
 
 Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]
 > **Cast** [[John David Washington]] · [[Robert Pattinson]] · [[Elizabeth Debicki]] · [[Kenneth Branagh]] · [[Dimple Kapadia]] · [[Michael Caine]] · [[Martin Donovan]] · [[Fiona Dourif]] · [[Yuri Kolokolnikov]] · [[Himesh Patel]]

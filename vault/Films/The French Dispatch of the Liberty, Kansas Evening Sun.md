@@ -5,7 +5,7 @@ year: 2021
 tmdb_id: 542178
 content_type: movie
 rating: 3.5
-watched: '2025-01-01'
+watched: '2024-12-31'
 runtime: 108
 genres:
 - Drama
@@ -67,9 +67,17 @@ providers:
 - Netflix Standard with Ads
 - fuboTV
 - YouTube TV
+log_tags:
+- dad
+- netflix
+- wexford
 ---
 
 The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
+
+> [!note]- Log
+> Watched 31 Dec 2024 · ★ 3.5
+> Tags  dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

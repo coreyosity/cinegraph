@@ -5,7 +5,7 @@ year: 2001
 tmdb_id: 808
 content_type: movie
 rating: 4.0
-watched: '2022-03-27'
+watched: '2025-01-01'
 runtime: 90
 genres:
 - Animation
@@ -83,9 +83,19 @@ providers:
 - Stan
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+rewatch: true
+log_tags:
+- caleb
+- tg4
+- irish
+- wexford
 ---
 
 It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.
+
+> [!note]- Log
+> Watched 1 Jan 2025 · ★ 4.0 · Rewatch
+> Tags  caleb · tg4 · irish · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Andrew Adamson]]

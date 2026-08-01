@@ -58,6 +58,9 @@ providers:
 
 Intrepid teenage private eye Nancy Drew heads to Tinseltown with her father to investigate the unsolved murder of a movie star in this old-fashioned whodunit based on Carolyn Keene's popular series of books for young adults. But can the small-town girl cut through the Hollywood hype to solve the case?
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Andrew Fleming]]
 > **Cast** [[Emma Roberts]] · [[Max Thieriot]] · [[Josh Flitter]] · [[Rachael Leigh Cook]] · [[Kay Panabaker]] · [[Tate Donovan]] · [[Marshall Bell]] · [[Daniella Monet]] · [[Kelly Vitz]] · [[Bruce Willis]]

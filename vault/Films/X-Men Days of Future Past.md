@@ -5,7 +5,7 @@ year: 2014
 tmdb_id: 127585
 content_type: movie
 rating: 3.0
-watched: '2024-05-10'
+watched: '2026-07-23'
 runtime: 132
 genres:
 - Action
@@ -55,9 +55,18 @@ tags:
 letterboxd: https://boxd.it/4aRw
 providers:
 - Disney Plus
+rewatch: true
+log_tags:
+- home
+- dad
+- disney+
 ---
 
 The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
+
+> [!note]- Log
+> Watched 23 Jul 2026 · ★ 3.0 · Rewatch
+> Tags  home · dad · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Bryan Singer]]

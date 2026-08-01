@@ -74,6 +74,9 @@ providers:
 
 During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]
 > **Cast** [[Matt Damon]] · [[Jessica Chastain]] · [[Kristen Wiig]] · [[Jeff Daniels]] · [[Michael Peña]] · [[Sean Bean]] · [[Kate Mara]] · [[Sebastian Stan]] · [[Aksel Hennie]] · [[Chiwetel Ejiofor]]

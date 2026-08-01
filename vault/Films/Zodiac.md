@@ -85,6 +85,9 @@ providers:
 
 Over the course of a decade, editors of the San Francisco Chronicle entice themselves in the murders of the Zodiac Killer. However, as time runs its course, interest in the case dwindles in the eyes of the professionals. The Killer stops interacting with the public. However, believing he has the answers, an amateur cartoonist from the initial sightings races against time to prevent what he believes is another murder.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]
 > **Cast** [[Jake Gyllenhaal]] · [[Mark Ruffalo]] · [[Anthony Edwards]] · [[Robert Downey Jr]] · [[Chloë Sevigny]] · [[Elias Koteas]] · [[John Carroll Lynch]] · [[Brian Cox]] · [[Dermot Mulroney]] · [[Charles Fleischer]]

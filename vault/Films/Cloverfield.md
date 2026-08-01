@@ -64,6 +64,9 @@ providers:
 
 Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Matt Reeves]]
 > **Cast** [[Lizzy Caplan]] · [[Jessica Lucas]] · [[T.J. Miller]] · [[Michael Stahl-David]] · [[Mike Vogel]] · [[Odette Annable]] · [[Anjul Nigam]] · [[Margot Farley]] · [[Theo Rossi]] · [[Brian Klugman]]

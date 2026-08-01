@@ -66,6 +66,9 @@ providers:
 
 Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[David Yates]]
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Jim Broadbent]] · [[Michael Gambon]] · [[Tom Felton]] · [[Alan Rickman]] · [[Bonnie Wright]] · [[Jessie Cave]] · [[Evanna Lynch]]

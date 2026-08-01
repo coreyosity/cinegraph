@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 929590
 content_type: movie
 rating: 4.0
-watched: '2024-04-29'
+watched: '2024-04-27'
 runtime: 109
 genres:
 - War
@@ -70,9 +70,17 @@ providers:
 - Netflix
 - Stan
 - Netflix Standard with Ads
+log_tags:
+- myself
+- cinema
+- odeon-blanch
 ---
 
 In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.
+
+> [!note]- Log
+> Watched 27 Apr 2024 · ★ 4.0
+> Tags  myself · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Alex Garland]]

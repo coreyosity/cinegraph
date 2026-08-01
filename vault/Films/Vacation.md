@@ -60,6 +60,9 @@ providers:
 
 Hoping to bring his family closer together and to recreate his childhood vacation for his own kids, a grown up Rusty Griswold takes his wife and their two sons on a cross-country road trip to the coolest theme park in America, Walley World. Needless to say, things don't go quite as planned.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Francis Daley]]
 > **Cast** [[Ed Helms]] · [[Christina Applegate]] · [[Skyler Gisondo]] · [[Steele Stebbins]] · [[Chris Hemsworth]] · [[Leslie Mann]] · [[Chevy Chase]] · [[Beverly D'Angelo]] · [[Charlie Day]] · [[Catherine Missal]]

@@ -48,6 +48,9 @@ providers:
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[James Gunn]]
 > **Cast** [[Chris Pratt]] · [[Zoe Saldaña]] · [[Dave Bautista]] · [[Vin Diesel]] · [[Bradley Cooper]] · [[Kurt Russell]] · [[Michael Rooker]] · [[Karen Gillan]] · [[Pom Klementieff]] · [[Sylvester Stallone]]

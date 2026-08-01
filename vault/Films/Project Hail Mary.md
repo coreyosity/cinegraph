@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 687163
 content_type: movie
 rating: 4.5
-watched: '2026-03-17'
+watched: '2026-03-16'
 runtime: 157
 genres:
 - Science Fiction
@@ -67,9 +67,20 @@ providers:
 - Philo
 - MGM Plus Roku Premium Channel
 - MGM Plus
+log_tags:
+- cinema
+- dean
+- andrew
+- grace
+- odeon-the-point
+- isense
 ---
 
 Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.
+
+> [!note]- Log
+> Watched 16 Mar 2026 · ★ 4.5
+> Tags  cinema · dean · andrew · grace · odeon-the-point · isense
 
 > [!info]- Cast & crew
 > **Director** [[Phil Lord]]

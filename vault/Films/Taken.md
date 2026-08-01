@@ -59,6 +59,9 @@ providers:
 
 Bryan Mills, a former government operative, is trying to reconnect with his teenage daughter Kim. After reluctantly agreeing with his ex-wife to let Kim go to Paris on vacation with a friend, his worst nightmare comes true. While on the phone with his daughter shortly after she arrives in Paris, she and her friend are abducted by a gang of human traffickers. Working against the clock, Bryan relies on his extensive training and skills to track down the ruthless gang that abducted her and launch a one-man war to rescue his daughter.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Pierre Morel]]
 > **Cast** [[Liam Neeson]] · [[Maggie Grace]] · [[Famke Janssen]] · [[Olivier Rabourdin]] · [[Katie Cassidy]] · [[Nicolas Giraud]] · [[Leland Orser]] · [[Jon Gries]] · [[Holly Valance]] · [[David Warshofsky]]

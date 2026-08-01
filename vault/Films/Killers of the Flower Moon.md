@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 466420
 content_type: movie
 rating: 4.5
-watched: '2023-10-25'
+watched: '2023-11-19'
 runtime: 206
 genres:
 - Crime
@@ -69,9 +69,18 @@ letterboxd: https://boxd.it/gHp0
 providers:
 - Apple TV
 - Apple TV Amazon Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-blanch
 ---
 
 When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.
+
+> [!note]- Log
+> Watched 19 Nov 2023 · ★ 4.5
+> Tags  andrew · dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Martin Scorsese]]

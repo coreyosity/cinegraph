@@ -5,7 +5,7 @@ year: 2020
 tmdb_id: 542224
 content_type: movie
 rating: 2.5
-watched: '2025-03-23'
+watched: '2025-03-22'
 runtime: 87
 genres:
 - Fantasy
@@ -49,9 +49,17 @@ letterboxd: https://boxd.it/jLOk
 providers:
 - MGM Plus Amazon Channel
 - MGM Amazon Channel
+log_tags:
+- home
+- myself
+- torrent
 ---
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
+
+> [!note]- Log
+> Watched 22 Mar 2025 · ★ 2.5
+> Tags  home · myself · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Osgood Perkins]]

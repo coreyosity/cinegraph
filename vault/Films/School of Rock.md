@@ -70,6 +70,9 @@ providers:
 
 Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey must risk everything to prove that rock 'n' roll can change lives.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Richard Linklater]]
 > **Cast** [[Jack Black]] · [[Joan Cusack]] · [[Mike White]] · [[Sarah Silverman]] · [[Miranda Cosgrove]] · [[Joey Gaydos Jr]] · [[Kevin Alexander Clark]] · [[Rivkah Reyes]] · [[Robert Tsai]] · [[Maryam Hassan]]

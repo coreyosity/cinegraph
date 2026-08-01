@@ -57,6 +57,9 @@ providers:
 
 The adventures of two amiably aimless metal-head friends, Wayne and Garth. From Wayne's basement, the pair broadcast a talk-show called "Wayne's World" on local public access television. The show comes to the attention of a sleazy network executive who wants to produce a big-budget version of "Wayne's World"—and he also wants Wayne's girlfriend, a rock singer named Cassandra. Wayne and Garth have to battle the executive not only to save their show, but also Cassandra.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Penelope Spheeris]]
 > **Cast** [[Mike Myers]] · [[Dana Carvey]] · [[Rob Lowe]] · [[Tia Carrere]] · [[Lara Flynn Boyle]] · [[Donna Dixon]] · [[Chris Farley]] · [[Brian Doyle-Murray]] · [[Michael DeLuise]] · [[Meat Loaf]]

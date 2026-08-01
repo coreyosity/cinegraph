@@ -82,6 +82,9 @@ providers:
 
 Benjamin Franklin Gates and Abigail Chase re-team with Riley Poole and, now armed with a stack of long-lost pages from John Wilkes Booth's diary, Ben must follow a clue left there to prove his ancestor's innocence in the assassination of Abraham Lincoln.
 
+> [!note]- Log
+> Watched 13 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jon Turteltaub]]
 > **Cast** [[Nicolas Cage]] · [[Diane Kruger]] · [[Justin Bartha]] · [[Ed Harris]] · [[Jon Voight]] · [[Helen Mirren]] · [[Harvey Keitel]] · [[Bruce Greenwood]] · [[Ty Burrell]] · [[Michael Maize]]

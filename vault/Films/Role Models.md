@@ -61,6 +61,9 @@ providers:
 
 Two salesmen trash a company truck on an energy drink-fueled bender. Upon their arrest, the court gives them a choice: do hard time or spend 150 service hours with a mentorship program. After one day with the kids, however, jail doesn't look half bad.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Wain]]
 > **Cast** [[Seann William Scott]] · [[Paul Rudd]] · [[Christopher Mintz-Plasse]] · [[Bobb'e J. Thompson]] · [[Elizabeth Banks]] · [[Jane Lynch]] · [[Ken Jeong]] · [[Ken Marino]] · [[Kerri Kenney]] · [[A.D. Miles]]

@@ -63,6 +63,9 @@ providers:
 
 Milo Boyd, a down-on-his-luck bounty hunter, thinks he's seeing an upswing in fortune when he gets a call to bring in his bail-jumping ex-wife, a reporter named Nicole. Milo considers the job an easy payday, but Nicole quickly escapes to chase a lead on a murder case. The former spouses play an escalating game of one-upmanship, until they suddenly find themselves on the run for their lives.
 
+> [!note]- Log
+> Watched 2 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Andy Tennant]]
 > **Cast** [[Jennifer Aniston]] · [[Gerard Butler]] · [[Jason Sudeikis]] · [[Jeff Garlin]] · [[Ritchie Coster]] · [[Cathy Moriarty]] · [[Peter Greene]] · [[Joel Marsh Garland]] · [[Dorian Missick]] · [[Siobhan Fallon Hogan]]

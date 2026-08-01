@@ -79,6 +79,9 @@ providers:
 
 Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Ari Aster]]
 > **Cast** [[Toni Collette]] · [[Alex Wolff]] · [[Gabriel Byrne]] · [[Milly Shapiro]] · [[Ann Dowd]] · [[Mallory Bechtel]] · [[Brock McKinney]] · [[Jake Brown]] · [[Morgan Lund]] · [[Christy Summerhays]]

@@ -4,7 +4,7 @@ title: 'The Hunger Games: Mockingjay – Part 1'
 year: 2014
 tmdb_id: 131631
 content_type: movie
-watched: '2024-01-06'
+watched: '2023-12-27'
 runtime: 123
 genres:
 - Science Fiction
@@ -58,9 +58,18 @@ providers:
 - Crave Amazon Channel
 - Stan
 - Lionsgate+ Amazon Channels
+rewatch: true
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 After surviving the Quarter Quell, Katniss finds herself in the hidden stronghold of District 13, where the rebellion against the Capitol is gaining momentum. Struggling with the weight of becoming the symbol of resistance, she must navigate fragile alliances while trying to protect those she loves. As propaganda battles rage and Panem moves closer to full-scale war, Katniss is forced to confront the true cost of revolution.
+
+> [!note]- Log
+> Watched 27 Dec 2023 · Rewatch
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

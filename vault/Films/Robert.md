@@ -39,6 +39,9 @@ providers:
 
 A family is terrorized by an evil doll named Robert, which seems to come to life after an elderly housekeeper is dismissed. As the attacks grow more intense, the parents struggle with their disbelief and fear while trying to break the curse before it's too late.
 
+> [!note]- Log
+> Watched 31 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Andrew Jones]]
 > **Cast** [[Suzie Frances Garton]] · [[Lee Bane]] · [[Flynn Allen]] · [[Judith Haley]] · [[Cyd Casados]] · [[Samuel Hutchison]] · [[Megan Lockhurst]] · [[Ryan Michaels]]

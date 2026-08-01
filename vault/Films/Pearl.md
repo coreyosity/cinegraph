@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 949423
 content_type: movie
 rating: 3.0
-watched: '2025-12-10'
+watched: '2025-12-09'
 runtime: 102
 genres:
 - Horror
@@ -68,9 +68,17 @@ letterboxd: https://boxd.it/zPbe
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- home
+- myself
+- prime
 ---
 
 Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.
+
+> [!note]- Log
+> Watched 9 Dec 2025 · ★ 3.0
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

@@ -53,6 +53,9 @@ providers:
 
 Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.
 
+> [!note]- Log
+> Watched 5 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Neil Jordan]]
 > **Cast** [[Liam Neeson]] · [[Aidan Quinn]] · [[Stephen Rea]] · [[Alan Rickman]] · [[Julia Roberts]] · [[Ian Hart]] · [[Brendan Gleeson]] · [[Stuart Graham]] · [[Sean McGinley]] · [[Gerard McSorley]]

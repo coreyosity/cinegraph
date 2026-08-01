@@ -59,6 +59,9 @@ providers:
 
 After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Bryan Singer]]
 > **Cast** [[James McAvoy]] · [[Michael Fassbender]] · [[Jennifer Lawrence]] · [[Nicholas Hoult]] · [[Oscar Isaac]] · [[Rose Byrne]] · [[Evan Peters]] · [[Josh Helman]] · [[Sophie Turner]] · [[Tye Sheridan]]

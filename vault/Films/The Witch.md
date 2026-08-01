@@ -67,6 +67,9 @@ providers:
 
 The modern world holds many secrets, but by far the most astounding is that witches still live among us; vicious supernatural creatures intent on unleashing the Black Death upon the world and putting an end to the human race once and for all. Armies of witch hunters have battled this unnatural enemy for centuries, including Kaulder, a valiant warrior who many years ago slayed the all-powerful Witch Queen, decimating her followers in the process. In the moments right before her death, the Queen cursed Kaulder with immortality, forever separating him from his beloved wife and daughter. Today, Kaulder is the last living hunter who has spent his immortal life tracking down rogue witches, all the while yearning for his long-lost family.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Breck Eisner]]
 > **Cast** [[Vin Diesel]] · [[Elijah Wood]] · [[Rose Leslie]] · [[Ólafur Darri Ólafsson]] · [[Julie Engelbrecht]] · [[Michael Caine]] · [[Joseph Gilgun]] · [[Isaach de Bankolé]] · [[Michael Halsey]] · [[Rena Owen]]

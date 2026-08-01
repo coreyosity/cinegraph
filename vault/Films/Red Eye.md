@@ -5,7 +5,7 @@ year: 2005
 tmdb_id: 11460
 content_type: movie
 rating: 3.0
-watched: '2023-04-11'
+watched: '2023-04-10'
 runtime: 85
 genres:
 - Thriller
@@ -75,9 +75,17 @@ providers:
 - YouTube TV
 - Starz
 - Starz Amazon Channel
+log_tags:
+- myself
+- home
+- netflix
 ---
 
 An overnight flight to Miami quickly becomes a battle for survival when Lisa realizes her seatmate plans to use her as part of a chilling assassination plot against the Deputy Secretary of Homeland Security. If she refuses to cooperate, her own father will be killed. As the miles tick by, she's in a race against time to find a way to warn the potential victims before it's too late.
+
+> [!note]- Log
+> Watched 10 Apr 2023 · ★ 3.0
+> Tags  myself · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

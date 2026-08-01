@@ -63,6 +63,9 @@ providers:
 
 In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]
 > **Cast** [[Jesse Eisenberg]] · [[Andrew Garfield]] · [[Armie Hammer]] · [[Justin Timberlake]] · [[Rooney Mara]] · [[Max Minghella]] · [[Brenda Song]] · [[Josh Pence]] · [[Rashida Jones]] · [[John Getz]]

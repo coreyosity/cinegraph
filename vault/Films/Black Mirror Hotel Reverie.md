@@ -7,3 +7,6 @@ letterboxd: https://boxd.it/U1V4
 tags:
 - film
 ---
+
+> [!note]- Log
+> Watched 15 Apr 2025

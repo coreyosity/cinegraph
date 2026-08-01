@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 812583
 content_type: movie
 rating: 4.0
-watched: '2025-12-01'
+watched: '2025-11-27'
 runtime: 145
 genres:
 - Thriller
@@ -52,9 +52,19 @@ letterboxd: https://boxd.it/uAKS
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- cinema
+- lighthouse
+- dean
+- andrew
+- grace
 ---
 
 When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it’s clear that all is not well in the pews. After a sudden and seemingly impossible murder rocks the town, the lack of an obvious suspect prompts local police chief Geraldine Scott to join forces with renowned detective Benoit Blanc to unravel a mystery that defies all logic.
+
+> [!note]- Log
+> Watched 27 Nov 2025 · ★ 4.0
+> Tags  cinema · lighthouse · dean · andrew · grace
 
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]

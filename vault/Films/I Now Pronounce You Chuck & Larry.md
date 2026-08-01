@@ -58,6 +58,9 @@ providers:
 
 Firefighters Chuck Ford and Larry Valentine are guy's guys, loyal to the core—which is why when widower Larry asks Chuck to pose as his lover so that he can get domestic partner benefits for his kids, his buddy agrees. However, things get dicey when a bureaucrat comes calling, and the boys are forced to present a picture of domestic bliss.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Jessica Biel]] · [[Dan Aykroyd]] · [[Ving Rhames]] · [[Steve Buscemi]] · [[Nicholas Turturro]] · [[Allen Covert]] · [[Rachel Dratch]] · [[Richard Chamberlain]]

@@ -55,6 +55,9 @@ providers:
 
 An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Bruce Willis]] · [[Samuel L. Jackson]] · [[Robin Wright]] · [[Spencer Treat Clark]] · [[Charlayne Woodard]] · [[Eamonn Walker]] · [[Leslie Stefanson]] · [[Johnny Hiram Jamison]] · [[Michaelia Carroll]] · [[Bostin Christopher]]

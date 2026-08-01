@@ -52,6 +52,9 @@ providers:
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tony Leondis]]
 > **Cast** [[T.J. Miller]] · [[James Corden]] · [[Anna Faris]] · [[Maya Rudolph]] · [[Steven Wright]] · [[Jennifer Coolidge]] · [[Jake T. Austin]] · [[Christina Aguilera]] · [[Sofía Vergara]] · [[Patrick Stewart]]

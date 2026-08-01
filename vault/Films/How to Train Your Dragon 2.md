@@ -92,6 +92,9 @@ providers:
 
 Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless soar beyond their homeland, charting the vast unknown. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider with a startling connection to Hiccup. And as the ruthless dragon conqueror Drago Bludvist rises to seize control of both dragons and people alike, Hiccup must step into his role as a true leader and, alongside his friends and Toothless, protect Berk from a devastating war.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dean DeBlois]]
 > **Cast** [[Jay Baruchel]] · [[Cate Blanchett]] · [[Gerard Butler]] · [[Craig Ferguson]] · [[America Ferrera]] · [[Jonah Hill]] · [[Christopher Mintz-Plasse]] · [[T.J. Miller]] · [[Kristen Wiig]] · [[Djimon Hounsou]]

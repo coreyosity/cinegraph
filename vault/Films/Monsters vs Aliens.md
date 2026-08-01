@@ -59,6 +59,9 @@ providers:
 
 When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk on her wedding day, she mysteriously grows to 49-feet-11-inches. The military jumps into action and captures Susan, secreting her away to a covert government compound. She is renamed Ginormica and placed in confinement with a ragtag group of Monsters...
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Conrad Vernon]]
 > **Cast** [[Reese Witherspoon]] · [[Seth Rogen]] · [[Hugh Laurie]] · [[Rainn Wilson]] · [[Will Arnett]] · [[Kiefer Sutherland]] · [[Paul Rudd]] · [[Stephen Colbert]] · [[Julie White]] · [[Jeffrey Tambor]]

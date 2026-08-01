@@ -48,6 +48,9 @@ letterboxd: https://boxd.it/1Z24
 
 Ali G unwittingly becomes a pawn in the evil Chancellor's plot to overthrow the Prime Minister of Great Britain. However, instead of bringing the Prime Minister down, Ali is embraced by the nation as the voice of youth and 'realness', making the Prime Minister and his government more popular than ever.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mark Mylod]]
 > **Cast** [[Sacha Baron Cohen]] · [[Michael Gambon]] · [[Charles Dance]] · [[Kellie Bright]] · [[Martin Freeman]] · [[Paul Clayton]] · [[Rhona Mitra]] · [[Tony Way]] · [[Graham McTavish]] · [[Barbara New]]

@@ -54,6 +54,9 @@ providers:
 
 After being wrongfully convicted for stealing a pair of shoes, Stanley Yelnats is sent away to Camp Green Lake, a boys detention facility where inmates are forced to dig holes all day in the hot desert sun as a form of character building. As he endures the brutal routine, Stanley begins to uncover a hidden truth behind the camp—one that connects to a dangerous secret and his family’s history.
 
+> [!note]- Log
+> Watched 24 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[Andrew Davis]]
 > **Cast** [[Shia LaBeouf]] · [[Khleo Thomas]] · [[Sigourney Weaver]] · [[Jon Voight]] · [[Tim Blake Nelson]] · [[Patricia Arquette]] · [[Dulé Hill]] · [[Henry Winkler]] · [[Siobhan Fallon Hogan]] · [[Eartha Kitt]]

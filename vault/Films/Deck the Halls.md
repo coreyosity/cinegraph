@@ -55,6 +55,9 @@ providers:
 
 Determined to unseat Steve Finch's reign as the town's holiday season king, Buddy Hall plasters his house with so many decorative lights that it'll be visible from space! When their wives bond, and their kids follow suit, the two men only escalate their rivalry - and their decorating.
 
+> [!note]- Log
+> Watched 30 Dec 2025
+
 > [!info]- Cast & crew
 > **Director** [[John Whitesell]]
 > **Cast** [[Danny DeVito]] · [[Matthew Broderick]] · [[Kristin Davis]] · [[Kristin Chenoweth]] · [[Alia Shawkat]] · [[Fred Armisen]] · [[Jorge Garcia]] · [[Dylan Blue]] · [[Kelly Aldridge]] · [[Sabrina Aldridge]]

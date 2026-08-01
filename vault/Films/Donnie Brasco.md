@@ -61,6 +61,9 @@ providers:
 
 An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mike Newell]]
 > **Cast** [[Johnny Depp]] · [[Al Pacino]] · [[Michael Madsen]] · [[Bruno Kirby]] · [[James Russo]] · [[Anne Heche]] · [[Željko Ivanek]] · [[Brian Tarantina]] · [[Rocco Sisto]] · [[Zach Grenier]]

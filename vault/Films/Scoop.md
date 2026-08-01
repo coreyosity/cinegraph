@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1083658
 content_type: movie
 rating: 2.5
-watched: '2024-04-07'
+watched: '2024-04-06'
 runtime: 103
 genres:
 - Drama
@@ -49,9 +49,17 @@ letterboxd: https://boxd.it/EZu6
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- andrew
+- home
+- netflix
 ---
 
 Inspired by real events, this fictional dramatization gives an insider account of how the women of Newsnight secured Prince Andrew's infamous interview.
+
+> [!note]- Log
+> Watched 6 Apr 2024 · ★ 2.5
+> Tags  andrew · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Philip Martin]]

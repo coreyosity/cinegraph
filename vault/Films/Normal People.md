@@ -26,6 +26,9 @@ letterboxd: https://boxd.it/q2VY
 
 What the future holds for Marianne and Connell's relationship.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Lenny Abrahamson]]
 > **Cast** [[Peter McDonald]] · [[Deirdre O'Kane]]

@@ -4,7 +4,7 @@ title: House at the End of the Street
 year: 2012
 tmdb_id: 82505
 content_type: movie
-watched: '2024-01-08'
+watched: '2024-01-07'
 runtime: 101
 genres:
 - Horror
@@ -44,9 +44,19 @@ providers:
 - Amazon Prime Video with Ads
 - iciTouTV
 - Stan
+rewatch: true
+log_tags:
+- netflix
+- dean
+- andrew
+- home
 ---
 
 A mother and daughter move to a new town and find themselves living next door to a house where a young girl murdered her parents. When the daughter befriends the surviving son, she learns the story is far from over.
+
+> [!note]- Log
+> Watched 7 Jan 2024 · Rewatch
+> Tags  netflix · dean · andrew · home
 
 > [!info]- Cast & crew
 > **Director** [[Mark Tonderai]]

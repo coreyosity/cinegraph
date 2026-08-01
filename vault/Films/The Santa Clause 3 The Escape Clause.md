@@ -51,6 +51,9 @@ providers:
 
 Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.
 
+> [!note]- Log
+> Watched 25 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Lembeck]]
 > **Cast** [[Tim Allen]] · [[Elizabeth Mitchell]] · [[Judge Reinhold]] · [[Wendy Crewson]] · [[Ann-Margret]] · [[Eric Lloyd]] · [[Spencer Breslin]] · [[Liliana Mumy]] · [[Alan Arkin]] · [[Martin Short]]

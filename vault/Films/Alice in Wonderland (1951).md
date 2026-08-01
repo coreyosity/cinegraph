@@ -61,6 +61,9 @@ providers:
 
 On a golden afternoon, wildly curious young Alice tumbles into the burrow and enters the merry, madcap world of Wonderland full of whimsical escapades.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Clyde Geronimi]]
 > **Cast** [[Kathryn Beaumont]] · [[Ed Wynn]] · [[Richard Haydn]] · [[Sterling Holloway]] · [[Jerry Colonna]] · [[Verna Felton]] · [[J. Pat O'Malley]] · [[Bill Thompson]] · [[Heather Angel]] · [[Joseph Kearns]]

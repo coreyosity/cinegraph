@@ -31,6 +31,9 @@ providers:
 
 Help babysit Sabine's Loth-cat, Murley, while she explores the galaxy. Relax or catnap to Star Wars ambience composed by Kevin Kiner, Sean Kiner, Deana Kiner and Jason Fujita.
 
+> [!note]- Log
+> Watched 10 Oct 2023 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Laurent Bouzereau]]
 > **Studios** [[Lucasfilm Ltd]]

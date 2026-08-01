@@ -5,7 +5,7 @@ year: 1989
 tmdb_id: 207
 content_type: movie
 rating: 5.0
-watched: '2025-10-21'
+watched: '2025-10-20'
 runtime: 129
 genres:
 - Drama
@@ -52,9 +52,17 @@ tags:
 letterboxd: https://boxd.it/2aSg
 providers:
 - Disney Plus
+log_tags:
+- myself
+- netflix
+- train
 ---
 
 At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.
+
+> [!note]- Log
+> Watched 20 Oct 2025 · ★ 5.0
+> Tags  myself · netflix · train
 
 > [!info]- Cast & crew
 > **Director** [[Peter Weir]]

@@ -60,6 +60,9 @@ providers:
 
 After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. Exactly one year later, the deadly secret resurfaces as they're stalked by a hook-handed figure.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jim Gillespie]]
 > **Cast** [[Jennifer Love Hewitt]] · [[Freddie Prinze Jr]] · [[Sarah Michelle Gellar]] · [[Ryan Phillippe]] · [[Bridgette Wilson]] · [[Johnny Galecki]] · [[Muse Watson]] · [[Anne Heche]] · [[Stuart Greer]] · [[Dan Albright]]

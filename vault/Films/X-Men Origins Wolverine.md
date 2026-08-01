@@ -54,6 +54,9 @@ providers:
 
 After seeking to live a normal life after 200 years, Logan sets out to avenge a death by undergoing the mutant Weapon X program and becoming Wolverine.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gavin Hood]]
 > **Cast** [[Hugh Jackman]] · [[Liev Schreiber]] · [[Danny Huston]] · [[Lynn Collins]] · [[Kevin Durand]] · [[Dominic Monaghan]] · [[Taylor Kitsch]] · [[Daniel Henney]] · [[Ryan Reynolds]] · [[will.i.am]]

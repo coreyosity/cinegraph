@@ -59,6 +59,9 @@ providers:
 
 In their quest to confront the ultimate evil, Percy and his friends battle swarms of mythical creatures to find the mythical Golden Fleece and to stop an ancient evil from rising.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Thor Freudenthal]]
 > **Cast** [[Logan Lerman]] · [[Brandon T. Jackson]] · [[Alexandra Daddario]] · [[Douglas Smith]] · [[Leven Rambin]] · [[Jake Abel]] · [[Katelyn Mager]] · [[Grey Damon]] · [[Paloma Kwiatkowski]] · [[Anthony Stewart Head]]

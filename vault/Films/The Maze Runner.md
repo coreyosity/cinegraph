@@ -60,6 +60,9 @@ providers:
 
 A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Wes Ball]]
 > **Cast** [[Dylan O'Brien]] · [[Kaya Scodelario]] · [[Thomas Brodie-Sangster]] · [[Ki Hong Lee]] · [[Will Poulter]] · [[Aml Ameen]] · [[Patricia Clarkson]] · [[Blake Cooper]] · [[Dexter Darden]] · [[Jacob Latimore]]

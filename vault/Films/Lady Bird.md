@@ -5,7 +5,7 @@ year: 2017
 tmdb_id: 391713
 content_type: movie
 rating: 4.0
-watched: '2024-08-03'
+watched: '2024-08-01'
 runtime: 94
 genres:
 - Drama
@@ -62,9 +62,18 @@ providers:
 - Cinemax Amazon Channel
 - HBO Max
 - Cinemax Apple TV Channel
+log_tags:
+- andrew
+- dean
+- home
+- netflix
 ---
 
 Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.
+
+> [!note]- Log
+> Watched 1 Aug 2024 · ★ 4.0
+> Tags  andrew · dean · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

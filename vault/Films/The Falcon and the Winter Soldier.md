@@ -50,6 +50,9 @@ providers:
 
 Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Malcolm Spellman]]
 > **Cast** [[Anthony Mackie]] · [[Sebastian Stan]] · [[Wyatt Russell]] · [[Erin Kellyman]] · [[Daniel Brühl]] · [[Emily VanCamp]] · [[Danny Ramirez]] · [[Adepero Oduye]]

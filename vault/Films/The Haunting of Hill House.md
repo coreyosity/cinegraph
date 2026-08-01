@@ -52,6 +52,9 @@ providers:
 
 Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.
 
+> [!note]- Log
+> Watched 26 Oct 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]
 > **Cast** [[Michiel Huisman]] · [[Elizabeth Reaser]] · [[Kate Siegel]] · [[Oliver Jackson-Cohen]] · [[Victoria Pedretti]] · [[Timothy Hutton]] · [[Carla Gugino]] · [[Henry Thomas]] · [[Lulu Wilson]] · [[Paxton Singleton]]

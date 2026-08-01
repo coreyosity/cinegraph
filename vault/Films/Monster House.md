@@ -52,6 +52,9 @@ providers:
 
 Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gil Kenan]]
 > **Cast** [[Mitchel Musso]] · [[Sam Lerner]] · [[Spencer Locke]] · [[Steve Buscemi]] · [[Maggie Gyllenhaal]] · [[Kevin James]] · [[Nick Cannon]] · [[Jon Heder]] · [[Jason Lee]] · [[Catherine O'Hara]]

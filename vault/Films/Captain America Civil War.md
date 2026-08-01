@@ -51,6 +51,9 @@ providers:
 
 Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Joe Russo]]
 > **Cast** [[Chris Evans]] · [[Robert Downey Jr]] · [[Scarlett Johansson]] · [[Sebastian Stan]] · [[Anthony Mackie]] · [[Don Cheadle]] · [[Jeremy Renner]] · [[Chadwick Boseman]] · [[Paul Bettany]] · [[Elizabeth Olsen]]

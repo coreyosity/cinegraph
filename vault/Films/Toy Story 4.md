@@ -54,6 +54,9 @@ providers:
 
 Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called "Forky", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Josh Cooley]]
 > **Cast** [[Tom Hanks]] · [[Tim Allen]] · [[Annie Potts]] · [[Tony Hale]] · [[Keegan-Michael Key]] · [[Madeleine McGraw]] · [[Christina Hendricks]] · [[Jordan Peele]] · [[Keanu Reeves]] · [[Ally Maki]]

@@ -61,6 +61,9 @@ providers:
 
 The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Gracey]]
 > **Cast** [[Hugh Jackman]] · [[Zac Efron]] · [[Michelle Williams]] · [[Rebecca Ferguson]] · [[Zendaya]] · [[Keala Settle]] · [[Yahya Abdul-Mateen II]] · [[Natasha Liu Bordizzo]] · [[Paul Sparks]] · [[Sam Humphrey]]

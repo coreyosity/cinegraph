@@ -57,6 +57,9 @@ providers:
 
 Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Richard Donner]]
 > **Cast** [[Sean Astin]] · [[Josh Brolin]] · [[Jeff Cohen]] · [[Corey Feldman]] · [[Kerri Green]] · [[Martha Plimpton]] · [[Ke Huy Quan]] · [[John Matuszak]] · [[Robert Davi]] · [[Joe Pantoliano]]

@@ -5,7 +5,7 @@ year: 1988
 tmdb_id: 4011
 content_type: movie
 rating: 3.5
-watched: '2024-05-10'
+watched: '2024-09-13'
 runtime: 92
 genres:
 - Fantasy
@@ -64,9 +64,18 @@ providers:
 - Netflix Standard with Ads
 - Crave Amazon Channel
 - Stan
+rewatch: true
+log_tags:
+- dean
+- andrew
+- netflix
 ---
 
 A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.
+
+> [!note]- Log
+> Watched 13 Sep 2024 · ★ 3.5 · Rewatch
+> Tags  dean · andrew · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]

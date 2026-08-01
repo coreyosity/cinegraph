@@ -49,6 +49,9 @@ providers:
 
 A lonely boy discovers a mysterious egg that hatches a sea creature of Scottish legend.
 
+> [!note]- Log
+> Watched 2 Feb 2026
+
 > [!info]- Cast & crew
 > **Director** [[Jay Russell]]
 > **Cast** [[Alex Etel]] · [[Emily Watson]] · [[Ben Chaplin]] · [[David Morrissey]] · [[Priyanka Xi]] · [[Craig Hall]] · [[Brian Cox]] · [[Erroll Shand]] · [[Joel Tobeck]] · [[Bruce Allpress]]

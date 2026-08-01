@@ -72,6 +72,9 @@ providers:
 
 When a shopping mall is taken over by a gang of organized crooks, it's up to a mild-mannered security guard to save the day.
 
+> [!note]- Log
+> Watched 26 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Steve Carr]]
 > **Cast** [[Kevin James]] · [[Keir O'Donnell]] · [[Jayma Mays]] · [[Raini Rodriguez]] · [[Shirley Knight]] · [[Stephen Rannazzisi]] · [[Peter Gerety]] · [[Bobby Cannavale]] · [[Adam Ferrara]] · [[Jamal Mixon]]

@@ -39,6 +39,9 @@ providers:
 
 Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios' Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid "roundtable discussion" with the series' directors, this "making-of" pulls back the curtain on the groundbreaking series of Marvel Studios' newest hero.
 
+> [!note]- Log
+> Watched 11 Apr 2022
+
 > [!info]- Cast & crew
 > **Director** [[Brad Baruh]]
 > **Cast** [[Kevin Feige]] · [[Brad Winderbaum]] · [[Grant Curtis]] · [[Mohamed Diab]] · [[Aaron Moorhead]] · [[Justin Benson]] · [[Jeremy Slater]] · [[Oscar Isaac]] · [[Stefania Cella]] · [[Olivier Schneider]]

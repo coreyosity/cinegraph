@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1005331
 content_type: movie
 rating: 2.5
-watched: '2025-01-05'
+watched: '2025-01-04'
 runtime: 120
 genres:
 - Thriller
@@ -51,9 +51,17 @@ letterboxd: https://boxd.it/C0B2
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.
+
+> [!note]- Log
+> Watched 4 Jan 2025 · ★ 2.5
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Jaume Collet-Serra]]

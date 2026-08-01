@@ -5,7 +5,7 @@ year: 2015
 tmdb_id: 273248
 content_type: movie
 rating: 4.5
-watched: '2025-12-13'
+watched: '2025-12-12'
 runtime: 188
 genres:
 - Drama
@@ -58,9 +58,17 @@ providers:
 - fuboTV
 - Stan
 - Lionsgate+ Amazon Channels
+log_tags:
+- home
+- myself
+- netflix
 ---
 
 Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.
+
+> [!note]- Log
+> Watched 12 Dec 2025 · ★ 4.5
+> Tags  home · myself · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Quentin Tarantino]]

@@ -65,6 +65,9 @@ providers:
 
 An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances and reward their audiences with the money.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Louis Leterrier]]
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Isla Fisher]] · [[Dave Franco]] · [[Mark Ruffalo]] · [[Mélanie Laurent]] · [[Morgan Freeman]] · [[Michael Caine]] · [[Michael Kelly]] · [[Common]]

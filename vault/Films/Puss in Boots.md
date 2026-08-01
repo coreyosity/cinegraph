@@ -66,6 +66,9 @@ providers:
 
 Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Miller]]
 > **Cast** [[Antonio Banderas]] · [[Salma Hayek Pinault]] · [[Zach Galifianakis]] · [[Billy Bob Thornton]] · [[Amy Sedaris]] · [[Constance Marie]] · [[Mike Mitchell]] · [[Rich Dietl]] · [[Guillermo del Toro]] · [[Conrad Vernon]]

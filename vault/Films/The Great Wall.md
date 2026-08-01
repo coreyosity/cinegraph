@@ -59,6 +59,9 @@ providers:
 
 European mercenaries searching for black powder become embroiled in the defense of the Great Wall of China against a horde of monstrous creatures.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Zhang Yimou]]
 > **Cast** [[Matt Damon]] · [[Jing Tian]] · [[Willem Dafoe]] · [[Andy Lau]] · [[Pedro Pascal]] · [[Zhang Hanyu]] · [[Lu Han]] · [[Lin Gengxin]] · [[Eddie Peng Yu-Yan]] · [[Huang Xuan]]

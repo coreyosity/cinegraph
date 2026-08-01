@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 648579
 content_type: movie
 rating: 4.0
-watched: '2023-02-26'
+watched: '2023-02-25'
 runtime: 107
 genres:
 - Action
@@ -51,9 +51,17 @@ providers:
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.
+
+> [!note]- Log
+> Watched 25 Feb 2023 · ★ 4.0
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Tom Gormican]]

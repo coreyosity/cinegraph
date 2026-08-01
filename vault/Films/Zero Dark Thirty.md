@@ -84,6 +84,9 @@ providers:
 
 A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L. Team 6 in May, 2011.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kathryn Bigelow]]
 > **Cast** [[Jessica Chastain]] · [[Jason Clarke]] · [[Kyle Chandler]] · [[Jennifer Ehle]] · [[Mark Strong]] · [[Joel Edgerton]] · [[Chris Pratt]] · [[Edgar Ramírez]] · [[Mark Duplass]] · [[Scott Adkins]]

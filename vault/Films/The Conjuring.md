@@ -66,6 +66,9 @@ providers:
 
 Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Vera Farmiga]] · [[Patrick Wilson]] · [[Lili Taylor]] · [[Ron Livingston]] · [[Hayley McFarland]] · [[Sterling Jerins]] · [[Shanley Caswell]] · [[Mackenzie Foy]] · [[Joey King]] · [[Kyla Deaver]]

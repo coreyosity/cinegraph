@@ -42,6 +42,9 @@ providers:
 
 A tight-knit group of New York City street dancers, including Luke and Natalie, team up with NYU freshman Moose, and find themselves pitted against the world's best hip-hop dancers in a high-stakes showdown that will change their lives forever.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jon M. Chu]]
 > **Cast** [[Sharni Vinson]] · [[Rick Malambri]] · [[Adam Sevani]] · [[Alyson Stoner]] · [[Joe Slaughter]] · [[Kendra Andrews]] · [[Stephen 'tWitch' Boss]] · [[Daniel 'Cloud' Campos]] · [[Ivan 'Flipz' Velez]] · [[Christopher Scott]]

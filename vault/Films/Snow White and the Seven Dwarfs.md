@@ -63,6 +63,9 @@ providers:
 
 A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as "the fairest in the land," and Snow White's beauty surpasses her own.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Hand]]
 > **Cast** [[Adriana Caselotti]] · [[Lucille La Verne]] · [[Harry Stockwell]] · [[Roy Atwell]] · [[Pinto Colvig]] · [[Otis Harlan]] · [[Scotty Mattraw]] · [[Billy Gilbert]] · [[Eddie Collins]] · [[Moroni Olsen]]

@@ -62,6 +62,9 @@ providers:
 
 When a Chinese rebel murders Chon's estranged father and escapes to England, Chon and Roy make their way to London with revenge on their minds.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Dobkin]]
 > **Cast** [[Jackie Chan]] · [[Owen Wilson]] · [[Fann Wong]] · [[Aidan Gillen]] · [[Donnie Yen]] · [[Tom Fisher]] · [[Aaron Taylor-Johnson]] · [[Alison King]] · [[Constantine Gregory]] · [[Anna-Louise Plowman]]

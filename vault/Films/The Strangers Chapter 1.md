@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1010600
 content_type: movie
 rating: 2.5
-watched: '2024-05-18'
+watched: '2024-05-17'
 runtime: 91
 genres:
 - Horror
@@ -51,9 +51,17 @@ providers:
 - Peacock Premium Plus
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- dean
+- cinema
+- odeon-blanch
 ---
 
 After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.
+
+> [!note]- Log
+> Watched 17 May 2024 · ★ 2.5
+> Tags  dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Renny Harlin]]

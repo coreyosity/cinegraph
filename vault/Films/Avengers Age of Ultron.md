@@ -59,6 +59,9 @@ providers:
 
 When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joss Whedon]]
 > **Cast** [[Robert Downey Jr]] · [[Chris Hemsworth]] · [[Mark Ruffalo]] · [[Chris Evans]] · [[Scarlett Johansson]] · [[Jeremy Renner]] · [[James Spader]] · [[Samuel L. Jackson]] · [[Don Cheadle]] · [[Aaron Taylor-Johnson]]

@@ -75,6 +75,9 @@ providers:
 
 A grieving single mother and her child fall into a deep well of paranoia when an eerie children's book manifests in their home.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jennifer Kent]]
 > **Cast** [[Essie Davis]] · [[Noah Wiseman]] · [[Hayley McElhinney]] · [[Daniel Henshall]] · [[Barbara West]] · [[Ben Winspear]] · [[Cathy Adamek]] · [[Craig Behenna]] · [[Hachi]] · [[Tim Purcell]]

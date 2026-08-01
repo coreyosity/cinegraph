@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1226578
 content_type: movie
 rating: 4.0
-watched: '2024-07-13'
+watched: '2024-07-12'
 runtime: 101
 genres:
 - Crime
@@ -87,9 +87,19 @@ providers:
 - Amazon Prime Video with Ads
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- dean
+- andrew
+- odeon-the-point
+- grace
+- eoin
 ---
 
 FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.
+
+> [!note]- Log
+> Watched 12 Jul 2024 · ★ 4.0
+> Tags  dean · andrew · odeon-the-point · grace · eoin
 
 > [!info]- Cast & crew
 > **Director** [[Osgood Perkins]]

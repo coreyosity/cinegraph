@@ -57,6 +57,9 @@ providers:
 
 When Miley Stewart (aka pop-star Hannah Montana) gets too caught up in the superstar celebrity lifestyle, her dad decides it's time for a total change of scenery. But sweet niblets! Miley must trade in all the glitz and glamour of Hollywood for some ol' blue jeans on the family farm in Tennessee, and question if she can be both Miley Stewart and Hannah Montana.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Chelsom]]
 > **Cast** [[Miley Cyrus]] · [[Billy Ray Cyrus]] · [[Emily Osment]] · [[Margo Martindale]] · [[Jason Earles]] · [[Peter Gunn]] · [[Melora Hardin]] · [[Mitchel Musso]] · [[Lucas Till]] · [[Barry Bostwick]]

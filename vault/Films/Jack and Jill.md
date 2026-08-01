@@ -49,6 +49,9 @@ providers:
 
 Jack Sadelstein, a successful advertising executive in Los Angeles with a beautiful wife and kids, dreads one event each year: the Thanksgiving visit of his twin sister Jill. Jill's neediness and passive-aggressiveness is maddening to Jack, turning his normally tranquil life upside down.
 
+> [!note]- Log
+> Watched 14 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Al Pacino]] · [[Katie Holmes]] · [[Elodie Tougne]] · [[Rohan Chand]] · [[Eugenio Derbez]] · [[David Spade]] · [[Nick Swardson]] · [[Tim Meadows]] · [[Allen Covert]]

@@ -64,6 +64,9 @@ providers:
 
 Barry B. Benson, a recent college graduate who wants more out of his life than making honey, decides to sue the human race after learning about the exploitation of bees at the hands of mankind. What will happen next?
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steve Hickner]]
 > **Cast** [[Jerry Seinfeld]] · [[Renée Zellweger]] · [[Matthew Broderick]] · [[Patrick Warburton]] · [[John Goodman]] · [[Chris Rock]] · [[Kathy Bates]] · [[Barry Levinson]] · [[Larry King]] · [[Ray Liotta]]

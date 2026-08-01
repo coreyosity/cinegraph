@@ -66,6 +66,9 @@ providers:
 
 Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they're chosen to leave the grocery store.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Greg Tiernan]]
 > **Cast** [[Seth Rogen]] · [[Kristen Wiig]] · [[Jonah Hill]] · [[Bill Hader]] · [[Michael Cera]] · [[James Franco]] · [[Danny McBride]] · [[Craig Robinson]] · [[Paul Rudd]] · [[Nick Kroll]]

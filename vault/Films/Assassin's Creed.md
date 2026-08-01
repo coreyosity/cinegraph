@@ -59,6 +59,9 @@ providers:
 
 Through a technology that unlocks the genetic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.
 
+> [!note]- Log
+> Watched 24 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Justin Kurzel]]
 > **Cast** [[Michael Fassbender]] · [[Marion Cotillard]] · [[Jeremy Irons]] · [[Brendan Gleeson]] · [[Charlotte Rampling]] · [[Michael Kenneth Williams]] · [[Ariane Labed]] · [[James Sobol Kelly]] · [[Denis Ménochet]] · [[Callum Turner]]

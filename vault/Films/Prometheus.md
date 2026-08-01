@@ -66,6 +66,9 @@ providers:
 
 A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]
 > **Cast** [[Noomi Rapace]] · [[Michael Fassbender]] · [[Charlize Theron]] · [[Idris Elba]] · [[Guy Pearce]] · [[Logan Marshall-Green]] · [[Sean Harris]] · [[Rafe Spall]] · [[Emun Elliott]] · [[Benedict Wong]]

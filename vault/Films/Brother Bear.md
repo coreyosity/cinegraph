@@ -55,6 +55,9 @@ providers:
 
 When an impulsive boy named Kenai is magically transformed into a bear, he must literally walk in another's footsteps until he learns some valuable life lessons. His courageous and often zany journey introduces him to a forest full of wildlife, including the lovable bear cub Koda, hilarious moose Rutt and Tuke, woolly mammoths and rambunctious rams.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Aaron Blaise]]
 > **Cast** [[Joaquin Phoenix]] · [[Jeremy Suarez]] · [[Jason Raize]] · [[Rick Moranis]] · [[Dave Thomas]] · [[D. B. Sweeney]] · [[Joan Copeland]] · [[Michael Clarke Duncan]] · [[Harold Gould]] · [[Paul Christie]]

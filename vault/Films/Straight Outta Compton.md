@@ -94,6 +94,9 @@ providers:
 
 In 1987, five young men, using brutally honest rhymes and hardcore beats, put their frustration and anger about life in the most dangerous place in America into the most powerful weapon they had: their music.  Taking us back to where it all began, Straight Outta Compton tells the true story of how these cultural rebels—armed only with their lyrics, swagger, bravado and raw talent—stood up to the authorities that meant to keep them down and formed the world’s most dangerous group, N.W.A.  And as they spoke the truth that no one had before and exposed life in the hood, their voice ignited a social revolution that is still reverberating today.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[F. Gary Gray]]
 > **Cast** [[O'Shea Jackson Jr]] · [[Corey Hawkins]] · [[Jason Mitchell]] · [[Neil Brown Jr]] · [[Aldis Hodge]] · [[Paul Giamatti]] · [[R. Marcos Taylor]] · [[LaKeith Stanfield]] · [[Carra Patterson]] · [[Elena Goode]]

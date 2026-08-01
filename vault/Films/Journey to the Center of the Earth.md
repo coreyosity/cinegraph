@@ -54,6 +54,9 @@ providers:
 
 On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Eric Brevig]]
 > **Cast** [[Brendan Fraser]] · [[Josh Hutcherson]] · [[Anita Briem]] · [[Seth Meyers]] · [[Jean Michel Paré]] · [[Jane Wheeler]] · [[Frank Fontaine]] · [[Giancarlo Caltabiano]] · [[Kaniehtiio Horn]] · [[Garth Gilker]]

@@ -65,6 +65,9 @@ providers:
 
 Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Wedge]]
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Goran Višnjić]] · [[Jack Black]] · [[Cedric the Entertainer]] · [[Stephen Root]] · [[Diedrich Bader]] · [[Alan Tudyk]] · [[Lorri Bagley]]

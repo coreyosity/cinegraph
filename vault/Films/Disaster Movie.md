@@ -58,6 +58,9 @@ providers:
 
 Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Aaron Seltzer]]
 > **Cast** [[Matt Lanter]] · [[Vanessa Lachey]] · [[Gary 'G. Thang' Johnson]] · [[Nicole Parker]] · [[Crista Flanagan]] · [[Kim Kardashian]] · [[Ike Barinholtz]] · [[Carmen Electra]] · [[Tony Cox]] · [[Tad Hilgenbrink]]

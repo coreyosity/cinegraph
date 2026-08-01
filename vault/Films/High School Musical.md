@@ -57,6 +57,9 @@ providers:
 
 A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kenny Ortega]]
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Monique Coleman]] · [[Bart Johnson]] · [[Alyson Reed]] · [[Chris Warren]] · [[Olesya Rulin]]

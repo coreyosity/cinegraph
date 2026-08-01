@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 696506
 content_type: movie
 rating: 4.5
-watched: '2025-03-13'
+watched: '2025-03-12'
 runtime: 137
 genres:
 - Science Fiction
@@ -64,9 +64,19 @@ providers:
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- cinema
+- dean
+- andrew
+- odeon-blanch
+- isense
 ---
 
 Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.
+
+> [!note]- Log
+> Watched 12 Mar 2025 · ★ 4.5
+> Tags  cinema · dean · andrew · odeon-blanch · isense
 
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]

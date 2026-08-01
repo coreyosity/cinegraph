@@ -51,6 +51,9 @@ providers:
 
 As Halloweentown prepares to celebrate its 1,000th anniversary, Marnie Piper and her brother Dylan return to Witch University, where trouble is in session from the Sinister Sisters and from someone who's plotting to use Marnie's powers for evil.
 
+> [!note]- Log
+> Watched 19 Oct 2025
+
 > [!info]- Cast & crew
 > **Director** [[David Jackson]]
 > **Cast** [[Sara Paxton]] · [[Judith Hoag]] · [[Lucas Grabeel]] · [[Joey Zimmerman]] · [[Kristy Wu]] · [[Keone Young]] · [[Millicent Martin]] · [[Summer Bishil]] · [[Leslie Wing]] · [[Debbie Reynolds]]

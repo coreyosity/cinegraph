@@ -52,6 +52,9 @@ providers:
 
 Tom Popper is a successful businessman who’s clueless when it comes to the really important things in life...until he inherits six “adorable” penguins, each with its own unique personality. Soon Tom’s rambunctious roommates turn his swank New York apartment into a snowy winter wonderland — and the rest of his world upside-down.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mark Waters]]
 > **Cast** [[Jim Carrey]] · [[Carla Gugino]] · [[Angela Lansbury]] · [[Ophelia Lovibond]] · [[Madeline Carroll]] · [[Clark Gregg]] · [[Jeffrey Tambor]] · [[David Krumholtz]] · [[Philip Baker Hall]] · [[Maxwell Perry Cotton]]

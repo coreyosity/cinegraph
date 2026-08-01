@@ -41,6 +41,9 @@ providers:
 
 Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.
 
+> [!note]- Log
+> Watched 4 Sep 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Brad Baruh]]
 > **Cast** [[Bisha K. Ali]] · [[Iman Vellani]] · [[Kevin Feige]] · [[Mohan Kapur]] · [[Matt Lintz]] · [[Zenobia Shroff]] · [[Aramis Knight]] · [[Laurel Marsden]] · [[Meera Menon]] · [[Sharmeen Obaid-Chinoy]]

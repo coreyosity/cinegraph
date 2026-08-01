@@ -5,7 +5,7 @@ year: 2011
 tmdb_id: 49538
 content_type: movie
 rating: 3.0
-watched: '2024-05-10'
+watched: '2026-07-23'
 runtime: 132
 genres:
 - Action
@@ -59,9 +59,18 @@ providers:
 - Cinemax Amazon Channel
 - HBO Max
 - Cinemax Apple TV Channel
+rewatch: true
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.
+
+> [!note]- Log
+> Watched 23 Jul 2026 · ★ 3.0 · Rewatch
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Matthew Vaughn]]

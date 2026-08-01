@@ -59,6 +59,9 @@ providers:
 
 After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Andy Serkis]]
 > **Cast** [[Tom Hardy]] · [[Woody Harrelson]] · [[Michelle Williams]] · [[Naomie Harris]] · [[Reid Scott]] · [[Stephen Graham]] · [[Peggy Lu]] · [[Sian Webber]] · [[Michelle Greenidge]] · [[Rob Bowen]]

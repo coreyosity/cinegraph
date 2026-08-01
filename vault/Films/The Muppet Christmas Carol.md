@@ -65,6 +65,9 @@ providers:
 
 A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.
 
+> [!note]- Log
+> Watched 24 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brian Henson]]
 > **Cast** [[Michael Caine]] · [[Dave Goelz]] · [[Steve Whitmire]] · [[Jerry Nelson]] · [[Frank Oz]] · [[David Rudman]] · [[Don Austen]] · [[Jessica Fox]] · [[Robert Tygner]] · [[Steven Mackintosh]]

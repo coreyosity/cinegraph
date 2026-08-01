@@ -65,6 +65,9 @@ providers:
 
 After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jerry Zucker]]
 > **Cast** [[Patrick Swayze]] · [[Demi Moore]] · [[Whoopi Goldberg]] · [[Tony Goldwyn]] · [[Vincent Schiavelli]] · [[Rick Aviles]] · [[Martina Deignan]] · [[Rick Kleber]] · [[Phil Leeds]] · [[Armelia McQueen]]

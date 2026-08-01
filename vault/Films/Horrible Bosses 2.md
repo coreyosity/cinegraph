@@ -48,6 +48,9 @@ providers:
 
 Dale, Kurt and Nick decide to start their own business but things don't go as planned because of a slick investor, prompting the trio to pull off a harebrained and misguided kidnapping scheme.
 
+> [!note]- Log
+> Watched 18 Feb 2025
+
 > [!info]- Cast & crew
 > **Director** [[Sean Anders]]
 > **Cast** [[Jason Bateman]] · [[Jason Sudeikis]] · [[Charlie Day]] · [[Jennifer Aniston]] · [[Chris Pine]] · [[Christoph Waltz]] · [[Jamie Foxx]] · [[Kevin Spacey]] · [[Jonathan Banks]] · [[Lindsay Sloane]]

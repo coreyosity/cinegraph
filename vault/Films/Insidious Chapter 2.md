@@ -63,6 +63,9 @@ providers:
 
 The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Patrick Wilson]] · [[Rose Byrne]] · [[Lin Shaye]] · [[Ty Simpkins]] · [[Barbara Hershey]] · [[Steve Coulter]] · [[Leigh Whannell]] · [[Angus Sampson]] · [[Andrew Astor]] · [[Hank Harris]]

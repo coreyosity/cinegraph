@@ -63,6 +63,9 @@ providers:
 
 Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]
 > **Cast** [[Ben Stiller]] · [[Carla Gugino]] · [[Dick Van Dyke]] · [[Mickey Rooney]] · [[Bill Cobbs]] · [[Jake Cherry]] · [[Ricky Gervais]] · [[Robin Williams]] · [[Kim Raver]] · [[Patrick Gallagher]]

@@ -60,6 +60,9 @@ providers:
 
 Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[John Hughes]]
 > **Cast** [[Emilio Estevez]] · [[Judd Nelson]] · [[Molly Ringwald]] · [[Anthony Michael Hall]] · [[Ally Sheedy]] · [[Paul Gleason]] · [[John Kapelos]] · [[Perry Crawford]] · [[Mary Christian]] · [[Ron Dean]]

@@ -4,7 +4,7 @@ title: Jumanji
 year: 1995
 tmdb_id: 8844
 content_type: movie
-watched: '2024-05-10'
+watched: '2024-10-13'
 runtime: 104
 genres:
 - Adventure
@@ -62,9 +62,18 @@ providers:
 - Sony Pictures Core Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+rewatch: true
+log_tags:
+- myself
+- wexford
+- sky
 ---
 
 When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.
+
+> [!note]- Log
+> Watched 13 Oct 2024 · Rewatch
+> Tags  myself · wexford · sky
 
 > [!info]- Cast & crew
 > **Director** [[Joe Johnston]]

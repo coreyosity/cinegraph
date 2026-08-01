@@ -50,6 +50,9 @@ letterboxd: https://boxd.it/1SJU
 
 For ten years, the tortured soul of serial killer Charles Lee Ray has been imprisoned inside a child's doll. Chucky is reborn when his old flame, Tiffany, rescues his battered doll parts from a police impound. But Chucky wants his new playmate cut down to size, so he transforms his blushing bride into a stunning little terror. Chucky and Tiffany can't wait to start their own homicidal honeymoon. When this demonic duo hits the road and hooks up with a pair of unsuspecting newlyweds, they leave a trail of murder and mayhem behind them. Chucky's back!
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ronny Yu]]
 > **Cast** [[Brad Dourif]] · [[Jennifer Tilly]] · [[Katherine Heigl]] · [[Nick Stabile]] · [[Alexis Arquette]] · [[Gordon Michael Woolvett]] · [[John Ritter]] · [[Lawrence Dane]] · [[Michael Louis Johnson]] · [[James Gallanders]]

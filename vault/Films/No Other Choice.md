@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 639988
 content_type: movie
 rating: 4.0
-watched: '2026-02-08'
+watched: '2026-02-03'
 runtime: 139
 genres:
 - Comedy
@@ -49,9 +49,17 @@ providers:
 - MUBI
 - MUBI Amazon Channel
 - Hulu
+log_tags:
+- cinema
+- conor
+- ifi
 ---
 
 After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.
+
+> [!note]- Log
+> Watched 3 Feb 2026 · ★ 4.0
+> Tags  cinema · conor · ifi
 
 > [!info]- Cast & crew
 > **Director** [[Park Chan-wook]]

@@ -47,6 +47,9 @@ providers:
 
 When an unmanned space shuttle crashes on an uncharted planet, a trio of astronaut chimpanzees are launched by NASA into a wormhole to investigate.
 
+> [!note]- Log
+> Watched 12 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kirk DeMicco]]
 > **Cast** [[Andy Samberg]] · [[Cheryl Hines]] · [[Jeff Daniels]] · [[Patrick Warburton]] · [[Kristin Chenoweth]] · [[Kenan Thompson]] · [[Zack Shada]] · [[Carlos Alazraqui]] · [[Omid Abtahi]] · [[Patrick Breen]]

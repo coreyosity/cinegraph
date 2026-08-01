@@ -56,6 +56,9 @@ providers:
 
 With a documentary crew in tow, Cody Maverick—a young surfer from Antarctica—travels to the pacific for his first professional competition. Determined to earn respect and live up to his idol, Big Z, Cody pushes himself to the limit. But all that changes when an encounter with a laid-back local forces him to rethink his values.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Ash Brannon]]
 > **Cast** [[Shia LaBeouf]] · [[Jeff Bridges]] · [[Zooey Deschanel]] · [[Jon Heder]] · [[James Woods]] · [[Diedrich Bader]] · [[Mario Cantone]] · [[Kelly Slater]] · [[Rob Machado]] · [[Selema Masekela]]

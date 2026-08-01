@@ -40,6 +40,9 @@ providers:
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
+> [!note]- Log
+> Watched 27 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Olaf de Fleur Johannesson]]
 > **Cast** [[Florence Pugh]] · [[Ben Lloyd-Hughes]] · [[Celia Imrie]] · [[Scott Chambers]] · [[Georgina Bevan]] · [[James Cosmo]] · [[Shelley Conn]] · [[Niall Greig Fulton]] · [[Nicola Grier]] · [[Ian Lorimer Milne]]

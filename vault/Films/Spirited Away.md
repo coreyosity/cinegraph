@@ -59,6 +59,9 @@ providers:
 
 A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]
 > **Cast** [[Rumi Hiiragi]] · [[Miyu Irino]] · [[Mari Natsuki]] · [[Takashi Naito]] · [[Yasuko Sawaguchi]] · [[Tatsuya Gashuin]] · [[Ryunosuke Kamiki]] · [[Yumi Tamai]] · [[Yo Oizumi]] · [[Koba Hayashi]]

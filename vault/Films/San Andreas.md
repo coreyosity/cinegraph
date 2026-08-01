@@ -73,6 +73,9 @@ providers:
 
 In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brad Peyton]]
 > **Cast** [[Dwayne Johnson]] · [[Alexandra Daddario]] · [[Carla Gugino]] · [[Ioan Gruffudd]] · [[Archie Panjabi]] · [[Paul Giamatti]] · [[Hugo Johnstone-Burt]] · [[Art Parkinson]] · [[Will Yun Lee]] · [[Kylie Minogue]]

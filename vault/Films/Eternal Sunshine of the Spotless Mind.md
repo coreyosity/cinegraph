@@ -5,7 +5,7 @@ year: 2004
 tmdb_id: 38
 content_type: movie
 rating: 4.0
-watched: '2022-03-27'
+watched: '2024-03-08'
 runtime: 108
 genres:
 - Science Fiction
@@ -60,9 +60,19 @@ providers:
 - Hollywood Suite
 - Starz Amazon Channel
 - Crave Amazon Channel
+rewatch: true
+log_tags:
+- dean
+- andrew
+- home
+- netflix
 ---
 
 Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.
+
+> [!note]- Log
+> Watched 8 Mar 2024 · ★ 4.0 · Rewatch
+> Tags  dean · andrew · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Michel Gondry]]

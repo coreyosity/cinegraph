@@ -75,6 +75,9 @@ providers:
 
 After the birth of Renesmee, the Cullens gather other vampire clans in order to protect the child from a false allegation that puts the family in front of the Volturi.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Bill Condon]]
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Peter Facinelli]] · [[Elizabeth Reaser]] · [[Ashley Greene]] · [[Jackson Rathbone]] · [[Kellan Lutz]] · [[Nikki Reed]] · [[Billy Burke]]

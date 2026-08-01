@@ -5,7 +5,7 @@ year: 2003
 tmdb_id: 322
 content_type: movie
 rating: 4.5
-watched: '2026-05-11'
+watched: '2026-05-10'
 runtime: 138
 genres:
 - Thriller
@@ -67,9 +67,17 @@ providers:
 - Amazon Prime Video
 - Stan
 - Amazon Prime Video with Ads
+log_tags:
+- home
+- myself
+- prime
 ---
 
 The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.
+
+> [!note]- Log
+> Watched 10 May 2026 · ★ 4.5
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Clint Eastwood]]

@@ -57,6 +57,9 @@ providers:
 
 After the highs of winning the world championships, the Bellas find themselves split apart and discovering there aren't job prospects for making music with your mouth. But when they get the chance to reunite for an overseas USO tour, this group of awesome nerds will come together to make some music, and some questionable decisions, one last time.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Trish Sie]]
 > **Cast** [[Anna Kendrick]] · [[Rebel Wilson]] · [[Brittany Snow]] · [[Hailee Steinfeld]] · [[Elizabeth Banks]] · [[Anna Camp]] · [[Alexis Knapp]] · [[Ruby Rose]] · [[Ester Dean]] · [[Hana Mae Lee]]

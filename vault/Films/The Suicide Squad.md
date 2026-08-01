@@ -70,6 +70,9 @@ providers:
 
 Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[James Gunn]]
 > **Cast** [[Margot Robbie]] · [[Idris Elba]] · [[John Cena]] · [[Joel Kinnaman]] · [[Sylvester Stallone]] · [[Viola Davis]] · [[David Dastmalchian]] · [[Daniela Melchior]] · [[Michael Rooker]] · [[Jai Courtney]]

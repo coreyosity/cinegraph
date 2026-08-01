@@ -51,6 +51,9 @@ letterboxd: https://boxd.it/1W8y
 
 A young girl inhabits an isolated island with her scientist father and communicates with a reclusive author of the novel she's reading.
 
+> [!note]- Log
+> Watched 22 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jennifer Flackett]]
 > **Cast** [[Abigail Breslin]] · [[Jodie Foster]] · [[Gerard Butler]] · [[Michael Carman]] · [[Maddison Joyce]] · [[Christopher James Baker]] · [[Rhonda Doyle]] · [[Bryan Probets]] · [[Jay Laga'aia]] · [[Mark Brady]]

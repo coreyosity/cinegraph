@@ -76,6 +76,9 @@ providers:
 
 Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Mark Waters]]
 > **Cast** [[Lindsay Lohan]] · [[Rachel McAdams]] · [[Lizzy Caplan]] · [[Lacey Chabert]] · [[Amanda Seyfried]] · [[Daniel Franzese]] · [[Jonathan Bennett]] · [[Rajiv Surendra]] · [[Tina Fey]] · [[Tim Meadows]]

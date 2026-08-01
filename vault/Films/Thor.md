@@ -52,6 +52,9 @@ providers:
 
 Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]
 > **Cast** [[Chris Hemsworth]] · [[Natalie Portman]] · [[Tom Hiddleston]] · [[Anthony Hopkins]] · [[Stellan Skarsgård]] · [[Kat Dennings]] · [[Clark Gregg]] · [[Colm Feore]] · [[Idris Elba]] · [[Ray Stevenson]]

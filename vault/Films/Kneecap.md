@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1180629
 content_type: movie
 rating: 4.0
-watched: '2024-08-21'
+watched: '2024-12-23'
 runtime: 105
 genres:
 - Music
@@ -64,9 +64,19 @@ providers:
 - Crave
 - Crave Amazon Channel
 - Stan
+rewatch: true
+log_tags:
+- dad
+- caleb
+- prime
+- wexford
 ---
 
 When fate brings Belfast teacher JJ into the orbit of self-confessed "low life scum" Naoise and Liam Óg, the needle drops on a hip-hop act like no other. Rapping in their native Irish, they lead a movement to save their mother tongue.
+
+> [!note]- Log
+> Watched 23 Dec 2024 · ★ 4.0 · Rewatch
+> Tags  dad · caleb · prime · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Rich Peppiatt]]

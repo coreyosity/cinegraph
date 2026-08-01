@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 762441
 content_type: movie
 rating: 4.0
-watched: '2024-07-11'
+watched: '2024-12-29'
 runtime: 100
 genres:
 - Horror
@@ -66,9 +66,23 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
+rewatch: true
+log_tags:
+- andrew
+- cinema
+- dean
+- odeon-the-point
+- isense
+- dad
+- sky
+- wexford
 ---
 
 As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.
+
+> [!note]- Log
+> Watched 29 Dec 2024 · ★ 4.0 · Rewatch
+> Tags  andrew · cinema · dean · odeon-the-point · isense · dad · sky · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Michael Sarnoski]]

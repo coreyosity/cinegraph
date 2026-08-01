@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 858024
 content_type: movie
 rating: 4.5
-watched: '2026-02-02'
+watched: '2026-01-29'
 runtime: 125
 genres:
 - Drama
@@ -50,9 +50,20 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dean
+- andrew
+- grace
+- cat
+- odeon-the-point
+- cinema
 ---
 
 The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.
+
+> [!note]- Log
+> Watched 29 Jan 2026 · ★ 4.5
+> Tags  dean · andrew · grace · cat · odeon-the-point · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Chloé Zhao]]

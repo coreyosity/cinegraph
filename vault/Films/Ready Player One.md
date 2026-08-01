@@ -67,6 +67,9 @@ providers:
 
 When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]
 > **Cast** [[Tye Sheridan]] · [[Olivia Cooke]] · [[Ben Mendelsohn]] · [[Lena Waithe]] · [[T.J. Miller]] · [[Simon Pegg]] · [[Mark Rylance]] · [[Philip Zhao]] · [[Win Morisaki]] · [[Hannah John-Kamen]]

@@ -51,6 +51,9 @@ providers:
 
 After a wealthy philanthropist expresses an unusual interest in a ring found by her niece Annabelle, Miss Fritton explains that she's descended from a pirate who, in 1598, stole treasure from another: the philanthropist's ancestor. This discovery sends the racuous girls of St. Trinians on the hunt for buried treasure.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Oliver Parker]]
 > **Cast** [[Talulah Riley]] · [[Rupert Everett]] · [[Gemma Arterton]] · [[David Tennant]] · [[Colin Firth]] · [[Jodie Whittaker]] · [[Juno Temple]] · [[Tamsin Egerton]] · [[Toby Jones]] · [[Sarah Harding]]

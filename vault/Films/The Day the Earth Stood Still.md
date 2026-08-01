@@ -67,6 +67,9 @@ providers:
 
 A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Scott Derrickson]]
 > **Cast** [[Keanu Reeves]] · [[Jennifer Connelly]] · [[Jaden Smith]] · [[Jon Hamm]] · [[Kathy Bates]] · [[John Cleese]] · [[Kyle Chandler]] · [[Robert Knepper]] · [[Brandon T. Jackson]] · [[James Hong]]

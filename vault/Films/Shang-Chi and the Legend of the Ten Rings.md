@@ -47,6 +47,9 @@ providers:
 
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Destin Daniel Cretton]]
 > **Cast** [[Simu Liu]] · [[Tony Leung Chiu-wai]] · [[Awkwafina]] · [[Ben Kingsley]] · [[Zhang Meng'er]] · [[Fala Chen]] · [[Michelle Yeoh]] · [[Yuen Wah]] · [[Florian Munteanu]] · [[Andy Le]]

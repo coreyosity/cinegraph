@@ -72,6 +72,9 @@ providers:
 
 An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.
 
+> [!note]- Log
+> Watched 19 Oct 2025
+
 > [!info]- Cast & crew
 > **Director** [[John Hughes]]
 > **Cast** [[Steve Martin]] · [[John Candy]] · [[Laila Robins]] · [[Michael McKean]] · [[Dylan Baker]] · [[Kevin Bacon]] · [[Olivia Burnette]] · [[Carol Bruce]] · [[Diana Douglas]] · [[Martin Ferrero]]

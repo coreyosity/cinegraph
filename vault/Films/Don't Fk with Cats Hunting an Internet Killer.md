@@ -56,6 +56,9 @@ providers:
 
 A twisted criminal's gruesome videos drive a group of amateur online sleuths to launch a risky manhunt that pulls them into a dark underworld.
 
+> [!note]- Log
+> Watched 8 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mark Lewis]]
 > **Cast** [[Deanna Thompson]] · [[John Green]]

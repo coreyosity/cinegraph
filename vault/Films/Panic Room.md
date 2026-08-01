@@ -66,6 +66,9 @@ providers:
 
 Trapped in their New York brownstone's panic room, a hidden chamber built as a sanctuary in the event of break-ins, newly divorced Meg Altman and her young daughter Sarah play a deadly game of cat-and-mouse with three intruders - Burnham, Raoul and Junior - during a brutal home invasion. But the room itself is the focal point because what the intruders really want is inside it.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]
 > **Cast** [[Jodie Foster]] · [[Kristen Stewart]] · [[Forest Whitaker]] · [[Dwight Yoakam]] · [[Jared Leto]] · [[Patrick Bauchau]] · [[Ann Magnuson]] · [[Ian Buchanan]] · [[Andrew Kevin Walker]] · [[Paul Schulze]]

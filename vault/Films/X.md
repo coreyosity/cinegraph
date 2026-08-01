@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 760104
 content_type: movie
 rating: 3.0
-watched: '2024-05-20'
+watched: '2024-05-19'
 runtime: 106
 genres:
 - Horror
@@ -60,9 +60,17 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video
 - Stan
+log_tags:
+- andrew
+- dean
+- netflix
 ---
 
 In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
+
+> [!note]- Log
+> Watched 19 May 2024 · ★ 3.0
+> Tags  andrew · dean · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

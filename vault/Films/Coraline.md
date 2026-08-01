@@ -5,7 +5,7 @@ year: 2009
 tmdb_id: 14836
 content_type: movie
 rating: 4.5
-watched: '2022-03-27'
+watched: '2024-09-03'
 runtime: 100
 genres:
 - Animation
@@ -57,9 +57,20 @@ tags:
 letterboxd: https://boxd.it/1NhQ
 providers:
 - ITVX Premium
+rewatch: true
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-the-point
+- 3d
 ---
 
 Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.
+
+> [!note]- Log
+> Watched 3 Sep 2024 · ★ 4.5 · Rewatch
+> Tags  dean · andrew · cinema · odeon-the-point · 3d
 
 > [!info]- Cast & crew
 > **Director** [[Henry Selick]]

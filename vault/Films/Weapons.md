@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1078605
 content_type: movie
 rating: 4.0
-watched: '2025-09-29'
+watched: '2025-08-07'
 runtime: 129
 genres:
 - Horror
@@ -67,9 +67,20 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- odeon-the-point
+- cinema
+- dean
+- andrew
+- grace
+- preview
 ---
 
 When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.
+
+> [!note]- Log
+> Watched 7 Aug 2025 · ★ 4.0
+> Tags  odeon-the-point · cinema · dean · andrew · grace · preview
 
 > [!info]- Cast & crew
 > **Director** [[Zach Cregger]]

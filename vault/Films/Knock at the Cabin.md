@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 631842
 content_type: movie
 rating: 4.0
-watched: '2023-02-11'
+watched: '2023-02-10'
 runtime: 100
 genres:
 - Horror
@@ -57,9 +57,17 @@ providers:
 - Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- eoghan
+- cinema
+- cineworld
 ---
 
 While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.
+
+> [!note]- Log
+> Watched 10 Feb 2023 · ★ 4.0
+> Tags  eoghan · cinema · cineworld
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

@@ -5,7 +5,7 @@ year: 1993
 tmdb_id: 5503
 content_type: movie
 rating: 4.0
-watched: '2025-11-25'
+watched: '2025-11-23'
 runtime: 131
 genres:
 - Action
@@ -72,9 +72,17 @@ providers:
 - Netflix
 - Stan
 - Netflix Standard with Ads
+log_tags:
+- netflix
+- home
+- myself
 ---
 
 Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.
+
+> [!note]- Log
+> Watched 23 Nov 2025 · ★ 4.0
+> Tags  netflix · home · myself
 
 > [!info]- Cast & crew
 > **Director** [[Andrew Davis]]

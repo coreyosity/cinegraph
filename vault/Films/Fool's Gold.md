@@ -82,6 +82,9 @@ providers:
 
 Treasure hunter Ben "Finn" Finnegan has sunk his marriage to Tess and his trusty boat in his obsessive quest to find the legendary Queen's Dowry. When he finds a vital clue that may finally pinpoint the treasure's whereabouts, he drags Tess and her boss, billionaire Nigel Honeycutt, along on the hunt. But Finn is not the only one interested in the gold; his former mentor-turned-enemy Moe Fitch, hired by rapper-turned-gangster Bigg Bunny, will stop at nothing to beat him to it.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Andy Tennant]]
 > **Cast** [[Matthew McConaughey]] · [[Kate Hudson]] · [[Donald Sutherland]] · [[Alexis Dziena]] · [[Ewen Bremner]] · [[Ray Winstone]] · [[Kevin Hart]] · [[Malcolm-Jamal Warner]] · [[Brian Hooks]] · [[David Roberts]]

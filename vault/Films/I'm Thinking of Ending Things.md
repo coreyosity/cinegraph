@@ -63,6 +63,9 @@ providers:
 
 Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Charlie Kaufman]]
 > **Cast** [[Jesse Plemons]] · [[Jessie Buckley]] · [[Toni Collette]] · [[David Thewlis]] · [[Guy Boyd]] · [[Hadley Robinson]] · [[Gus Birney]] · [[Abby Quinn]] · [[Colby Minifie]] · [[Anthony Grasso]]

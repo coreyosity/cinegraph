@@ -58,6 +58,9 @@ providers:
 
 Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]
 > **Cast** [[Mia Wasikowska]] · [[Johnny Depp]] · [[Anne Hathaway]] · [[Helena Bonham Carter]] · [[Crispin Glover]] · [[Matt Lucas]] · [[Alan Rickman]] · [[Stephen Fry]] · [[Michael Sheen]] · [[Timothy Spall]]

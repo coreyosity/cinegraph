@@ -52,6 +52,9 @@ providers:
 
 An orphaned child's dreams—and nightmares—manifest physically as he sleeps.
 
+> [!note]- Log
+> Watched 14 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]
 > **Cast** [[Kate Bosworth]] · [[Jacob Tremblay]] · [[Thomas Jane]] · [[Annabeth Gish]] · [[Lance E. Nichols]] · [[Scottie Thompson]] · [[Dash Mihok]] · [[Jay Karnes]] · [[Kyla Deaver]] · [[Courtney Bell]]

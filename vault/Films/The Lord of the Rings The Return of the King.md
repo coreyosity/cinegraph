@@ -91,6 +91,9 @@ providers:
 
 As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Elijah Wood]] · [[Ian McKellen]] · [[Viggo Mortensen]] · [[Sean Astin]] · [[Andy Serkis]] · [[Dominic Monaghan]] · [[Billy Boyd]] · [[John Noble]] · [[David Wenham]] · [[Miranda Otto]]

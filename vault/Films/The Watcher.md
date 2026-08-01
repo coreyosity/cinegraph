@@ -29,6 +29,9 @@ letterboxd: https://boxd.it/Daja
 
 Danielle, the last member of a small religious cult (The Children of Enoch), awaits the resurrection of her recently departed "sisters" and their leader, Father Enoch.
 
+> [!note]- Log
+> Watched 13 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Nathan Sellers]]
 > **Cast** [[Sandrine Morin]] · [[Charlotte Rea]] · [[Rohit Dave]] · [[Amanda Bowman]] · [[Lucia Tarro]]

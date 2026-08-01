@@ -68,6 +68,9 @@ providers:
 
 Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Adam McKay]]
 > **Cast** [[Will Ferrell]] · [[Mark Wahlberg]] · [[Eva Mendes]] · [[Michael Keaton]] · [[Steve Coogan]] · [[Ray Stevenson]] · [[Samuel L. Jackson]] · [[Dwayne Johnson]] · [[Lindsay Sloane]] · [[Natalie Zea]]

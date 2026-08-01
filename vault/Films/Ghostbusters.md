@@ -79,6 +79,9 @@ providers:
 
 After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ivan Reitman]]
 > **Cast** [[Bill Murray]] · [[Dan Aykroyd]] · [[Sigourney Weaver]] · [[Harold Ramis]] · [[Rick Moranis]] · [[Annie Potts]] · [[William Atherton]] · [[Ernie Hudson]] · [[David Margulies]] · [[Steven Tash]]

@@ -39,6 +39,9 @@ providers:
 
 Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy with her class. And what was supposed to be only a normal trip, becomes a teenager's dream come true.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jim Fall]]
 > **Cast** [[Hilary Duff]] · [[Adam Lamberg]] · [[Yani Gellman]] · [[Alex Borstein]] · [[Brendan Kelly]] · [[Ashlie Brillault]] · [[Clayton Snyder]] · [[Jake Thomas]] · [[Jody Racicot]] · [[Hallie Todd]]

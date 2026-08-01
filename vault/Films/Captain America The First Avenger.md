@@ -59,6 +59,9 @@ providers:
 
 During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Joe Johnston]]
 > **Cast** [[Chris Evans]] · [[Hayley Atwell]] · [[Sebastian Stan]] · [[Tommy Lee Jones]] · [[Hugo Weaving]] · [[Dominic Cooper]] · [[Richard Armitage]] · [[Stanley Tucci]] · [[Samuel L. Jackson]] · [[Toby Jones]]

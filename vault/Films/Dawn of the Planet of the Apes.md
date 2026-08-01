@@ -97,6 +97,9 @@ providers:
 
 A group of scientists in San Francisco struggle to stay alive in the aftermath of a plague that is wiping out humanity, while Caesar tries to maintain dominance over his community of intelligent apes.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Matt Reeves]]
 > **Cast** [[Andy Serkis]] · [[Jason Clarke]] · [[Toby Kebbell]] · [[Gary Oldman]] · [[Keri Russell]] · [[Kodi Smit-McPhee]] · [[Nick Thurston]] · [[Karin Konoval]] · [[Terry Notary]] · [[Doc Shaw]]

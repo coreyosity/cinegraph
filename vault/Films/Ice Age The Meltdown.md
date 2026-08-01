@@ -59,6 +59,9 @@ providers:
 
 Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Carlos Saldanha]]
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Queen Latifah]] · [[Seann William Scott]] · [[Josh Peck]] · [[Jay Leno]] · [[Will Arnett]] · [[Chris Wedge]] · [[Peter Ackerman]]

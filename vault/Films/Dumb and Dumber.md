@@ -64,6 +64,9 @@ providers:
 
 Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some "adventures" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Farrelly]]
 > **Cast** [[Jim Carrey]] · [[Jeff Daniels]] · [[Lauren Holly]] · [[Teri Garr]] · [[Charles Rocket]] · [[Karen Duffy]] · [[Mike Starr]] · [[Felton Perry]] · [[Hank Brandt]] · [[Brad Lockerman]]

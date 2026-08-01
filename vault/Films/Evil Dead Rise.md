@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 713704
 content_type: movie
 rating: 3.5
-watched: '2023-11-01'
+watched: '2023-10-29'
 runtime: 96
 genres:
 - Horror
@@ -70,9 +70,17 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+log_tags:
+- caleb
+- home
+- netflix
 ---
 
 A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.
+
+> [!note]- Log
+> Watched 29 Oct 2023 · ★ 3.5
+> Tags  caleb · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Lee Cronin]]

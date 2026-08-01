@@ -50,6 +50,9 @@ providers:
 
 An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joe Wright]]
 > **Cast** [[Amy Adams]] · [[Gary Oldman]] · [[Anthony Mackie]] · [[Fred Hechinger]] · [[Wyatt Russell]] · [[Brian Tyree Henry]] · [[Jennifer Jason Leigh]] · [[Jeanine Serralles]] · [[Mariah Bozeman]] · [[Julianne Moore]]

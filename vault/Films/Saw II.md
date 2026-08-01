@@ -50,6 +50,9 @@ providers:
 
 The chilling and relentless Jigsaw killer returns to terrorize the city once again. When a gruesome murder victim emerges with unmistakable traces of Jigsaw's sinister methods, Detective Eric Matthews is thrust into a high-stakes investigation. To his surprise, apprehending Jigsaw seems almost too easy, but what he doesn't realize is that being caught is merely another piece of Jigsaw's intricate puzzle.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Darren Lynn Bousman]]
 > **Cast** [[Tobin Bell]] · [[Donnie Wahlberg]] · [[Shawnee Smith]] · [[Erik Knudsen]] · [[Franky G]] · [[Glenn Plummer]] · [[Emmanuelle Vaugier]] · [[Beverley Mitchell]] · [[Noam Jenkins]] · [[Timothy Burd]]

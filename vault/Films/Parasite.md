@@ -71,6 +71,9 @@ providers:
 
 All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]
 > **Cast** [[Song Kang-ho]] · [[Lee Sun-kyun]] · [[Cho Yeo-jeong]] · [[Choi Woo-shik]] · [[Park So-dam]] · [[Lee Jung-eun]] · [[Jang Hye-jin]] · [[Park Myung-hoon]] · [[Jung Zi-so]] · [[Jung Hyeon-jun]]

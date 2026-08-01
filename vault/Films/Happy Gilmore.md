@@ -74,6 +74,9 @@ providers:
 
 Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional approach and antics on the green courts the ire of rival Shooter McGavin — is determined to win a PGA tournament so he can save his granny's house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy's image.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Christopher McDonald]] · [[Julie Bowen]] · [[Frances Bay]] · [[Carl Weathers]] · [[Allen Covert]] · [[Robert Smigel]] · [[Bob Barker]] · [[Richard Kiel]] · [[Dennis Dugan]]

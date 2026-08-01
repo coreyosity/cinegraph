@@ -60,6 +60,9 @@ providers:
 
 When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]
 > **Cast** [[Daniel Craig]] · [[Chris Evans]] · [[Ana de Armas]] · [[Jamie Lee Curtis]] · [[Michael Shannon]] · [[Don Johnson]] · [[Toni Collette]] · [[LaKeith Stanfield]] · [[Christopher Plummer]] · [[Katherine Langford]]

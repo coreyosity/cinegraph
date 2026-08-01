@@ -56,6 +56,9 @@ providers:
 
 After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Anthony Russo]]
 > **Cast** [[Robert Downey Jr]] · [[Chris Evans]] · [[Mark Ruffalo]] · [[Chris Hemsworth]] · [[Scarlett Johansson]] · [[Jeremy Renner]] · [[Josh Brolin]] · [[Don Cheadle]] · [[Paul Rudd]] · [[Benedict Cumberbatch]]

@@ -61,6 +61,9 @@ providers:
 
 News anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Zucker]]
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Simon Rex]] · [[Anthony Anderson]] · [[Charlie Sheen]] · [[Leslie Nielsen]] · [[Kevin Hart]] · [[Jeremy Piven]] · [[Pamela Anderson]] · [[Jenny McCarthy]]

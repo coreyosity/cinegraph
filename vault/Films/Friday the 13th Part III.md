@@ -67,6 +67,9 @@ providers:
 
 An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn...
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steve Miner]]
 > **Cast** [[Dana Kimmell]] · [[Paul Kratka]] · [[Richard Brooker]] · [[Catherine Parks]] · [[Tracie Savage]] · [[David Wiley]] · [[Rachel Howard]] · [[Anne Gaybis]] · [[Larry Zerner]] · [[Jeffrey Rogers]]

@@ -5,7 +5,7 @@ year: 1985
 tmdb_id: 105
 content_type: movie
 rating: 5.0
-watched: '2022-03-27'
+watched: '2025-12-07'
 runtime: 116
 genres:
 - Adventure
@@ -69,9 +69,18 @@ providers:
 - Crave Amazon Channel
 - BINGE
 - Foxtel Now
+rewatch: true
+log_tags:
+- home
+- myself
+- netflix
 ---
 
 Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.
+
+> [!note]- Log
+> Watched 7 Dec 2025 · ★ 5.0 · Rewatch
+> Tags  home · myself · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

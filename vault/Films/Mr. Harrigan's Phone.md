@@ -47,6 +47,9 @@ providers:
 
 Craig, a young boy living in a small town befriends an older, reclusive billionaire, Mr. Harrigan. The two form a bond over books and an iPhone, but when the man passes away the boy discovers that not everything dead is gone.
 
+> [!note]- Log
+> Watched 18 Feb 2025
+
 > [!info]- Cast & crew
 > **Director** [[John Lee Hancock]]
 > **Cast** [[Donald Sutherland]] · [[Jaeden Martell]] · [[Kirby Howell-Baptiste]] · [[Joe Tippett]] · [[Cyrus Arnold]] · [[Conor William Wright]] · [[Alexa Shae Niziak]] · [[Bennett Saltzman]] · [[Joseph Paul Kennedy]] · [[Thomas Francis Murphy]]

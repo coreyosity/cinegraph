@@ -5,7 +5,7 @@ year: 1982
 tmdb_id: 78
 content_type: movie
 rating: 3.0
-watched: '2024-04-24'
+watched: '2024-04-22'
 runtime: 118
 genres:
 - Science Fiction
@@ -69,9 +69,17 @@ providers:
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- myself
+- netflix
+- home
 ---
 
 In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.
+
+> [!note]- Log
+> Watched 22 Apr 2024 · ★ 3.0
+> Tags  myself · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]

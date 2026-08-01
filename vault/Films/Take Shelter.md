@@ -5,7 +5,7 @@ year: 2011
 tmdb_id: 64720
 content_type: movie
 rating: 3.5
-watched: '2026-05-20'
+watched: '2026-05-19'
 runtime: 120
 genres:
 - Thriller
@@ -60,9 +60,17 @@ providers:
 - Amazon Prime Video with Ads
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- home
+- myself
+- prime
 ---
 
 Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.
+
+> [!note]- Log
+> Watched 19 May 2026 · ★ 3.5
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Jeff Nichols]]

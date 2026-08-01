@@ -55,6 +55,9 @@ providers:
 
 After retrieving the Crystal Skull in Utah, Flynn Carsen receives a map in the mail with the secret location of King Solomon's Mines. When the scroll is stolen, Judson explains the power of the Key of Solomon's book and assigns Flynn to retrieve the map. The map is useless without the legend piece to decipher it, which is located in Volubilis near the Roman ruins in Morocco. Flynn heads to Casablanca to the ruins where he is chased by a group of mercenaries leaded by General Samir. They too want to find the location of King Solomon's mines. Flynn teams-up with Professor Emily Davenport working in the dig and they escape from General Samir and his men. While traveling to Gedi, they save the local Jomo from death and the trio faces a dangerous journey through the wild Africa.
 
+> [!note]- Log
+> Watched 9 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jonathan Frakes]]
 > **Cast** [[Noah Wyle]] · [[Gabrielle Anwar]] · [[Bob Newhart]] · [[Jane Curtin]] · [[Olympia Dukakis]] · [[Erick Avari]] · [[Hakeem Kae-Kazim]] · [[Robert Foxworth]] · [[Zahn McClarnon]] · [[Lisa Brenner]]

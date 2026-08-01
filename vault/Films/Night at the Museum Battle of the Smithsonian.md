@@ -57,6 +57,9 @@ providers:
 
 Hapless museum night watchman Larry Daley must help his living, breathing exhibit friends out of a pickle now that they've been transferred to the archives at the Smithsonian Institution. Larry's (mis)adventures this time include close encounters with Amelia Earhart, Abe Lincoln and Ivan the Terrible.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]
 > **Cast** [[Ben Stiller]] · [[Amy Adams]] · [[Owen Wilson]] · [[Hank Azaria]] · [[Robin Williams]] · [[Christopher Guest]] · [[Alain Chabat]] · [[Steve Coogan]] · [[Ricky Gervais]] · [[Bill Hader]]

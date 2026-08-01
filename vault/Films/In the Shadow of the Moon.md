@@ -5,7 +5,7 @@ year: 2019
 tmdb_id: 530382
 content_type: movie
 rating: 1.0
-watched: '2024-05-29'
+watched: '2024-05-27'
 runtime: 115
 genres:
 - Science Fiction
@@ -50,9 +50,17 @@ letterboxd: https://boxd.it/jhx4
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 In 1988, Philadelphia police officer Thomas "Locke" Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke's obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
+
+> [!note]- Log
+> Watched 27 May 2024 · ★ 1.0
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Jim Mickle]]

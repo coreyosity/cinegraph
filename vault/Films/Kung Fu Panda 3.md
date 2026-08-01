@@ -73,6 +73,9 @@ providers:
 
 While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jennifer Yuh Nelson]]
 > **Cast** [[Jack Black]] · [[Bryan Cranston]] · [[Dustin Hoffman]] · [[Angelina Jolie]] · [[J.K. Simmons]] · [[Jackie Chan]] · [[Seth Rogen]] · [[Lucy Liu]] · [[David Cross]] · [[Kate Hudson]]

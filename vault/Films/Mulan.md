@@ -62,6 +62,9 @@ providers:
 
 When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is— and what she’s willing to fight for.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tony Bancroft]]
 > **Cast** [[Ming-Na Wen]] · [[Eddie Murphy]] · [[BD Wong]] · [[Miguel Ferrer]] · [[Harvey Fierstein]] · [[Freda Foh Shen]] · [[June Foray]] · [[James Hong]] · [[Miriam Margolyes]] · [[Pat Morita]]

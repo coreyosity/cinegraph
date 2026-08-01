@@ -61,6 +61,9 @@ providers:
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
+> [!note]- Log
+> Watched 17 Nov 2024
+
 > [!info]- Cast & crew
 > **Director** [[Alex Kurtzman]]
 > **Cast** [[Tom Cruise]] · [[Annabelle Wallis]] · [[Sofia Boutella]] · [[Jake Johnson]] · [[Courtney B. Vance]] · [[Russell Crowe]] · [[Marwan Kenzari]] · [[Neil Maskell]] · [[Javier Botet]] · [[Andrew Brooke]]

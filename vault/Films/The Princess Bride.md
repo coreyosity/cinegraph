@@ -76,6 +76,9 @@ providers:
 
 In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rob Reiner]]
 > **Cast** [[Cary Elwes]] · [[Robin Wright]] · [[Mandy Patinkin]] · [[Chris Sarandon]] · [[Christopher Guest]] · [[Wallace Shawn]] · [[André Roussimoff]] · [[Fred Savage]] · [[Peter Falk]] · [[Peter Cook]]

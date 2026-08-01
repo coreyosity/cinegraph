@@ -60,6 +60,9 @@ providers:
 
 A slacker and a career-driven woman accidentally conceive a child after a one-night stand. As they try to make the relationship work, they must navigate the challenges of parenthood and their differences in lifestyle and maturity.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Judd Apatow]]
 > **Cast** [[Seth Rogen]] · [[Katherine Heigl]] · [[Paul Rudd]] · [[Leslie Mann]] · [[Jason Segel]] · [[Jay Baruchel]] · [[Jonah Hill]] · [[Martin Starr]] · [[Lo Mutuc]] · [[Iris Apatow]]

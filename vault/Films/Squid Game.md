@@ -50,6 +50,9 @@ providers:
 
 Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Hwang Dong-hyuk]]
 > **Cast** [[Lee Jung-jae]] · [[Yim Si-wan]] · [[Wi Ha-jun]] · [[Jo Yu-ri]] · [[Lee Byung-hun]] · [[Park Gyu-young]] · [[Kang Ae-sim]] · [[Lee Jin-uk]] · [[Yang Dong-geun]] · [[Park Sung-hoon]]

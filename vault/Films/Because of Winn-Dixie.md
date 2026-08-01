@@ -43,6 +43,9 @@ providers:
 
 A girl, abandoned by her mother when she was three, moves to a small town in Florida with her father. There, she adopts an orphaned dog she names Winn-Dixie. The bond between the girl and her special companion brings together the people in a small Florida town and heals her own troubled relationship with her father.
 
+> [!note]- Log
+> Watched 6 Sep 2024
+
 > [!info]- Cast & crew
 > **Director** [[Wayne Wang]]
 > **Cast** [[AnnaSophia Robb]] · [[Jeff Daniels]] · [[Cicely Tyson]] · [[Eva Marie Saint]] · [[Dave Matthews]] · [[Courtney Jines]] · [[Elle Fanning]] · [[Luke Benward]] · [[Nick Price]] · [[B.J. Hopper]]

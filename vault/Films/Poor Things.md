@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 792307
 content_type: movie
 rating: 5.0
-watched: '2024-01-28'
+watched: '2024-01-27'
 runtime: 141
 genres:
 - Science Fiction
@@ -78,9 +78,17 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- cinema
+- myself
+- odeon-blanch
 ---
 
 Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.
+
+> [!note]- Log
+> Watched 27 Jan 2024 · ★ 5.0
+> Tags  cinema · myself · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Yorgos Lanthimos]]

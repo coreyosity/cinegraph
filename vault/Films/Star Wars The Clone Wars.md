@@ -44,6 +44,9 @@ providers:
 
 As the Clone Wars sweep through the galaxy, Anakin Skywalker and his new Padawan learner Ahsoka Tano plunge into a dangerous mission to rescue the kidnapped son of crime lord Jabba the Hutt.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Dave Filoni]]
 > **Cast** [[Matt Lanter]] · [[Ashley Eckstein]] · [[James Arnold Taylor]] · [[David Acord]] · [[Dee Bradley Baker]] · [[Christopher Lee]] · [[Nika Futterman]] · [[Kevin Michael Richardson]] · [[Catherine Taber]] · [[Ian Abercrombie]]

@@ -64,6 +64,9 @@ providers:
 
 Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Yates]]
 > **Cast** [[Eddie Redmayne]] · [[Jude Law]] · [[Mads Mikkelsen]] · [[Ezra Miller]] · [[Dan Fogler]] · [[Alison Sudol]] · [[Callum Turner]] · [[Jessica Williams]] · [[Katherine Waterston]] · [[Oliver Masucci]]

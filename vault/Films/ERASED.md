@@ -49,6 +49,9 @@ providers:
 
 Struggling manga author Satoru Fujinuma is beset by his fear to express himself. However, he has a supernatural ability of being forced to prevent deaths and catastrophes by being sent back in time before the incident occurred, repeating time until the accident is prevented. One day, he gets involved in an accident that has him framed as a murderer. Desperate to save the victim, he sends himself back in time only to find himself as a grade-schooler one month before fellow classmate Kayo Hinazuki went missing. Satoru now embarks on a new quest: to save Kayo and solve the mystery behind her disappearance.
 
+> [!note]- Log
+> Watched 11 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Yuichiro Hirakawa]]
 > **Cast** [[Tatsuya Fujiwara]] · [[Kasumi Arimura]] · [[Yuriko Ishida]] · [[Tetta Sugimoto]] · [[Mitsuhiro Oikawa]] · [[Seiji Fukushi]] · [[Kanna Mori]] · [[Kento Hayashi]] · [[Tamae Ando]] · [[Yasushi Fuchikami]]

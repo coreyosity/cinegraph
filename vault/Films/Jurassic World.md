@@ -76,6 +76,9 @@ providers:
 
 Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
 
+> [!note]- Log
+> Watched 17 Jun 2022
+
 > [!info]- Cast & crew
 > **Director** [[Colin Trevorrow]]
 > **Cast** [[Chris Pratt]] · [[Bryce Dallas Howard]] · [[Irrfan Khan]] · [[Vincent D'Onofrio]] · [[Ty Simpkins]] · [[Nick Robinson]] · [[Jake Johnson]] · [[Omar Sy]] · [[BD Wong]] · [[Judy Greer]]

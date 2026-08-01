@@ -5,7 +5,7 @@ year: 2004
 tmdb_id: 809
 content_type: movie
 rating: 4.0
-watched: '2023-05-03'
+watched: '2025-01-04'
 runtime: 92
 genres:
 - Animation
@@ -77,9 +77,19 @@ providers:
 - Stan
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+rewatch: true
+log_tags:
+- irish
+- wexford
+- tg4
+- myself
 ---
 
 Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots.
+
+> [!note]- Log
+> Watched 4 Jan 2025 · ★ 4.0 · Rewatch
+> Tags  irish · wexford · tg4 · myself
 
 > [!info]- Cast & crew
 > **Director** [[Conrad Vernon]]

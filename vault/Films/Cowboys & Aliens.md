@@ -62,6 +62,9 @@ letterboxd: https://boxd.it/F2G
 
 A stranger stumbles into the desert town of Absolution with no memory of his past and a futuristic shackle around his wrist. With the help of mysterious beauty Ella and the iron-fisted Colonel Dolarhyde, he finds himself leading an unlikely posse of cowboys, outlaws, and Apache warriors against a common enemy from beyond this world in an epic showdown for survival.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]
 > **Cast** [[Daniel Craig]] · [[Harrison Ford]] · [[Olivia Wilde]] · [[Sam Rockwell]] · [[Adam Beach]] · [[Paul Dano]] · [[Noah Ringer]] · [[Keith Carradine]] · [[Clancy Brown]] · [[Walton Goggins]]

@@ -5,7 +5,7 @@ year: 2019
 tmdb_id: 567609
 content_type: movie
 rating: 2.5
-watched: '2026-03-20'
+watched: '2026-03-17'
 runtime: 96
 genres:
 - Horror
@@ -61,9 +61,17 @@ providers:
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.
+
+> [!note]- Log
+> Watched 17 Mar 2026 · ★ 2.5
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Tyler Gillett]]

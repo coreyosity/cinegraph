@@ -53,6 +53,9 @@ providers:
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Leitch]]
 > **Cast** [[Ryan Reynolds]] · [[Josh Brolin]] · [[Morena Baccarin]] · [[Julian Dennison]] · [[Zazie Beetz]] · [[T.J. Miller]] · [[Leslie Uggams]] · [[Karan Soni]] · [[Brianna Hildebrand]] · [[Jack Kesy]]

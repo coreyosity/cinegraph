@@ -58,6 +58,9 @@ providers:
 
 Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Edgar Wright]]
 > **Cast** [[Simon Pegg]] · [[Nick Frost]] · [[Kate Ashfield]] · [[Lucy Davis]] · [[Dylan Moran]] · [[Jessica Hynes]] · [[Penelope Wilton]] · [[Bill Nighy]] · [[Martin Freeman]] · [[Matt Lucas]]

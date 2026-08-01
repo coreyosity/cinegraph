@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 695721
 content_type: movie
 rating: 4.0
-watched: '2023-12-17'
+watched: '2023-12-16'
 runtime: 157
 genres:
 - Science Fiction
@@ -61,9 +61,18 @@ providers:
 - Hulu
 - Netflix Standard with Ads
 - Stan
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-blanch
 ---
 
 64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.
+
+> [!note]- Log
+> Watched 16 Dec 2023 · ★ 4.0
+> Tags  dean · andrew · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

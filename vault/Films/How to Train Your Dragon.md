@@ -100,6 +100,9 @@ providers:
 
 As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Dean DeBlois]]
 > **Cast** [[Jay Baruchel]] · [[Gerard Butler]] · [[Craig Ferguson]] · [[America Ferrera]] · [[Jonah Hill]] · [[Christopher Mintz-Plasse]] · [[T.J. Miller]] · [[Kristen Wiig]] · [[Robin Atkin Downes]] · [[Philip McGrade]]

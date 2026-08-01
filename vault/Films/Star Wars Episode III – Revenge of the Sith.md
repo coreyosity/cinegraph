@@ -5,7 +5,7 @@ year: 2005
 tmdb_id: 1895
 content_type: movie
 rating: 3.5
-watched: '2023-05-03'
+watched: '2025-04-26'
 runtime: 140
 genres:
 - Adventure
@@ -61,9 +61,18 @@ tags:
 letterboxd: https://boxd.it/27US
 providers:
 - Disney Plus
+log_tags:
+- cinema
+- eve
+- grace
+- lighthouse
 ---
 
 When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.
+
+> [!note]- Log
+> Watched 26 Apr 2025 · ★ 3.5
+> Tags  cinema · eve · grace · lighthouse
 
 > [!info]- Cast & crew
 > **Director** [[George Lucas]]

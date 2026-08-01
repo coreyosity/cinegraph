@@ -55,6 +55,9 @@ providers:
 
 The story of Michael Oher, a homeless and traumatized boy who became an All American football player and first round NFL draft pick with the help of a caring woman and her family.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Lee Hancock]]
 > **Cast** [[Sandra Bullock]] · [[Tim McGraw]] · [[Quinton Aaron]] · [[Jae Head]] · [[Lily Collins]] · [[Ray McKinnon]] · [[Kim Dickens]] · [[Adriane Lenox]] · [[Kathy Bates]] · [[Catherine Dyer]]

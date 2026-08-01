@@ -45,6 +45,9 @@ providers:
 
 A ragtag crew of podcasters sets out to investigate mysterious disappearances from decades earlier in a charming Irish town with dark, dreadful secrets.
 
+> [!note]- Log
+> Watched 15 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jez Scharf]]
 > **Cast** [[Siobhán Cullen]] · [[Robyn Cara]] · [[Chris Walley]] · [[David Wilmot]] · [[Will Forte]]

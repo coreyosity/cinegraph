@@ -57,6 +57,9 @@ providers:
 
 Death is just as omnipresent as ever, and is unleashed after one man’s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death’s sinister agenda.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Steven Quale]]
 > **Cast** [[Nicholas D'Agosto]] · [[Emma Bell]] · [[Miles Fisher]] · [[Ellen Wroe]] · [[Jacqueline MacInnes Wood]] · [[P.J. Byrne]] · [[Arlen Escarpeta]] · [[David Koechner]] · [[Courtney B. Vance]] · [[Tony Todd]]

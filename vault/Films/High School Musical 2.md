@@ -49,6 +49,9 @@ providers:
 
 The East High Wildcats are gearing up for big fun as they land the coolest summer jobs imaginable. Troy, Gabriella, Chad, and Taylor have scored sweet gigs at the Lava Springs Country Club owned by Sharpay and Ryan's family. Sharpay's first rule of business: Get Troy. As Troy experiences a life of privilege he's never known, will he give up the Wildcats and Gabriella to rise to the top?
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kenny Ortega]]
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Olesya Rulin]] · [[Chris Warren]] · [[Monique Coleman]] · [[Alyson Reed]] · [[Ryne Sanborn]]

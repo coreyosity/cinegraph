@@ -58,6 +58,9 @@ providers:
 
 A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned. Now he's forced to grow up while navigating the challenges of fatherhood.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Cole Sprouse]] · [[Dylan Sprouse]] · [[Joey Lauren Adams]] · [[Josh Mostel]] · [[Leslie Mann]] · [[Jon Stewart]] · [[Allen Covert]] · [[Jonathan Loughran]] · [[Peter Dante]]

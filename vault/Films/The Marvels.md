@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 609681
 content_type: movie
 rating: 3.0
-watched: '2023-11-12'
+watched: '2023-11-11'
 runtime: 105
 genres:
 - Science Fiction
@@ -50,9 +50,18 @@ tags:
 letterboxd: https://boxd.it/mwU4
 providers:
 - Disney Plus
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-blanch
 ---
 
 When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.
+
+> [!note]- Log
+> Watched 11 Nov 2023 · ★ 3.0
+> Tags  dean · andrew · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Nia DaCosta]]

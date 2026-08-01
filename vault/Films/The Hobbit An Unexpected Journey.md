@@ -79,6 +79,9 @@ providers:
 
 Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Martin Freeman]] · [[Ian McKellen]] · [[Richard Armitage]] · [[James Nesbitt]] · [[Ken Stott]] · [[Sylvester McCoy]] · [[Barry Humphries]] · [[Dean O'Gorman]] · [[Aidan Turner]] · [[Graham McTavish]]

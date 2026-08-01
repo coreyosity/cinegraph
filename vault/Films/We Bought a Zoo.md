@@ -51,6 +51,9 @@ providers:
 
 Benjamin has lost his wife and, in a bid to start his life over, purchases a large house that has a zoo – welcome news for his daughter, but his son is not happy about it. The zoo is in need of renovation and Benjamin sets about the work with the head keeper and the rest of the staff, but, the zoo soon runs into financial trouble.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Cameron Crowe]]
 > **Cast** [[Matt Damon]] · [[Scarlett Johansson]] · [[Thomas Haden Church]] · [[Colin Ford]] · [[Maggie Elizabeth Jones]] · [[Angus Macfadyen]] · [[Elle Fanning]] · [[Patrick Fugit]] · [[John Michael Higgins]] · [[Carla Gallo]]

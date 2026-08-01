@@ -34,6 +34,9 @@ providers:
 
 A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of "Captain America: Civil War". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Taika Waititi]]
 > **Cast** [[Chris Hemsworth]] · [[Daley Pearson]]

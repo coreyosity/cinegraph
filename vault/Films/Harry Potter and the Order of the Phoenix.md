@@ -71,6 +71,9 @@ providers:
 
 When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.
 
+> [!note]- Log
+> Watched 23 Nov 2022
+
 > [!info]- Cast & crew
 > **Director** [[David Yates]]
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Imelda Staunton]] · [[Helena Bonham Carter]] · [[Robbie Coltrane]] · [[Gary Oldman]] · [[Ralph Fiennes]] · [[Michael Gambon]] · [[Alan Rickman]]

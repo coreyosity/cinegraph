@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 1317288
 content_type: movie
 rating: 5.0
-watched: '2026-01-18'
+watched: '2026-01-16'
 runtime: 150
 genres:
 - Drama
@@ -53,9 +53,17 @@ providers:
 - YouTube TV
 - HBO Max
 - Stan
+log_tags:
+- lighthouse
+- cinema
+- conor
 ---
 
 Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.
+
+> [!note]- Log
+> Watched 16 Jan 2026 · ★ 5.0
+> Tags  lighthouse · cinema · conor
 
 > [!info]- Cast & crew
 > **Director** [[Josh Safdie]]

@@ -5,7 +5,7 @@ year: 2001
 tmdb_id: 161
 content_type: movie
 rating: 4.0
-watched: '2025-03-23'
+watched: '2025-03-22'
 runtime: 116
 genres:
 - Thriller
@@ -70,9 +70,17 @@ providers:
 - Starz Amazon Channel
 - Amazon Prime Video with Ads
 - Stan
+log_tags:
+- home
+- myself
+- torrent
 ---
 
 Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.
+
+> [!note]- Log
+> Watched 22 Mar 2025 · ★ 4.0
+> Tags  home · myself · torrent
 
 > [!info]- Cast & crew
 > **Director** [[Steven Soderbergh]]

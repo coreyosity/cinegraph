@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 884605
 content_type: movie
 rating: 3.5
-watched: '2023-06-20'
+watched: '2023-06-19'
 runtime: 103
 genres:
 - Comedy
@@ -63,9 +63,17 @@ providers:
 - Netflix
 - Club Illico
 - Netflix Standard with Ads
+log_tags:
+- dean
+- cinema
+- odeon-blanch
 ---
 
 On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.
+
+> [!note]- Log
+> Watched 19 Jun 2023 · ★ 3.5
+> Tags  dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Gene Stupnitsky]]

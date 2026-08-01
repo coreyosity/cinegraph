@@ -5,7 +5,7 @@ year: 2018
 tmdb_id: 443463
 content_type: movie
 rating: 3.5
-watched: '2024-07-24'
+watched: '2024-07-22'
 runtime: 109
 genres:
 - Drama
@@ -60,9 +60,17 @@ providers:
 - Cinemax Apple TV Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dean
+- disney+
+- home
 ---
 
 A father and daughter live a perfect but mysterious existence in Forest Park, a beautiful nature reserve near Portland, Oregon, rarely making contact with the world. But when a small mistake tips them off to authorities, they are sent on an increasingly erratic journey in search of a place to call their own.
+
+> [!note]- Log
+> Watched 22 Jul 2024 · ★ 3.5
+> Tags  dean · disney+ · home
 
 > [!info]- Cast & crew
 > **Director** [[Debra Granik]]

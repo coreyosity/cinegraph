@@ -70,6 +70,9 @@ providers:
 
 During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Todd Phillips]]
 > **Cast** [[Joaquin Phoenix]] · [[Robert De Niro]] · [[Zazie Beetz]] · [[Frances Conroy]] · [[Brett Cullen]] · [[Shea Whigham]] · [[Bill Camp]] · [[Glenn Fleshler]] · [[Leigh Gill]] · [[Josh Pais]]

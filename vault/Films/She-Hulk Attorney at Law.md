@@ -41,6 +41,9 @@ providers:
 
 Join the likes of Tatiana Maslany, Mark Ruffalo, Tim Roth, and Benedict Wong as they reveal how Marvel Studios’ She-Hulk: Attorney at Law was conceived and shaped. Discover what it took for She-Hulk’s creators to pull off the show’s tricky tone and deliver Marvel Studios’ first truly comedic series – one that boldly breaks the fourth wall to acknowledge its own audience, no less!
 
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Brad Baruh]]
 > **Cast** [[Tatiana Maslany]] · [[Mark Ruffalo]] · [[Tim Roth]] · [[Benedict Wong]] · [[Ginger Gonzaga]] · [[Josh Segarra]] · [[Renée Elise Goldsberry]] · [[Jameela Jamil]] · [[Kat Coiro]] · [[Jessica Gao]]

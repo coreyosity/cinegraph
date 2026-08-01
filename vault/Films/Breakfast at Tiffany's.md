@@ -5,7 +5,7 @@ year: 1961
 tmdb_id: 164
 content_type: movie
 rating: 3.5
-watched: '2023-04-09'
+watched: '2024-09-28'
 runtime: 115
 genres:
 - Comedy
@@ -58,9 +58,22 @@ providers:
 - ITVX Premium
 - BINGE
 - Foxtel Now
+rewatch: true
+log_tags:
+- myself
+- torrent
+- home
+- mam
+- dad
+- sky
+- wexford
 ---
 
 Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.
+
+> [!note]- Log
+> Watched 28 Sep 2024 · ★ 3.5 · Rewatch
+> Tags  myself · torrent · home · mam · dad · sky · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Blake Edwards]]

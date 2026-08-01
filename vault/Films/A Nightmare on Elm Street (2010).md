@@ -67,6 +67,9 @@ letterboxd: https://boxd.it/1zdg
 
 Teenagers Nancy, Quentin, Kris, Jesse and Dean are all neighborhood friends who begin having the same dream of a horribly disfigured man who wears a tattered sweater and a glove made of knives. The man terrorizes them in their dreams, and the only escape is to wake up. But when, one by one, they start dying violently, the friends realize that what happens in the dream world is real, and the only way to stay alive is to stay awake.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Samuel Bayer]]
 > **Cast** [[Rooney Mara]] · [[Kyle Gallner]] · [[Jackie Earle Haley]] · [[Katie Cassidy]] · [[Thomas Dekker]] · [[Kellan Lutz]] · [[Clancy Brown]] · [[Connie Britton]] · [[Lia D. Mortensen]] · [[Julianna Damm]]

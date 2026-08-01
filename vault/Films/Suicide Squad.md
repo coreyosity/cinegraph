@@ -55,6 +55,9 @@ providers:
 
 From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Ayer]]
 > **Cast** [[Will Smith]] · [[Jared Leto]] · [[Margot Robbie]] · [[Joel Kinnaman]] · [[Viola Davis]] · [[Jai Courtney]] · [[Jay Hernandez]] · [[Adewale Akinnuoye-Agbaje]] · [[Cara Delevingne]] · [[Ike Barinholtz]]

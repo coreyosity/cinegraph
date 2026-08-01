@@ -76,6 +76,9 @@ providers:
 
 A group of families on a tropical holiday discover that the secluded beach where they are staying is somehow causing them to age rapidly – reducing their entire lives into a single day.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Gael García Bernal]] · [[Vicky Krieps]] · [[Rufus Sewell]] · [[Alex Wolff]] · [[Thomasin McKenzie]] · [[Abbey Lee]] · [[Nikki Amuka-Bird]] · [[Ken Leung]] · [[Eliza Scanlen]] · [[Aaron Pierre]]

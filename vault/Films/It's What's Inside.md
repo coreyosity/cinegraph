@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1052280
 content_type: movie
 rating: 4.5
-watched: '2024-10-13'
+watched: '2025-10-11'
 runtime: 105
 genres:
 - Comedy
@@ -51,9 +51,21 @@ letterboxd: https://boxd.it/DOV4
 providers:
 - Netflix
 - Netflix Standard with Ads
+rewatch: true
+log_tags:
+- andrew
+- dean
+- home
+- netflix
+- wexford
+- mam
 ---
 
 A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.
+
+> [!note]- Log
+> Watched 11 Oct 2025 · ★ 4.5 · Rewatch
+> Tags  andrew · dean · home · netflix · wexford · mam
 
 > [!info]- Cast & crew
 > **Director** [[Greg Jardin]]

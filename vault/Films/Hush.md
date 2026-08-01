@@ -62,6 +62,9 @@ providers:
 
 A deaf woman is stalked by a psychotic killer in her secluded home.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]
 > **Cast** [[John Gallagher Jr]] · [[Kate Siegel]] · [[Michael Trucco]] · [[Samantha Sloyan]] · [[Emma Graves]]

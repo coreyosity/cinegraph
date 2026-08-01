@@ -61,9 +61,20 @@ providers:
 - Cinemax Apple TV Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dean
+- cinema
+- andrew
+- odeon-the-point
+- grace
+- eve
 ---
 
 Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.
+
+> [!note]- Log
+> Watched 8 Jul 2025 · ★ 3.5
+> Tags  dean · cinema · andrew · odeon-the-point · grace · eve
 
 > [!info]- Cast & crew
 > **Director** [[Danny Philippou]]

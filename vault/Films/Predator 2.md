@@ -50,6 +50,9 @@ providers:
 
 A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Stephen Hopkins]]
 > **Cast** [[Danny Glover]] · [[Gary Busey]] · [[Rubén Blades]] · [[María Conchita Alonso]] · [[Bill Paxton]] · [[Robert Davi]] · [[Adam Baldwin]] · [[Kevin Peter Hall]] · [[Kent McCord]] · [[Morton Downey, Jr]]

@@ -103,6 +103,9 @@ providers:
 
 A murder in Paris’ Louvre Museum and cryptic clues in some of Leonardo da Vinci’s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that — should it come to light — could rock the very foundations of Christianity.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Tom Hanks]] · [[Audrey Tautou]] · [[Ian McKellen]] · [[Jean Reno]] · [[Paul Bettany]] · [[Alfred Molina]] · [[Jürgen Prochnow]] · [[Jean-Yves Berteloot]] · [[Etienne Chicot]] · [[Jean-Pierre Marielle]]

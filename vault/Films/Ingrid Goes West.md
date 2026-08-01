@@ -56,6 +56,9 @@ providers:
 
 Ingrid becomes obsessed with a social network star named Taylor Sloane who seemingly has a perfect life. But when Ingrid decides to drop everything and move west to be Taylor's friend, her behaviour turns unsettling and dangerous.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Matt Spicer]]
 > **Cast** [[Aubrey Plaza]] · [[Elizabeth Olsen]] · [[O'Shea Jackson Jr]] · [[Wyatt Russell]] · [[Billy Magnussen]] · [[Pom Klementieff]] · [[Hannah Pearl Utt]] · [[Joseph Breen]] · [[Angelica Amor]] · [[Meredith Hagner]]

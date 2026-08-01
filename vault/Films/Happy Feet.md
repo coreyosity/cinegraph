@@ -65,6 +65,9 @@ providers:
 
 Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[George Miller]]
 > **Cast** [[Elijah Wood]] · [[Robin Williams]] · [[Brittany Murphy]] · [[Hugh Jackman]] · [[Nicole Kidman]] · [[Hugo Weaving]] · [[Anthony LaPaglia]] · [[E. G. Daily]] · [[Magda Szubanski]] · [[Miriam Margolyes]]

@@ -85,6 +85,9 @@ providers:
 
 A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.
 
+> [!note]- Log
+> Watched 3 May 2023 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]
 > **Cast** [[Hugh Jackman]] · [[Christian Bale]] · [[Michael Caine]] · [[Piper Perabo]] · [[Rebecca Hall]] · [[Scarlett Johansson]] · [[Samantha Mahurin]] · [[David Bowie]] · [[Andy Serkis]] · [[Daniel Davis]]

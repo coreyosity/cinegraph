@@ -5,7 +5,7 @@ year: 2008
 tmdb_id: 10665
 content_type: movie
 rating: 2.5
-watched: '2024-05-10'
+watched: '2024-05-17'
 runtime: 86
 genres:
 - Horror
@@ -49,9 +49,18 @@ providers:
 - AMC+ Amazon Channel
 - Starz Amazon Channel
 - Crave Amazon Channel
+rewatch: true
+log_tags:
+- dean
+- torrent
+- home
 ---
 
 After a 4 a.m. knock at the door and haunting voices, Kristen McKay and James Hoyt’s remote getaway becomes a psychological night of terror as three masked strangers invade. Now they must go far beyond what they thought themselves capable of if they hope to survive.
+
+> [!note]- Log
+> Watched 17 May 2024 · ★ 2.5 · Rewatch
+> Tags  dean · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Bryan Bertino]]

@@ -64,6 +64,9 @@ providers:
 
 A group of students visit a mansion called "Hell House," and murderous high jinks ensue.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Keenen Ivory Wayans]]
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Marlon Wayans]] · [[Shawn Wayans]] · [[Christopher Masterson]] · [[Kathleen Robertson]] · [[David Cross]] · [[James Woods]] · [[Tim Curry]] · [[Tori Spelling]]

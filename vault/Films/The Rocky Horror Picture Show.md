@@ -70,6 +70,9 @@ providers:
 
 After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jim Sharman]]
 > **Cast** [[Tim Curry]] · [[Susan Sarandon]] · [[Barry Bostwick]] · [[Richard O'Brien]] · [[Patricia Quinn]] · [[Nell Campbell]] · [[Jonathan Adams]] · [[Peter Hinwood]] · [[Meat Loaf]] · [[Charles Gray]]

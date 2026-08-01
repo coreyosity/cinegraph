@@ -50,6 +50,9 @@ providers:
 
 Two rival politicians compete to win an election to represent their small North Carolina congressional district in the United States House of Representatives.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jay Roach]]
 > **Cast** [[Will Ferrell]] · [[Zach Galifianakis]] · [[Jason Sudeikis]] · [[Katherine LaNasa]] · [[Dylan McDermott]] · [[Sarah Baker]] · [[John Lithgow]] · [[Dan Aykroyd]] · [[Brian Cox]] · [[Karen Maruyama]]

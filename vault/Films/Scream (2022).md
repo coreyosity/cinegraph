@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 646385
 content_type: movie
 rating: 4.0
-watched: '2023-01-29'
+watched: '2023-01-28'
 runtime: 114
 genres:
 - Horror
@@ -70,9 +70,18 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Crave Amazon Channel
+log_tags:
+- mam
+- erin
+- sky
+- wexford
 ---
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
+
+> [!note]- Log
+> Watched 28 Jan 2023 · ★ 4.0
+> Tags  mam · erin · sky · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Tyler Gillett]]

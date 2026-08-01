@@ -47,6 +47,9 @@ providers:
 
 When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]
 > **Cast** [[Carla Gugino]] · [[Bruce Greenwood]] · [[Carel Struycken]] · [[Chiara Aurelia]] · [[Henry Thomas]] · [[Kate Siegel]] · [[Adalyn Jones]] · [[Bryce Harper]] · [[Gwendolyn Mulamba]] · [[Jamie Flanagan]]

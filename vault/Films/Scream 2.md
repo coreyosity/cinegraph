@@ -5,7 +5,7 @@ year: 1997
 tmdb_id: 4233
 content_type: movie
 rating: 4.5
-watched: '2023-03-10'
+watched: '2023-03-06'
 runtime: 120
 genres:
 - Horror
@@ -61,9 +61,17 @@ providers:
 - Crave Amazon Channel
 - Foxtel Now
 - Stan
+log_tags:
+- dean
+- torrent
+- home
 ---
 
 Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.
+
+> [!note]- Log
+> Watched 6 Mar 2023 · ★ 4.5
+> Tags  dean · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

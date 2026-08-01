@@ -46,6 +46,9 @@ providers:
 
 An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.
 
+> [!note]- Log
+> Watched 23 Nov 2022
+
 > [!info]- Cast & crew
 > **Director** [[Joe Pearlman]]
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Bonnie Wright]] · [[Matthew Lewis]] · [[Tom Felton]] · [[James Phelps]] · [[Oliver Phelps]] · [[Evanna Lynch]] · [[Helena Bonham Carter]]

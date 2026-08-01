@@ -59,6 +59,9 @@ providers:
 
 A family discovers that dark spirits have invaded their home after their son inexplicably falls into an endless sleep. When they reach out to a professional for help, they learn things are a lot more personal than they thought.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Patrick Wilson]] · [[Rose Byrne]] · [[Lin Shaye]] · [[Ty Simpkins]] · [[Barbara Hershey]] · [[Leigh Whannell]] · [[Angus Sampson]] · [[Andrew Astor]] · [[Corbett Tuck]] · [[Heather Tocquigny]]

@@ -5,7 +5,7 @@ year: 2017
 tmdb_id: 399057
 content_type: movie
 rating: 3.5
-watched: '2023-09-16'
+watched: '2023-08-20'
 runtime: 121
 genres:
 - Drama
@@ -67,9 +67,18 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Stan
+log_tags:
+- dean
+- andrew
+- netflix
+- home
 ---
 
 Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.
+
+> [!note]- Log
+> Watched 20 Aug 2023 · ★ 3.5
+> Tags  dean · andrew · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[Yorgos Lanthimos]]

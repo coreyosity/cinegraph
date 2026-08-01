@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 786892
 content_type: movie
 rating: 4.0
-watched: '2024-05-29'
+watched: '2024-05-28'
 runtime: 149
 genres:
 - Action
@@ -58,9 +58,19 @@ providers:
 - Cinemax Amazon Channel
 - HBO Max
 - Cinemax Apple TV Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-blanch
+- imax
 ---
 
 As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.
+
+> [!note]- Log
+> Watched 28 May 2024 · ★ 4.0
+> Tags  andrew · dean · cinema · odeon-blanch · imax
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

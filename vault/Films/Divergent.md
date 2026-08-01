@@ -66,6 +66,9 @@ providers:
 
 In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Neil Burger]]
 > **Cast** [[Shailene Woodley]] · [[Theo James]] · [[Ashley Judd]] · [[Jai Courtney]] · [[Ray Stevenson]] · [[Zoë Kravitz]] · [[Miles Teller]] · [[Tony Goldwyn]] · [[Ansel Elgort]] · [[Maggie Q]]

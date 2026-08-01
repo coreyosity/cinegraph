@@ -61,6 +61,9 @@ providers:
 
 After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.
 
+> [!note]- Log
+> Watched 19 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Silverman]]
 > **Cast** [[Dan Castellaneta]] · [[Julie Kavner]] · [[Nancy Cartwright]] · [[Yeardley Smith]] · [[Hank Azaria]] · [[Harry Shearer]] · [[Pamela Hayden]] · [[Tress MacNeille]] · [[Albert Brooks]] · [[Karl Wiedergott]]

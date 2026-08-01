@@ -66,6 +66,9 @@ providers:
 
 Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jay Roach]]
 > **Cast** [[Ben Stiller]] · [[Robert De Niro]] · [[Teri Polo]] · [[Blythe Danner]] · [[Nicole DeHuff]] · [[Jon Abrahams]] · [[Owen Wilson]] · [[James Rebhorn]] · [[Tom McCarthy]] · [[Phyllis George]]

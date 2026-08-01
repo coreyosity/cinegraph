@@ -59,6 +59,9 @@ providers:
 
 Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mike Gabriel]]
 > **Cast** [[Irene Bedard]] · [[Mel Gibson]] · [[David Ogden Stiers]] · [[John Kassir]] · [[Christian Bale]] · [[Judy Kuhn]] · [[Billy Connolly]] · [[Frank Welker]] · [[Russell Means]] · [[Linda Hunt]]

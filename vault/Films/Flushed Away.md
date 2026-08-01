@@ -59,6 +59,9 @@ providers:
 
 London high-society mouse, Roddy is flushed down the toilet by Sid, a common sewer rat. Hang on for a madcap adventure deep in the sewer bowels of Ratropolis, where Roddy meets the resourceful Rita, the rodent-hating Toad and his faithful thugs, Spike and Whitey.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Bowers]]
 > **Cast** [[Hugh Jackman]] · [[Kate Winslet]] · [[Ian McKellen]] · [[Jean Reno]] · [[Bill Nighy]] · [[Andy Serkis]] · [[Shane Richie]] · [[Kathy Burke]] · [[David Suchet]] · [[Miriam Margolyes]]

@@ -58,6 +58,9 @@ providers:
 
 When the White House (Secret Service Code: "Olympus") is captured by a terrorist mastermind and the President is kidnapped, disgraced former Presidential guard Mike Banning finds himself trapped within the building. As the national security team scrambles to respond, they are forced to rely on Banning's inside knowledge to help retake the White House, save the President and avert an even bigger disaster.
 
+> [!note]- Log
+> Watched 23 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[Antoine Fuqua]]
 > **Cast** [[Gerard Butler]] · [[Aaron Eckhart]] · [[Finley Jacobsen]] · [[Dylan McDermott]] · [[Rick Yune]] · [[Morgan Freeman]] · [[Cole Hauser]] · [[Radha Mitchell]] · [[Angela Bassett]] · [[Melissa Leo]]

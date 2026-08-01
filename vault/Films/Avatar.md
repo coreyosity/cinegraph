@@ -71,6 +71,9 @@ providers:
 
 In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[James Cameron]]
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Sigourney Weaver]] · [[Stephen Lang]] · [[Michelle Rodriguez]] · [[Giovanni Ribisi]] · [[Joel David Moore]] · [[CCH Pounder]] · [[Wes Studi]] · [[Laz Alonso]]

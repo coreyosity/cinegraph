@@ -55,6 +55,9 @@ providers:
 
 Chon Wang, a clumsy imperial guard, trails Princess Pei Pei when she's kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O'Bannon, and tries to spring the princess from her imprisonment.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tom Dey]]
 > **Cast** [[Jackie Chan]] · [[Owen Wilson]] · [[Lucy Liu]] · [[Xander Berkeley]] · [[Roger Yuan]] · [[Yu Rongguang]] · [[Walton Goggins]] · [[Brandon Merrill]] · [[Jason Connery]] · [[Adrien Dorval]]

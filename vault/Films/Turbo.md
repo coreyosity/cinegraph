@@ -59,6 +59,9 @@ providers:
 
 The tale of an ordinary garden snail who dreams of winning the Indy 500.
 
+> [!note]- Log
+> Watched 5 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[David Soren]]
 > **Cast** [[Ryan Reynolds]] · [[Paul Giamatti]] · [[Michael Peña]] · [[Samuel L. Jackson]] · [[Luis Guzmán]] · [[Bill Hader]] · [[Snoop Dogg]] · [[Maya Rudolph]] · [[Ben Schwartz]] · [[Richard Jenkins]]

@@ -5,7 +5,7 @@ year: 1999
 tmdb_id: 2667
 content_type: movie
 rating: 3.0
-watched: '2024-05-10'
+watched: '2025-05-28'
 runtime: 81
 genres:
 - Horror
@@ -69,9 +69,13 @@ providers:
 - YouTube TV
 - HBO Max
 - Stan
+rewatch: true
 ---
 
 In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.
+
+> [!note]- Log
+> Watched 28 May 2025 · ★ 3.0 · Rewatch
 
 > [!info]- Cast & crew
 > **Director** [[Daniel Myrick]]

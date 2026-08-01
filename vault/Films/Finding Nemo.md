@@ -61,6 +61,9 @@ providers:
 
 Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Andrew Stanton]]
 > **Cast** [[Albert Brooks]] · [[Ellen DeGeneres]] · [[Alexander Gould]] · [[Willem Dafoe]] · [[Geoffrey Rush]] · [[Brad Garrett]] · [[Allison Janney]] · [[Austin Pendleton]] · [[Stephen Root]] · [[Vicki Lewis]]

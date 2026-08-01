@@ -57,6 +57,9 @@ providers:
 
 Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.
 
+> [!note]- Log
+> Watched 3 Sep 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]
 > **Cast** [[Noriko Hidaka]] · [[Chika Sakamoto]] · [[Hitoshi Takagi]] · [[Shigesato Itoi]] · [[Sumi Shimamoto]] · [[Tanie Kitabayashi]] · [[Toshiyuki Amagasa]] · [[Yuko Maruyama]] · [[Masashi Hirose]] · [[Reiko Suzuki]]

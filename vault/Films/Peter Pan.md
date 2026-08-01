@@ -57,6 +57,9 @@ providers:
 
 Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Clyde Geronimi]]
 > **Cast** [[Bobby Driscoll]] · [[Kathryn Beaumont]] · [[Hans Conried]] · [[Bill Thompson]] · [[Heather Angel]] · [[Paul Collins]] · [[Tommy Luske]] · [[Candy Candido]] · [[Tom Conway]] · [[June Foray]]

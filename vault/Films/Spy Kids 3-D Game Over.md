@@ -56,6 +56,9 @@ providers:
 
 Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.
 
+> [!note]- Log
+> Watched 23 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Robert Rodriguez]]
 > **Cast** [[Daryl Sabara]] · [[Ricardo Montalban]] · [[Alexa PenaVega]] · [[Sylvester Stallone]] · [[Courtney Jines]] · [[Ryan Pinkston]] · [[Robert Vito]] · [[Bobby Edner]] · [[Mike Judge]] · [[Salma Hayek Pinault]]

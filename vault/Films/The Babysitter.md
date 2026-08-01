@@ -47,6 +47,9 @@ providers:
 
 When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[McG]]
 > **Cast** [[Judah Lewis]] · [[Samara Weaving]] · [[Robbie Amell]] · [[Hana Mae Lee]] · [[Bella Thorne]] · [[Emily Alyn Lind]] · [[Andrew Bachelor]] · [[Doug Haley]] · [[Leslie Bibb]] · [[Ken Marino]]

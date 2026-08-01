@@ -64,6 +64,9 @@ providers:
 
 Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.
 
+> [!note]- Log
+> Watched 25 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]
 > **Cast** [[Kenneth Branagh]] · [[Tom Bateman]] · [[Michelle Pfeiffer]] · [[Johnny Depp]] · [[Josh Gad]] · [[Willem Dafoe]] · [[Judi Dench]] · [[Derek Jacobi]] · [[Leslie Odom Jr]] · [[Daisy Ridley]]

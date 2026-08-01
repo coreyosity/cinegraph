@@ -65,6 +65,9 @@ providers:
 
 Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Richard Donner]]
 > **Cast** [[Christopher Reeve]] · [[Margot Kidder]] · [[Gene Hackman]] · [[Marlon Brando]] · [[Ned Beatty]] · [[Jackie Cooper]] · [[Glenn Ford]] · [[Trevor Howard]] · [[Jack O'Halloran]] · [[Valerie Perrine]]

@@ -61,6 +61,9 @@ providers:
 
 One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[James DeMonaco]]
 > **Cast** [[Frank Grillo]] · [[Carmen Ejogo]] · [[Zach Gilford]] · [[Michael Kenneth Williams]] · [[Kiele Sanchez]] · [[Zoë Soul]] · [[Edwin Hodge]] · [[Justina Machado]] · [[John Beasley]] · [[Jack Conley]]

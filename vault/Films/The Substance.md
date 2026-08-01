@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 933260
 content_type: movie
 rating: 4.5
-watched: '2024-09-10'
+watched: '2024-09-09'
 runtime: 141
 genres:
 - Horror
@@ -72,9 +72,20 @@ providers:
 - YouTube TV
 - HBO Max
 - Stan
+rewatch: true
+log_tags:
+- dean
+- andrew
+- cinema
+- scream-unseen
+- preview
 ---
 
 A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.
+
+> [!note]- Log
+> Watched 9 Sep 2024 · ★ 4.5 · Rewatch
+> Tags  dean · andrew · cinema · scream-unseen · preview
 
 > [!info]- Cast & crew
 > **Director** [[Coralie Fargeat]]

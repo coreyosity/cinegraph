@@ -53,6 +53,9 @@ providers:
 
 Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoiled playboy who has been, thus far, happy to lead an aimless life. After his father dies, Britt meets Kato, a resourceful company employee. Realizing that they have the talent and resources to make something of their lives, Britt and Kato join forces as costumed crime-fighters to bring down the city's most-powerful criminal, Chudnofsky.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Michel Gondry]]
 > **Cast** [[Seth Rogen]] · [[Jay Chou]] · [[Cameron Diaz]] · [[Tom Wilkinson]] · [[Christoph Waltz]] · [[Edward James Olmos]] · [[David Harbour]] · [[Chad L. Coleman]] · [[Jamie Harris]] · [[Edward Furlong]]

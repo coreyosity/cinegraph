@@ -62,6 +62,9 @@ providers:
 
 Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Michael Bay]]
 > **Cast** [[Shia LaBeouf]] · [[Megan Fox]] · [[Mark Ryan]] · [[Peter Cullen]] · [[Hugo Weaving]] · [[Josh Duhamel]] · [[Tyrese Gibson]] · [[Charlie Adler]] · [[Rachael Taylor]] · [[Anthony Anderson]]

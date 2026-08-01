@@ -62,6 +62,9 @@ providers:
 
 In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Naomi Watts]] · [[Adrien Brody]] · [[Jack Black]] · [[Andy Serkis]] · [[Colin Hanks]] · [[Thomas Kretschmann]] · [[Jamie Bell]] · [[Kyle Chandler]] · [[Evan Parke]] · [[Lobo Chan]]

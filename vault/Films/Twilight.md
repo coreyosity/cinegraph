@@ -76,6 +76,9 @@ providers:
 
 When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Catherine Hardwicke]]
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Ashley Greene]] · [[Jackson Rathbone]] · [[Nikki Reed]] · [[Kellan Lutz]] · [[Elizabeth Reaser]] · [[Taylor Lautner]]

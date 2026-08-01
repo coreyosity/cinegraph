@@ -45,6 +45,9 @@ letterboxd: https://boxd.it/1POs
 
 For generations, the people of the City of Ember have flourished in an amazing world of glittering lights. But Ember's once powerful generator is failing and the great lamps that illuminate the city are starting to flicker. Now, two teenagers, in a race against time, must search Ember for clues that will unlock the ancient mystery of the city's existence, before the the lights go out forever.
 
+> [!note]- Log
+> Watched 30 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gil Kenan]]
 > **Cast** [[Saoirse Ronan]] · [[Harry Treadaway]] · [[Bill Murray]] · [[David Ryall]] · [[Tim Robbins]] · [[Mackenzie Crook]] · [[Marianne Jean-Baptiste]] · [[Mary Kay Place]] · [[Toby Jones]] · [[Lucinda Dryzek]]

@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 533535
 content_type: movie
 rating: 3.0
-watched: '2024-07-27'
+watched: '2024-07-25'
 runtime: 128
 genres:
 - Action
@@ -52,9 +52,19 @@ providers:
 - Disney Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- isense
+- odeon-the-point
 ---
 
 A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.
+
+> [!note]- Log
+> Watched 25 Jul 2024 · ★ 3.0
+> Tags  andrew · dean · cinema · isense · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]

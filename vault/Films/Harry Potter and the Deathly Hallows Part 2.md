@@ -4,7 +4,7 @@ title: 'Harry Potter and the Deathly Hallows: Part 2'
 year: 2011
 tmdb_id: 12445
 content_type: movie
-watched: '2022-11-23'
+watched: '2025-12-29'
 runtime: 130
 genres:
 - Adventure
@@ -62,9 +62,18 @@ providers:
 - Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
+rewatch: true
+log_tags:
+- home
+- sky
+- dad
 ---
 
 Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.
+
+> [!note]- Log
+> Watched 29 Dec 2025 · Rewatch
+> Tags  home · sky · dad
 
 > [!info]- Cast & crew
 > **Director** [[David Yates]]

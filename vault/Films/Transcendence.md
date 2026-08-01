@@ -58,6 +58,9 @@ letterboxd: https://boxd.it/4VSQ
 
 Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.
 
+> [!note]- Log
+> Watched 23 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[Wally Pfister]]
 > **Cast** [[Johnny Depp]] · [[Rebecca Hall]] · [[Paul Bettany]] · [[Cillian Murphy]] · [[Kate Mara]] · [[Cole Hauser]] · [[Morgan Freeman]] · [[Clifton Collins Jr]] · [[Cory Hardrict]] · [[Falk Hentschel]]

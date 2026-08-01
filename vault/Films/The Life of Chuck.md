@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 842924
 content_type: movie
 rating: 3.5
-watched: '2025-09-29'
+watched: '2025-08-11'
 runtime: 111
 genres:
 - Fantasy
@@ -66,9 +66,19 @@ providers:
 - Amazon Prime Video with Ads
 - HBO Max
 - HBO Max Amazon Channel
+log_tags:
+- odeon-the-point
+- cinema
+- dean
+- andrew
+- grace
 ---
 
 In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.
+
+> [!note]- Log
+> Watched 11 Aug 2025 · ★ 3.5
+> Tags  odeon-the-point · cinema · dean · andrew · grace
 
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]

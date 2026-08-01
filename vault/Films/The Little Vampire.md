@@ -47,6 +47,9 @@ providers:
 
 Based on the popular books, the story tells of Tony who wants a friend to add some adventure to his life. What he gets is Rudolph, a vampire kid with a good appetite. The two end up inseparable, but their fun is cut short when all the hopes of the vampire race could be gone forever in single night. With Tony's access to the daytime world, he helps them to find what they've always wanted.
 
+> [!note]- Log
+> Watched 23 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Uli Edel]]
 > **Cast** [[Jonathan Lipnicki]] · [[Richard E. Grant]] · [[Jim Carter]] · [[Alice Krige]] · [[Rollo Weeks]] · [[Anna Popplewell]] · [[Pamela Gidley]] · [[Tommy Hinkley]] · [[Dean Cook]] · [[Iain De Caestecker]]

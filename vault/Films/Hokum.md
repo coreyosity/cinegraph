@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 1430077
 content_type: movie
 rating: 2.5
-watched: '2026-05-11'
+watched: '2026-05-08'
 runtime: 108
 genres:
 - Horror
@@ -51,9 +51,17 @@ poster: https://image.tmdb.org/t/p/w500/x6rHcQFiYcczLQPrmxXPAicm54E.jpg
 tags:
 - film
 letterboxd: https://boxd.it/SUeq
+log_tags:
+- conor
+- cinema
+- lighthouse
 ---
 
 When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.
+
+> [!note]- Log
+> Watched 8 May 2026 · ★ 2.5
+> Tags  conor · cinema · lighthouse
 
 > [!info]- Cast & crew
 > **Director** [[Damian McCarthy]]

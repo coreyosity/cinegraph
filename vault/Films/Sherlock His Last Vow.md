@@ -7,3 +7,6 @@ letterboxd: https://boxd.it/wls4
 tags:
 - film
 ---
+
+> [!note]- Log
+> Watched 5 Jun 2024

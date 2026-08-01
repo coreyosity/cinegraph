@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 505026
 content_type: movie
 rating: 2.5
-watched: '2023-09-19'
+watched: '2023-09-17'
 runtime: 127
 genres:
 - Mystery
@@ -56,9 +56,17 @@ providers:
 - YouTube TV
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- myself
+- home
+- disney+
 ---
 
 Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short.
+
+> [!note]- Log
+> Watched 17 Sep 2023 · ★ 2.5
+> Tags  myself · home · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]

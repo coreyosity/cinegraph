@@ -56,6 +56,9 @@ providers:
 
 Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]
 > **Cast** [[Macaulay Culkin]] · [[Joe Pesci]] · [[Daniel Stern]] · [[Catherine O'Hara]] · [[John Heard]] · [[Brenda Fricker]] · [[Tim Curry]] · [[Devin Ratray]] · [[Gerry Bamman]] · [[Rob Schneider]]

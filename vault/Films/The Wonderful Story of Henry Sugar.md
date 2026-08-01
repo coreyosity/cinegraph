@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 923939
 content_type: movie
 rating: 4.0
-watched: '2023-10-10'
+watched: '2023-10-01'
 runtime: 39
 genres:
 - Comedy
@@ -53,9 +53,17 @@ letterboxd: https://boxd.it/yNyo
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- caleb
+- netflix
+- wexford
 ---
 
 A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.
+
+> [!note]- Log
+> Watched 1 Oct 2023 · ★ 4.0
+> Tags  caleb · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

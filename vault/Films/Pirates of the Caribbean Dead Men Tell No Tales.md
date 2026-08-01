@@ -60,6 +60,9 @@ providers:
 
 Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels the winds of ill-fortune blowing even more strongly when deadly ghost sailors led by his old nemesis, the evil Capt. Salazar, escape from the Devil's Triangle. Jack's only hope of survival lies in seeking out the legendary Trident of Poseidon, but to find it, he must forge an uneasy alliance with a brilliant and beautiful astronomer and a headstrong young man in the British navy.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joachim Rønning]]
 > **Cast** [[Johnny Depp]] · [[Javier Bardem]] · [[Geoffrey Rush]] · [[Brenton Thwaites]] · [[Kaya Scodelario]] · [[Golshifteh Farahani]] · [[Kevin McNally]] · [[Stephen Graham]] · [[Angus Barnett]] · [[David Wenham]]

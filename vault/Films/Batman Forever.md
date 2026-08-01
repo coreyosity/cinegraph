@@ -68,6 +68,9 @@ providers:
 
 Batman faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face, and the Riddler, a disgruntled ex-Wayne Enterprises inventor seeking revenge against his former employer by unleashing his brain-sucking weapon on Gotham City's residents. As the caped crusader also copes with tortured memories of his parents' murder, he has a new romance, with psychologist Chase Meridian.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joel Schumacher]]
 > **Cast** [[Val Kilmer]] · [[Tommy Lee Jones]] · [[Jim Carrey]] · [[Nicole Kidman]] · [[Chris O'Donnell]] · [[Michael Gough]] · [[Pat Hingle]] · [[Drew Barrymore]] · [[Debi Mazar]] · [[Joe Grifasi]]

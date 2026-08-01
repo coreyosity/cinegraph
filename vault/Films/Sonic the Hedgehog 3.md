@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 939243
 content_type: movie
 rating: 3.0
-watched: '2025-01-06'
+watched: '2025-01-05'
 runtime: 110
 genres:
 - Action
@@ -73,9 +73,23 @@ providers:
 - Paramount Plus
 - Foxtel Now
 - Paramount Plus Basic with Ads
+log_tags:
+- andrew
+- dean
+- cinema
+- cat
+- grace
+- 4dx
+- eve
+- eoin
+- cineworld
 ---
 
 Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.
+
+> [!note]- Log
+> Watched 5 Jan 2025 · ★ 3.0
+> Tags  andrew · dean · cinema · cat · grace · 4dx · eve · eoin · cineworld
 
 > [!info]- Cast & crew
 > **Director** [[Jeff Fowler]]

@@ -5,7 +5,7 @@ year: 1990
 tmdb_id: 196
 content_type: movie
 rating: 3.5
-watched: '2025-12-10'
+watched: '2025-12-07'
 runtime: 119
 genres:
 - Adventure
@@ -65,9 +65,17 @@ providers:
 - Netflix Standard with Ads
 - Crave Amazon Channel
 - Foxtel Now
+log_tags:
+- home
+- myself
+- netflix
 ---
 
 The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.
+
+> [!note]- Log
+> Watched 7 Dec 2025 · ★ 3.5
+> Tags  home · myself · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

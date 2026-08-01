@@ -93,6 +93,9 @@ providers:
 
 After paleoclimatologist Jack Hall is largely ignored by UN officials when presenting his environmental concerns about the beginning of a new Ice Age, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world. Trying to get to his son, Sam, who is trapped in New York City with his friend Laura and others, Jack and his crew must travel to get to Sam before it's too late.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Roland Emmerich]]
 > **Cast** [[Dennis Quaid]] · [[Jake Gyllenhaal]] · [[Emmy Rossum]] · [[Dash Mihok]] · [[Jay O. Sanders]] · [[Sela Ward]] · [[Austin Nichols]] · [[Arjay Smith]] · [[Tamlyn Tomita]] · [[Sasha Roiz]]

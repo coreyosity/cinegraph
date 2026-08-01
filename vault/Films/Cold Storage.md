@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 696393
 content_type: movie
 rating: 2.5
-watched: '2026-03-03'
+watched: '2026-02-28'
 runtime: 99
 genres:
 - Horror
@@ -59,9 +59,17 @@ providers:
 - MGM Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- cinema
+- cineworld
+- conor
 ---
 
 When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.
+
+> [!note]- Log
+> Watched 28 Feb 2026 · ★ 2.5
+> Tags  cinema · cineworld · conor
 
 > [!info]- Cast & crew
 > **Director** [[Jonny Campbell]]

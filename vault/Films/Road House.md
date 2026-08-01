@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 359410
 content_type: movie
 rating: 2.5
-watched: '2024-03-26'
+watched: '2024-03-24'
 runtime: 121
 genres:
 - Action
@@ -45,9 +45,17 @@ letterboxd: https://boxd.it/cdzQ
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dad
+- prime
+- wexford
 ---
 
 Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.
+
+> [!note]- Log
+> Watched 24 Mar 2024 · ★ 2.5
+> Tags  dad · prime · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Doug Liman]]

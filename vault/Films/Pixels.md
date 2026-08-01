@@ -87,6 +87,9 @@ providers:
 
 Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Michelle Monaghan]] · [[Peter Dinklage]] · [[Josh Gad]] · [[Matt Lintz]] · [[Brian Cox]] · [[Denis Akiyama]] · [[Sean Bean]] · [[Jane Krakowski]]

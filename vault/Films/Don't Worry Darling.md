@@ -53,6 +53,9 @@ providers:
 
 Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive façade, Alice can’t help questioning exactly what they’re doing in Victory, and why.
 
+> [!note]- Log
+> Watched 16 Oct 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Olivia Wilde]]
 > **Cast** [[Florence Pugh]] · [[Harry Styles]] · [[Chris Pine]] · [[Olivia Wilde]] · [[KiKi Layne]] · [[Gemma Chan]] · [[Nick Kroll]] · [[Sydney Chandler]] · [[Kate Berlant]] · [[Asif Ali]]

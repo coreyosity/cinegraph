@@ -7,3 +7,6 @@ letterboxd: https://boxd.it/tMkU
 tags:
 - film
 ---
+
+> [!note]- Log
+> Watched 13 Apr 2026

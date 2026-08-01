@@ -62,6 +62,9 @@ providers:
 
 Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.
 
+> [!note]- Log
+> Watched 1 Nov 2023
+
 > [!info]- Cast & crew
 > **Director** [[James Wan]]
 > **Cast** [[Vera Farmiga]] · [[Patrick Wilson]] · [[Madison Wolfe]] · [[Frances O'Connor]] · [[Lauren Esposito]] · [[Benjamin Haigh]] · [[Patrick McAuley]] · [[Sterling Jerins]] · [[Bonnie Aarons]] · [[Simon McBurney]]

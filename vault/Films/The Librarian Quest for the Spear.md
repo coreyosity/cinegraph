@@ -51,6 +51,9 @@ providers:
 
 When a magical artifact is lifted from his library, a meek librarian sets out to ensure its safe return.
 
+> [!note]- Log
+> Watched 9 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Winther]]
 > **Cast** [[Noah Wyle]] · [[Sonya Walger]] · [[Jane Curtin]] · [[Bob Newhart]] · [[Kyle MacLachlan]] · [[Lisa Brenner]] · [[David Dayan Fisher]] · [[Kelly Hu]] · [[Olympia Dukakis]] · [[Mario Iván Martínez]]

@@ -58,6 +58,9 @@ providers:
 
 After a threat from the tiger Shere Khan, Mowgli, a man-cub fostered by wolves, is forced to flee the jungle, and he embarks on a journey of self-discovery with the help of the panther, Bagheera, and the free-spirited bear, Baloo.
 
+> [!note]- Log
+> Watched 2 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]
 > **Cast** [[Neel Sethi]] · [[Bill Murray]] · [[Ben Kingsley]] · [[Idris Elba]] · [[Scarlett Johansson]] · [[Christopher Walken]] · [[Lupita Nyong'o]] · [[Giancarlo Esposito]] · [[Garry Shandling]] · [[Emjay Anthony]]

@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1023922
 content_type: movie
 rating: 3.0
-watched: '2024-07-11'
+watched: '2024-07-10'
 runtime: 103
 genres:
 - Horror
@@ -70,9 +70,18 @@ providers:
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-the-point
 ---
 
 In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.
+
+> [!note]- Log
+> Watched 10 Jul 2024 · ★ 3.0
+> Tags  andrew · dean · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

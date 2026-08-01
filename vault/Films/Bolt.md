@@ -55,6 +55,9 @@ providers:
 
 Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his "super powers" to find a way home.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Williams]]
 > **Cast** [[John Travolta]] · [[Miley Cyrus]] · [[Susie Essman]] · [[Mark Walton]] · [[Malcolm McDowell]] · [[James Lipton]] · [[Greg Germann]] · [[Diedrich Bader]] · [[Nick Swardson]] · [[J.P. Manoux]]

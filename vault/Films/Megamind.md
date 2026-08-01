@@ -67,6 +67,9 @@ providers:
 
 After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his "creation" becomes an even worse villain than he was.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tom McGrath]]
 > **Cast** [[Will Ferrell]] · [[Brad Pitt]] · [[Tina Fey]] · [[Jonah Hill]] · [[David Cross]] · [[Ben Stiller]] · [[Justin Theroux]] · [[Jessica Schulte]] · [[Tom McGrath]] · [[Emily Nordwind]]

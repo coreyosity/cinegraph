@@ -5,7 +5,7 @@ year: 1996
 tmdb_id: 4232
 content_type: movie
 rating: 5.0
-watched: '2022-03-27'
+watched: '2023-03-05'
 runtime: 112
 genres:
 - Crime
@@ -69,9 +69,17 @@ providers:
 - Crave Amazon Channel
 - Foxtel Now
 - Stan
+log_tags:
+- dean
+- torrent
+- home
 ---
 
 A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.
+
+> [!note]- Log
+> Watched 5 Mar 2023 · ★ 5.0
+> Tags  dean · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

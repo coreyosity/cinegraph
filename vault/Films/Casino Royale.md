@@ -5,7 +5,7 @@ year: 2006
 tmdb_id: 36557
 content_type: movie
 rating: 3.5
-watched: '2024-05-28'
+watched: '2026-02-01'
 runtime: 144
 genres:
 - Adventure
@@ -64,9 +64,17 @@ providers:
 - Crave
 - MGM Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- myself
+- netflix
+- home
 ---
 
 Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.
+
+> [!note]- Log
+> Watched 1 Feb 2026 · ★ 3.5
+> Tags  myself · netflix · home
 
 > [!info]- Cast & crew
 > **Director** [[Martin Campbell]]

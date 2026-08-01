@@ -4,7 +4,7 @@ title: The Captive
 year: 2014
 tmdb_id: 244761
 content_type: movie
-watched: '2024-02-07'
+watched: '2024-02-05'
 runtime: 112
 genres:
 - Drama
@@ -56,9 +56,17 @@ providers:
 - Hollywood Suite Amazon Channel
 - Lionsgate+ Amazon Channels
 - Stan
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 Eight years after their daughter Cassandra's abduction tore them apart, an estranged couple discover disturbing clues that indicate that she is still alive.
+
+> [!note]- Log
+> Watched 5 Feb 2024
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Atom Egoyan]]

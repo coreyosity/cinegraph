@@ -58,6 +58,9 @@ providers:
 
 The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration. But a certain little who might change things.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Yarrow Cheney]]
 > **Cast** [[Benedict Cumberbatch]] · [[Rashida Jones]] · [[Kenan Thompson]] · [[Cameron Seely]] · [[Angela Lansbury]] · [[Pharrell Williams]] · [[Ramone Hamilton]] · [[Sam Lavagnino]] · [[Scarlett Estevez]] · [[Michael Beattie]]

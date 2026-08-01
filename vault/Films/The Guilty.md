@@ -54,6 +54,9 @@ providers:
 
 A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Antoine Fuqua]]
 > **Cast** [[Jake Gyllenhaal]] · [[Ethan Hawke]] · [[Riley Keough]] · [[Peter Sarsgaard]] · [[Christina Vidal Mitchell]] · [[Paul Dano]] · [[Eli Goree]] · [[Da'Vine Joy Randolph]] · [[David Castañeda]] · [[Adrian Martinez]]

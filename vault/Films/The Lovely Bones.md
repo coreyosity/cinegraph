@@ -51,6 +51,9 @@ letterboxd: https://boxd.it/20IA
 
 After being brutally murdered, 14-year-old Susie Salmon watches from heaven over her grief-stricken family -- and her killer. As she observes their daily lives, she must balance her thirst for revenge with her desire for her family to heal.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Saoirse Ronan]] · [[Mark Wahlberg]] · [[Rachel Weisz]] · [[Susan Sarandon]] · [[Stanley Tucci]] · [[Rose McIver]] · [[Michael Imperioli]] · [[Carolyn Dando]] · [[Christian Ashdale]] · [[Reece Ritchie]]

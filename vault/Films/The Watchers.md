@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1086747
 content_type: movie
 rating: 2.5
-watched: '2024-06-20'
+watched: '2024-06-19'
 runtime: 102
 genres:
 - Fantasy
@@ -58,9 +58,18 @@ providers:
 - Cinemax Amazon Channel
 - HBO Max
 - Cinemax Apple TV Channel
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-blanch
 ---
 
 A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.
+
+> [!note]- Log
+> Watched 19 Jun 2024 · ★ 2.5
+> Tags  andrew · dean · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Ishana Night Shyamalan]]

@@ -51,6 +51,9 @@ providers:
 
 After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist — reborn as The Mother Fucker — only the blade-wielding Hit-Girl can prevent their annihilation.
 
+> [!note]- Log
+> Watched 30 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jeff Wadlow]]
 > **Cast** [[Aaron Taylor-Johnson]] · [[Chloë Grace Moretz]] · [[Christopher Mintz-Plasse]] · [[Lyndsy Fonseca]] · [[Jim Carrey]] · [[Iain Glen]] · [[Clark Duke]] · [[Lindy Booth]] · [[Garrett M. Brown]] · [[Morris Chestnut]]

@@ -5,7 +5,7 @@ year: 2025
 tmdb_id: 617126
 content_type: movie
 rating: 3.5
-watched: '2025-07-28'
+watched: '2025-12-21'
 runtime: 115
 genres:
 - Science Fiction
@@ -60,9 +60,25 @@ tags:
 letterboxd: https://boxd.it/mP6C
 providers:
 - Disney Plus
+rewatch: true
+log_tags:
+- odeon-the-point
+- cinema
+- dean
+- andrew
+- grace
+- eve
+- caleb
+- dad
+- wexford
+- disney+
 ---
 
 Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.
+
+> [!note]- Log
+> Watched 21 Dec 2025 · ★ 3.5 · Rewatch
+> Tags  odeon-the-point · cinema · dean · andrew · grace · eve · caleb · dad · wexford · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Matt Shakman]]

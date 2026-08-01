@@ -71,6 +71,9 @@ providers:
 
 Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Kenneth Branagh]] · [[Toby Jones]] · [[Robbie Coltrane]] · [[Richard Harris]] · [[Alan Rickman]] · [[Tom Felton]] · [[Jason Isaacs]]

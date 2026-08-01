@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 937287
 content_type: movie
 rating: 3.5
-watched: '2024-04-29'
+watched: '2024-04-28'
 runtime: 132
 genres:
 - Drama
@@ -68,9 +68,18 @@ providers:
 - Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-blanch
 ---
 
 Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Major champion. To jolt him out of his recent losing streak, she signs him up for a "Challenger" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.
+
+> [!note]- Log
+> Watched 28 Apr 2024 · ★ 3.5
+> Tags  dean · andrew · cinema · odeon-blanch
 
 > [!info]- Cast & crew
 > **Director** [[Luca Guadagnino]]

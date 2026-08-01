@@ -47,6 +47,9 @@ providers:
 
 As seniors in high school, Troy and Gabriella struggle with the idea of being separated from one another as college approaches. Along with the rest of the Wildcats, they stage a spring musical to address their experiences, hopes and fears about their future.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kenny Ortega]]
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Monique Coleman]] · [[Olesya Rulin]] · [[Chris Warren]] · [[Ryne Sanborn]] · [[Kaycee Stroh]]

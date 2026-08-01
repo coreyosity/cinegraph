@@ -63,6 +63,9 @@ providers:
 
 In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[James Mangold]]
 > **Cast** [[Hugh Jackman]] · [[Dafne Keen]] · [[Patrick Stewart]] · [[Elizabeth Rodriguez]] · [[Boyd Holbrook]] · [[Stephen Merchant]] · [[Richard E. Grant]] · [[Stephen Dunlevy]] · [[Eriq La Salle]] · [[Elise Neal]]

@@ -51,6 +51,9 @@ providers:
 
 Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
 
+> [!note]- Log
+> Watched 8 May 2022
+
 > [!info]- Cast & crew
 > **Director** [[Eoin Macken]]
 > **Cast** [[Dean-Charles Chapman]] · [[Anya Taylor-Joy]] · [[Finn Cole]] · [[Ferdia Walsh-Peelo]] · [[Conleth Hill]] · [[Emmett J. Scanlan]] · [[Lola Petticrew]] · [[Carl Shaaban]] · [[Chris Newman]] · [[Susan Lynch]]

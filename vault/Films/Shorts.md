@@ -41,6 +41,9 @@ letterboxd: https://boxd.it/1wl2
 
 A young boy's discovery of a colorful, wish-granting rock causes chaos in the suburban town of Black Falls when jealous kids and scheming adults alike set out to get their hands on it.
 
+> [!note]- Log
+> Watched 13 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Robert Rodriguez]]
 > **Cast** [[Jimmy Bennett]] · [[Jake Short]] · [[Kat Dennings]] · [[Trevor Gagnon]] · [[Devon Gearhart]] · [[Jolie Vanier]] · [[Rebel Rodriguez]] · [[Leo Howard]] · [[Leslie Mann]] · [[Jon Cryer]]

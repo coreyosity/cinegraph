@@ -44,6 +44,9 @@ providers:
 
 Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby firehouse. He teams up with a young kid to get the station back on its feet.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Todd Holland]]
 > **Cast** [[Josh Hutcherson]] · [[Bruce Greenwood]] · [[Bill Nunn]] · [[Scotch Ellis Loring]] · [[Teddy Sears]] · [[Arwen]] · [[Frodo]] · [[Rohan]] · [[Stryder]] · [[Steven Culp]]

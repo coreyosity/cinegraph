@@ -5,7 +5,7 @@ year: 1989
 tmdb_id: 16859
 content_type: movie
 rating: 4.5
-watched: '2025-04-12'
+watched: '2025-04-10'
 runtime: 103
 genres:
 - Animation
@@ -64,9 +64,20 @@ providers:
 - Netflix Standard with Ads
 - HBO Max Amazon Channel
 - HBO Max
+log_tags:
+- dean
+- andrew
+- cinema-room
+- netflix
+- grace
+- eve
 ---
 
 A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.
+
+> [!note]- Log
+> Watched 10 Apr 2025 · ★ 4.5
+> Tags  dean · andrew · cinema-room · netflix · grace · eve
 
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]

@@ -64,6 +64,9 @@ providers:
 
 The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]
 > **Cast** [[Michael Keaton]] · [[Danny DeVito]] · [[Michelle Pfeiffer]] · [[Christopher Walken]] · [[Michael Gough]] · [[Pat Hingle]] · [[Michael Murphy]] · [[Cristi Conaway]] · [[Andrew Bryniarski]] · [[Vincent Schiavelli]]

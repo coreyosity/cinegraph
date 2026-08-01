@@ -36,6 +36,9 @@ providers:
 
 Discover what Thor was up to during the events of Captain America: Civil War.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Taika Waititi]]
 > **Cast** [[Chris Hemsworth]] · [[Mark Ruffalo]] · [[Daley Pearson]]

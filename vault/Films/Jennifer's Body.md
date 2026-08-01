@@ -64,6 +64,9 @@ providers:
 
 Jennifer, a gorgeous, seductive cheerleader takes evil to a whole new level after she's possessed by a sinister demon. Now it's up to her best friend to stop Jennifer's reign of terror before it's too late.
 
+> [!note]- Log
+> Watched 19 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Karyn Kusama]]
 > **Cast** [[Megan Fox]] · [[Amanda Seyfried]] · [[Johnny Simmons]] · [[Adam Brody]] · [[Sal Cortez]] · [[Ryan Levine]] · [[Juan Riedinger]] · [[Colin Askey]] · [[Chris Pratt]] · [[Juno Rinaldi]]

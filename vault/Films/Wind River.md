@@ -5,7 +5,7 @@ year: 2017
 tmdb_id: 395834
 content_type: movie
 rating: 4.0
-watched: '2024-11-13'
+watched: '2024-11-12'
 runtime: 107
 genres:
 - Crime
@@ -74,9 +74,17 @@ providers:
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
 - Stan
+log_tags:
+- myself
+- torrent
+- home
 ---
 
 An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.
+
+> [!note]- Log
+> Watched 12 Nov 2024 · ★ 4.0
+> Tags  myself · torrent · home
 
 > [!info]- Cast & crew
 > **Director** [[Taylor Sheridan]]

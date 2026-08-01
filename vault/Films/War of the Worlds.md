@@ -5,7 +5,7 @@ year: 2005
 tmdb_id: 74
 content_type: movie
 rating: 3.5
-watched: '2024-11-17'
+watched: '2024-11-16'
 runtime: 117
 genres:
 - Adventure
@@ -68,9 +68,19 @@ providers:
 - Peacock Premium Plus
 - Foxtel Now
 - Stan
+rewatch: true
+log_tags:
+- dad
+- caleb
+- netflix
+- wexford
 ---
 
 Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.
+
+> [!note]- Log
+> Watched 16 Nov 2024 · ★ 3.5 · Rewatch
+> Tags  dad · caleb · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]

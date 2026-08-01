@@ -4,7 +4,7 @@ title: The Stranger
 year: 2022
 tmdb_id: 848791
 content_type: movie
-watched: '2024-02-08'
+watched: '2024-02-06'
 runtime: 117
 genres:
 - Thriller
@@ -50,9 +50,17 @@ letterboxd: https://boxd.it/w1Yk
 providers:
 - Netflix
 - Netflix Standard with Ads
+log_tags:
+- dad
+- wexford
+- netflix
 ---
 
 Two strangers strike up a conversation on a long journey. However, neither is who they appear to be, each carry secrets that threaten to ruin them — and in the background, one of the nation's largest police operations is closing in.
+
+> [!note]- Log
+> Watched 6 Feb 2024
+> Tags  dad · wexford · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Thomas M. Wright]]

@@ -61,6 +61,9 @@ letterboxd: https://boxd.it/8sXg
 
 While video chatting one night, six high school friends receive a Skype message from a classmate who killed herself exactly one year ago. At first they think it's a prank, but when the girl starts revealing the friends' darkest secrets, they realize they are dealing with something out of this world, something that wants them dead.
 
+> [!note]- Log
+> Watched 5 Jun 2025
+
 > [!info]- Cast & crew
 > **Director** [[Levan Gabriadze]]
 > **Cast** [[Shelley Hennig]] · [[Heather Sossaman]] · [[Renee Olstead]] · [[Matthew Bohrer]] · [[Moses Storm]] · [[Will Peltz]] · [[Jacob Wysocki]] · [[Courtney Halverson]] · [[Mickey River]] · [[Cal Barnes]]

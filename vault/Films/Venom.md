@@ -63,6 +63,9 @@ providers:
 
 Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ruben Fleischer]]
 > **Cast** [[Tom Hardy]] · [[Michelle Williams]] · [[Riz Ahmed]] · [[Scott Haze]] · [[Reid Scott]] · [[Jenny Slate]] · [[Melora Walters]] · [[Woody Harrelson]] · [[Peggy Lu]] · [[Malcolm C. Murray]]

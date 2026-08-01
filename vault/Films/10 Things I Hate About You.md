@@ -62,6 +62,9 @@ providers:
 
 On the first day at his new school, Cameron instantly falls for Bianca, the gorgeous girl of his dreams. The only problem is that Bianca is forbidden to date until her ill-tempered, completely un-dateable older sister Kat goes out, too. In an attempt to solve his problem, Cameron singles out the only guy who could possibly be a match for Kat: a mysterious bad boy with a nasty reputation of his own.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Gil Junger]]
 > **Cast** [[Heath Ledger]] · [[Julia Stiles]] · [[Joseph Gordon-Levitt]] · [[Larisa Oleynik]] · [[David Krumholtz]] · [[Andrew Keegan]] · [[Susan May Pratt]] · [[Gabrielle Union]] · [[Larry Miller]] · [[Daryl Mitchell]]

@@ -5,7 +5,7 @@ year: 2016
 tmdb_id: 371645
 content_type: movie
 rating: 4.0
-watched: '2026-06-08'
+watched: '2026-06-07'
 runtime: 101
 genres:
 - Adventure
@@ -50,9 +50,17 @@ providers:
 - Amazon Prime Video
 - fuboTV
 - Amazon Prime Video with Ads
+log_tags:
+- home
+- myself
+- prime
 ---
 
 Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.
+
+> [!note]- Log
+> Watched 7 Jun 2026 · ★ 4.0
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[Taika Waititi]]

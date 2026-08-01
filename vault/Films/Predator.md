@@ -66,6 +66,9 @@ providers:
 
 A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John McTiernan]]
 > **Cast** [[Arnold Schwarzenegger]] · [[Carl Weathers]] · [[Kevin Peter Hall]] · [[Elpidia Carrillo]] · [[Bill Duke]] · [[Jesse Ventura]] · [[Sonny Landham]] · [[Richard Chaves]] · [[R.G. Armstrong]] · [[Shane Black]]

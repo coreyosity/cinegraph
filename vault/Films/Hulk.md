@@ -77,6 +77,9 @@ providers:
 
 Bruce Banner, a genetics researcher with a tragic past, suffers massive radiation exposure in his laboratory that causes him to transform into a raging green monster when he gets angry.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ang Lee]]
 > **Cast** [[Eric Bana]] · [[Jennifer Connelly]] · [[Sam Elliott]] · [[Josh Lucas]] · [[Nick Nolte]] · [[Paul Kersey]] · [[Todd Tesen]] · [[Cara Buono]] · [[Kevin Rankin]] · [[Celia Weston]]

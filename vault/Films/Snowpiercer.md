@@ -80,6 +80,9 @@ providers:
 
 In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer; a train that travels around the globe via a perpetual-motion engine.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]
 > **Cast** [[Chris Evans]] · [[Song Kang-ho]] · [[Ed Harris]] · [[John Hurt]] · [[Tilda Swinton]] · [[Jamie Bell]] · [[Octavia Spencer]] · [[Ewen Bremner]] · [[Ko Asung]] · [[Alison Pill]]

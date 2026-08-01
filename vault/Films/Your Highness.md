@@ -56,6 +56,9 @@ providers:
 
 A fantasy movie about an arrogant, lazy prince and his more heroic brother who must complete a quest in order to save their father's kingdom.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[David Gordon Green]]
 > **Cast** [[Danny McBride]] · [[James Franco]] · [[Natalie Portman]] · [[Zooey Deschanel]] · [[Justin Theroux]] · [[Toby Jones]] · [[Damian Lewis]] · [[Rasmus Hardiker]] · [[Simon Farnaby]] · [[Deobia Oparei]]

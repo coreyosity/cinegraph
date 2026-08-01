@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 766475
 content_type: movie
 rating: 3.5
-watched: '2022-11-07'
+watched: '2022-11-06'
 runtime: 99
 genres:
 - Mystery
@@ -46,9 +46,17 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+log_tags:
+- myself
+- disney+
+- home
 ---
 
 In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.
+
+> [!note]- Log
+> Watched 6 Nov 2022 · ★ 3.5
+> Tags  myself · disney+ · home
 
 > [!info]- Cast & crew
 > **Director** [[Tom George]]

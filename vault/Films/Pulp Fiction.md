@@ -79,6 +79,9 @@ providers:
 
 A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Quentin Tarantino]]
 > **Cast** [[John Travolta]] · [[Samuel L. Jackson]] · [[Uma Thurman]] · [[Bruce Willis]] · [[Ving Rhames]] · [[Harvey Keitel]] · [[Eric Stoltz]] · [[Tim Roth]] · [[Amanda Plummer]] · [[Maria de Medeiros]]

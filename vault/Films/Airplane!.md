@@ -79,6 +79,9 @@ providers:
 
 An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jim Abrahams]]
 > **Cast** [[Robert Hays]] · [[Julie Hagerty]] · [[Leslie Nielsen]] · [[Kareem Abdul-Jabbar]] · [[Lloyd Bridges]] · [[Peter Graves]] · [[Robert Stack]] · [[Lorna Patterson]] · [[Jill Whelan]] · [[Ann Nelson]]

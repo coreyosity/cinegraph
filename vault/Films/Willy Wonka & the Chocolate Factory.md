@@ -75,6 +75,9 @@ providers:
 
 When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Mel Stuart]]
 > **Cast** [[Peter Ostrum]] · [[Gene Wilder]] · [[Jack Albertson]] · [[Roy Kinnear]] · [[Julie Dawn Cole]] · [[Leonard Stone]] · [[Denise Nickerson]] · [[Nora Denney]] · [[Paris Themmen]] · [[Ursula Reit]]

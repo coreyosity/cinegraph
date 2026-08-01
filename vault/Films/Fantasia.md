@@ -43,6 +43,9 @@ providers:
 
 Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Samuel Armstrong]]
 > **Cast** [[Deems Taylor]] · [[Walt Disney]] · [[Julietta Novis]] · [[Leopold Stokowski]]

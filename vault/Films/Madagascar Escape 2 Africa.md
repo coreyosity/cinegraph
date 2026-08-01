@@ -76,6 +76,9 @@ providers:
 
 Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tom McGrath]]
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Sacha Baron Cohen]] · [[Cedric the Entertainer]] · [[Andy Richter]] · [[Bernie Mac]] · [[Alec Baldwin]] · [[Sherri Shepherd]]

@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 1138194
 content_type: movie
 rating: 4.5
-watched: '2024-11-04'
+watched: '2024-11-03'
 runtime: 111
 genres:
 - Thriller
@@ -64,9 +64,18 @@ providers:
 - Amazon Prime Video
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
+log_tags:
+- andrew
+- dean
+- cinema
+- odeon-the-point
 ---
 
 Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.
+
+> [!note]- Log
+> Watched 3 Nov 2024 · ★ 4.5
+> Tags  andrew · dean · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Scott Beck]]

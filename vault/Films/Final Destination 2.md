@@ -5,7 +5,7 @@ year: 2003
 tmdb_id: 9358
 content_type: movie
 rating: 2.5
-watched: '2025-05-24'
+watched: '2025-05-21'
 runtime: 90
 genres:
 - Horror
@@ -53,9 +53,17 @@ providers:
 - Cinemax Apple TV Channel
 - Crave
 - Crave Amazon Channel
+log_tags:
+- netflix
+- copenhagen
+- myself
 ---
 
 When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it's up to Kimberly to stop it before she's next.
+
+> [!note]- Log
+> Watched 21 May 2025 · ★ 2.5
+> Tags  netflix · copenhagen · myself
 
 > [!info]- Cast & crew
 > **Director** [[David R. Ellis]]

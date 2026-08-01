@@ -5,7 +5,7 @@ year: 1991
 tmdb_id: 274
 content_type: movie
 rating: 4.0
-watched: '2024-01-22'
+watched: '2024-01-21'
 runtime: 119
 genres:
 - Crime
@@ -79,9 +79,17 @@ providers:
 - BINGE
 - Foxtel Now
 - Stan
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.
+
+> [!note]- Log
+> Watched 21 Jan 2024 · ★ 4.0
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Jonathan Demme]]

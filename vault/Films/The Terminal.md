@@ -5,7 +5,7 @@ year: 2004
 tmdb_id: 594
 content_type: movie
 rating: 4.0
-watched: '2026-05-01'
+watched: '2026-04-26'
 runtime: 128
 genres:
 - Comedy
@@ -71,9 +71,17 @@ providers:
 - Paramount+ Roku Premium Channel
 - Super Channel Plus
 - Super Channel Amazon Channel
+log_tags:
+- home
+- myself
+- youtube
 ---
 
 An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.
+
+> [!note]- Log
+> Watched 26 Apr 2026 · ★ 4.0
+> Tags  home · myself · youtube
 
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]

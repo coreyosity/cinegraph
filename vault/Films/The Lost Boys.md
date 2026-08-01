@@ -63,6 +63,9 @@ providers:
 
 When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Joel Schumacher]]
 > **Cast** [[Jason Patric]] · [[Corey Haim]] · [[Dianne Wiest]] · [[Barnard Hughes]] · [[Edward Herrmann]] · [[Kiefer Sutherland]] · [[Jami Gertz]] · [[Corey Feldman]] · [[Jamison Newlander]] · [[Brooke McCarter]]

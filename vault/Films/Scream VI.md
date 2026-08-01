@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 934433
 content_type: movie
 rating: 4.0
-watched: '2023-03-10'
+watched: '2023-03-09'
 runtime: 123
 genres:
 - Horror
@@ -76,9 +76,19 @@ providers:
 - Paramount Plus
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
+log_tags:
+- dean
+- eoghan
+- linda
+- cinema
+- lighthouse
 ---
 
 Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.
+
+> [!note]- Log
+> Watched 9 Mar 2023 · ★ 4.0
+> Tags  dean · eoghan · linda · cinema · lighthouse
 
 > [!info]- Cast & crew
 > **Director** [[Matt Bettinelli-Olpin]]

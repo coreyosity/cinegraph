@@ -56,6 +56,9 @@ providers:
 
 Lenny has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises—the last day of school.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Chris Rock]] · [[David Spade]] · [[Salma Hayek Pinault]] · [[Maya Rudolph]] · [[Maria Bello]] · [[Nick Swardson]] · [[Steve Buscemi]] · [[Colin Quinn]]

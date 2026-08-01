@@ -55,6 +55,9 @@ providers:
 
 When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.
 
+> [!note]- Log
+> Watched 5 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Peter Ramsey]]
 > **Cast** [[Chris Pine]] · [[Alec Baldwin]] · [[Jude Law]] · [[Isla Fisher]] · [[Hugh Jackman]] · [[Dakota Goyo]] · [[Isabella Blake-Thomas]] · [[Jacob Bertrand]] · [[Khamani Griffin]] · [[Kamil McFadden]]

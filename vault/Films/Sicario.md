@@ -5,7 +5,7 @@ year: 2015
 tmdb_id: 273481
 content_type: movie
 rating: 4.0
-watched: '2026-05-23'
+watched: '2026-05-22'
 runtime: 122
 genres:
 - Action
@@ -82,9 +82,17 @@ providers:
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
 - Stan
+log_tags:
+- home
+- myself
+- disney+
 ---
 
 An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
+
+> [!note]- Log
+> Watched 22 May 2026 · ★ 4.0
+> Tags  home · myself · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

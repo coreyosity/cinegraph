@@ -78,6 +78,9 @@ providers:
 
 A highly intelligent chimpanzee named Caesar has been living a peaceful suburban life ever since he was born. But when he gets taken to a cruel primate facility, Caesar decides to revolt against those who have harmed him.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Rupert Wyatt]]
 > **Cast** [[Andy Serkis]] · [[James Franco]] · [[Freida Pinto]] · [[John Lithgow]] · [[Brian Cox]] · [[Tom Felton]] · [[Tyler Labine]] · [[Karin Konoval]] · [[Terry Notary]] · [[Christopher Gordon]]

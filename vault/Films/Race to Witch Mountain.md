@@ -52,6 +52,9 @@ providers:
 
 A taxi driver gets more than he bargained for when he picks up two teen runaways. Not only does the pair possess supernatural powers, but they're also trying desperately to escape people who have made them their targets.
 
+> [!note]- Log
+> Watched 6 Sep 2024
+
 > [!info]- Cast & crew
 > **Director** [[Andy Fickman]]
 > **Cast** [[Dwayne Johnson]] · [[AnnaSophia Robb]] · [[Alexander Ludwig]] · [[Carla Gugino]] · [[Ciarán Hinds]] · [[Tom Everett Scott]] · [[Christopher Rodriguez Marquette]] · [[Billy Brown]] · [[Garry Marshall]] · [[Kim Richards]]

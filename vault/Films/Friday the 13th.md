@@ -69,6 +69,9 @@ providers:
 
 Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.
 
+> [!note]- Log
+> Watched 21 Oct 2023
+
 > [!info]- Cast & crew
 > **Director** [[Sean S. Cunningham]]
 > **Cast** [[Adrienne King]] · [[Betsy Palmer]] · [[Kevin Bacon]] · [[Jeannine Taylor]] · [[Harry Crosby]] · [[Laurie Bartram]] · [[Mark Nelson]] · [[Peter Brouwer]] · [[Robbi Morgan]] · [[Rex Everhart]]

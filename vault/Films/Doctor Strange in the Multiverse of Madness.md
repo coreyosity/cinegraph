@@ -47,6 +47,9 @@ providers:
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
 
+> [!note]- Log
+> Watched 8 May 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Sam Raimi]]
 > **Cast** [[Benedict Cumberbatch]] · [[Xochitl Gomez]] · [[Elizabeth Olsen]] · [[Chiwetel Ejiofor]] · [[Benedict Wong]] · [[Rachel McAdams]] · [[Jett Klyne]] · [[Julian Hilliard]] · [[Michael Stuhlbarg]] · [[Hayley Atwell]]

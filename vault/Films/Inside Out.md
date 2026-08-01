@@ -66,6 +66,9 @@ providers:
 
 When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Pete Docter]]
 > **Cast** [[Amy Poehler]] · [[Phyllis Smith]] · [[Richard Kind]] · [[Bill Hader]] · [[Lewis Black]] · [[Mindy Kaling]] · [[Kaitlyn Dias]] · [[Diane Lane]] · [[Kyle MacLachlan]] · [[Paula Poundstone]]

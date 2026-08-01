@@ -5,7 +5,7 @@ year: 2026
 tmdb_id: 1272837
 content_type: movie
 rating: 3.5
-watched: '2026-02-02'
+watched: '2026-01-27'
 runtime: 109
 genres:
 - Horror
@@ -54,9 +54,20 @@ providers:
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- andrew
+- eve
+- grace
+- cat
+- lighthouse
+- cinema
 ---
 
 Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.
+
+> [!note]- Log
+> Watched 27 Jan 2026 · ★ 3.5
+> Tags  andrew · eve · grace · cat · lighthouse · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Nia DaCosta]]

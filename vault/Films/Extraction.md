@@ -57,6 +57,9 @@ providers:
 
 A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Sam Hargrave]]
 > **Cast** [[Chris Hemsworth]] · [[Rudhraksh Jaiswal]] · [[Randeep Hooda]] · [[Golshifteh Farahani]] · [[Pankaj Tripathi]] · [[David Harbour]] · [[Bryon Lerum]] · [[Ryder Lerum]] · [[Shivam Vichare]] · [[Piyush Khati]]

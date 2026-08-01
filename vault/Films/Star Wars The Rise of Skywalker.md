@@ -41,6 +41,9 @@ providers:
 
 The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[J.J. Abrams]]
 > **Cast** [[Carrie Fisher]] · [[Mark Hamill]] · [[Daisy Ridley]] · [[Adam Driver]] · [[John Boyega]] · [[Oscar Isaac]] · [[Anthony Daniels]] · [[Naomi Ackie]] · [[Domhnall Gleeson]] · [[Richard E. Grant]]

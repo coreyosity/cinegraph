@@ -67,6 +67,9 @@ providers:
 
 Based on the classic novel by Orson Scott Card, Ender's Game is the story of the Earth's most gifted children training to defend their homeplanet in the space wars of the future.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gavin Hood]]
 > **Cast** [[Asa Butterfield]] · [[Hailee Steinfeld]] · [[Harrison Ford]] · [[Viola Davis]] · [[Ben Kingsley]] · [[Abigail Breslin]] · [[Aramis Knight]] · [[Moisés Arias]] · [[Nonso Anozie]] · [[Suraj Partha]]

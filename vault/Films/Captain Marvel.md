@@ -53,6 +53,9 @@ providers:
 
 The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
 
+> [!note]- Log
+> Watched 16 Oct 2022
+
 > [!info]- Cast & crew
 > **Director** [[Ryan Fleck]]
 > **Cast** [[Brie Larson]] · [[Samuel L. Jackson]] · [[Ben Mendelsohn]] · [[Jude Law]] · [[Annette Bening]] · [[Djimon Hounsou]] · [[Lee Pace]] · [[Lashana Lynch]] · [[Gemma Chan]] · [[Clark Gregg]]

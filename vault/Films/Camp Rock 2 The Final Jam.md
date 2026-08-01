@@ -49,6 +49,9 @@ providers:
 
 Mitchie can't wait to go back to Camp Rock and spend the summer making new music with her friends and superstar Shane Gray. But the slick new camp across the lake, Camp Star, has drummed up some serious competition – featuring newcomers Luke and Dana. In a sensational battle of the bands, with Camp Rock's future at stake, will Camp Star's flashy production and over-the-top antics win out, or will Camp Rockers prove that music, teamwork, and spirit are what truly matter?
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Paul Hoen]]
 > **Cast** [[Demi Lovato]] · [[Joe Jonas]] · [[Nick Jonas]] · [[Kevin Jonas]] · [[Daniel Fathers]] · [[Daniel Kash]] · [[Maria Canals-Barrera]] · [[Chloe Bridges]] · [[Matthew Finley]] · [[Meaghan Jette Martin]]

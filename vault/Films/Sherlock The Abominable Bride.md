@@ -47,6 +47,9 @@ providers:
 
 Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Douglas Mackinnon]]
 > **Cast** [[Benedict Cumberbatch]] · [[Martin Freeman]] · [[Una Stubbs]] · [[Rupert Graves]] · [[Mark Gatiss]] · [[Andrew Scott]] · [[Louise Brealey]] · [[Amanda Abbington]] · [[Jonathan Aris]] · [[Yasmine Akram]]

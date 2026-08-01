@@ -80,6 +80,9 @@ providers:
 
 Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize that the creatures that hunt by sound are not the only threats that lurk beyond the sand path.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[John Krasinski]]
 > **Cast** [[Emily Blunt]] · [[John Krasinski]] · [[Millicent Simmonds]] · [[Noah Jupe]] · [[Cillian Murphy]] · [[Djimon Hounsou]] · [[Okieriete Onaodowan]] · [[Scoot McNairy]] · [[Zachary Golinger]] · [[Blake DeLong]]

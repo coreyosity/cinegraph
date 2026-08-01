@@ -5,7 +5,7 @@ year: 2024
 tmdb_id: 974576
 content_type: movie
 rating: 3.5
-watched: '2024-11-12'
+watched: '2024-11-11'
 runtime: 120
 genres:
 - Drama
@@ -59,9 +59,18 @@ providers:
 - Starz Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+log_tags:
+- dean
+- andrew
+- cinema
+- odeon-the-point
 ---
 
 After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.
+
+> [!note]- Log
+> Watched 11 Nov 2024 · ★ 3.5
+> Tags  dean · andrew · cinema · odeon-the-point
 
 > [!info]- Cast & crew
 > **Director** [[Edward Berger]]

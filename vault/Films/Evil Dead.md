@@ -5,7 +5,7 @@ year: 2013
 tmdb_id: 109428
 content_type: movie
 rating: 3.5
-watched: '2024-08-24'
+watched: '2024-08-23'
 runtime: 91
 genres:
 - Horror
@@ -53,9 +53,18 @@ providers:
 - HBO Max
 - Starz Amazon Channel
 - Stan
+log_tags:
+- eoghan
+- david conde
+- david urdaibay
+- cinema-room
 ---
 
 Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.
+
+> [!note]- Log
+> Watched 23 Aug 2024 · ★ 3.5
+> Tags  eoghan · david conde · david urdaibay · cinema-room
 
 > [!info]- Cast & crew
 > **Director** [[Fede Álvarez]]

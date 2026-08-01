@@ -75,6 +75,9 @@ providers:
 
 True-crime writer Ellison Oswalt is in a slump; he hasn't had a best seller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film showing the deaths of a family, he vows to solve the mystery. He moves his own family into the victims' home and gets to work. However, when old film footage and other clues hint at the presence of a supernatural force, Ellison learns that living in the house may be fatal.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Scott Derrickson]]
 > **Cast** [[Ethan Hawke]] · [[Juliet Rylance]] · [[Vincent D'Onofrio]] · [[James Ransone]] · [[Fred Thompson]] · [[Clare Foley]] · [[Michael Hall D'Addario]] · [[Victoria Leigh]] · [[Blake Mizrahi]] · [[Cameron Ocasio]]

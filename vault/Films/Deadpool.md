@@ -47,6 +47,9 @@ providers:
 
 The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Tim Miller]]
 > **Cast** [[Ryan Reynolds]] · [[Morena Baccarin]] · [[Ed Skrein]] · [[T.J. Miller]] · [[Gina Carano]] · [[Leslie Uggams]] · [[Brianna Hildebrand]] · [[Stefan Kapičić]] · [[Karan Soni]] · [[Randal Reeder]]

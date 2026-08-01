@@ -55,6 +55,9 @@ providers:
 
 Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]
 > **Cast** [[Logan Lerman]] · [[Brandon T. Jackson]] · [[Alexandra Daddario]] · [[Jake Abel]] · [[Pierce Brosnan]] · [[Sean Bean]] · [[Steve Coogan]] · [[Rosario Dawson]] · [[Melina Kanakaredes]] · [[Catherine Keener]]

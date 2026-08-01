@@ -54,6 +54,9 @@ providers:
 
 Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Lasseter]]
 > **Cast** [[Larry the Cable Guy]] · [[Owen Wilson]] · [[Michael Caine]] · [[Emily Mortimer]] · [[Suzy Eddie Izzard]] · [[John Turturro]] · [[Brent Musburger]] · [[Joe Mantegna]] · [[Thomas Kretschmann]] · [[Peter Jacobson]]

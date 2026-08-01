@@ -61,6 +61,9 @@ providers:
 
 Sixteen-year-old Poppy has everything her unlimited credit cards can buy, and a spoiled attitude to match. After a final thoughtless prank, her exasperated father ships her off to boarding school in England. There, Poppy meets her match in a stern headmistress and a class full of girls who will not tolerate her selfishness.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Nick Moore]]
 > **Cast** [[Emma Roberts]] · [[Alex Pettyfer]] · [[Natasha Richardson]] · [[Kimberley Nixon]] · [[Juno Temple]] · [[Johnny Pacar]] · [[Linzey Cocker]] · [[Aidan Quinn]] · [[Georgia King]] · [[Sophie Wu]]

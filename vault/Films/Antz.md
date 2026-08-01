@@ -57,6 +57,9 @@ providers:
 
 A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.
 
+> [!note]- Log
+> Watched 5 Jan 2025
+
 > [!info]- Cast & crew
 > **Director** [[Eric Darnell]]
 > **Cast** [[Woody Allen]] · [[Sharon Stone]] · [[Dan Aykroyd]] · [[Anne Bancroft]] · [[Danny Glover]] · [[Gene Hackman]] · [[Jane Curtin]] · [[Sylvester Stallone]] · [[Jennifer Lopez]] · [[Christopher Walken]]

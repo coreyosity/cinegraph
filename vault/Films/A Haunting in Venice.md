@@ -5,7 +5,7 @@ year: 2023
 tmdb_id: 945729
 content_type: movie
 rating: 3.5
-watched: '2023-09-16'
+watched: '2023-09-15'
 runtime: 104
 genres:
 - Mystery
@@ -64,9 +64,18 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
+log_tags:
+- dean
+- cinema
+- odeon-blanch
+- imax
 ---
 
 Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile in Venice, reluctantly attends a Halloween séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.
+
+> [!note]- Log
+> Watched 15 Sep 2023 · ★ 3.5
+> Tags  dean · cinema · odeon-blanch · imax
 
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]

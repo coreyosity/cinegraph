@@ -66,6 +66,9 @@ providers:
 
 Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.
 
+> [!note]- Log
+> Watched 11 Apr 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[Ruben Fleischer]]
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Emma Stone]] · [[Abigail Breslin]] · [[Zoey Deutch]] · [[Avan Jogia]] · [[Rosario Dawson]] · [[Luke Wilson]] · [[Thomas Middleditch]] · [[Victoria Hall]]

@@ -58,6 +58,9 @@ providers:
 
 While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Harry Bradbeer]]
 > **Cast** [[Millie Bobby Brown]] · [[Henry Cavill]] · [[Sam Claflin]] · [[Helena Bonham Carter]] · [[Louis Partridge]] · [[Adeel Akhtar]] · [[Fiona Shaw]] · [[Frances de la Tour]] · [[Burn Gorman]] · [[Susan Wokoma]]

@@ -5,7 +5,7 @@ year: 2016
 tmdb_id: 334533
 content_type: movie
 rating: 4.5
-watched: '2024-06-29'
+watched: '2024-06-28'
 runtime: 119
 genres:
 - Drama
@@ -62,9 +62,17 @@ letterboxd: https://boxd.it/b2K2
 providers:
 - Sundance Now Amazon Channel
 - Lionsgate+ Amazon Channels
+log_tags:
+- myself
+- home
+- disney+
 ---
 
 Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.
+
+> [!note]- Log
+> Watched 28 Jun 2024 · ★ 4.5
+> Tags  myself · home · disney+
 
 > [!info]- Cast & crew
 > **Director** [[Matt Ross]]

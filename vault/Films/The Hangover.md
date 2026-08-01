@@ -58,6 +58,9 @@ providers:
 
 When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Todd Phillips]]
 > **Cast** [[Bradley Cooper]] · [[Ed Helms]] · [[Zach Galifianakis]] · [[Justin Bartha]] · [[Heather Graham]] · [[Sasha Barrese]] · [[Jeffrey Tambor]] · [[Ken Jeong]] · [[Rachael Harris]] · [[Mike Tyson]]

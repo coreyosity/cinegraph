@@ -81,6 +81,9 @@ providers:
 
 Annie's life is a mess. But when she finds out her lifetime best friend is engaged, she simply must serve as Lillian's maid of honor. Though lovelorn and broke, Annie bluffs her way through the expensive and bizarre rituals. With one chance to get it perfect, she’ll show Lillian and her bridesmaids just how far you’ll go for someone you love.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Paul Feig]]
 > **Cast** [[Kristen Wiig]] · [[Maya Rudolph]] · [[Rose Byrne]] · [[Chris O'Dowd]] · [[Melissa McCarthy]] · [[Wendi McLendon-Covey]] · [[Ellie Kemper]] · [[Jill Clayburgh]] · [[Matt Lucas]] · [[Rebel Wilson]]

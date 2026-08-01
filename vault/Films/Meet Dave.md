@@ -59,6 +59,9 @@ providers:
 
 A crew of miniature aliens operate a spaceship that has a human form. While trying to save their planet, the aliens encounter a new problem, as their ship becomes smitten with an Earth woman.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Brian Robbins]]
 > **Cast** [[Eddie Murphy]] · [[Elizabeth Banks]] · [[Gabrielle Union]] · [[Scott Caan]] · [[Ed Helms]] · [[Kevin Hart]] · [[Mike O'Malley]] · [[Pat Kilbane]] · [[Judah Friedlander]] · [[Marc Blucas]]

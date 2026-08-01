@@ -44,6 +44,9 @@ letterboxd: https://boxd.it/1RAi
 
 A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.
 
+> [!note]- Log
+> Watched 14 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Peter Farrelly]]
 > **Cast** [[Chris Rock]] · [[Laurence Fishburne]] · [[David Hyde Pierce]] · [[Brandy Norwood]] · [[Elena Franklin]] · [[Bill Murray]] · [[William Shatner]] · [[Ron Howard]] · [[Kid Rock]] · [[Molly Shannon]]

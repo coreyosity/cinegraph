@@ -5,7 +5,7 @@ year: 1998
 tmdb_id: 10494
 content_type: movie
 rating: 4.5
-watched: '2025-10-12'
+watched: '2025-10-10'
 runtime: 81
 genres:
 - Animation
@@ -68,9 +68,18 @@ providers:
 - YouTube TV
 - HBO Max
 - Crunchyroll Amazon Channel
+log_tags:
+- lighthouse
+- cinema
+- dean
+- andrew
 ---
 
 Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.
+
+> [!note]- Log
+> Watched 10 Oct 2025 · ★ 4.5
+> Tags  lighthouse · cinema · dean · andrew
 
 > [!info]- Cast & crew
 > **Director** [[Satoshi Kon]]

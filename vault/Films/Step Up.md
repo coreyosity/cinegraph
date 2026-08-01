@@ -56,6 +56,9 @@ providers:
 
 Delinquent Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with up-and-coming dancer Nora.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Anne Fletcher]]
 > **Cast** [[Channing Tatum]] · [[Jenna Dewan]] · [[Damaine Radcliff]] · [[Rachel Griffiths]] · [[Deirdre Lovejoy]] · [[Alyson Stoner]] · [[Drew Sidora]] · [[Josh Henderson]] · [[Heavy D]] · [[Ryan Sands]]

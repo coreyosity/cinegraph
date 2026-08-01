@@ -63,6 +63,9 @@ providers:
 
 When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jason Reitman]]
 > **Cast** [[Mckenna Grace]] · [[Finn Wolfhard]] · [[Carrie Coon]] · [[Paul Rudd]] · [[Logan Kim]] · [[Celeste O'Connor]] · [[Bill Murray]] · [[Dan Aykroyd]] · [[Ernie Hudson]] · [[Annie Potts]]

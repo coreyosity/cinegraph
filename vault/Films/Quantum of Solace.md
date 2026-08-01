@@ -5,7 +5,7 @@ year: 2008
 tmdb_id: 10764
 content_type: movie
 rating: 2.0
-watched: '2024-05-28'
+watched: '2026-02-02'
 runtime: 106
 genres:
 - Adventure
@@ -57,9 +57,17 @@ providers:
 - Crave
 - MGM Amazon Channel
 - Crave Amazon Channel
+log_tags:
+- myself
+- home
+- netflix
 ---
 
 Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.
+
+> [!note]- Log
+> Watched 2 Feb 2026 · ★ 2.0
+> Tags  myself · home · netflix
 
 > [!info]- Cast & crew
 > **Director** [[Marc Forster]]

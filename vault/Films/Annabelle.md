@@ -65,6 +65,9 @@ providers:
 
 A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John R. Leonetti]]
 > **Cast** [[Annabelle Wallis]] · [[Ward Horton]] · [[Tony Amendola]] · [[Alfre Woodard]] · [[Eric Ladin]] · [[Kerry O'Malley]] · [[Brian Howe]] · [[Ivar Brogger]] · [[Gabriel Bateman]] · [[Shiloh Nelson]]

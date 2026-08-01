@@ -54,6 +54,9 @@ providers:
 
 When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican bobsled team.
 
+> [!note]- Log
+> Watched 19 Oct 2025
+
 > [!info]- Cast & crew
 > **Director** [[Jon Turteltaub]]
 > **Cast** [[Leon]] · [[Doug E. Doug]] · [[Rawle D. Lewis]] · [[Malik Yoba]] · [[John Candy]] · [[Raymond J. Barry]] · [[Peter Outerbridge]] · [[Paul Cœur]] · [[Larry Gilman]] · [[Charles Hyatt]]

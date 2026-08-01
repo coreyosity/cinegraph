@@ -70,6 +70,9 @@ providers:
 
 Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as part of his scheme. But the unexpected bond they form forces him to question the life he's always known.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Renaud]]
 > **Cast** [[Steve Carell]] · [[Jason Segel]] · [[Russell Brand]] · [[Julie Andrews]] · [[Will Arnett]] · [[Kristen Wiig]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Elsie Fisher]] · [[Pierre Coffin]]

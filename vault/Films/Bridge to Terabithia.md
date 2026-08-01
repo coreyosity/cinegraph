@@ -59,6 +59,9 @@ providers:
 
 Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.
 
+> [!note]- Log
+> Watched 6 Sep 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gábor Csupó]]
 > **Cast** [[Josh Hutcherson]] · [[AnnaSophia Robb]] · [[Zooey Deschanel]] · [[Robert Patrick]] · [[Bailee Madison]] · [[Kate Butler]] · [[Devon Wood]] · [[Emma Fenton]] · [[Grace Brannigan]] · [[Latham Gaines]]

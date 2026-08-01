@@ -59,6 +59,9 @@ providers:
 
 A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Nicholas Stoller]]
 > **Cast** [[Seth Rogen]] · [[Zac Efron]] · [[Rose Byrne]] · [[Dave Franco]] · [[Christopher Mintz-Plasse]] · [[Jerrod Carmichael]] · [[Ike Barinholtz]] · [[Carla Gallo]] · [[Halston Sage]] · [[Craig Roberts]]

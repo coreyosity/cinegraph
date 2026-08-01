@@ -73,6 +73,9 @@ providers:
 
 In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance.
 
+> [!note]- Log
+> Watched 5 Jun 2024
+
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]
 > **Cast** [[Chris Hemsworth]] · [[Benjamin Walker]] · [[Cillian Murphy]] · [[Brendan Gleeson]] · [[Ben Whishaw]] · [[Michelle Fairley]] · [[Tom Holland]] · [[Paul Anderson]] · [[Frank Dillane]] · [[Joseph Mawle]]

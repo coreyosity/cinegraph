@@ -55,6 +55,9 @@ providers:
 
 Industrious high school senior Vee Delmonico has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Henry Joost]]
 > **Cast** [[Emma Roberts]] · [[Dave Franco]] · [[Emily Meade]] · [[Miles Heizer]] · [[Juliette Lewis]] · [[Kimiko Glenn]] · [[mgk]] · [[Marc John Jefferies]] · [[Samira Wiley]] · [[Brian Marc]]

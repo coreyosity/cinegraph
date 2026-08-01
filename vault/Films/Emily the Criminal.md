@@ -47,6 +47,9 @@ letterboxd: https://boxd.it/wBOq
 
 Desperate for income, Emily takes a shady gig buying goods with stolen credit cards supplied by a charismatic middleman named Youcef. Seduced by the quick cash and illicit thrills, they hatch a plan to take their business to the next level.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John Patton Ford]]
 > **Cast** [[Aubrey Plaza]] · [[Theo Rossi]] · [[Megalyn Echikunwoke]] · [[Gina Gershon]] · [[Jonathan Avigdori]] · [[Bernardo Badillo]] · [[Craig Stark]] · [[John Billingsley]] · [[Kim Yarbrough]] · [[Kara Luiz]]

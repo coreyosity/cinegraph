@@ -60,6 +60,9 @@ providers:
 
 For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
 
+> [!note]- Log
+> Watched 23 Aug 2024
+
 > [!info]- Cast & crew
 > **Director** [[Martin Campbell]]
 > **Cast** [[Ryan Reynolds]] · [[Blake Lively]] · [[Peter Sarsgaard]] · [[Mark Strong]] · [[Tim Robbins]] · [[Angela Bassett]] · [[Taika Waititi]] · [[Temuera Morrison]] · [[Michael Clarke Duncan]] · [[Geoffrey Rush]]

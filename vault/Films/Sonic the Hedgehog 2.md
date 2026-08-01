@@ -66,6 +66,9 @@ providers:
 
 After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Jeff Fowler]]
 > **Cast** [[Ben Schwartz]] · [[James Marsden]] · [[Tika Sumpter]] · [[Colleen O'Shaughnessey]] · [[Idris Elba]] · [[Jim Carrey]] · [[Natasha Rothwell]] · [[Adam Pally]] · [[Shemar Moore]] · [[Lee Majdoub]]

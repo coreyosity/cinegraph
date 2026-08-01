@@ -52,6 +52,9 @@ providers:
 
 Professor Barbenfouillis and five of his colleagues from the Academy of Astronomy travel to the Moon aboard a rocket propelled by a giant cannon. Once on the lunar surface, the bold explorers face the many perils hidden in the caves of the mysterious planet.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Georges Méliès]]
 > **Cast** [[Georges Méliès]] · [[Bleuette Bernon]] · [[François Lallement]] · [[Jehanne d'Alcy]] · [[Henri Delannoy]] · [[Victor André]] · [[Brunnet]] · [[Depierre]] · [[Farjaut]] · [[Kelm]]

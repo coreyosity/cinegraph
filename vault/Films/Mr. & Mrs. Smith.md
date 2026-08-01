@@ -65,6 +65,9 @@ providers:
 
 A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Doug Liman]]
 > **Cast** [[Angelina Jolie]] · [[Brad Pitt]] · [[Vince Vaughn]] · [[Adam Brody]] · [[Kerry Washington]] · [[Keith David]] · [[Chris Weitz]] · [[Rachael Huntley]] · [[Michelle Monaghan]] · [[Stephanie March]]

@@ -50,6 +50,9 @@ providers:
 
 A cliché hunchbacked evil scientist's assistant aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Tony Leondis]]
 > **Cast** [[John Cusack]] · [[Myleene Klass]] · [[Robin Walsh]] · [[Matt McKenna]] · [[John Cleese]] · [[Steve Buscemi]] · [[Sean Hayes]] · [[Suzy Eddie Izzard]] · [[Jay Leno]] · [[Jennifer Coolidge]]

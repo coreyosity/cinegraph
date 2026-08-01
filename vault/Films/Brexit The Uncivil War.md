@@ -41,6 +41,9 @@ providers:
 
 Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.
 
+> [!note]- Log
+> Watched 30 Jul 2024
+
 > [!info]- Cast & crew
 > **Director** [[Toby Haynes]]
 > **Cast** [[Benedict Cumberbatch]] · [[Rory Kinnear]] · [[John Heffernan]] · [[Oliver Maltman]] · [[Richard Goulding]] · [[Simon Paisley Day]] · [[Lee Boardman]] · [[Lucy Russell]] · [[Paul Ryan]] · [[Kyle Soller]]

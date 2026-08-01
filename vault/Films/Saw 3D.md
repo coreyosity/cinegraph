@@ -54,6 +54,9 @@ providers:
 
 As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Kevin Greutert]]
 > **Cast** [[Tobin Bell]] · [[Costas Mandylor]] · [[Betsy Russell]] · [[Cary Elwes]] · [[Sean Patrick Flanery]] · [[Chad Donella]] · [[Chester Bennington]] · [[Gina Holden]] · [[Dean Armstrong]] · [[Naomi Snieckus]]

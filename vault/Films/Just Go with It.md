@@ -74,6 +74,9 @@ providers:
 
 While romancing Palmer, a much younger schoolteacher, plastic surgeon Danny Maccabee enlists his loyal assistant Katherine to pretend to be his soon to be ex-wife, in order to cover up a careless lie. When more lies backfire, Katherine's kids become involved, and everyone heads off for a weekend in Hawaii that will change all their lives.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Dennis Dugan]]
 > **Cast** [[Adam Sandler]] · [[Jennifer Aniston]] · [[Brooklyn Decker]] · [[Nicole Kidman]] · [[Nick Swardson]] · [[Bailee Madison]] · [[Griffin Gluck]] · [[Dave Matthews]] · [[Kevin Nealon]] · [[Rachel Dratch]]

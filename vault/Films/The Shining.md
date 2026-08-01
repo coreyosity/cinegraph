@@ -100,6 +100,9 @@ providers:
 
 Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 3.5
+
 > [!info]- Cast & crew
 > **Director** [[Stanley Kubrick]]
 > **Cast** [[Jack Nicholson]] · [[Shelley Duvall]] · [[Danny Lloyd]] · [[Scatman Crothers]] · [[Barry Nelson]] · [[Philip Stone]] · [[Joe Turkel]] · [[Anne Jackson]] · [[Tony Burton]] · [[Lia Beldam]]

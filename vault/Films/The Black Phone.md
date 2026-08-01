@@ -5,7 +5,7 @@ year: 2022
 tmdb_id: 756999
 content_type: movie
 rating: 3.0
-watched: '2024-05-28'
+watched: '2024-05-26'
 runtime: 103
 genres:
 - Horror
@@ -63,9 +63,17 @@ providers:
 - Crave
 - Crave Amazon Channel
 - BINGE
+log_tags:
+- dad
+- netflix
+- wexford
 ---
 
 Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.
+
+> [!note]- Log
+> Watched 26 May 2024 · ★ 3.0
+> Tags  dad · netflix · wexford
 
 > [!info]- Cast & crew
 > **Director** [[Scott Derrickson]]

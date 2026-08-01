@@ -52,6 +52,9 @@ providers:
 
 Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.
 
+> [!note]- Log
+> Watched 5 Apr 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[Allen Coulter]]
 > **Cast** [[Robert Pattinson]] · [[Emilie de Ravin]] · [[Pierce Brosnan]] · [[Lena Olin]] · [[Chris Cooper]] · [[Ruby Jerins]] · [[Gregory Jbara]] · [[Tate Ellington]] · [[Kate Burton]] · [[Chris McKinney]]

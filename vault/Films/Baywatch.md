@@ -65,6 +65,9 @@ providers:
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
+> [!note]- Log
+> Watched 14 Oct 2024
+
 > [!info]- Cast & crew
 > **Director** [[Seth Gordon]]
 > **Cast** [[Dwayne Johnson]] · [[Zac Efron]] · [[Priyanka Chopra Jonas]] · [[Alexandra Daddario]] · [[Kelly Rohrbach Walton]] · [[Ilfenesh Hadera]] · [[Jon Bass]] · [[Yahya Abdul-Mateen II]] · [[Hannibal Buress]] · [[Rob Huebel]]

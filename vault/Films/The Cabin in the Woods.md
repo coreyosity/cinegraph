@@ -5,7 +5,7 @@ year: 2012
 tmdb_id: 22970
 content_type: movie
 rating: 2.5
-watched: '2024-05-10'
+watched: '2025-06-01'
 runtime: 95
 genres:
 - Horror
@@ -71,9 +71,18 @@ providers:
 - Crave Amazon Channel
 - Stan
 - Lionsgate+ Amazon Channels
+rewatch: true
+log_tags:
+- netflix
+- home
+- myself
 ---
 
 Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.
+
+> [!note]- Log
+> Watched 1 Jun 2025 · ★ 2.5 · Rewatch
+> Tags  netflix · home · myself
 
 > [!info]- Cast & crew
 > **Director** [[Drew Goddard]]

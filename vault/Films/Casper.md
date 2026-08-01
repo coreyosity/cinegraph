@@ -5,7 +5,7 @@ year: 1995
 tmdb_id: 8839
 content_type: movie
 rating: 2.5
-watched: '2024-05-28'
+watched: '2025-10-05'
 runtime: 100
 genres:
 - Fantasy
@@ -63,9 +63,18 @@ providers:
 - Crave Amazon Channel
 - BINGE
 - Foxtel Now
+rewatch: true
+log_tags:
+- vue
+- myself
+- cinema
 ---
 
 Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.
+
+> [!note]- Log
+> Watched 5 Oct 2025 · ★ 2.5 · Rewatch
+> Tags  vue · myself · cinema
 
 > [!info]- Cast & crew
 > **Director** [[Brad Silberling]]

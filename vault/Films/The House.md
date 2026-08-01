@@ -51,6 +51,9 @@ providers:
 
 When Scott and Kate Johansen’s daughter gets into the college of her dreams it’s cause for celebration. That is, until Scott and Kate learn that the scholarship they were counting on didn’t come through, and they’re now on the hook for tuition they can’t begin to afford. With the help of their friend and neighbor Frank also in need of a major payday they decide to open an illegal casino in his suburban house, risking everything together on a Vegas-style bacchanal where money flows, inhibitions are checked at the door, and all bets are off.
 
+> [!note]- Log
+> Watched 12 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[Andrew J. Cohen]]
 > **Cast** [[Amy Poehler]] · [[Will Ferrell]] · [[Jason Mantzoukas]] · [[Ryan Simpkins]] · [[Nick Kroll]] · [[Allison Tolman]] · [[Rob Huebel]] · [[Christina Offley]] · [[Jessie Ennis]] · [[Rory Scovel]]

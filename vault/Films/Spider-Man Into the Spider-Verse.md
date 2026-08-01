@@ -5,7 +5,7 @@ year: 2018
 tmdb_id: 324857
 content_type: movie
 rating: 5.0
-watched: '2022-03-27'
+watched: '2026-05-18'
 runtime: 117
 genres:
 - Animation
@@ -54,9 +54,22 @@ providers:
 - BINGE
 - Foxtel Now
 - Stan
+rewatch: true
+log_tags:
+- omniplex
+- cinema
+- dean
+- andrew
+- grace
+- eve
+- luke
 ---
 
 Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson "Kingpin" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.
+
+> [!note]- Log
+> Watched 18 May 2026 · ★ 5.0 · Rewatch
+> Tags  omniplex · cinema · dean · andrew · grace · eve · luke
 
 > [!info]- Cast & crew
 > **Director** [[Bob Persichetti]]

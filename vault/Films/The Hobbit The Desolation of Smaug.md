@@ -72,6 +72,9 @@ providers:
 
 The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Jackson]]
 > **Cast** [[Ian McKellen]] · [[Martin Freeman]] · [[Richard Armitage]] · [[Benedict Cumberbatch]] · [[Orlando Bloom]] · [[Evangeline Lilly]] · [[Lee Pace]] · [[Luke Evans]] · [[Stephen Fry]] · [[Ken Stott]]

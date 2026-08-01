@@ -59,6 +59,9 @@ providers:
 
 In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.
 
+> [!note]- Log
+> Watched 27 Mar 2022 · ★ 4.5
+
 > [!info]- Cast & crew
 > **Director** [[Peter Weir]]
 > **Cast** [[Jim Carrey]] · [[Laura Linney]] · [[Noah Emmerich]] · [[Natascha McElhone]] · [[Holland Taylor]] · [[Ed Harris]] · [[Paul Giamatti]] · [[Brian Delate]] · [[Peter Krause]] · [[Blair Slater]]

@@ -5,7 +5,7 @@ year: 2014
 tmdb_id: 220289
 content_type: movie
 rating: 3.5
-watched: '2026-05-18'
+watched: '2026-05-17'
 runtime: 89
 genres:
 - Thriller
@@ -66,9 +66,17 @@ providers:
 - Cineverse Amazon Channel
 - AMC+ Amazon Channel
 - Beamafilm
+log_tags:
+- home
+- myself
+- prime
 ---
 
 Four couples gather for dinner the night a mysterious and powerful comet passes overhead.
+
+> [!note]- Log
+> Watched 17 May 2026 · ★ 3.5
+> Tags  home · myself · prime
 
 > [!info]- Cast & crew
 > **Director** [[James Ward Byrkit]]

@@ -46,6 +46,9 @@ providers:
 
 20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Farrelly]]
 > **Cast** [[Jim Carrey]] · [[Jeff Daniels]] · [[Laurie Holden]] · [[Rachel Melvin]] · [[Kathleen Turner]] · [[Rob Riggle]] · [[Tembi Locke]] · [[Paul Blackthorne]] · [[Brady Bluhm]] · [[Patricia French]]

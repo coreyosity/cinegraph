@@ -67,6 +67,9 @@ providers:
 
 Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]
 > **Cast** [[Bruce Willis]] · [[Haley Joel Osment]] · [[Toni Collette]] · [[Olivia Williams]] · [[Trevor Morgan]] · [[Donnie Wahlberg]] · [[Peter Anthony Tambakis]] · [[Jeffrey Zubernis]] · [[Bruce Norris]] · [[Glenn Fitzgerald]]

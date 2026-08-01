@@ -41,6 +41,9 @@ providers:
 
 This special explores the return of Obi-Wan Kenobi and Anakin Skywalker to the screen, as well as Ewan McGregor and Hayden Christensen to their classic roles. Director Deborah Chow leads the cast and crew as they create new heroes and villains that live alongside new incarnations of beloved Star Wars characters, and an epic story that dramatically bridges the saga films.
 
+> [!note]- Log
+> Watched 18 Jun 2022 · ★ 4.0
+
 > [!info]- Cast & crew
 > **Director** [[David Gelb]]
 > **Cast** [[Ewan McGregor]] · [[Hayden Christensen]] · [[Deborah Chow]] · [[Moses Ingram]] · [[Vivien Lyra Blair]] · [[Joby Harold]] · [[Rupert Friend]] · [[Joel Edgerton]] · [[Bonnie Piesse]] · [[Zach Braff]]

@@ -5,7 +5,7 @@ year: 1981
 tmdb_id: 8810
 content_type: movie
 rating: 3.0
-watched: '2024-05-25'
+watched: '2024-05-23'
 runtime: 96
 genres:
 - Action
@@ -77,9 +77,17 @@ providers:
 - HBO Max
 - Crave
 - Crave Amazon Channel
+log_tags:
+- myself
+- prime
+- home
 ---
 
 Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.
+
+> [!note]- Log
+> Watched 23 May 2024 · ★ 3.0
+> Tags  myself · prime · home
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

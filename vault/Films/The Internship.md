@@ -5,7 +5,7 @@ year: 2013
 tmdb_id: 116741
 content_type: movie
 rating: 3.0
-watched: '2024-05-28'
+watched: '2025-05-14'
 runtime: 119
 genres:
 - Comedy
@@ -82,9 +82,18 @@ providers:
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Stan
+rewatch: true
+log_tags:
+- netflix
+- dean
+- andrew
 ---
 
 Two recently laid-off men in their 40s try to make it as interns at a successful Internet company where their managers are in their 20s.
+
+> [!note]- Log
+> Watched 14 May 2025 · ★ 3.0 · Rewatch
+> Tags  netflix · dean · andrew
 
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]

@@ -72,6 +72,9 @@ providers:
 
 Capitol Policeman John Cale has just been denied his dream job with the Secret Service protecting President James Sawyer. Not wanting to let down his little girl with the news, he takes her on a tour of the White House, when the complex is overtaken by a heavily armed paramilitary group. Now, with the nation's government falling into chaos and time running out, it's up to Cale to save the president, his daughter, and the country.
 
+> [!note]- Log
+> Watched 3 Mar 2025
+
 > [!info]- Cast & crew
 > **Director** [[Roland Emmerich]]
 > **Cast** [[Channing Tatum]] · [[Jamie Foxx]] · [[Maggie Gyllenhaal]] · [[Jason Clarke]] · [[Richard Jenkins]] · [[Joey King]] · [[James Woods]] · [[Nicolas Wright]] · [[Jimmi Simpson]] · [[Michael Murphy]]

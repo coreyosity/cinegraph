@@ -56,6 +56,9 @@ providers:
 
 A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.
 
+> [!note]- Log
+> Watched 11 Apr 2022
+
 > [!info]- Cast & crew
 > **Director** [[Adrian Lyne]]
 > **Cast** [[Ben Affleck]] · [[Ana de Armas]] · [[Tracy Letts]] · [[Lil Rel Howery]] · [[Dash Mihok]] · [[Finn Wittrock]] · [[Kristen Connolly]] · [[Jacob Elordi]] · [[Rachel Blanchard]] · [[Michael Braun]]

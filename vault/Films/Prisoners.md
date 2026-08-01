@@ -64,6 +64,9 @@ providers:
 
 After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.
 
+> [!note]- Log
+> Watched 3 May 2023 · ★ 5.0
+
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]
 > **Cast** [[Hugh Jackman]] · [[Jake Gyllenhaal]] · [[Viola Davis]] · [[Maria Bello]] · [[Terrence Howard]] · [[Melissa Leo]] · [[Paul Dano]] · [[Dylan Minnette]] · [[Zoë Soul]] · [[Erin Gerasimovich]]

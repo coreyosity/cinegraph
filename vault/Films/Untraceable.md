@@ -58,6 +58,9 @@ providers:
 
 Special Agent Jennifer Marsh works in an elite division of the FBI dedicated to fighting cybercrime. She thinks she has seen it all, until a particularly sadistic criminal arises on the Internet. This tech-savvy killer posts live feeds of his crimes on his website; the more hits the site gets, the faster the victim dies. Marsh and her team must find the elusive killer before time runs out.
 
+> [!note]- Log
+> Watched 7 Jul 2022 · ★ 3.0
+
 > [!info]- Cast & crew
 > **Director** [[Gregory Hoblit]]
 > **Cast** [[Diane Lane]] · [[Billy Burke]] · [[Colin Hanks]] · [[Joseph Cross]] · [[Mary Beth Hurt]] · [[Peter Gray Lewis]] · [[Perla Haney-Jardine]] · [[Christopher Cousins]] · [[Jesse Tyler Ferguson]] · [[Brynn Baron]]

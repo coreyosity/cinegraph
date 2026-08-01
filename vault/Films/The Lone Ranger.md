@@ -53,6 +53,9 @@ providers:
 
 The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the gang ambushes the Rangers, seemingly killing them all. One survivor is found, however, by an American Indian named Tonto, who nurses him back to health. The Ranger, donning a mask and riding a white stallion named Silver, teams up with Tonto to bring the unscrupulous gang and others of that ilk to justice.
 
+> [!note]- Log
+> Watched 15 Dec 2025
+
 > [!info]- Cast & crew
 > **Director** [[Gore Verbinski]]
 > **Cast** [[Johnny Depp]] · [[Armie Hammer]] · [[Tom Wilkinson]] · [[William Fichtner]] · [[Helena Bonham Carter]] · [[Barry Pepper]] · [[James Badge Dale]] · [[Ruth Wilson]] · [[Leon Rippy]] · [[Stephen Root]]

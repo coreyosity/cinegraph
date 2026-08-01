@@ -68,6 +68,9 @@ providers:
 
 Three fanatical bird-watchers spend an entire year competing to spot the highest number of species as El Nino sends an extraordinary variety of rare breeds flying up into the U.S., but they quickly discover that there are more important things than coming out on top of the competition.
 
+> [!note]- Log
+> Watched 23 Nov 2025
+
 > [!info]- Cast & crew
 > **Director** [[David Frankel]]
 > **Cast** [[Steve Martin]] · [[Jack Black]] · [[Owen Wilson]] · [[Brian Dennehy]] · [[Anjelica Huston]] · [[Rashida Jones]] · [[Rosamund Pike]] · [[Dianne Wiest]] · [[JoBeth Williams]] · [[Anthony Anderson]]

@@ -57,6 +57,9 @@ providers:
 
 Greg is coasting through senior year of high school as anonymously as possible, avoiding social interactions like the plague while secretly making spirited, bizarre films with Earl, his only friend. But both his anonymity and friendship threaten to unravel when his mother forces him to befriend a classmate with leukemia.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Alfonso Gomez-Rejon]]
 > **Cast** [[Olivia Cooke]] · [[Thomas Mann]] · [[RJ Cyler]] · [[Connie Britton]] · [[Nick Offerman]] · [[Molly Shannon]] · [[Jon Bernthal]] · [[Chelsea Zhang]] · [[Masam Holden]] · [[Katherine Hughes]]

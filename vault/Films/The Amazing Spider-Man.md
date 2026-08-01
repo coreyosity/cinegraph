@@ -71,6 +71,9 @@ providers:
 
 A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Marc Webb]]
 > **Cast** [[Andrew Garfield]] · [[Emma Stone]] · [[Rhys Ifans]] · [[Denis Leary]] · [[Martin Sheen]] · [[Sally Field]] · [[Irrfan Khan]] · [[Campbell Scott]] · [[Embeth Davidtz]] · [[Chris Zylka]]

@@ -59,6 +59,9 @@ providers:
 
 Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Gary Trousdale]]
 > **Cast** [[Paige O'Hara]] · [[Robby Benson]] · [[Richard White]] · [[Jerry Orbach]] · [[David Ogden Stiers]] · [[Angela Lansbury]] · [[Rex Everhart]] · [[Jesse Corti]] · [[Bradley Pierce]] · [[Hal Smith]]

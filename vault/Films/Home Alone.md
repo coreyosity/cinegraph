@@ -62,6 +62,9 @@ providers:
 
 Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]
 > **Cast** [[Macaulay Culkin]] · [[Joe Pesci]] · [[Daniel Stern]] · [[John Heard]] · [[Roberts Blossom]] · [[Catherine O'Hara]] · [[Angela Goethals]] · [[Devin Ratray]] · [[Gerry Bamman]] · [[Hillary Wolf]]

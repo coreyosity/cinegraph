@@ -71,6 +71,9 @@ providers:
 
 High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[John McTiernan]]
 > **Cast** [[Bruce Willis]] · [[Alan Rickman]] · [[Alexander Godunov]] · [[Bonnie Bedelia]] · [[Reginald VelJohnson]] · [[Paul Gleason]] · [[De'voreaux White]] · [[William Atherton]] · [[Hart Bochner]] · [[James Shigeta]]

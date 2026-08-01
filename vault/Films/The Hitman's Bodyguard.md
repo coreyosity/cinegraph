@@ -72,6 +72,9 @@ providers:
 
 The world’s top bodyguard gets a new client, a hitman who must testify at the International Court of Justice. They must put their differences aside and work together to make it to the trial on time.
 
+> [!note]- Log
+> Watched 28 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Patrick Hughes]]
 > **Cast** [[Ryan Reynolds]] · [[Samuel L. Jackson]] · [[Gary Oldman]] · [[Salma Hayek Pinault]] · [[Élodie Yung]] · [[Richard E. Grant]] · [[Joaquim de Almeida]] · [[Kirsty Mitchell]] · [[Yuri Kolokolnikov]] · [[Sam Hazeldine]]

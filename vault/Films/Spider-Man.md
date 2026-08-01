@@ -68,6 +68,9 @@ providers:
 
 After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.
 
+> [!note]- Log
+> Watched 3 May 2023
+
 > [!info]- Cast & crew
 > **Director** [[Sam Raimi]]
 > **Cast** [[Tobey Maguire]] · [[Willem Dafoe]] · [[Kirsten Dunst]] · [[James Franco]] · [[Cliff Robertson]] · [[Rosemary Harris]] · [[J.K. Simmons]] · [[Joe Manganiello]] · [[Gerry Becker]] · [[Bill Nunn]]

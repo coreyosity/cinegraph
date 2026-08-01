@@ -68,6 +68,9 @@ providers:
 
 When mankind beams a radio signal into space, a reply comes from ‘Planet G’, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fiancée's father—an Admiral—expect of him.
 
+> [!note]- Log
+> Watched 30 Dec 2024
+
 > [!info]- Cast & crew
 > **Director** [[Peter Berg]]
 > **Cast** [[Taylor Kitsch]] · [[Alexander Skarsgård]] · [[Rihanna]] · [[Brooklyn Decker]] · [[Tadanobu Asano]] · [[Hamish Linklater]] · [[Liam Neeson]] · [[Peter MacNicol]] · [[John Tui]] · [[Jesse Plemons]]

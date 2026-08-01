@@ -68,6 +68,9 @@ providers:
 
 Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.
 
+> [!note]- Log
+> Watched 10 May 2024
+
 > [!info]- Cast & crew
 > **Director** [[Eric Darnell]]
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Sacha Baron Cohen]] · [[Cedric the Entertainer]] · [[Andy Richter]] · [[Tom McGrath]] · [[Christopher Knights]] · [[Chris Miller]]

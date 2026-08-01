@@ -47,6 +47,9 @@ letterboxd: https://boxd.it/kTDG
 
 In 1984, a young programmer begins to question reality as he adapts a dark fantasy novel into a video game. A mind-bending tale with multiple endings.
 
+> [!note]- Log
+> Watched 15 Apr 2025
+
 > [!info]- Cast & crew
 > **Director** [[David Slade]]
 > **Cast** [[Fionn Whitehead]] · [[Craig Parkinson]] · [[Alice Lowe]] · [[Asim Chaudhry]] · [[Will Poulter]] · [[Tallulah Haddon]] · [[Catriona Knox]] · [[Paul Bradley]] · [[Jonathan Aris]] · [[A.J. Houghton]]
