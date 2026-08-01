@@ -69,7 +69,7 @@ While scavenging the deep ends of a derelict space station, a group of young spa
 
 > [!note]- Log
 > Watched 21 Aug 2024 · ★ 3.5
-> Tags  eoghan · david conde · david urdaibay · cineworld · cinema
+> Tags  [[eoghan]] · [[david conde]] · [[david urdaibay]] · [[cineworld]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Fede Álvarez]]

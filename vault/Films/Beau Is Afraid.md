@@ -84,7 +84,7 @@ Following the sudden death of his mother, a mild-mannered but anxiety-ridden man
 
 > [!note]- Log
 > Watched 7 Jun 2023 · ★ 4.0
-> Tags  dean · cinema · odeon-blanch
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Ari Aster]]

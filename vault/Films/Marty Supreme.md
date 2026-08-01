@@ -63,7 +63,7 @@ Marty Mauser, a young man with a dream no one respects, goes to hell and back in
 
 > [!note]- Log
 > Watched 16 Jan 2026 · ★ 5.0
-> Tags  lighthouse · cinema · conor
+> Tags  [[lighthouse]] · [[cinema]] · [[conor]]
 
 > [!info]- Cast & crew
 > **Director** [[Josh Safdie]]

@@ -63,7 +63,7 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 
 > [!note]- Log
 > Watched 7 Apr 2024 · ★ 2.5
-> Tags  andrew · cinema · odeon-blanch · imax · 3d
+> Tags  [[andrew]] · [[cinema]] · [[odeon-blanch]] · [[imax]] · [[3d]]
 
 > [!info]- Cast & crew
 > **Director** [[Adam Wingard]]

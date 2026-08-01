@@ -74,7 +74,7 @@ A loyal dog moves to a rural family home with his owner Todd, only to discover s
 
 > [!note]- Log
 > Watched 6 Oct 2025 · ★ 2.0
-> Tags  dean · andrew · eve · luke · grace · cinema · odeon-the-point
+> Tags  [[dean]] · [[andrew]] · [[eve]] · [[luke]] · [[grace]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Ben Leonberg]]

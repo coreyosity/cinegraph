@@ -63,7 +63,7 @@ Inspired by a true story, an oddball group of cops, criminals, tourists and teen
 
 > [!note]- Log
 > Watched 26 Feb 2023 · ★ 2.5
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Elizabeth Banks]]

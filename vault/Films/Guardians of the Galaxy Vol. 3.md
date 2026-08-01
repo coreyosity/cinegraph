@@ -64,7 +64,7 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 
 > [!note]- Log
 > Watched 12 May 2023 · ★ 4.0
-> Tags  dean · eoghan · linda · cinema · vue · chris
+> Tags  [[dean]] · [[eoghan]] · [[linda]] · [[cinema]] · [[vue]] · [[chris]]
 
 > [!info]- Cast & crew
 > **Director** [[James Gunn]]

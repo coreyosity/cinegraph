@@ -159,7 +159,7 @@ About to embark on a new world tour, global pop sensation Skye Riley begins expe
 
 > [!note]- Log
 > Watched 5 Nov 2024 · ★ 3.0
-> Tags  andrew · dean · cinema · odeon-the-point
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Parker Finn]]

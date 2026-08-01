@@ -62,7 +62,7 @@ Twenty-eight days after a killer virus was accidentally unleashed from a British
 
 > [!note]- Log
 > Watched 21 May 2024 · ★ 4.0
-> Tags  myself · odeon-blanch · cinema
+> Tags  [[myself]] · [[odeon-blanch]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Danny Boyle]]

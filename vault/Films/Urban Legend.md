@@ -50,7 +50,7 @@ A college campus is plagued by a vicious serial killer murdering students in way
 
 > [!note]- Log
 > Watched 15 Jun 2025 · ★ 3.0
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Jamie Blanks]]

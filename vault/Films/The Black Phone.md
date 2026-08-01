@@ -73,7 +73,7 @@ Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer
 
 > [!note]- Log
 > Watched 26 May 2024 · ★ 3.0
-> Tags  dad · netflix · wexford
+> Tags  [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Scott Derrickson]]

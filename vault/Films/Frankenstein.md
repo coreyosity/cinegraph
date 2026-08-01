@@ -64,7 +64,7 @@ Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creatur
 
 > [!note]- Log
 > Watched 25 Oct 2025 · ★ 3.5
-> Tags  cinema · the square · conor
+> Tags  [[cinema]] · [[the square]] · [[conor]]
 
 > [!info]- Cast & crew
 > **Director** [[Guillermo del Toro]]

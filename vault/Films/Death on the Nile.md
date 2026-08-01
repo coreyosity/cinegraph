@@ -66,7 +66,7 @@ Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steam
 
 > [!note]- Log
 > Watched 17 Sep 2023 · ★ 2.5
-> Tags  myself · home · disney+
+> Tags  [[myself]] · [[home]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]

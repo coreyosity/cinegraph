@@ -64,7 +64,7 @@ Two colleagues become stranded on a deserted island, the only survivors of a pla
 
 > [!note]- Log
 > Watched 7 Feb 2026 · ★ 4.0
-> Tags  cinema · dean · andrew · odeon-the-point · grace · eve
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-the-point]] · [[grace]] · [[eve]]
 
 > [!info]- Cast & crew
 > **Director** [[Sam Raimi]]

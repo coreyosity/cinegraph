@@ -72,7 +72,7 @@ When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the R
 
 > [!note]- Log
 > Watched 26 Apr 2025 · ★ 3.5
-> Tags  cinema · eve · grace · lighthouse
+> Tags  [[cinema]] · [[eve]] · [[grace]] · [[lighthouse]]
 
 > [!info]- Cast & crew
 > **Director** [[George Lucas]]

@@ -62,7 +62,7 @@ After receiving an unexpected call from her wayfinding ancestors, Moana journeys
 
 > [!note]- Log
 > Watched 14 Dec 2024 · ★ 1.5
-> Tags  andrew · cinema · odeon-the-point
+> Tags  [[andrew]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[David G. Derrick Jr]]

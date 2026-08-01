@@ -61,7 +61,7 @@ Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day.
 
 > [!note]- Log
 > Watched 31 Oct 2024 · ★ 3.0
-> Tags  andrew · dean · cat · cinema-room · netflix
+> Tags  [[andrew]] · [[dean]] · [[cat]] · [[cinema-room]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Patrick Brice]]

@@ -75,7 +75,7 @@ Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile i
 
 > [!note]- Log
 > Watched 15 Sep 2023 · ★ 3.5
-> Tags  dean · cinema · odeon-blanch · imax
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]] · [[imax]]
 
 > [!info]- Cast & crew
 > **Director** [[Kenneth Branagh]]

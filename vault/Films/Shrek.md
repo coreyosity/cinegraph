@@ -95,7 +95,7 @@ It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre
 
 > [!note]- Log
 > Watched 1 Jan 2025 · ★ 4.0 · Rewatch
-> Tags  caleb · tg4 · irish · wexford
+> Tags  [[caleb]] · [[tg4]] · [[irish]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Andrew Adamson]]

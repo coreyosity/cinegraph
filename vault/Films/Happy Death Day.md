@@ -62,7 +62,7 @@ Caught in a bizarre and terrifying time warp, college student Tree finds herself
 
 > [!note]- Log
 > Watched 2 Jun 2024 · ★ 2.0
-> Tags  andrew · dean · home · netflix
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Landon]]

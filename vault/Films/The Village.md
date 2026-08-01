@@ -60,7 +60,7 @@ When a willful young man tries to venture beyond his sequestered Pennsylvania ha
 
 > [!note]- Log
 > Watched 20 Mar 2025 · ★ 3.5
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

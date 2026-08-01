@@ -71,7 +71,7 @@ While staying at an isolated island resort, James and Em are enjoying a perfect 
 
 > [!note]- Log
 > Watched 1 May 2023 · ★ 4.5
-> Tags  dean · cinema · odeon-blanch
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Brandon Cronenberg]]

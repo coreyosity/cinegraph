@@ -78,7 +78,7 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 
 > [!note]- Log
 > Watched 14 Jul 2025 · ★ 4.0
-> Tags  odeon-the-point · cinema · dean · andrew · grace
+> Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]]
 
 > [!info]- Cast & crew
 > **Director** [[James Gunn]]

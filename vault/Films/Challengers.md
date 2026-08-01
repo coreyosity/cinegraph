@@ -79,7 +79,7 @@ Tennis player turned coach Tashi has taken her husband, Art, and transformed him
 
 > [!note]- Log
 > Watched 28 Apr 2024 · ★ 3.5
-> Tags  dean · andrew · cinema · odeon-blanch
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Luca Guadagnino]]

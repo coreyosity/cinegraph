@@ -47,7 +47,7 @@ Stan is a sailor whose girl gets kidnapped by a rough sea captain. Stan dresses 
 
 > [!note]- Log
 > Watched 14 Jan 2024
-> Tags  dean · andrew · torrent · home
+> Tags  [[dean]] · [[andrew]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Fred Guiol]]

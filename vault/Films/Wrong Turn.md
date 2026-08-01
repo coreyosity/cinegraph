@@ -66,7 +66,7 @@ Chris crashes into a carload of other young people, and the group of stranded mo
 
 > [!note]- Log
 > Watched 19 Nov 2023 · ★ 2.5
-> Tags  andrew · home · torrent
+> Tags  [[andrew]] · [[home]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Rob Schmidt]]

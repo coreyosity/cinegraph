@@ -76,7 +76,7 @@ When fate brings Belfast teacher JJ into the orbit of self-confessed "low life s
 
 > [!note]- Log
 > Watched 23 Dec 2024 · ★ 4.0 · Rewatch
-> Tags  dad · caleb · prime · wexford
+> Tags  [[dad]] · [[caleb]] · [[prime]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Rich Peppiatt]]

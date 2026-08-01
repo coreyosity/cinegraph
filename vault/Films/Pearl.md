@@ -78,7 +78,7 @@ Trapped on her family’s isolated farm, Pearl must tend to her ailing father un
 
 > [!note]- Log
 > Watched 9 Dec 2025 · ★ 3.0
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

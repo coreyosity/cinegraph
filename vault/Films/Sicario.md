@@ -92,7 +92,7 @@ An idealistic FBI agent is enlisted by a government task force to aid in the esc
 
 > [!note]- Log
 > Watched 22 May 2026 · ★ 4.0
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

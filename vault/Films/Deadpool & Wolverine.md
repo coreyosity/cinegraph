@@ -64,7 +64,7 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 
 > [!note]- Log
 > Watched 25 Jul 2024 · ★ 3.0
-> Tags  andrew · dean · cinema · isense · odeon-the-point
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[isense]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]

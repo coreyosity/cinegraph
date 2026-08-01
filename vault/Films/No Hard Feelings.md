@@ -73,7 +73,7 @@ On the brink of losing her childhood home, Maddie discovers an intriguing job li
 
 > [!note]- Log
 > Watched 19 Jun 2023 · ★ 3.5
-> Tags  dean · cinema · odeon-blanch
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Gene Stupnitsky]]

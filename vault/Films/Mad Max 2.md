@@ -87,7 +87,7 @@ Max Rockatansky returns as the heroic loner who drives the dusty roads of a post
 
 > [!note]- Log
 > Watched 23 May 2024 · ★ 3.0
-> Tags  myself · prime · home
+> Tags  [[myself]] · [[prime]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

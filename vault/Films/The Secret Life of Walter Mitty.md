@@ -69,7 +69,7 @@ A timid magazine photo manager who lives life vicariously through daydreams emba
 
 > [!note]- Log
 > Watched 5 Oct 2024 · ★ 4.0
-> Tags  myself · home · disney+
+> Tags  [[myself]] · [[home]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Ben Stiller]]

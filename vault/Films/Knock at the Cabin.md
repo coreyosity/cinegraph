@@ -67,7 +67,7 @@ While vacationing at a remote cabin, a young girl and her two fathers are taken 
 
 > [!note]- Log
 > Watched 10 Feb 2023 · ★ 4.0
-> Tags  eoghan · cinema · cineworld
+> Tags  [[eoghan]] · [[cinema]] · [[cineworld]]
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

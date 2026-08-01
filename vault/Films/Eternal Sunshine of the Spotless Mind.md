@@ -72,7 +72,7 @@ Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him 
 
 > [!note]- Log
 > Watched 8 Mar 2024 · ★ 4.0 · Rewatch
-> Tags  dean · andrew · home · netflix
+> Tags  [[dean]] · [[andrew]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Michel Gondry]]

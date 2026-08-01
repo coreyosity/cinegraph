@@ -70,7 +70,7 @@ Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, 
 
 > [!note]- Log
 > Watched 23 Jul 2026 · ★ 3.0 · Rewatch
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Matthew Vaughn]]

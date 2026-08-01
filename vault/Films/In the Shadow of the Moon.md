@@ -60,7 +60,7 @@ In 1988, Philadelphia police officer Thomas "Locke" Lockhart, hungry to become a
 
 > [!note]- Log
 > Watched 27 May 2024 · ★ 1.0
-> Tags  dad · wexford · netflix
+> Tags  [[dad]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Jim Mickle]]

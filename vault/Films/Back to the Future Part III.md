@@ -75,7 +75,7 @@ The final installment finds Marty digging the trusty DeLorean out of a mineshaft
 
 > [!note]- Log
 > Watched 7 Dec 2025 · ★ 3.5
-> Tags  home · myself · netflix
+> Tags  [[home]] · [[myself]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

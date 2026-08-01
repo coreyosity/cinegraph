@@ -59,7 +59,7 @@ Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites
 
 > [!note]- Log
 > Watched 24 Apr 2026
-> Tags  cinema · dean · andrew · grace · lighthouse
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[lighthouse]]
 
 > [!info]- Cast & crew
 > **Director** [[David Lowery]]

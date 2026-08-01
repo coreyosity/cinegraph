@@ -77,7 +77,7 @@ A young witch, on her mandatory year of independent life, finds fitting into a n
 
 > [!note]- Log
 > Watched 10 Apr 2025 · ★ 4.5
-> Tags  dean · andrew · cinema-room · netflix · grace · eve
+> Tags  [[dean]] · [[andrew]] · [[cinema-room]] · [[netflix]] · [[grace]] · [[eve]]
 
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]

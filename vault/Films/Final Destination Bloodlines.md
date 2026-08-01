@@ -71,7 +71,7 @@ Plagued by a violent recurring nightmare, college student Stefanie heads home to
 
 > [!note]- Log
 > Watched 18 May 2025 · ★ 3.0
-> Tags  odeon-the-point · andrew · dean
+> Tags  [[odeon-the-point]] · [[andrew]] · [[dean]]
 
 > [!info]- Cast & crew
 > **Director** [[Adam Stein]]

@@ -89,7 +89,7 @@ Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a m
 
 > [!note]- Log
 > Watched 5 Jan 2025 · ★ 3.0
-> Tags  andrew · dean · cinema · cat · grace · 4dx · eve · eoin · cineworld
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[cat]] · [[grace]] · [[4dx]] · [[eve]] · [[eoin]] · [[cineworld]]
 
 > [!info]- Cast & crew
 > **Director** [[Jeff Fowler]]

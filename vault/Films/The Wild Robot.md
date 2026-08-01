@@ -79,7 +79,7 @@ After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited
 
 > [!note]- Log
 > Watched 8 Mar 2025 · ★ 4.5
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Chris Sanders]]

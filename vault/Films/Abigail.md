@@ -65,7 +65,7 @@ A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious
 
 > [!note]- Log
 > Watched 20 Apr 2024 · ★ 3.5
-> Tags  andrew · dean · cinema · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Tyler Gillett]]

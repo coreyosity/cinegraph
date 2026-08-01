@@ -80,7 +80,7 @@ In the near future, a group of war journalists attempt to survive while reportin
 
 > [!note]- Log
 > Watched 27 Apr 2024 · ★ 4.0
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Alex Garland]]

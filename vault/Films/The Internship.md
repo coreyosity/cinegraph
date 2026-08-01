@@ -93,7 +93,7 @@ Two recently laid-off men in their 40s try to make it as interns at a successful
 
 > [!note]- Log
 > Watched 14 May 2025 · ★ 3.0 · Rewatch
-> Tags  netflix · dean · andrew
+> Tags  [[netflix]] · [[dean]] · [[andrew]]
 
 > [!info]- Cast & crew
 > **Director** [[Shawn Levy]]

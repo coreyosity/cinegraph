@@ -53,7 +53,7 @@ When the Pevensie siblings each follow their own path, they find themselves at W
 
 > [!note]- Log
 > Watched 25 Jan 2025 · ★ 1.0
-> Tags  prime · dean · home
+> Tags  [[prime]] · [[dean]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Jason Friedberg]]

@@ -59,7 +59,7 @@ After being laid off and humiliated by a ruthless job market, a veteran paper mi
 
 > [!note]- Log
 > Watched 3 Feb 2026 · ★ 4.0
-> Tags  cinema · conor · ifi
+> Tags  [[cinema]] · [[conor]] · [[ifi]]
 
 > [!info]- Cast & crew
 > **Director** [[Park Chan-wook]]

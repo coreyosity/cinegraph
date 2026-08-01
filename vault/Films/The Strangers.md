@@ -60,7 +60,7 @@ After a 4 a.m. knock at the door and haunting voices, Kristen McKay and James Ho
 
 > [!note]- Log
 > Watched 17 May 2024 · ★ 2.5 · Rewatch
-> Tags  dean · torrent · home
+> Tags  [[dean]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Bryan Bertino]]

@@ -85,7 +85,7 @@ A fading celebrity decides to use a black market drug, a cell-replicating substa
 
 > [!note]- Log
 > Watched 9 Sep 2024 · ★ 4.5 · Rewatch
-> Tags  dean · andrew · cinema · scream-unseen · preview
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[scream-unseen]] · [[preview]]
 
 > [!info]- Cast & crew
 > **Director** [[Coralie Fargeat]]

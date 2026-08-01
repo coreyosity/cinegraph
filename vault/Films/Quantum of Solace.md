@@ -67,7 +67,7 @@ Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest m
 
 > [!note]- Log
 > Watched 2 Feb 2026 · ★ 2.0
-> Tags  myself · home · netflix
+> Tags  [[myself]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Marc Forster]]

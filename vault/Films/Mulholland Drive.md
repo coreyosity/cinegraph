@@ -79,7 +79,7 @@ Blonde Betty Elms has only just arrived in Hollywood to become a movie star when
 
 > [!note]- Log
 > Watched 13 May 2026 · ★ 4.0
-> Tags  myself · home
+> Tags  [[myself]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[David Lynch]]

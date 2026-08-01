@@ -78,7 +78,7 @@ After the underlying tech for M3GAN is stolen and misused by a powerful defense 
 
 > [!note]- Log
 > Watched 29 Jun 2025 · ★ 2.5
-> Tags  odeon-the-point · grace · eve · dean · andrew · cinema
+> Tags  [[odeon-the-point]] · [[grace]] · [[eve]] · [[dean]] · [[andrew]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Gerard Johnstone]]

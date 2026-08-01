@@ -68,7 +68,7 @@ A father and teen daughter attend a pop concert, where they realize they're at t
 
 > [!note]- Log
 > Watched 27 Jul 2025 · ★ 2.5
-> Tags  netflix · dad · wexford
+> Tags  [[netflix]] · [[dad]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[M. Night Shyamalan]]

@@ -64,7 +64,7 @@ Mia, a drug addict, is determined to kick the habit. To that end, she asks her b
 
 > [!note]- Log
 > Watched 23 Aug 2024 · ★ 3.5
-> Tags  eoghan · david conde · david urdaibay · cinema-room
+> Tags  [[eoghan]] · [[david conde]] · [[david urdaibay]] · [[cinema-room]]
 
 > [!info]- Cast & crew
 > **Director** [[Fede Álvarez]]

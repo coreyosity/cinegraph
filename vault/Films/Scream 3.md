@@ -76,7 +76,7 @@ As bodies begin dropping around the Hollywood set of STAB 3, the third film base
 
 > [!note]- Log
 > Watched 7 Mar 2023 · ★ 3.5
-> Tags  dean · chris · linda · torrent · home
+> Tags  [[dean]] · [[chris]] · [[linda]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

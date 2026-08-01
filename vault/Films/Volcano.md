@@ -68,7 +68,7 @@ An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep i
 
 > [!note]- Log
 > Watched 19 Aug 2024
-> Tags  andrew · dean · home · prime
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Mick Jackson]]

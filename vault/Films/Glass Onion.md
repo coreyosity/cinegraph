@@ -66,7 +66,7 @@ World-famous detective Benoit Blanc heads to Greece to peel back the layers of a
 
 > [!note]- Log
 > Watched 14 Jan 2023 · ★ 4.0
-> Tags  caleb · mam · dad · netflix · wexford
+> Tags  [[caleb]] · [[mam]] · [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]

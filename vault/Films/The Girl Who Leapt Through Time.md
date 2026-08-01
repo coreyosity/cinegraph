@@ -73,7 +73,7 @@ When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time
 
 > [!note]- Log
 > Watched 8 Jul 2025 · ★ 4.0
-> Tags  dean · cinema · andrew · lighthouse · grace · eve
+> Tags  [[dean]] · [[cinema]] · [[andrew]] · [[lighthouse]] · [[grace]] · [[eve]]
 
 > [!info]- Cast & crew
 > **Director** [[Mamoru Hosoda]]

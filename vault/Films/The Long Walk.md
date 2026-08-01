@@ -77,7 +77,7 @@ In a dystopian 1970s America, fifty teenage boys take part in a deadly annual wa
 
 > [!note]- Log
 > Watched 13 Sep 2025 · ★ 4.0
-> Tags  cinema · myself · cineworld
+> Tags  [[cinema]] · [[myself]] · [[cineworld]]
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

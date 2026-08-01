@@ -67,7 +67,7 @@ Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer trave
 
 > [!note]- Log
 > Watched 9 Oct 2023 · ★ 4.0
-> Tags  andrew · dean · cinema · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Kevin Greutert]]

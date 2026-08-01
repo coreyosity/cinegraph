@@ -62,7 +62,7 @@ Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey h
 
 > [!note]- Log
 > Watched 24 Jul 2026 · ★ 4.5
-> Tags  omniplex · wexford · dad
+> Tags  [[omniplex]] · [[wexford]] · [[dad]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]

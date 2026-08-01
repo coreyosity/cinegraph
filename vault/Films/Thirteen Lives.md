@@ -61,7 +61,7 @@ Based on the true nail-biting mission that captivated the world. Twelve boys and
 
 > [!note]- Log
 > Watched 24 Mar 2025 · ★ 4.0
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Ron Howard]]

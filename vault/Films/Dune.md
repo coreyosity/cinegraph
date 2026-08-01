@@ -78,7 +78,7 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 
 > [!note]- Log
 > Watched 29 Feb 2024 · ★ 5.0 · Rewatch
-> Tags  dean · andrew · bluray · home
+> Tags  [[dean]] · [[andrew]] · [[bluray]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

@@ -80,7 +80,7 @@ When all but one child from the same class mysteriously vanish on the same night
 
 > [!note]- Log
 > Watched 7 Aug 2025 · ★ 4.0
-> Tags  odeon-the-point · cinema · dean · andrew · grace · preview
+> Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[preview]]
 
 > [!info]- Cast & crew
 > **Director** [[Zach Cregger]]

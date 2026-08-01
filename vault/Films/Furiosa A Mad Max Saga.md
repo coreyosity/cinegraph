@@ -70,7 +70,7 @@ As the world falls, young Furiosa is snatched from the Green Place of Many Mothe
 
 > [!note]- Log
 > Watched 28 May 2024 · ★ 4.0
-> Tags  andrew · dean · cinema · odeon-blanch · imax
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]] · [[imax]]
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

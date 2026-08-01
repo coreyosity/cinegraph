@@ -74,7 +74,7 @@ The original Four Horsemen reunite with a new generation of illusionists to take
 
 > [!note]- Log
 > Watched 22 Nov 2025 · ★ 2.5
-> Tags  cinema · conor · odeon-the-point
+> Tags  [[cinema]] · [[conor]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Ruben Fleischer]]

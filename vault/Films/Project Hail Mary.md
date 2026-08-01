@@ -80,7 +80,7 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 
 > [!note]- Log
 > Watched 16 Mar 2026 · ★ 4.5
-> Tags  cinema · dean · andrew · grace · odeon-the-point · isense
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[odeon-the-point]] · [[isense]]
 
 > [!info]- Cast & crew
 > **Director** [[Phil Lord]]

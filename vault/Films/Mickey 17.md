@@ -76,7 +76,7 @@ Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of w
 
 > [!note]- Log
 > Watched 12 Mar 2025 · ★ 4.5
-> Tags  cinema · dean · andrew · odeon-blanch · isense
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-blanch]] · [[isense]]
 
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]

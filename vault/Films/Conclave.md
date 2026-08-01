@@ -70,7 +70,7 @@ After the unexpected death of the Pope, Cardinal Lawrence is tasked with managin
 
 > [!note]- Log
 > Watched 11 Nov 2024 · ★ 3.5
-> Tags  dean · andrew · cinema · odeon-the-point
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Edward Berger]]

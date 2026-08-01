@@ -75,7 +75,7 @@ The young daughter of a journalist disappears into the desert without a trace—
 
 > [!note]- Log
 > Watched 17 Apr 2026 · ★ 3.0
-> Tags  cinema · lighthouse · conor
+> Tags  [[cinema]] · [[lighthouse]] · [[conor]]
 
 > [!info]- Cast & crew
 > **Director** [[Lee Cronin]]

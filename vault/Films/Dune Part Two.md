@@ -77,7 +77,7 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 
 > [!note]- Log
 > Watched 31 Dec 2024 · ★ 5.0 · Rewatch
-> Tags  eoghan · imax · cinema · cineworld · preview · dean · andrew · dad · sky · wexford
+> Tags  [[eoghan]] · [[imax]] · [[cinema]] · [[cineworld]] · [[preview]] · [[dean]] · [[andrew]] · [[dad]] · [[sky]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

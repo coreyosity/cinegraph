@@ -66,7 +66,7 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 
 > [!note]- Log
 > Watched 31 Oct 2023 · ★ 3.0
-> Tags  andrew · dean · home · bluray
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[bluray]]
 
 > [!info]- Cast & crew
 > **Director** [[James Wan]]

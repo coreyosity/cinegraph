@@ -68,7 +68,7 @@ Bounty hunters seek shelter from a raging blizzard and get caught up in a plot o
 
 > [!note]- Log
 > Watched 12 Dec 2025 · ★ 4.5
-> Tags  home · myself · netflix
+> Tags  [[home]] · [[myself]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Quentin Tarantino]]

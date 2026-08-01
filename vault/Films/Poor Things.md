@@ -88,7 +88,7 @@ Brought back to life by an unorthodox scientist, a young woman runs off with a l
 
 > [!note]- Log
 > Watched 27 Jan 2024 · ★ 5.0
-> Tags  cinema · myself · odeon-blanch
+> Tags  [[cinema]] · [[myself]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Yorgos Lanthimos]]

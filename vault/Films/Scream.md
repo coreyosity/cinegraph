@@ -79,7 +79,7 @@ A year after the murder of her mother, a teenage girl is terrorized by a masked 
 
 > [!note]- Log
 > Watched 5 Mar 2023 · ★ 5.0
-> Tags  dean · torrent · home
+> Tags  [[dean]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

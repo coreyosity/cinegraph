@@ -84,7 +84,7 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 
 > [!note]- Log
 > Watched 7 Jan 2025 · ★ 4.0
-> Tags  dean · andrew · cinema · odeon-the-point · isense
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]] · [[isense]]
 
 > [!info]- Cast & crew
 > **Director** [[Robert Eggers]]

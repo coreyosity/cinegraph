@@ -74,7 +74,7 @@ Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a
 
 > [!note]- Log
 > Watched 1 Feb 2026 · ★ 3.5
-> Tags  myself · netflix · home
+> Tags  [[myself]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Martin Campbell]]

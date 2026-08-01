@@ -79,7 +79,7 @@ In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is c
 
 > [!note]- Log
 > Watched 22 Apr 2024 · ★ 3.0
-> Tags  myself · netflix · home
+> Tags  [[myself]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]

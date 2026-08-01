@@ -76,7 +76,7 @@ In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space
 
 > [!note]- Log
 > Watched 2 Jul 2023 · ★ 4.0
-> Tags  eoghan · cinema · stella
+> Tags  [[eoghan]] · [[cinema]] · [[stella]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

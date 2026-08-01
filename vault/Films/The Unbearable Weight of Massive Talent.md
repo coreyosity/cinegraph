@@ -61,7 +61,7 @@ Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 mil
 
 > [!note]- Log
 > Watched 25 Feb 2023 · ★ 4.0
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Tom Gormican]]

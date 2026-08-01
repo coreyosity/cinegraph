@@ -75,7 +75,7 @@ Two young missionaries are forced to prove their faith when they knock on the wr
 
 > [!note]- Log
 > Watched 3 Nov 2024 · ★ 4.5
-> Tags  andrew · dean · cinema · odeon-the-point
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Scott Beck]]

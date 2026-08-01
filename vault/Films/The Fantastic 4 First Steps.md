@@ -78,7 +78,7 @@ Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel
 
 > [!note]- Log
 > Watched 21 Dec 2025 · ★ 3.5 · Rewatch
-> Tags  odeon-the-point · cinema · dean · andrew · grace · eve · caleb · dad · wexford · disney+
+> Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[eve]] · [[caleb]] · [[dad]] · [[wexford]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Matt Shakman]]

@@ -79,7 +79,7 @@ Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. Aft
 
 > [!note]- Log
 > Watched 10 Oct 2025 · ★ 4.5
-> Tags  lighthouse · cinema · dean · andrew
+> Tags  [[lighthouse]] · [[cinema]] · [[dean]] · [[andrew]]
 
 > [!info]- Cast & crew
 > **Director** [[Satoshi Kon]]

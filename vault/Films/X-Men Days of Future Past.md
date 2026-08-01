@@ -66,7 +66,7 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 
 > [!note]- Log
 > Watched 23 Jul 2026 · ★ 3.0 · Rewatch
-> Tags  home · dad · disney+
+> Tags  [[home]] · [[dad]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Bryan Singer]]

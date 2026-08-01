@@ -70,7 +70,7 @@ A father and daughter live a perfect but mysterious existence in Forest Park, a 
 
 > [!note]- Log
 > Watched 22 Jul 2024 · ★ 3.5
-> Tags  dean · disney+ · home
+> Tags  [[dean]] · [[disney+]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Debra Granik]]

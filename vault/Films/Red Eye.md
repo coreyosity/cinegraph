@@ -85,7 +85,7 @@ An overnight flight to Miami quickly becomes a battle for survival when Lisa rea
 
 > [!note]- Log
 > Watched 10 Apr 2023 · ★ 3.0
-> Tags  myself · home · netflix
+> Tags  [[myself]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

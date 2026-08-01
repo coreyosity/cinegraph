@@ -64,7 +64,7 @@ Two lifelong friends find themselves at an impasse when one abruptly ends their 
 
 > [!note]- Log
 > Watched 22 Oct 2022 · ★ 4.5
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Martin McDonagh]]

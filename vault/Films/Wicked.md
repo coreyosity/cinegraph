@@ -91,7 +91,7 @@ In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced 
 
 > [!note]- Log
 > Watched 26 Nov 2024 · ★ 4.0
-> Tags  dean · andrew · cinema · lighthouse · eve · grace · cat
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[lighthouse]] · [[eve]] · [[grace]] · [[cat]]
 
 > [!info]- Cast & crew
 > **Director** [[Jon M. Chu]]

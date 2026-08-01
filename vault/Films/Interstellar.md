@@ -96,7 +96,7 @@ The adventures of a group of explorers who make use of a newly discovered wormho
 
 > [!note]- Log
 > Watched 13 Feb 2024 · ★ 5.0 · Rewatch
-> Tags  andrew · dean · cinema · imax · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]

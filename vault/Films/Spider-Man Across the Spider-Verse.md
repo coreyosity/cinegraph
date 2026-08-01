@@ -96,7 +96,7 @@ After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood S
 
 > [!note]- Log
 > Watched 1 Jun 2023 · ★ 5.0
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Kemp Powers]]

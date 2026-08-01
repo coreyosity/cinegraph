@@ -76,7 +76,7 @@ The story of J. Robert Oppenheimer's role in the development of the atomic bomb 
 
 > [!note]- Log
 > Watched 23 Jul 2023 · ★ 4.5
-> Tags  eoghan · linda · imax · cinema · cineworld
+> Tags  [[eoghan]] · [[linda]] · [[imax]] · [[cinema]] · [[cineworld]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Nolan]]

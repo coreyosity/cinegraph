@@ -80,7 +80,7 @@ Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after hi
 
 > [!note]- Log
 > Watched 16 Nov 2024 · ★ 3.5 · Rewatch
-> Tags  dad · caleb · netflix · wexford
+> Tags  [[dad]] · [[caleb]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]

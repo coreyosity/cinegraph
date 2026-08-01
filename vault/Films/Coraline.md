@@ -70,7 +70,7 @@ Wandering her rambling old house in her boring new town, 11-year-old Coraline di
 
 > [!note]- Log
 > Watched 3 Sep 2024 · ★ 4.5 · Rewatch
-> Tags  dean · andrew · cinema · odeon-the-point · 3d
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]] · [[3d]]
 
 > [!info]- Cast & crew
 > **Director** [[Henry Selick]]

@@ -80,7 +80,7 @@ When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage peop
 
 > [!note]- Log
 > Watched 19 Nov 2023 · ★ 4.5
-> Tags  andrew · dean · cinema · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Martin Scorsese]]

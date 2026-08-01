@@ -73,7 +73,7 @@ A sadistic serial rapist and murderer of young women terrorizes a small province
 
 > [!note]- Log
 > Watched 7 Jun 2024 · ★ 5.0
-> Tags  myself · home · torrent
+> Tags  [[myself]] · [[home]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Bong Joon Ho]]

@@ -61,7 +61,7 @@ When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes,
 
 > [!note]- Log
 > Watched 8 May 2026 · ★ 2.5
-> Tags  conor · cinema · lighthouse
+> Tags  [[conor]] · [[cinema]] · [[lighthouse]]
 
 > [!info]- Cast & crew
 > **Director** [[Damian McCarthy]]

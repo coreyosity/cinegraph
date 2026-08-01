@@ -73,7 +73,7 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 
 > [!note]- Log
 > Watched 5 Jan 2024 · ★ 4.5
-> Tags  andrew · dean · cinema · imax · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]

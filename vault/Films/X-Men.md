@@ -46,7 +46,7 @@ While Senator Kelly addresses a senate committee about the supposed mutant menac
 
 > [!note]- Log
 > Watched 4 Apr 2026 · ★ 3.0
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Thomas C. Grane]]

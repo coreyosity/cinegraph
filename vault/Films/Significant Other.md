@@ -59,7 +59,7 @@ Ruth and Harry decide to take a romantic backpacking trip through the Pacific No
 
 > [!note]- Log
 > Watched 18 Mar 2025 · ★ 2.0
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Robert Olsen]]

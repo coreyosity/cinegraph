@@ -69,7 +69,7 @@ When decorated soldier Captain Colter Stevens wakes up in the body of an unknown
 
 > [!note]- Log
 > Watched 7 Feb 2024
-> Tags  dad · netflix · wexford
+> Tags  [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Duncan Jones]]

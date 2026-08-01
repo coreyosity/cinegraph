@@ -73,7 +73,7 @@ A young couple travels to a remote island to eat at an exclusive restaurant wher
 
 > [!note]- Log
 > Watched 21 Nov 2022 · ★ 5.0
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Mark Mylod]]

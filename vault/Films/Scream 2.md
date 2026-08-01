@@ -71,7 +71,7 @@ Two years after the Woodsboro murders, Sidney Prescott acclimates to college lif
 
 > [!note]- Log
 > Watched 6 Mar 2023 · ★ 4.5
-> Tags  dean · torrent · home
+> Tags  [[dean]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Craven]]

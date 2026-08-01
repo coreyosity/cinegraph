@@ -54,7 +54,7 @@ Through the eyes of various Irish Republican Army (IRA) members, explore the ext
 
 > [!note]- Log
 > Watched 30 Dec 2024 · ★ 4.0
-> Tags  disney+ · tv show · myself
+> Tags  [[disney+]] · [[tv show]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Joshua Zetumer]]

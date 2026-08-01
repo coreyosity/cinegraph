@@ -68,7 +68,7 @@ As a serial killer stalks the city, Julia — a young actress who just moved to 
 
 > [!note]- Log
 > Watched 24 Sep 2024 · ★ 3.0
-> Tags  myself · netflix · home
+> Tags  [[myself]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Chloe Okuno]]

@@ -69,7 +69,7 @@ When a mutating, highly contagious fungus escapes a sealed facility, two employe
 
 > [!note]- Log
 > Watched 28 Feb 2026 · ★ 2.5
-> Tags  cinema · cineworld · conor
+> Tags  [[cinema]] · [[cineworld]] · [[conor]]
 
 > [!info]- Cast & crew
 > **Director** [[Jonny Campbell]]

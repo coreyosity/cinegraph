@@ -72,7 +72,7 @@ Deep in the forests of the Pacific Northwest, a father devoted to raising his si
 
 > [!note]- Log
 > Watched 28 Jun 2024 · ★ 4.5
-> Tags  myself · home · disney+
+> Tags  [[myself]] · [[home]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Matt Ross]]

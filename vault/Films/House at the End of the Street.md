@@ -56,7 +56,7 @@ A mother and daughter move to a new town and find themselves living next door to
 
 > [!note]- Log
 > Watched 7 Jan 2024 · Rewatch
-> Tags  netflix · dean · andrew · home
+> Tags  [[netflix]] · [[dean]] · [[andrew]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Mark Tonderai]]

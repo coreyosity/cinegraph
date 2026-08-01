@@ -67,7 +67,7 @@ Lily and Amanda, two high school students living in suburban Connecticut, rekind
 
 > [!note]- Log
 > Watched 25 Oct 2022 · ★ 3.5
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Cory Finley]]

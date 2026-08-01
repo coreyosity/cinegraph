@@ -80,7 +80,7 @@ Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadver
 
 > [!note]- Log
 > Watched 7 Dec 2025 · ★ 5.0 · Rewatch
-> Tags  home · myself · netflix
+> Tags  [[home]] · [[myself]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

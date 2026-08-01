@@ -78,7 +78,7 @@ In 1973, a precocious 15-year-old aspiring rock journalist lands a dream assignm
 
 > [!note]- Log
 > Watched 5 May 2025 · ★ 4.0
-> Tags  prime · myself · home
+> Tags  [[prime]] · [[myself]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Cameron Crowe]]

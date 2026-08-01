@@ -33,7 +33,7 @@ Man and Woman are reunited after a long time. Sorrow and desire cannot break the
 
 > [!note]- Log
 > Watched 17 May 2026 · ★ 3.0
-> Tags  home · myself · myflixer
+> Tags  [[home]] · [[myself]] · [[myflixer]]
 
 > [!info]- Cast & crew
 > **Director** [[Pedro Sotero]]

@@ -73,7 +73,7 @@ A strange doorway appears in the basement of a furniture showroom.
 
 > [!note]- Log
 > Watched 5 Jun 2026 · ★ 3.0
-> Tags  cinema · lighthouse · conor · alex cullen · martha · ella · luke mcg · eoin wall · michal
+> Tags  [[cinema]] · [[lighthouse]] · [[conor]] · [[alex cullen]] · [[martha]] · [[ella]] · [[luke mcg]] · [[eoin wall]] · [[michal]]
 
 > [!info]- Cast & crew
 > **Director** [[Kane Parsons]]

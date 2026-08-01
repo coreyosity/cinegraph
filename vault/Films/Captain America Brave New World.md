@@ -62,7 +62,7 @@ After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself
 
 > [!note]- Log
 > Watched 11 Mar 2025 · ★ 3.0
-> Tags  cinema · myself · odeon-the-point
+> Tags  [[cinema]] · [[myself]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Julius Onah]]

@@ -70,7 +70,7 @@ As storm season intensifies, the paths of former storm chaser Kate Carter and re
 
 > [!note]- Log
 > Watched 17 Jul 2024 · ★ 3.5
-> Tags  andrew · dean · cinema · cineworld · 4dx
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[cineworld]] · [[4dx]]
 
 > [!info]- Cast & crew
 > **Director** [[Lee Isaac Chung]]

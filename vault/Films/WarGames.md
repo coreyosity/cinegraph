@@ -69,7 +69,7 @@ High school student David Lightman has a talent for hacking. But while trying to
 
 > [!note]- Log
 > Watched 14 Jan 2024 · ★ 4.0 · Rewatch
-> Tags  myself · home · disney+
+> Tags  [[myself]] · [[home]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[John Badham]]

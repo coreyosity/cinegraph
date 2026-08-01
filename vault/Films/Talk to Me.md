@@ -41,7 +41,7 @@ Farid, who works abroad, locks himself on the last day of his stay in Beirut in 
 
 > [!note]- Log
 > Watched 24 Jul 2023 · ★ 4.0
-> Tags  dean · odeon-blanch · cinema · scream-unseen · preview
+> Tags  [[dean]] · [[odeon-blanch]] · [[cinema]] · [[scream-unseen]] · [[preview]]
 
 > [!info]- Cast & crew
 > **Director** [[Ribal Chedid]]

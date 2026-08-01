@@ -63,7 +63,7 @@ When Kimberly has a violent premonition of a highway pileup she blocks the freew
 
 > [!note]- Log
 > Watched 21 May 2025 · ★ 2.5
-> Tags  netflix · copenhagen · myself
+> Tags  [[netflix]] · [[copenhagen]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[David R. Ellis]]

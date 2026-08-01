@@ -73,7 +73,7 @@ Four sisters come of age in America in the aftermath of the Civil War.
 
 > [!note]- Log
 > Watched 29 Jul 2024 · ★ 4.5
-> Tags  myself · disney+ · home
+> Tags  [[myself]] · [[disney+]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

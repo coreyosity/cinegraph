@@ -70,7 +70,7 @@ The men who made millions from a global economic meltdown.
 
 > [!note]- Log
 > Watched 27 Sep 2024 · ★ 4.0
-> Tags  dad · caleb · wexford · prime
+> Tags  [[dad]] · [[caleb]] · [[wexford]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Adam McKay]]

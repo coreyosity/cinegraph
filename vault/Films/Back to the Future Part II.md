@@ -72,7 +72,7 @@ Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some
 
 > [!note]- Log
 > Watched 7 Dec 2025 · ★ 3.5
-> Tags  home · myself · netflix
+> Tags  [[home]] · [[myself]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Robert Zemeckis]]

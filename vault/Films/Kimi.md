@@ -58,7 +58,7 @@ A tech worker with agoraphobia discovers recorded evidence of a violent crime bu
 
 > [!note]- Log
 > Watched 12 Mar 2023 · ★ 2.0
-> Tags  dad · netflix · wexford
+> Tags  [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Steven Soderbergh]]

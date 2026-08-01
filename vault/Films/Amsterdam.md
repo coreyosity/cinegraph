@@ -77,7 +77,7 @@ In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a mur
 
 > [!note]- Log
 > Watched 16 Oct 2022 · ★ 3.5
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[David O. Russell]]

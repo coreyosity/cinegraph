@@ -68,7 +68,7 @@ It's the summer of 1987, and recent college grad James Brennan can't wait to beg
 
 > [!note]- Log
 > Watched 26 Jun 2026 · ★ 3.0
-> Tags  home · myself · netflix
+> Tags  [[home]] · [[myself]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Greg Mottola]]

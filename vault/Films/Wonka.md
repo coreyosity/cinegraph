@@ -63,7 +63,7 @@ Willy Wonka – chock-full of ideas and determined to change the world one delec
 
 > [!note]- Log
 > Watched 8 Dec 2023 · ★ 3.5
-> Tags  dean · andrew · cinema · odeon-blanch
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Paul King]]

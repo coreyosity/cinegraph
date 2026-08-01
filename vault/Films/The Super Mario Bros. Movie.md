@@ -68,7 +68,7 @@ While working underground to fix a water main, Brooklyn plumbers—and brothers�
 
 > [!note]- Log
 > Watched 20 Apr 2023 · ★ 2.5
-> Tags  dean · cinema · odeon-blanch
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Aaron Horvath]]

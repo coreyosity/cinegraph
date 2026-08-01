@@ -74,7 +74,7 @@ Unlucky assassin Ladybug is determined to do his job peacefully after one too ma
 
 > [!note]- Log
 > Watched 27 Aug 2022 · ★ 4.5
-> Tags  chris · cinema · odeon-blanch
+> Tags  [[chris]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[David Leitch]]

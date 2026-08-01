@@ -89,7 +89,7 @@ Clarice Starling is a top student at the FBI's training academy.  Jack Crawford 
 
 > [!note]- Log
 > Watched 21 Jan 2024 · ★ 4.0
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Jonathan Demme]]

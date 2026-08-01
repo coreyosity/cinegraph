@@ -60,7 +60,7 @@ Two strangers strike up a conversation on a long journey. However, neither is wh
 
 > [!note]- Log
 > Watched 6 Feb 2024
-> Tags  dad · wexford · netflix
+> Tags  [[dad]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Thomas M. Wright]]

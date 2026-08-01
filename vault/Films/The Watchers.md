@@ -69,7 +69,7 @@ A young artist gets stranded in an extensive, immaculate forest in western Irela
 
 > [!note]- Log
 > Watched 19 Jun 2024 · ★ 2.5
-> Tags  andrew · dean · cinema · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Ishana Night Shyamalan]]

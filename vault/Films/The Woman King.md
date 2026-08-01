@@ -74,7 +74,7 @@ The story of the Agojie, the all-female unit of warriors who protected the Afric
 
 > [!note]- Log
 > Watched 16 Oct 2022 · ★ 4.0
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Gina Prince-Bythewood]]

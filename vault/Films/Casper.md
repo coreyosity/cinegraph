@@ -74,7 +74,7 @@ Casper is a kind young ghost who peacefully haunts a mansion in Maine. When spec
 
 > [!note]- Log
 > Watched 5 Oct 2025 · ★ 2.5 · Rewatch
-> Tags  vue · myself · cinema
+> Tags  [[vue]] · [[myself]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Brad Silberling]]

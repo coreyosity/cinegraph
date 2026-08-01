@@ -71,7 +71,7 @@ After a teenager has a terrifying vision of him and his friends dying in a plane
 
 > [!note]- Log
 > Watched 17 May 2025 · ★ 3.0 · Rewatch
-> Tags  prime · dean · andrew
+> Tags  [[prime]] · [[dean]] · [[andrew]]
 
 > [!info]- Cast & crew
 > **Director** [[James Wong]]

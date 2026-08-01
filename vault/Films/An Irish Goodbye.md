@@ -39,7 +39,7 @@ A disconsolate man draws comparisons to this when he struggles to write a suicid
 
 > [!note]- Log
 > Watched 8 Apr 2023 · ★ 5.0
-> Tags  caleb · mam · wexford
+> Tags  [[caleb]] · [[mam]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Cody Farren]]

@@ -80,7 +80,7 @@ Father and son coroners receive a mysterious unidentified corpse with no apparen
 
 > [!note]- Log
 > Watched 31 Oct 2024 · ★ 3.0 · Rewatch
-> Tags  andrew · dean · netflix · cat · cinema-room
+> Tags  [[andrew]] · [[dean]] · [[netflix]] · [[cat]] · [[cinema-room]]
 
 > [!info]- Cast & crew
 > **Director** [[André Øvredal]]

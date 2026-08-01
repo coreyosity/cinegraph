@@ -70,7 +70,7 @@ In 1979, a group of young filmmakers set out to make an adult film in rural Texa
 
 > [!note]- Log
 > Watched 19 May 2024 · ★ 3.0
-> Tags  andrew · dean · netflix
+> Tags  [[andrew]] · [[dean]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

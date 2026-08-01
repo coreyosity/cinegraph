@@ -68,7 +68,7 @@ A young writer is invited to the remote compound of a legendary pop star who mys
 
 > [!note]- Log
 > Watched 15 Mar 2025 · ★ 2.5
-> Tags  cinema · dean · andrew · lighthouse
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[lighthouse]]
 
 > [!info]- Cast & crew
 > **Director** [[Mark Anthony Green]]

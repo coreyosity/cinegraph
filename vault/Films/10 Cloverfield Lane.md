@@ -54,7 +54,7 @@ After a catastrophic car crash, a young woman wakes up in a survivalist's underg
 
 > [!note]- Log
 > Watched 23 Feb 2023 · ★ 4.0
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Dan Trachtenberg]]

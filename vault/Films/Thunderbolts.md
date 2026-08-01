@@ -67,7 +67,7 @@ After finding themselves ensnared in a death trap, seven disillusioned castoffs 
 
 > [!note]- Log
 > Watched 1 May 2025 · ★ 4.0
-> Tags  dean · andrew · eve · grace · odeon-the-point · isense
+> Tags  [[dean]] · [[andrew]] · [[eve]] · [[grace]] · [[odeon-the-point]] · [[isense]]
 
 > [!info]- Cast & crew
 > **Director** [[Jake Schreier]]

@@ -72,7 +72,7 @@ In 1985, while working as a coal merchant to support his family, Bill Furlong di
 
 > [!note]- Log
 > Watched 2 Nov 2024 · ★ 4.0
-> Tags  myself · odeon-the-point · cinema
+> Tags  [[myself]] · [[odeon-the-point]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Tim Mielants]]

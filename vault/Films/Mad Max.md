@@ -86,7 +86,7 @@ In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing
 
 > [!note]- Log
 > Watched 22 May 2024 · ★ 2.0
-> Tags  myself · home · prime
+> Tags  [[myself]] · [[home]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[George Miller]]

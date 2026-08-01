@@ -71,7 +71,7 @@ Set more than a decade after the events of the first film, learn the story of th
 
 > [!note]- Log
 > Watched 24 Dec 2022 · ★ 4.0
-> Tags  dad · caleb · erin · mam · omniplex · cinema
+> Tags  [[dad]] · [[caleb]] · [[erin]] · [[mam]] · [[omniplex]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[James Cameron]]

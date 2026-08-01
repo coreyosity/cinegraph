@@ -90,7 +90,7 @@ In a time of superstition and magic, when wolves are seen as demonic and nature 
 
 > [!note]- Log
 > Watched 16 Nov 2024 · ★ 4.0
-> Tags  train · appletv+ · myself
+> Tags  [[train]] · [[appletv+]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Tomm Moore]]

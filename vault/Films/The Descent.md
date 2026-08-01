@@ -75,7 +75,7 @@ After a personal tragedy, Sarah joins her friends on a caving expedition in the 
 
 > [!note]- Log
 > Watched 19 Mar 2025 · ★ 2.5
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Neil Marshall]]

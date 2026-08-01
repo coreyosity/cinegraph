@@ -75,7 +75,7 @@ When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his
 
 > [!note]- Log
 > Watched 13 Oct 2024 · Rewatch
-> Tags  dean · andrew · sky · home
+> Tags  [[dean]] · [[andrew]] · [[sky]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Rob Minkoff]]

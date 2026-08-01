@@ -84,7 +84,7 @@ Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary 
 
 > [!note]- Log
 > Watched 8 Feb 2025 · ★ 3.5
-> Tags  myself · netflix · home
+> Tags  [[myself]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[David Fincher]]

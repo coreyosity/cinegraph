@@ -64,7 +64,7 @@ When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsign
 
 > [!note]- Log
 > Watched 27 Nov 2025 · ★ 4.0
-> Tags  cinema · lighthouse · dean · andrew · grace
+> Tags  [[cinema]] · [[lighthouse]] · [[dean]] · [[andrew]] · [[grace]]
 
 > [!info]- Cast & crew
 > **Director** [[Rian Johnson]]

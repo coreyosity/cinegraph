@@ -63,7 +63,7 @@ As the war between the Capitol and the districts reaches its peak, Katniss Everd
 
 > [!note]- Log
 > Watched 29 Dec 2023 · Rewatch
-> Tags  dad · netflix · wexford
+> Tags  [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

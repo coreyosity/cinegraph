@@ -77,7 +77,7 @@ When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported
 
 > [!note]- Log
 > Watched 26 Dec 2025 · Rewatch
-> Tags  mam · dad · erin · caleb · wexford · sky
+> Tags  [[mam]] · [[dad]] · [[erin]] · [[caleb]] · [[wexford]] · [[sky]]
 
 > [!info]- Cast & crew
 > **Director** [[Jon Favreau]]

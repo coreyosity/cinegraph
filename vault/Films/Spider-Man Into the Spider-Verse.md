@@ -69,7 +69,7 @@ Struggling to find his place in the world while juggling school and family, Broo
 
 > [!note]- Log
 > Watched 18 May 2026 · ★ 5.0 · Rewatch
-> Tags  omniplex · cinema · dean · andrew · grace · eve · luke
+> Tags  [[omniplex]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[eve]] · [[luke]]
 
 > [!info]- Cast & crew
 > **Director** [[Bob Persichetti]]

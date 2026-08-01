@@ -74,7 +74,7 @@ Following the death of their father, a brother and sister are sent to live with 
 
 > [!note]- Log
 > Watched 8 Jul 2025 · ★ 3.5
-> Tags  dean · cinema · andrew · odeon-the-point · grace · eve
+> Tags  [[dean]] · [[cinema]] · [[andrew]] · [[odeon-the-point]] · [[grace]] · [[eve]]
 
 > [!info]- Cast & crew
 > **Director** [[Danny Philippou]]

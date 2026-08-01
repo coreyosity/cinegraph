@@ -60,7 +60,7 @@ Ricky is a defiant young city kid who finds himself on the run with his cantanke
 
 > [!note]- Log
 > Watched 7 Jun 2026 · ★ 4.0
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Taika Waititi]]

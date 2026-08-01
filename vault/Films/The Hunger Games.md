@@ -94,7 +94,7 @@ In a dystopian society where the Capitol forces each district to send two young 
 
 > [!note]- Log
 > Watched 19 Dec 2023 · Rewatch
-> Tags  dad · wexford · netflix
+> Tags  [[dad]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Gary Ross]]

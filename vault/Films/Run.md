@@ -60,7 +60,7 @@ Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother
 
 > [!note]- Log
 > Watched 28 Aug 2023 · ★ 3.0
-> Tags  andrew · dean · home · netflix
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Aneesh Chaganty]]

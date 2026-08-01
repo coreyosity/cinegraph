@@ -81,7 +81,7 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 
 > [!note]- Log
 > Watched 4 Apr 2024 · ★ 4.5 · Rewatch
-> Tags  myself · wexford · netflix
+> Tags  [[myself]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Denis Villeneuve]]

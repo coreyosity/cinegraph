@@ -112,7 +112,7 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 
 > [!note]- Log
 > Watched 8 May 2024 · ★ 4.0 · Rewatch
-> Tags  andrew · disney+ · home
+> Tags  [[andrew]] · [[disney+]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Matt Reeves]]

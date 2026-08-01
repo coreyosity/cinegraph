@@ -78,7 +78,7 @@ In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experienc
 
 > [!note]- Log
 > Watched 11 Aug 2025 · ★ 3.5
-> Tags  odeon-the-point · cinema · dean · andrew · grace
+> Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]]
 
 > [!info]- Cast & crew
 > **Director** [[Mike Flanagan]]

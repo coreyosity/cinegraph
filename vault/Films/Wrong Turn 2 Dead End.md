@@ -58,7 +58,7 @@ Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyp
 
 > [!note]- Log
 > Watched 20 Nov 2023 · ★ 3.0
-> Tags  andrew · home · torrent
+> Tags  [[andrew]] · [[home]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Joe Lynch]]

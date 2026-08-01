@@ -77,7 +77,7 @@ When tech billionaire Slater King meets cocktail waitress Frida at his fundraisi
 
 > [!note]- Log
 > Watched 15 Nov 2024 · ★ 4.0
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Zoë Kravitz]]

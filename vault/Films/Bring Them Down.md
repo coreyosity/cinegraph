@@ -58,7 +58,7 @@ When the ongoing rivalry between farmers Michael and Jack suddenly escalates, it
 
 > [!note]- Log
 > Watched 9 Feb 2025 · ★ 4.0
-> Tags  dean · cinema · andrew · odeon-the-point
+> Tags  [[dean]] · [[cinema]] · [[andrew]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Andrews]]

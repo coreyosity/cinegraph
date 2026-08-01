@@ -61,7 +61,7 @@ When her duties send her to an anomalous wormhole linked to a Kree revolutionary
 
 > [!note]- Log
 > Watched 11 Nov 2023 · ★ 3.0
-> Tags  dean · andrew · cinema · odeon-blanch
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Nia DaCosta]]

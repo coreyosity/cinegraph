@@ -81,7 +81,7 @@ In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally get
 
 > [!note]- Log
 > Watched 10 Jul 2024 · ★ 3.0
-> Tags  andrew · dean · cinema · odeon-the-point
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Ti West]]

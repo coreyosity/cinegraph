@@ -65,7 +65,7 @@ A charming thief and a band of unlikely adventurers undertake an epic heist to r
 
 > [!note]- Log
 > Watched 26 Apr 2023 · ★ 2.5
-> Tags  dean · odeon-blanch · cinema
+> Tags  [[dean]] · [[odeon-blanch]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Jonathan Goldstein]]

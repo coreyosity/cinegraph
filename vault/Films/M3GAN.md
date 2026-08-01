@@ -70,7 +70,7 @@ A brilliant toy company roboticist uses artificial intelligence to develop M3GAN
 
 > [!note]- Log
 > Watched 21 Jan 2023 · ★ 2.5
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Gerard Johnstone]]

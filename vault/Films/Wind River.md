@@ -84,7 +84,7 @@ An FBI agent teams with the town's veteran game tracker to investigate a murder 
 
 > [!note]- Log
 > Watched 12 Nov 2024 · ★ 4.0
-> Tags  myself · torrent · home
+> Tags  [[myself]] · [[torrent]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Taylor Sheridan]]

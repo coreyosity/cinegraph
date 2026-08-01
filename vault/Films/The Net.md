@@ -81,7 +81,7 @@ Angela Bennett is a freelance computer systems analyst who tracks down software 
 
 > [!note]- Log
 > Watched 16 Oct 2022 · ★ 3.0
-> Tags  myself · home · netflix
+> Tags  [[myself]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Irwin Winkler]]

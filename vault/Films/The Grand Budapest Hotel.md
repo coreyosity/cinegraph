@@ -70,7 +70,7 @@ The Grand Budapest Hotel tells of a legendary concierge at a famous European hot
 
 > [!note]- Log
 > Watched 2 May 2026 · ★ 5.0 · Rewatch
-> Tags  myself · disney+ · home · mam
+> Tags  [[myself]] · [[disney+]] · [[home]] · [[mam]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

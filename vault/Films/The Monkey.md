@@ -89,7 +89,7 @@ When twin brothers find a mysterious wind-up monkey, a series of outrageous deat
 
 > [!note]- Log
 > Watched 17 Feb 2025 · ★ 3.0
-> Tags  odeon-the-point · cinema · scream-unseen · dean · andrew · preview
+> Tags  [[odeon-the-point]] · [[cinema]] · [[scream-unseen]] · [[dean]] · [[andrew]] · [[preview]]
 
 > [!info]- Cast & crew
 > **Director** [[Osgood Perkins]]

@@ -70,7 +70,7 @@ A true story about Frank Abagnale Jr. who, before his 19th birthday, successfull
 
 > [!note]- Log
 > Watched 14 Dec 2025 · ★ 4.5
-> Tags  myself · home · prime
+> Tags  [[myself]] · [[home]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]

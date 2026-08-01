@@ -71,7 +71,7 @@ When Jess sets sail on a yacht with a group of friends, she cannot shake the fee
 
 > [!note]- Log
 > Watched 14 May 2026 · ★ 3.0
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Christopher Smith]]

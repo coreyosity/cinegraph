@@ -77,7 +77,7 @@ The lives of three men who were childhood friends are shattered when one of them
 
 > [!note]- Log
 > Watched 10 May 2026 · ★ 4.5
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Clint Eastwood]]

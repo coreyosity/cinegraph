@@ -57,7 +57,7 @@ Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents
 
 > [!note]- Log
 > Watched 23 Feb 2023 · ★ 3.0
-> Tags  linda · vue · cinema
+> Tags  [[linda]] · [[vue]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Peyton Reed]]

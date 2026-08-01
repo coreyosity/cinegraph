@@ -71,7 +71,7 @@ A young bride's wedding night turns into her worst nightmare when her ridiculous
 
 > [!note]- Log
 > Watched 17 Mar 2026 · ★ 2.5
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Tyler Gillett]]

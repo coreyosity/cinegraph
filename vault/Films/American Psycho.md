@@ -77,7 +77,7 @@ A wealthy New York investment banking executive hides his alternate psychopathic
 
 > [!note]- Log
 > Watched 22 Sep 2024
-> Tags  myself · train
+> Tags  [[myself]] · [[train]]
 
 > [!info]- Cast & crew
 > **Director** [[Mary Harron]]

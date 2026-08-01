@@ -63,7 +63,7 @@ When a group of friends recklessly violate the sacred rule of Tarot readings, th
 
 > [!note]- Log
 > Watched 6 May 2024 · ★ 2.0
-> Tags  dean · andrew · cinema · odeon-blanch
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Spenser Cohen]]

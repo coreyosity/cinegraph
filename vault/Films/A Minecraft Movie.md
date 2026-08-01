@@ -82,7 +82,7 @@ Four misfits find themselves struggling with ordinary problems when they are sud
 
 > [!note]- Log
 > Watched 4 Apr 2025 · ★ 2.0
-> Tags  cinema · dean · andrew · odeon-the-point · eve · grace
+> Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-the-point]] · [[eve]] · [[grace]]
 
 > [!info]- Cast & crew
 > **Director** [[Jared Hess]]

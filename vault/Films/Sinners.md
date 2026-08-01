@@ -92,7 +92,7 @@ Trying to leave their troubled lives behind, twin brothers return to their homet
 
 > [!note]- Log
 > Watched 26 Apr 2025 · ★ 4.5
-> Tags  cinema · myself · odeon-the-point · isense
+> Tags  [[cinema]] · [[myself]] · [[odeon-the-point]] · [[isense]]
 
 > [!info]- Cast & crew
 > **Director** [[Ryan Coogler]]

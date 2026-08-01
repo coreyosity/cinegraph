@@ -71,7 +71,7 @@ Twenty-eight years after the Rage virus outbreak, a heavily-defended island surv
 
 > [!note]- Log
 > Watched 1 Jul 2025 · ★ 4.5
-> Tags  lighthouse · grace · andrew
+> Tags  [[lighthouse]] · [[grace]] · [[andrew]]
 
 > [!info]- Cast & crew
 > **Director** [[Danny Boyle]]

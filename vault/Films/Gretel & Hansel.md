@@ -59,7 +59,7 @@ A long time ago in a distant fairy tale countryside, a young girl leads her litt
 
 > [!note]- Log
 > Watched 22 Mar 2025 · ★ 2.5
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Osgood Perkins]]

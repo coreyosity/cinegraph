@@ -60,7 +60,7 @@ Curtis Pike and his family are selected to test a new home device: a digital ass
 
 > [!note]- Log
 > Watched 31 Aug 2024 · ★ 1.0
-> Tags  andrew · dean · cinema · odeon-the-point
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Chris Weitz]]

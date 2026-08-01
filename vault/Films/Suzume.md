@@ -76,7 +76,7 @@ Suzume, 17, lost her mother as a little girl. On her way to school, she meets a 
 
 > [!note]- Log
 > Watched 4 Jun 2025 · ★ 4.0
-> Tags  netflix · home · dean
+> Tags  [[netflix]] · [[home]] · [[dean]]
 
 > [!info]- Cast & crew
 > **Director** [[Makoto Shinkai]]

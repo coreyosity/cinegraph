@@ -76,7 +76,7 @@ Four couples gather for dinner the night a mysterious and powerful comet passes 
 
 > [!note]- Log
 > Watched 17 May 2026 · ★ 3.5
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[James Ward Byrkit]]

@@ -73,7 +73,7 @@ When siblings Judy and Peter discover an enchanted board game that opens the doo
 
 > [!note]- Log
 > Watched 13 Oct 2024 · Rewatch
-> Tags  myself · wexford · sky
+> Tags  [[myself]] · [[wexford]] · [[sky]]
 
 > [!info]- Cast & crew
 > **Director** [[Joe Johnston]]

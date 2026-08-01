@@ -75,7 +75,7 @@ A newly dead New England couple seeks help from a deranged demon exorcist to sca
 
 > [!note]- Log
 > Watched 13 Sep 2024 · ★ 3.5 · Rewatch
-> Tags  dean · andrew · netflix
+> Tags  [[dean]] · [[andrew]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Tim Burton]]

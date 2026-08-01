@@ -78,7 +78,7 @@ During a weekend getaway at a secluded lakeside estate, a group of friends finds
 
 > [!note]- Log
 > Watched 27 Jan 2025 · ★ 3.0
-> Tags  dean · andrew · scream-unseen · cinema · odeon-the-point
+> Tags  [[dean]] · [[andrew]] · [[scream-unseen]] · [[cinema]] · [[odeon-the-point]]
 
 > [!info]- Cast & crew
 > **Director** [[Drew Hancock]]

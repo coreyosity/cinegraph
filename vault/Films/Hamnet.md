@@ -63,7 +63,7 @@ The powerful story of love and loss that inspired the creation of Shakespeare's 
 
 > [!note]- Log
 > Watched 29 Jan 2026 · ★ 4.5
-> Tags  dean · andrew · grace · cat · odeon-the-point · cinema
+> Tags  [[dean]] · [[andrew]] · [[grace]] · [[cat]] · [[odeon-the-point]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Chloé Zhao]]

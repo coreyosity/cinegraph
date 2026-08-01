@@ -14,4 +14,4 @@ log_tags:
 
 > [!note]- Log
 > Watched 1 Jan 2026
-> Tags  mam · wexford · netflix
+> Tags  [[mam]] · [[wexford]] · [[netflix]]

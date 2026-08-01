@@ -80,7 +80,7 @@ Less than 24 hours into his parole, charismatic thief Danny Ocean is already rol
 
 > [!note]- Log
 > Watched 22 Mar 2025 · ★ 4.0
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Steven Soderbergh]]

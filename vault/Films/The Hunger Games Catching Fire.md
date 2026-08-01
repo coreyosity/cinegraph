@@ -71,7 +71,7 @@ After surviving the Hunger Games, Katniss and Peeta struggle with the consequenc
 
 > [!note]- Log
 > Watched 20 Dec 2023 · Rewatch
-> Tags  dad · wexford · netflix
+> Tags  [[dad]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

@@ -79,7 +79,7 @@ After narrowly escaping a bizarre accident, a troubled teenager is plagued by vi
 
 > [!note]- Log
 > Watched 8 Jun 2024 · ★ 4.0
-> Tags  myself · home · torrent
+> Tags  [[myself]] · [[home]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[Richard Kelly]]

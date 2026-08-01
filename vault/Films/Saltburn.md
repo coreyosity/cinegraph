@@ -76,7 +76,7 @@ Struggling to find his place at Oxford University, student Oliver Quick finds hi
 
 > [!note]- Log
 > Watched 4 Dec 2023 · ★ 3.0
-> Tags  dean · andrew · cinema
+> Tags  [[dean]] · [[andrew]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Emerald Fennell]]

@@ -58,7 +58,7 @@ An epic that details the checkered rise and fall of French Emperor Napoleon Bona
 
 > [!note]- Log
 > Watched 22 Nov 2023 · ★ 3.5
-> Tags  andrew · cinema · imax · odeon-blanch
+> Tags  [[andrew]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Ridley Scott]]

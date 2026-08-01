@@ -69,7 +69,7 @@ Several generations following Caesar's reign, apes – now the dominant species 
 
 > [!note]- Log
 > Watched 9 May 2024 · ★ 4.0
-> Tags  andrew · imax · odeon-blanch
+> Tags  [[andrew]] · [[imax]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Ball]]

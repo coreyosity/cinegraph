@@ -63,7 +63,7 @@ Fresh off an almost career-ending accident, stuntman Colt Seavers has to track d
 
 > [!note]- Log
 > Watched 4 May 2024 · ★ 2.5
-> Tags  andrew · dean · cinema · odeon-blanch
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[David Leitch]]

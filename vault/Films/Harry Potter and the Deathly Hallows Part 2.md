@@ -73,7 +73,7 @@ Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once
 
 > [!note]- Log
 > Watched 29 Dec 2025 · Rewatch
-> Tags  home · sky · dad
+> Tags  [[home]] · [[sky]] · [[dad]]
 
 > [!info]- Cast & crew
 > **Director** [[David Yates]]

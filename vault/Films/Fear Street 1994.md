@@ -62,7 +62,7 @@ After a series of brutal slayings, a teen and her friends take on an evil force 
 
 > [!note]- Log
 > Watched 15 Oct 2023 · ★ 2.5
-> Tags  andrew · dean · home · netflix
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Leigh Janiak]]

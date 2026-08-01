@@ -67,7 +67,7 @@ A group of college friends reunite for a trip to the forest, but encounter a men
 
 > [!note]- Log
 > Watched 16 Mar 2025 · ★ 2.5
-> Tags  home · myself · torrent
+> Tags  [[home]] · [[myself]] · [[torrent]]
 
 > [!info]- Cast & crew
 > **Director** [[David Bruckner]]

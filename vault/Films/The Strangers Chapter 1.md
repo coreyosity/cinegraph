@@ -61,7 +61,7 @@ After their car breaks down in an eerie small town, a young couple are forced to
 
 > [!note]- Log
 > Watched 17 May 2024 · ★ 2.5
-> Tags  dean · cinema · odeon-blanch
+> Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Renny Harlin]]

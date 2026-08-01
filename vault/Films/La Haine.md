@@ -72,7 +72,7 @@ After a chaotic night of rioting in a marginal suburb of Paris, three young frie
 
 > [!note]- Log
 > Watched 30 Apr 2025 · ★ 5.0
-> Tags  cinema · lighthouse · eoghan
+> Tags  [[cinema]] · [[lighthouse]] · [[eoghan]]
 
 > [!info]- Cast & crew
 > **Director** [[Mathieu Kassovitz]]

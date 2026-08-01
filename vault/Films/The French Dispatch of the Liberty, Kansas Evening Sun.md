@@ -77,7 +77,7 @@ The staff of an American magazine based in France puts out its last issue, with 
 
 > [!note]- Log
 > Watched 31 Dec 2024 · ★ 3.5
-> Tags  dad · netflix · wexford
+> Tags  [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

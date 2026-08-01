@@ -67,7 +67,7 @@ Dr. Kelson finds himself in a shocking new relationship - with consequences that
 
 > [!note]- Log
 > Watched 27 Jan 2026 · ★ 3.5
-> Tags  andrew · eve · grace · cat · lighthouse · cinema
+> Tags  [[andrew]] · [[eve]] · [[grace]] · [[cat]] · [[lighthouse]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Nia DaCosta]]

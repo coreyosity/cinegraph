@@ -70,7 +70,7 @@ Plagued by a series of apocalyptic visions, a young husband and father questions
 
 > [!note]- Log
 > Watched 19 May 2026 · ★ 3.5
-> Tags  home · myself · prime
+> Tags  [[home]] · [[myself]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Jeff Nichols]]

@@ -68,7 +68,7 @@ Residents in a lonely gulch of inland California bear witness to an uncanny, chi
 
 > [!note]- Log
 > Watched 16 Oct 2022 · ★ 4.5
-> Tags  linda · cinema · odeon-blanch
+> Tags  [[linda]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Jordan Peele]]

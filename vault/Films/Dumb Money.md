@@ -91,7 +91,7 @@ Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it
 
 > [!note]- Log
 > Watched 21 Sep 2023 · ★ 4.0
-> Tags  myself · odeon-blanch · cinema
+> Tags  [[myself]] · [[odeon-blanch]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Craig Gillespie]]

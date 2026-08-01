@@ -69,7 +69,7 @@ After surviving the Quarter Quell, Katniss finds herself in the hidden stronghol
 
 > [!note]- Log
 > Watched 27 Dec 2023 · Rewatch
-> Tags  dad · wexford · netflix
+> Tags  [[dad]] · [[wexford]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

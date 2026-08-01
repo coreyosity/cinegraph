@@ -55,7 +55,7 @@ Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only
 
 > [!note]- Log
 > Watched 24 Mar 2024 · ★ 2.5
-> Tags  dad · prime · wexford
+> Tags  [[dad]] · [[prime]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Doug Liman]]

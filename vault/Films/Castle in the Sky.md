@@ -71,7 +71,7 @@ A young boy and a girl with a magic crystal must race against pirates and foreig
 
 > [!note]- Log
 > Watched 14 Jan 2023 · ★ 4.0
-> Tags  dean · netflix · home
+> Tags  [[dean]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Hayao Miyazaki]]

@@ -77,7 +77,7 @@ Barbie and Ken are having the time of their lives in the colorful and seemingly 
 
 > [!note]- Log
 > Watched 28 Jul 2023 · ★ 4.0
-> Tags  eoghan · linda · cineworld · cinema
+> Tags  [[eoghan]] · [[linda]] · [[cineworld]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

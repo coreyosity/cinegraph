@@ -88,7 +88,7 @@ Following the latest Ghostface killings, the four survivors leave Woodsboro behi
 
 > [!note]- Log
 > Watched 9 Mar 2023 · ★ 4.0
-> Tags  dean · eoghan · linda · cinema · lighthouse
+> Tags  [[dean]] · [[eoghan]] · [[linda]] · [[cinema]] · [[lighthouse]]
 
 > [!info]- Cast & crew
 > **Director** [[Matt Bettinelli-Olpin]]

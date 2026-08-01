@@ -56,7 +56,7 @@ A group of senior sleuths passionate about solving cold cases get plunged into a
 
 > [!note]- Log
 > Watched 6 Sep 2025 · ★ 2.0
-> Tags  mam · dad · netflix · wexford
+> Tags  [[mam]] · [[dad]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Chris Columbus]]

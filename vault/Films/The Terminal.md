@@ -81,7 +81,7 @@ An Eastern European tourist unexpectedly finds himself stranded in JFK airport, 
 
 > [!note]- Log
 > Watched 26 Apr 2026 · ★ 4.0
-> Tags  home · myself · youtube
+> Tags  [[home]] · [[myself]] · [[youtube]]
 
 > [!info]- Cast & crew
 > **Director** [[Steven Spielberg]]

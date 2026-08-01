@@ -56,7 +56,7 @@ When a cure is found to treat mutations, lines are drawn amongst the X-Men led b
 
 > [!note]- Log
 > Watched 22 Jul 2026 · ★ 2.5 · Rewatch
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Brett Ratner]]

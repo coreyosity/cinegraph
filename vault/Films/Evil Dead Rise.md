@@ -80,7 +80,7 @@ A reunion between two estranged sisters gets cut short by the rise of flesh-poss
 
 > [!note]- Log
 > Watched 29 Oct 2023 · ★ 3.5
-> Tags  caleb · home · netflix
+> Tags  [[caleb]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Lee Cronin]]

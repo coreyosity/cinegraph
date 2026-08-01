@@ -48,7 +48,7 @@ When Audrey's business trip to Asia goes sideways, she enlists the aid of Lolo, 
 
 > [!note]- Log
 > Watched 6 Aug 2023
-> Tags  myself · cinema · odeon-blanch
+> Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Adele Lim]]

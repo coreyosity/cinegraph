@@ -56,7 +56,7 @@ Desperate to fit in at school, Sam rejects her Indian culture and family to be l
 
 > [!note]- Log
 > Watched 18 Sep 2023 · ★ 2.5
-> Tags  andrew · dean · cinema · odeon-blanch · preview · scream-unseen
+> Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]] · [[preview]] · [[scream-unseen]]
 
 > [!info]- Cast & crew
 > **Director** [[Bishal Dutta]]

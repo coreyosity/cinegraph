@@ -62,7 +62,7 @@ At an elite, old-fashioned boarding school in New England, a passionate English 
 
 > [!note]- Log
 > Watched 20 Oct 2025 · ★ 5.0
-> Tags  myself · netflix · train
+> Tags  [[myself]] · [[netflix]] · [[train]]
 
 > [!info]- Cast & crew
 > **Director** [[Peter Weir]]

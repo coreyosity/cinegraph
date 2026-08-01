@@ -56,7 +56,7 @@ In the West End of 1950s London, plans for a movie version of a smash-hit play c
 
 > [!note]- Log
 > Watched 6 Nov 2022 · ★ 3.5
-> Tags  myself · disney+ · home
+> Tags  [[myself]] · [[disney+]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Tom George]]

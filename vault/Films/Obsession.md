@@ -37,7 +37,7 @@ Daisy is perfect. Ramona is not perfect. Therefore, Daisy must watch Ramona. Dai
 
 > [!note]- Log
 > Watched 16 May 2026 · ★ 4.5
-> Tags  cinema · conor · the square
+> Tags  [[cinema]] · [[conor]] · [[the square]]
 
 > [!info]- Cast & crew
 > **Director** [[Audrey Collins]]

@@ -73,7 +73,7 @@ A woman is suspected of her husband's murder, and their blind son faces a moral 
 
 > [!note]- Log
 > Watched 25 Jan 2025 · ★ 5.0
-> Tags  dean · home · prime
+> Tags  [[dean]] · [[home]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Justine Triet]]

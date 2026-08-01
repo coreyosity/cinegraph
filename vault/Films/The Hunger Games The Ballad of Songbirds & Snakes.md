@@ -72,7 +72,7 @@ log_tags:
 
 > [!note]- Log
 > Watched 16 Dec 2023 · ★ 4.0
-> Tags  dean · andrew · cinema · odeon-blanch
+> Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 
 > [!info]- Cast & crew
 > **Director** [[Francis Lawrence]]

@@ -82,7 +82,7 @@ Five friends set out for a weekend at a remote cabin in the woods, expecting not
 
 > [!note]- Log
 > Watched 1 Jun 2025 · ★ 2.5 · Rewatch
-> Tags  netflix · home · myself
+> Tags  [[netflix]] · [[home]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Drew Goddard]]

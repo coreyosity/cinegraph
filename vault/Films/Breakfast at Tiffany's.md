@@ -73,7 +73,7 @@ Holly Golightly is an eccentric New York City playgirl determined to marry a Bra
 
 > [!note]- Log
 > Watched 28 Sep 2024 · ★ 3.5 · Rewatch
-> Tags  myself · torrent · home · mam · dad · sky · wexford
+> Tags  [[myself]] · [[torrent]] · [[home]] · [[mam]] · [[dad]] · [[sky]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Blake Edwards]]

@@ -82,7 +82,7 @@ Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimbl
 
 > [!note]- Log
 > Watched 23 Nov 2025 · ★ 4.0
-> Tags  netflix · home · myself
+> Tags  [[netflix]] · [[home]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Andrew Davis]]

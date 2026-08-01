@@ -78,7 +78,7 @@ Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotl
 
 > [!note]- Log
 > Watched 20 Aug 2023 · ★ 3.5
-> Tags  dean · andrew · netflix · home
+> Tags  [[dean]] · [[andrew]] · [[netflix]] · [[home]]
 
 > [!info]- Cast & crew
 > **Director** [[Yorgos Lanthimos]]

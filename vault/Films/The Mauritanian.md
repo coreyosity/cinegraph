@@ -65,7 +65,7 @@ The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S 
 
 > [!note]- Log
 > Watched 6 Jul 2022 · ★ 4.5
-> Tags  dad · wexford · prime
+> Tags  [[dad]] · [[wexford]] · [[prime]]
 
 > [!info]- Cast & crew
 > **Director** [[Kevin Macdonald]]

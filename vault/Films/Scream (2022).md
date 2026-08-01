@@ -81,7 +81,7 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 
 > [!note]- Log
 > Watched 28 Jan 2023 · ★ 4.0
-> Tags  mam · erin · sky · wexford
+> Tags  [[mam]] · [[erin]] · [[sky]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Tyler Gillett]]

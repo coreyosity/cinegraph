@@ -86,7 +86,7 @@ In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job 
 
 > [!note]- Log
 > Watched 25 Nov 2023 · ★ 4.0
-> Tags  home · torrent · myself
+> Tags  [[home]] · [[torrent]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Ken Loach]]

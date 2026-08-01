@@ -71,7 +71,7 @@ A woman in her sixties embarks on a journey through the western United States af
 
 > [!note]- Log
 > Watched 8 Mar 2026 · ★ 3.5
-> Tags  home · myself · disney+
+> Tags  [[home]] · [[myself]] · [[disney+]]
 
 > [!info]- Cast & crew
 > **Director** [[Chloé Zhao]]

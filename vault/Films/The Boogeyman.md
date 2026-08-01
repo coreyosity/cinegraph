@@ -54,7 +54,7 @@ Still reeling from the tragic death of their mother, a teenage girl and her youn
 
 > [!note]- Log
 > Watched 13 Jun 2023 · ★ 2.0
-> Tags  odeon-blanch · dean · cinema
+> Tags  [[odeon-blanch]] · [[dean]] · [[cinema]]
 
 > [!info]- Cast & crew
 > **Director** [[Rob Savage]]

@@ -89,7 +89,7 @@ Happily ever after never seemed so far far away when a trip to meet the in-laws 
 
 > [!note]- Log
 > Watched 4 Jan 2025 · ★ 4.0 · Rewatch
-> Tags  irish · wexford · tg4 · myself
+> Tags  [[irish]] · [[wexford]] · [[tg4]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Conrad Vernon]]

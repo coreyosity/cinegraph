@@ -63,7 +63,7 @@ A rich man learns about a guru who can see without using his eyes. He sets out t
 
 > [!note]- Log
 > Watched 1 Oct 2023 · ★ 4.0
-> Tags  caleb · netflix · wexford
+> Tags  [[caleb]] · [[netflix]] · [[wexford]]
 
 > [!info]- Cast & crew
 > **Director** [[Wes Anderson]]

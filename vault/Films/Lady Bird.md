@@ -73,7 +73,7 @@ Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old c
 
 > [!note]- Log
 > Watched 1 Aug 2024 · ★ 4.0
-> Tags  andrew · dean · home · netflix
+> Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 
 > [!info]- Cast & crew
 > **Director** [[Greta Gerwig]]

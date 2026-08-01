@@ -69,7 +69,7 @@ Mismatched cousins David and Benji reunite for a tour through Poland to honor th
 
 > [!note]- Log
 > Watched 11 Jan 2025 · ★ 4.0
-> Tags  odeon-the-point · myself
+> Tags  [[odeon-the-point]] · [[myself]]
 
 > [!info]- Cast & crew
 > **Director** [[Jesse Eisenberg]]
