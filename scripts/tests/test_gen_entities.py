@@ -29,6 +29,29 @@ def test_collect_entities_counts_roles_and_ratings(tmp_path):
     assert sorted(ratings["genre"]["G"]) == [2.0, 4.0]
 
 
+def test_collect_and_ensure_log_tags(tmp_path):
+    _film(tmp_path, "Films", "A", log_tags=["cinema", "dean"], rating=4)
+    _film(tmp_path, "Films", "B", log_tags=["cinema"], rating=2)
+    _film(tmp_path, "Watchlist", "W", log_tags=["ignored"])   # watchlist isn't "watched"
+
+    _people, counts, ratings = gen_entities.collect_entities(tmp_path)
+    assert counts["tag"]["cinema"] == 2 and counts["tag"]["dean"] == 1
+    assert "ignored" not in counts["tag"]                     # watchlist log_tags not counted
+    assert sorted(ratings["tag"]["cinema"]) == [2.0, 4.0]
+
+    # A /logs/<tag> stub with an explicit title (the client's exact match key) + taste stats.
+    assert gen_entities.ensure_tag(tmp_path, "disney+", 3, 3.5, 2) == "created"
+    meta, body = common.read_note(tmp_path / "Logs" / "disney+.md")
+    assert meta["type"] == "logtag" and meta["title"] == "disney+"
+    assert meta["film_count"] == 3 and meta["avg_rating"] == 3.5 and meta["tags"] == ["logtag"]
+    assert body.strip() == "# disney+"
+
+    # Idempotent refresh; stats cleared when the tag has no rated films.
+    assert gen_entities.ensure_tag(tmp_path, "disney+", 5, None, 0) == "updated"
+    meta2, _ = common.read_note(tmp_path / "Logs" / "disney+.md")
+    assert meta2["film_count"] == 5 and "avg_rating" not in meta2
+
+
 def test_rating_stats():
     assert gen_entities._rating_stats([4.0, 5.0]) == (4.5, 2)
     assert gen_entities._rating_stats([]) == (None, 0)

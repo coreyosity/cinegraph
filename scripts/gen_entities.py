@@ -36,12 +36,14 @@ LINKED_FOLDERS = ("Films", "Watchlist")
 def collect_entities(vault: Path):
     people_roles: dict[str, set[str]] = defaultdict(set)  # name -> {roles}
     counts: dict[str, Counter[str]] = {"person": Counter(), "studio": Counter(),
-                                       "genre": Counter(), "theme": Counter()}
+                                       "genre": Counter(), "theme": Counter(),
+                                       "tag": Counter()}
     # name -> list of your ratings on the (rated) films linking this entity. Powers the
     # taste-ranked Bases views ("your best directors/actors/genres/studios").
     ratings: dict[str, defaultdict[str, list[float]]] = {
         "person": defaultdict(list), "studio": defaultdict(list),
-        "genre": defaultdict(list), "theme": defaultdict(list)}
+        "genre": defaultdict(list), "theme": defaultdict(list),
+        "tag": defaultdict(list)}
     # Entities seen only on the (unwatched) Watchlist still need a stub so their links
     # resolve; tracked here so they get created with film_count 0.
     seen_simple: dict[str, set[str]] = {"studio": set(), "genre": set()}
@@ -72,7 +74,9 @@ def collect_entities(vault: Path):
                 counts["person"][name] += 1
                 if rating is not None:
                     ratings["person"][name].append(rating)
-            for field, values in (("studio", studios), ("genre", genres), ("theme", themes)):
+            log_tags = set(common.as_list(meta.get("log_tags")))
+            for field, values in (("studio", studios), ("genre", genres),
+                                  ("theme", themes), ("tag", log_tags)):
                 for value in values:
                     counts[field][value] += 1
                     if rating is not None:
@@ -174,6 +178,29 @@ def ensure_simple(
     return "created"
 
 
+def ensure_tag(
+    vault: Path, tag: str, film_count: int, avg_rating: float | None, rated_count: int,
+) -> str:
+    """A /logs/<tag> hub page for a Letterboxd diary tag. Unlike studios/genres, the display
+    name is written explicitly (`title`) — it's the exact key the site's client matches
+    against each film's raw `log_tags`, robust to tags like 'disney+' or 'tv show'. Always
+    listed (no graph-hide): the film→tag wikilinks make these first-class graph nodes."""
+    path = vault / "Logs" / f"{common.link_name(tag)}.md"
+    if path.exists():
+        meta, body = common.read_note(path)
+        meta["type"] = "logtag"
+        meta["title"] = tag
+        meta["film_count"] = film_count
+        meta["tags"] = ["logtag"]
+        _apply_rating(meta, avg_rating, rated_count)
+        common.write_note(path, meta, body)
+        return "updated"
+    meta = {"type": "logtag", "title": tag, "film_count": film_count, "tags": ["logtag"]}
+    _apply_rating(meta, avg_rating, rated_count)
+    common.write_note(path, meta, f"# {tag}")
+    return "created"
+
+
 def verify_links(vault: Path) -> set[str]:
     """Return the set of body wikilink targets with no matching note file."""
     existing = {p.stem for p in vault.rglob("*.md")}
@@ -239,9 +266,14 @@ def main() -> int:
         for name, n in themes.items():
             avg, rc = _rating_stats(ratings["theme"][name])
             tally[ensure_simple(vault, "Themes", name, "theme", n, False, avg, rc)] += 1
+        # Log tags: every distinct diary tag gets a /logs/<tag> hub page (no threshold).
+        for name, n in counts["tag"].items():
+            avg, rc = _rating_stats(ratings["tag"][name])
+            tally[ensure_tag(vault, name, n, avg, rc)] += 1
         print(
             f"People: {len(people_roles)} | Studios: {len(counts['studio'])} | "
-            f"Genres: {len(counts['genre'])} | Themes: {len(themes)}"
+            f"Genres: {len(counts['genre'])} | Themes: {len(themes)} | "
+            f"Tags: {len(counts['tag'])}"
         )
         print(
             f"Stubs created={tally['created']} updated={tally['updated']} "

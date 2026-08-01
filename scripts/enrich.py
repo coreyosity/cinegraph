@@ -206,7 +206,8 @@ def render_log(watched, rating, rewatch, log_tags) -> str | None:
         lines.append(" · ".join(head))
     tags = common.as_list(log_tags)
     if tags:
-        lines.append("Tags  " + " · ".join(tags))
+        # wikilinks so each tag resolves to its /logs/<tag> hub page (and joins the graph)
+        lines.append("Tags  " + " · ".join(common.wikilink(t) for t in tags))
     if not lines:
         return None
     return "> [!note]- Log\n" + "\n".join("> " + ln for ln in lines)

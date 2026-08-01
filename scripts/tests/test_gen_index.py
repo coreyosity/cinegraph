@@ -14,7 +14,7 @@ def test_fallback_slug():
 
 def test_build_records_orders_joins_slugs_and_themes(tmp_path):
     _film(tmp_path, "Dune", title="Dune", year=2021, rating=5, tmdb_id=1, watched="2023-05-12",
-          genres=["Science Fiction"], keywords=["desert", "spice"])
+          genres=["Science Fiction"], keywords=["desert", "spice"], log_tags=["cinema"])
     _film(tmp_path, "Argo", title="Argo", year=2012, rating=4, tmdb_id=2, keywords=["heist"])
     common.write_note(tmp_path / "Themes" / "desert.md", {"type": "theme"}, "# desert")
 
@@ -29,6 +29,8 @@ def test_build_records_orders_joins_slugs_and_themes(tmp_path):
     assert "related" in records[0]                             # similarity attached
     assert records[0]["watched"] == "2023-05-12"               # core field: the grid sorts on it
     assert records[1]["watched"] is None                       # absent -> null, not missing
+    assert records[0]["log_tags"] == ["cinema"]                # core field feeding /logs/<tag> pages
+    assert records[1]["log_tags"] == []                        # absent -> empty list, not missing
 
 
 def test_split_detail_partitions_and_stays_index_aligned():

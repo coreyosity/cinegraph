@@ -9,7 +9,7 @@ import { asArr, filmHero } from "./hero.js"
 // fills whichever mount is present.
 export const PosterGrid = () => {
   // stub `type` → the entity kind rendered by the client (studio/genre/theme pages)
-  const KIND_BY_TYPE = { studio: "studio", genre: "genre", theme: "theme" }
+  const KIND_BY_TYPE = { studio: "studio", genre: "genre", theme: "theme", logtag: "logtag" }
   const cap = (r) => (r ? r[0].toUpperCase() + r.slice(1) : r)
 
   const View = ({ fileData }) => {

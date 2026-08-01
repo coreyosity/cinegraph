@@ -86,6 +86,7 @@ def build_records(vault: Path, slugs: dict[str, str]) -> list[dict]:
                 "genres": as_list(meta.get("genres")),
                 "studios": as_list(meta.get("studios")),
                 "keywords": as_list(meta.get("keywords")),
+                "log_tags": as_list(meta.get("log_tags")),
                 "country": meta.get("country"),
                 "country_code": meta.get("country_code"),
                 "language": meta.get("language"),

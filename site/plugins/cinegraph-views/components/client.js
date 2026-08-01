@@ -769,8 +769,9 @@ export function cinegraphViewsClient() {
   // --- studio / genre / theme pages ------------------------------------------
   // theme uses the cleaned `themes` field (page-backed keywords) so its film filter and
   // "Related themes" chips never touch junk keywords or link to non-existent pages.
-  var ENTITY_FIELD = { studio: "studios", genre: "genres", theme: "themes" }
-  var ENTITY_FOLDER = { studio: "studios", genre: "genres", theme: "themes" }
+  var ENTITY_FIELD = { studio: "studios", genre: "genres", theme: "themes", logtag: "log_tags" }
+  var ENTITY_FOLDER = { studio: "studios", genre: "genres", theme: "themes", logtag: "logs" }
+  var ENTITY_LABEL = { studio: "studios", genre: "genres", theme: "themes", logtag: "tags" }
 
   async function renderEntity(mount) {
     if (mount.dataset.done) return
@@ -806,7 +807,7 @@ export function cinegraphViewsClient() {
     }
     mount.innerHTML =
       gridSec("Films", mine) +
-      chipSec("Related " + kind + "s", related, ENTITY_FOLDER[kind]) +
+      chipSec("Related " + (ENTITY_LABEL[kind] || kind + "s"), related, ENTITY_FOLDER[kind]) +
       chipSec("Top directors", dirs, "people") +
       chipSec("Top actors", actors, "people")
   }

@@ -72,10 +72,11 @@ def test_fmt_date():
 
 
 def test_render_log_full_partial_and_empty():
+    # tags render as wikilinks so they resolve to their /logs/<tag> hub pages
     assert enrich.render_log("2023-02-24", 4.0, True, ["cinema", "dean"]) == (
         "> [!note]- Log\n"
         "> Watched 24 Feb 2023 · ★ 4.0 · Rewatch\n"
-        "> Tags  cinema · dean"
+        "> Tags  [[cinema]] · [[dean]]"
     )
     # no rating, not a rewatch -> just the watched date
     assert enrich.render_log("2023-02-24", None, False, []) == (
@@ -83,7 +84,7 @@ def test_render_log_full_partial_and_empty():
     )
     # tags only (no diary entry) -> just the tags line
     assert enrich.render_log(None, None, False, ["home"]) == (
-        "> [!note]- Log\n> Tags  home"
+        "> [!note]- Log\n> Tags  [[home]]"
     )
     assert enrich.render_log(None, None, False, None) is None  # nothing logged
 
@@ -94,7 +95,7 @@ def test_build_note_body_has_log_callout_when_logged():
     _, body = enrich.build_note(meta, _movie_data(), "movie", cast_size=2)
     assert "> [!note]- Log" in body
     assert "> Watched 12 May 2023 · ★ 4.5 · Rewatch" in body
-    assert "> Tags  cinema · dean" in body
+    assert "> Tags  [[cinema]] · [[dean]]" in body
     # order: overview, then Log, then Cast & crew
     assert body.index("young blade runner") < body.index("[!note]- Log") < body.index("[!info]- Cast")
 

@@ -21,6 +21,7 @@ vault/People/
 vault/Studios/
 vault/Genres/
 vault/Themes/
+vault/Logs/
 # keep persistent user dismissals (survives discover.py reruns); ignore the rest of Discover/
 vault/Discover/*
 !vault/Discover/_dismissed/
