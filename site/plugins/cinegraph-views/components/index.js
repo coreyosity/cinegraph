@@ -44,7 +44,7 @@ export const PosterGrid = () => {
 
     // Film pages (Films/, Watchlist/) and individual recommendations get the rich hero.
     if ((fm.type === "film" || fm.type === "recommendation") && slug !== "films/index")
-      return filmHero(fm)
+      return filmHero(fm, slug)
 
     // Person pages: a stats line + a client-filled body (directed/acted/related).
     if (fm.type === "person") {
