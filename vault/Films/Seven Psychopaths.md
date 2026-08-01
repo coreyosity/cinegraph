@@ -64,7 +64,7 @@ providers:
 
 A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

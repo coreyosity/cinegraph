@@ -46,7 +46,7 @@ providers:
 
 King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.0
 
 > [!info]- Cast & crew

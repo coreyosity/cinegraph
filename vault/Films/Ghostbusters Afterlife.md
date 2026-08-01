@@ -63,7 +63,7 @@ providers:
 
 When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

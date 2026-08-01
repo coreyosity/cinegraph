@@ -70,7 +70,7 @@ providers:
 
 Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

@@ -71,7 +71,7 @@ providers:
 
 27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022
 
 > [!info]- Cast & crew

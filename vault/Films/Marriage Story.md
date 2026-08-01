@@ -50,7 +50,7 @@ providers:
 
 A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

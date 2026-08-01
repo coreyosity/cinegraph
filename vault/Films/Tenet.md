@@ -66,7 +66,7 @@ providers:
 
 Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.0
 
 > [!info]- Cast & crew

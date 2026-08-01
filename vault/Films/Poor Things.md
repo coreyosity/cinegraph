@@ -86,7 +86,7 @@ log_tags:
 
 Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jan 2024 · ★ 5.0
 > Tags  [[cinema]] · [[myself]] · [[odeon-blanch]]
 

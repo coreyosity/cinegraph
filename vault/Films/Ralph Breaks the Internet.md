@@ -55,7 +55,7 @@ providers:
 
 Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, Sugar Rush. In way over their heads, Ralph and Vanellope rely on the citizens of the internet — the netizens — to help navigate their way, including an entrepreneur named Yesss, who is the head algorithm and the heart and soul of trend-making site BuzzzTube.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

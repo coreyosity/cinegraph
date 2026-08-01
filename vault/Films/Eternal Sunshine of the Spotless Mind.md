@@ -70,7 +70,7 @@ log_tags:
 
 Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Mar 2024 · ★ 4.0 · Rewatch
 > Tags  [[dean]] · [[andrew]] · [[home]] · [[netflix]]
 

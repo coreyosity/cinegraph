@@ -58,7 +58,7 @@ providers:
 
 When an attack on the Kingsman headquarters takes place and a new villain rises, Eggsy and Merlin are forced to work together with the American agency known as the Statesman to save the world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jul 2024
 
 > [!info]- Cast & crew

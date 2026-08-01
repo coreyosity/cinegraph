@@ -65,7 +65,7 @@ log_tags:
 
 Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jan 2026 · ★ 3.5
 > Tags  [[andrew]] · [[eve]] · [[grace]] · [[cat]] · [[lighthouse]] · [[cinema]]
 

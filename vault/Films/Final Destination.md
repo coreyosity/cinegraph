@@ -69,7 +69,7 @@ log_tags:
 
 After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 May 2025 · ★ 3.0 · Rewatch
 > Tags  [[prime]] · [[dean]] · [[andrew]]
 

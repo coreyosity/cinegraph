@@ -63,7 +63,7 @@ log_tags:
 
 A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Oct 2025 · ★ 4.5 · Rewatch
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]] · [[wexford]] · [[mam]]
 

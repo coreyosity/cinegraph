@@ -66,7 +66,7 @@ providers:
 
 The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

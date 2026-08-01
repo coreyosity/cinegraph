@@ -59,7 +59,7 @@ providers:
 
 A crew of miniature aliens operate a spaceship that has a human form. While trying to save their planet, the aliens encounter a new problem, as their ship becomes smitten with an Earth woman.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

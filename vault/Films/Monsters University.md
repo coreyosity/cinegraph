@@ -55,7 +55,7 @@ providers:
 
 A look at the relationship between Mike and Sulley during their days at Monsters University — when they weren't necessarily the best of friends.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

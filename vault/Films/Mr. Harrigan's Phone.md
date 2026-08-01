@@ -47,7 +47,7 @@ providers:
 
 Craig, a young boy living in a small town befriends an older, reclusive billionaire, Mr. Harrigan. The two form a bond over books and an iPhone, but when the man passes away the boy discovers that not everything dead is gone.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

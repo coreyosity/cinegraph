@@ -77,7 +77,7 @@ providers:
 
 In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

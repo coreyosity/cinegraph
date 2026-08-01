@@ -59,7 +59,7 @@ providers:
 
 The tale of an ordinary garden snail who dreams of winning the Indy 500.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025
 
 > [!info]- Cast & crew

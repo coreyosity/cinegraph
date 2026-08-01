@@ -56,7 +56,7 @@ providers:
 
 Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

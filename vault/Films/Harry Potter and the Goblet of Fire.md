@@ -69,7 +69,7 @@ providers:
 
 When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2022
 
 > [!info]- Cast & crew

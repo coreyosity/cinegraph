@@ -58,7 +58,7 @@ providers:
 
 Nanny McPhee appears at the door of a harried young mother who is trying to run the family farm while her husband is away at war. But once she’s arrived, Nanny discovers that the children are fighting a war of their own against two spoiled city cousins who have just moved in. Relying on everything from a flying motorcycle and a statue that comes to life to a tree-climbing piglet and a baby elephant, Nanny uses her magic to teach her mischievous charges five new lessons.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2022
 
 > [!info]- Cast & crew

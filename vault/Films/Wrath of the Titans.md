@@ -54,7 +54,7 @@ providers:
 
 Perseus tries to live a quieter life as a village fisherman while – dangerously weakened by humanity's lack of devotion – the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2022
 
 > [!info]- Cast & crew

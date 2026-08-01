@@ -76,7 +76,7 @@ log_tags:
 
 Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Dec 2025 · ★ 3.5 · Rewatch
 > Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[eve]] · [[caleb]] · [[dad]] · [[wexford]] · [[disney+]]
 

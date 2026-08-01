@@ -61,7 +61,7 @@ providers:
 
 Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Nov 2023
 
 > [!info]- Cast & crew

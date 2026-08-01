@@ -75,7 +75,7 @@ providers:
 
 When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022
 
 > [!info]- Cast & crew

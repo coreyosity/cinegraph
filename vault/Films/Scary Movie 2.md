@@ -64,7 +64,7 @@ providers:
 
 A group of students visit a mansion called "Hell House," and murderous high jinks ensue.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

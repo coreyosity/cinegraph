@@ -94,7 +94,7 @@ log_tags:
 
 The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Feb 2024 · ★ 5.0 · Rewatch
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 

@@ -44,7 +44,7 @@ letterboxd: https://boxd.it/neO
 
 Three high school seniors throw a party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

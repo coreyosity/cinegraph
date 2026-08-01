@@ -57,7 +57,7 @@ providers:
 
 A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Feb 2026 · ★ 4.0
 
 > [!info]- Cast & crew

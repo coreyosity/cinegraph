@@ -71,7 +71,7 @@ log_tags:
 
 A strange doorway appears in the basement of a furniture showroom.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2026 · ★ 3.0
 > Tags  [[cinema]] · [[lighthouse]] · [[conor]] · [[alex cullen]] · [[martha]] · [[ella]] · [[luke mcg]] · [[eoin wall]] · [[michal]]
 

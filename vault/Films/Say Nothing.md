@@ -52,7 +52,7 @@ log_tags:
 
 Through the eyes of various Irish Republican Army (IRA) members, explore the extremes some people will go to in the name of their beliefs, the way a deeply divided society can suddenly tip over into armed conflict, the long shadow of radical violence for both victims and perpetrators, and the emotional and psychological costs of a code of silence.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024 · ★ 4.0
 > Tags  [[disney+]] · [[tv show]] · [[myself]]
 

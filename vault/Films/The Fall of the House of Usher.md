@@ -51,7 +51,7 @@ providers:
 
 Ruthless siblings Roderick and Madeline Usher have built Fortunato Pharmaceuticals into an empire of wealth, privilege and power. But past secrets come to light when the heirs to the Usher dynasty start dying at the hands of a mysterious woman from their youth.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

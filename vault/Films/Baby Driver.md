@@ -67,7 +67,7 @@ providers:
 
 After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.0
 
 > [!info]- Cast & crew

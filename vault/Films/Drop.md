@@ -64,7 +64,7 @@ log_tags:
 
 Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Apr 2025 · ★ 2.0
 > Tags  [[dean]] · [[cinema]] · [[andrew]] · [[odeon-the-point]]
 

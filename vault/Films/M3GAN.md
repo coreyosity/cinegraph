@@ -68,7 +68,7 @@ log_tags:
 
 A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Jan 2023 · ★ 2.5
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

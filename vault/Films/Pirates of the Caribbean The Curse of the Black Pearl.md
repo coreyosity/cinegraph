@@ -58,7 +58,7 @@ providers:
 
 When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

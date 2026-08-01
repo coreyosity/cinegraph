@@ -72,7 +72,7 @@ providers:
 
 A small suburban town receives a visit from a castaway unfinished science experiment named Edward.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022
 
 > [!info]- Cast & crew

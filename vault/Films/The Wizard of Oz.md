@@ -72,7 +72,7 @@ providers:
 
 Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

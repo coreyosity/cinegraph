@@ -70,7 +70,7 @@ providers:
 
 After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

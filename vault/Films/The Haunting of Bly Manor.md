@@ -51,7 +51,7 @@ providers:
 
 After an au pair's tragic death, Henry Wingrave hires a young American nanny to care for his orphaned niece and nephew who reside at Bly Manor with the estate's chef Owen, groundskeeper Jamie and housekeeper, Mrs. Grose. But all is not as it seems at the manor, and centuries of dark secrets of love and loss are waiting to be unearthed in this chilling tale.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Oct 2022 · ★ 4.0
 
 > [!info]- Cast & crew

@@ -85,7 +85,7 @@ log_tags:
 
 Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 May 2024 · ★ 3.0
 > Tags  [[myself]] · [[prime]] · [[home]]
 

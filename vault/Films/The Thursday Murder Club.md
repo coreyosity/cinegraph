@@ -54,7 +54,7 @@ log_tags:
 
 A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Sep 2025 · ★ 2.0
 > Tags  [[mam]] · [[dad]] · [[netflix]] · [[wexford]]
 

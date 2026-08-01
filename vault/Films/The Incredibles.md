@@ -53,7 +53,7 @@ providers:
 
 Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

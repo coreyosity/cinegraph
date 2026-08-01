@@ -62,7 +62,7 @@ providers:
 
 Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

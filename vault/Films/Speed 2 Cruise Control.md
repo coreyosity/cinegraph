@@ -51,7 +51,7 @@ providers:
 
 A disgruntled former employee hijacks the Seabourn Legend cruise liner. Set on a fixed course, without any means of communication and at the mercy of the hijacker, it's up to the one cop on vacation, and his soon to be fiancé (hopefully) Annie, to regain control of it before it kills the passengers and causes an environmental disaster. Insurmountable and daunting tasks await them on their  perilous journey throughout the ship trying to fend off the hijacker and save the passengers.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

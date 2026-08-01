@@ -64,7 +64,7 @@ providers:
 
 After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023 · ★ 5.0
 
 > [!info]- Cast & crew

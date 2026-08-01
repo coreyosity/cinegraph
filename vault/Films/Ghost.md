@@ -65,7 +65,7 @@ providers:
 
 After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

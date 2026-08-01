@@ -57,7 +57,7 @@ providers:
 
 A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025
 
 > [!info]- Cast & crew

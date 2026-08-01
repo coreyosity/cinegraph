@@ -55,7 +55,7 @@ providers:
 
 Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Dec 2024
 
 > [!info]- Cast & crew

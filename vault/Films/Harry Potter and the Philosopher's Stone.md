@@ -72,7 +72,7 @@ providers:
 
 Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

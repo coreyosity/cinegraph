@@ -48,7 +48,7 @@ providers:
 
 It's all extreme sports and a life of freedom as Max sets off for college -- but Goofy misses Max so much he loses his job and goes to finish college alongside Max and his friends. But as Goofy tries to get closer to Max, both must go to the extreme to learn how to live their own lives together.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Apr 2025
 
 > [!info]- Cast & crew

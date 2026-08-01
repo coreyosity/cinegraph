@@ -58,7 +58,7 @@ log_tags:
 
 Curtis Pike and his family are selected to test a new home device: a digital assistant called AIA. AIA observes the family's behaviors and begins to anticipate their needs. And she can – and will – make sure nothing – and no one – gets in her family's way.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Aug 2024 · ★ 1.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 

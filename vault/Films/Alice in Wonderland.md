@@ -58,7 +58,7 @@ providers:
 
 Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

@@ -73,7 +73,7 @@ log_tags:
 
 A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Sep 2024 · ★ 3.5 · Rewatch
 > Tags  [[dean]] · [[andrew]] · [[netflix]]
 

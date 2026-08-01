@@ -87,7 +87,7 @@ log_tags:
 
 When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Feb 2025 · ★ 3.0
 > Tags  [[odeon-the-point]] · [[cinema]] · [[scream-unseen]] · [[dean]] · [[andrew]] · [[preview]]
 

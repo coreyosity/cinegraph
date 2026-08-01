@@ -56,7 +56,7 @@ log_tags:
 
 An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Nov 2023 · ★ 3.5
 > Tags  [[andrew]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 

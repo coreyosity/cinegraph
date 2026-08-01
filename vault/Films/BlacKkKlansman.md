@@ -60,7 +60,7 @@ providers:
 
 Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.0
 
 > [!info]- Cast & crew

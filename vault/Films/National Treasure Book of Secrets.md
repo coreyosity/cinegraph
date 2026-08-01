@@ -82,7 +82,7 @@ providers:
 
 Benjamin Franklin Gates and Abigail Chase re-team with Riley Poole and, now armed with a stack of long-lost pages from John Wilkes Booth's diary, Ben must follow a clue left there to prove his ancestor's innocence in the assassination of Abraham Lincoln.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Apr 2025
 
 > [!info]- Cast & crew

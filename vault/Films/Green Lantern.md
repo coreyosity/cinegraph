@@ -60,7 +60,7 @@ providers:
 
 For centuries, a small but powerful force of warriors called the Green Lantern Corps has sworn to keep intergalactic order. Each Green Lantern wears a ring that grants him superpowers. But when a new enemy called Parallax threatens to destroy the balance of power in the Universe, their fate and the fate of Earth lie in the hands of the first human ever recruited.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

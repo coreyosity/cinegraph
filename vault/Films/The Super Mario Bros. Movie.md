@@ -66,7 +66,7 @@ log_tags:
 
 While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Apr 2023 · ★ 2.5
 > Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 

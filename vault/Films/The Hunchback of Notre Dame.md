@@ -61,7 +61,7 @@ providers:
 
 Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wishes of Judge Claude Frollo, his stern guardian and Paris' strait-laced Minister of Justice. His first venture to the outside world finds him Esmeralda, a kind-hearted and fearless Romani woman who openly stands up to Frollo's tyranny.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

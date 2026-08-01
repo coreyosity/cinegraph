@@ -56,7 +56,7 @@ providers:
 
 Suspicious that her colleague is responsible for a series of mysterious patient deaths, a nurse risks her own life to uncover the truth.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 May 2026
 
 > [!info]- Cast & crew

@@ -56,7 +56,7 @@ providers:
 
 A fantasy movie about an arrogant, lazy prince and his more heroic brother who must complete a quest in order to save their father's kingdom.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

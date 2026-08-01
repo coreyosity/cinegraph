@@ -65,7 +65,7 @@ log_tags:
 
 After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 May 2025 · ★ 4.0
 > Tags  [[dean]] · [[andrew]] · [[eve]] · [[grace]] · [[odeon-the-point]] · [[isense]]
 

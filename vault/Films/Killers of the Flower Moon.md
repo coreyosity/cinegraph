@@ -78,7 +78,7 @@ log_tags:
 
 When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Nov 2023 · ★ 4.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 

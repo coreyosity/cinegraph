@@ -52,7 +52,7 @@ providers:
 
 After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

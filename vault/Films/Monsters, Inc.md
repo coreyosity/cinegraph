@@ -65,7 +65,7 @@ providers:
 
 Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

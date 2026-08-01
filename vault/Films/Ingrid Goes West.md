@@ -56,7 +56,7 @@ providers:
 
 Ingrid becomes obsessed with a social network star named Taylor Sloane who seemingly has a perfect life. But when Ingrid decides to drop everything and move west to be Taylor's friend, her behaviour turns unsettling and dangerous.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

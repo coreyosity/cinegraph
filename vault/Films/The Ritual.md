@@ -65,7 +65,7 @@ log_tags:
 
 A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Mar 2025 · ★ 2.5
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

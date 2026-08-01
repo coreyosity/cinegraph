@@ -68,7 +68,7 @@ log_tags:
 
 Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Sep 2024 · ★ 4.5 · Rewatch
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]] · [[3d]]
 

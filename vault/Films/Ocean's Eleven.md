@@ -78,7 +78,7 @@ log_tags:
 
 Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Mar 2025 · ★ 4.0
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

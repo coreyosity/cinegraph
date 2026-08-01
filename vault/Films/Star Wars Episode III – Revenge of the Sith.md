@@ -70,7 +70,7 @@ log_tags:
 
 When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2025 · ★ 3.5
 > Tags  [[cinema]] · [[eve]] · [[grace]] · [[lighthouse]]
 

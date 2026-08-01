@@ -56,7 +56,7 @@ providers:
 
 Two men get laid off and have to become stay-at-home dads when they can't find jobs, which inspires them to open their own day-care center.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

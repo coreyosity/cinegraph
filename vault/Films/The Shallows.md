@@ -75,7 +75,7 @@ providers:
 
 While surfing on a secluded beach, Nancy finds herself in the feeding grounds of a great white shark. Though stranded only 200 yards from shore, survival proves to be the ultimate test of wills, requiring all of her ingenuity, resourcefulness, and fortitude.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025
 
 > [!info]- Cast & crew

@@ -53,7 +53,7 @@ providers:
 
 The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

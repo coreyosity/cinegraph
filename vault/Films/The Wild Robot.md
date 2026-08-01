@@ -77,7 +77,7 @@ log_tags:
 
 After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Mar 2025 · ★ 4.5
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

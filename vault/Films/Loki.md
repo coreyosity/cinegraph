@@ -38,7 +38,7 @@ providers:
 
 Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

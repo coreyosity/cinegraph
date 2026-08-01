@@ -83,7 +83,7 @@ log_tags:
 
 A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Sep 2024 · ★ 4.5 · Rewatch
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[scream-unseen]] · [[preview]]
 

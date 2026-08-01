@@ -48,7 +48,7 @@ letterboxd: https://boxd.it/1Qis
 
 Sam the snowman tells us the story of a young red-nosed reindeer who, after being ousted from the reindeer games because of his glowing nose, teams up with Hermey, an elf who wants to be a dentist, and Yukon Cornelius, the prospector. They run into the Abominable Snowman and find a whole island of misfit toys. Rudolph vows to see if he can get Santa to help the toys, and he goes back to the North Pole on Christmas Eve. But Santa's sleigh is fogged in. But when Santa looks over Rudolph, he gets a very bright idea...
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2025
 
 > [!info]- Cast & crew

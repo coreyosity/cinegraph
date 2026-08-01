@@ -77,7 +77,7 @@ log_tags:
 
 After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Jun 2024 · ★ 4.0
 > Tags  [[myself]] · [[home]] · [[torrent]]
 

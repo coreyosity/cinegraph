@@ -71,7 +71,7 @@ providers:
 
 Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Nov 2024
 
 > [!info]- Cast & crew

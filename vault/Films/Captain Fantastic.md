@@ -70,7 +70,7 @@ log_tags:
 
 Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 Jun 2024 · ★ 4.5
 > Tags  [[myself]] · [[home]] · [[disney+]]
 

@@ -91,7 +91,7 @@ log_tags:
 
 Two recently laid-off men in their 40s try to make it as interns at a successful Internet company where their managers are in their 20s.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 May 2025 · ★ 3.0 · Rewatch
 > Tags  [[netflix]] · [[dean]] · [[andrew]]
 

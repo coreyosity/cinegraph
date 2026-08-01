@@ -48,7 +48,7 @@ providers:
 
 The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

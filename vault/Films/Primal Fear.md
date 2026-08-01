@@ -75,7 +75,7 @@ providers:
 
 Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Jul 2022 · ★ 4.5
 
 > [!info]- Cast & crew

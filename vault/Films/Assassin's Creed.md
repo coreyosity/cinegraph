@@ -59,7 +59,7 @@ providers:
 
 Through a technology that unlocks the genetic memories of his ancestor in 15th century Spain, Callum Lynch discovers he is a descendant of an ancient line of Assassins and amasses lethal skills to take on the oppressive Templar Order.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Dec 2024
 
 > [!info]- Cast & crew

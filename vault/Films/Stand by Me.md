@@ -73,7 +73,7 @@ providers:
 
 After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 5.0
 
 > [!info]- Cast & crew

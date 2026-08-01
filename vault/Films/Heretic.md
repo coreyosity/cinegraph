@@ -73,7 +73,7 @@ log_tags:
 
 Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed, becoming ensnared in his deadly game of cat-and-mouse.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Nov 2024 · ★ 4.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 

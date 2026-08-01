@@ -58,7 +58,7 @@ log_tags:
 
 Two strangers strike up a conversation on a long journey. However, neither is who they appear to be, each carry secrets that threaten to ruin them — and in the background, one of the nation's largest police operations is closing in.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Feb 2024
 > Tags  [[dad]] · [[wexford]] · [[netflix]]
 

@@ -62,7 +62,7 @@ log_tags:
 
 Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Oct 2025 · ★ 3.5
 > Tags  [[cinema]] · [[the square]] · [[conor]]
 

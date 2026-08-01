@@ -56,7 +56,7 @@ providers:
 
 In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Oct 2022 · ★ 5.0
 
 > [!info]- Cast & crew

@@ -50,7 +50,7 @@ providers:
 
 Little Red Riding Hood: A classic story, but there's more to every tale than meets the eye. Before you judge a book by its cover, you've got to flip through the pages. In the re-telling of this classic fable, the story begins at the end of the tale and winds its way back. Chief Grizzly and Detective Bill Stork investigate a domestic disturbance at Granny's cottage, involving a karate-kicking Red Riding Hood, a sarcastic wolf and an oafish Woodsman.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

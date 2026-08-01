@@ -48,7 +48,7 @@ providers:
 
 Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

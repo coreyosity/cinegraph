@@ -65,7 +65,7 @@ log_tags:
 
 Lily and Amanda, two high school students living in suburban Connecticut, rekindle their unlikely friendship after years of drifting apart. Together, they devise a plan to kill Lily's abusive stepfather by hiring a lowlife drug dealer.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Oct 2022 · ★ 3.5
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

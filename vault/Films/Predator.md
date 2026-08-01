@@ -66,7 +66,7 @@ providers:
 
 A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

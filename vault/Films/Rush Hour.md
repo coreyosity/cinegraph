@@ -60,7 +60,7 @@ providers:
 
 When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2022
 
 > [!info]- Cast & crew

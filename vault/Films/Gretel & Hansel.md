@@ -57,7 +57,7 @@ log_tags:
 
 A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Mar 2025 · ★ 2.5
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

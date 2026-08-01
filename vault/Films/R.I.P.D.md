@@ -59,7 +59,7 @@ providers:
 
 A recently slain cop joins a team of undead police officers working for the Rest in Peace Department and tries to find the man who murdered him.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

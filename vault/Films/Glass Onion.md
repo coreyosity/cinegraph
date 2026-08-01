@@ -64,7 +64,7 @@ log_tags:
 
 World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jan 2023 · ★ 4.0
 > Tags  [[caleb]] · [[mam]] · [[dad]] · [[netflix]] · [[wexford]]
 

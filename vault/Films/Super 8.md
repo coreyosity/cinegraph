@@ -60,7 +60,7 @@ providers:
 
 In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a devastating train derailment. Soon after, their quiet town is gripped by unexplained disappearances, strange phenomena, and a growing sense of fear, as they uncover that something terrifying has been set loose.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

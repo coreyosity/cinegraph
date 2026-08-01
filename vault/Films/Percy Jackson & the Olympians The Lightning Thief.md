@@ -55,7 +55,7 @@ providers:
 
 Accident prone teenager, Percy discovers he's actually a demi-God, the son of Poseidon, and he is needed when Zeus' lightning is stolen. Percy must master his new found skills in order to prevent a war between the Gods that could devastate the entire world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

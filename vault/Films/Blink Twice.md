@@ -75,7 +75,7 @@ log_tags:
 
 When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. But despite the epic setting, beautiful people, ever-flowing champagne, and late-night dance parties, Frida can sense that there’s something sinister hiding beneath the island’s lush façade.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Nov 2024 · ★ 4.0
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

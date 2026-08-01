@@ -50,7 +50,7 @@ providers:
 
 Former CIA spy Bob Ho takes on his toughest assignment to date: looking after his girlfriend's three kids, who haven't exactly warmed to their mom's beau. And when one of the youngsters accidentally downloads a top-secret formula, Bob's longtime nemesis, a Russian terrorist, pays a visit to the family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

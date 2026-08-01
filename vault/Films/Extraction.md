@@ -57,7 +57,7 @@ providers:
 
 A hardened gun-for-hire's latest mission becomes a soul-searching race to survive when he's sent into Bangladesh to rescue a drug lord's kidnapped son.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

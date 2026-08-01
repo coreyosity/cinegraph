@@ -74,7 +74,7 @@ log_tags:
 
 In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space Cadet convention is spectacularly disrupted by world-changing events.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Jul 2023 · ★ 4.0
 > Tags  [[eoghan]] · [[cinema]] · [[stella]]
 

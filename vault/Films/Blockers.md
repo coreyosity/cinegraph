@@ -48,7 +48,7 @@ letterboxd: https://boxd.it/fxEW
 
 When three parents discover that each of their daughters have a pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

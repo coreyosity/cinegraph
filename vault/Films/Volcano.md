@@ -66,7 +66,7 @@ log_tags:
 
 An earthquake shatters a peaceful Los Angeles morning and opens a fissure deep into the earth, causing lava to start bubbling up. As a volcano begins forming in the La Brea Tar Pits, the director of the city's emergency management service, working with a geologist, must then use every resource in the city to try and stop the volcano from consuming LA.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Aug 2024
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[prime]]
 

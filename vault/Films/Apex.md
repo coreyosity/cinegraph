@@ -61,7 +61,7 @@ log_tags:
 
 A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 May 2026 · ★ 2.0
 > Tags  [[home]] · [[dad]] · [[netflix]]
 

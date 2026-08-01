@@ -66,7 +66,7 @@ providers:
 
 During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these "Fantastic Four" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

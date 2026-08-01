@@ -52,7 +52,7 @@ providers:
 
 Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Oct 2022 · ★ 4.5
 
 > [!info]- Cast & crew

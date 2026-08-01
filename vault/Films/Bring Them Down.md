@@ -56,7 +56,7 @@ log_tags:
 
 When the ongoing rivalry between farmers Michael and Jack suddenly escalates, it triggers a chain of events that take increasingly violent and devastating turns, leaving both families permanently altered.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Feb 2025 · ★ 4.0
 > Tags  [[dean]] · [[cinema]] · [[andrew]] · [[odeon-the-point]]
 

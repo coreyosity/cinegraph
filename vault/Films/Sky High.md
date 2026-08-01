@@ -49,7 +49,7 @@ providers:
 
 Set in a world where superheroes are commonly known and accepted, young Will Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

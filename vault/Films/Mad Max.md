@@ -84,7 +84,7 @@ log_tags:
 
 In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 May 2024 · ★ 2.0
 > Tags  [[myself]] · [[home]] · [[prime]]
 

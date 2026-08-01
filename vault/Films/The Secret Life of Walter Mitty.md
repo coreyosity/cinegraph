@@ -67,7 +67,7 @@ log_tags:
 
 A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Oct 2024 · ★ 4.0
 > Tags  [[myself]] · [[home]] · [[disney+]]
 

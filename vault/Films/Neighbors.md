@@ -59,7 +59,7 @@ providers:
 
 A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

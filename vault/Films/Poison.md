@@ -41,7 +41,7 @@ providers:
 
 When a poisonous snake slithers onto an Englishman's stomach in India, his associate and a doctor race to save him.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

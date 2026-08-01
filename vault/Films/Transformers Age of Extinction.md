@@ -67,7 +67,7 @@ providers:
 
 As humanity picks up the pieces after the battle of Chicago, a shadowy group reveals itself in an attempt to control the direction of history…while an ancient, powerful new menace sets Earth in its crosshairs. With help from Cade Yeager, Optimus Prime and the Autobots rise to meet their most fearsome challenge yet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Nov 2024
 
 > [!info]- Cast & crew

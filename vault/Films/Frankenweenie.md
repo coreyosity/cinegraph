@@ -45,7 +45,7 @@ providers:
 
 When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked "monster" wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

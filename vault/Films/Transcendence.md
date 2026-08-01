@@ -58,7 +58,7 @@ letterboxd: https://boxd.it/4VSQ
 
 Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2025
 
 > [!info]- Cast & crew

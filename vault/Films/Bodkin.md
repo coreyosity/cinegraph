@@ -45,7 +45,7 @@ providers:
 
 A ragtag crew of podcasters sets out to investigate mysterious disappearances from decades earlier in a charming Irish town with dark, dreadful secrets.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Jan 2025
 
 > [!info]- Cast & crew

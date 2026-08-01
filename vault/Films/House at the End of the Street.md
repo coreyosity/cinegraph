@@ -54,7 +54,7 @@ log_tags:
 
 A mother and daughter move to a new town and find themselves living next door to a house where a young girl murdered her parents. When the daughter befriends the surviving son, she learns the story is far from over.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jan 2024 · Rewatch
 > Tags  [[netflix]] · [[dean]] · [[andrew]] · [[home]]
 

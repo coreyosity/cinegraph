@@ -68,7 +68,7 @@ log_tags:
 
 A father and daughter live a perfect but mysterious existence in Forest Park, a beautiful nature reserve near Portland, Oregon, rarely making contact with the world. But when a small mistake tips them off to authorities, they are sent on an increasingly erratic journey in search of a place to call their own.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Jul 2024 · ★ 3.5
 > Tags  [[dean]] · [[disney+]] · [[home]]
 

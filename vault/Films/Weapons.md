@@ -78,7 +78,7 @@ log_tags:
 
 When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Aug 2025 · ★ 4.0
 > Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[preview]]
 

@@ -57,7 +57,7 @@ log_tags:
 
 Ruth and Harry decide to take a romantic backpacking trip through the Pacific Northwest, but amongst the beautiful scenery, Ruth makes an unexpected discovery that sets her off on a strange, frightening new path. The couple aren't alone in the woods, and they might not be the same when they come out...if they come out.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Mar 2025 · ★ 2.0
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

@@ -58,7 +58,7 @@ log_tags:
 
 Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jun 2026 · ★ 4.0
 > Tags  [[home]] · [[myself]] · [[prime]]
 

@@ -74,7 +74,7 @@ log_tags:
 
 When fate brings Belfast teacher JJ into the orbit of self-confessed "low life scum" Naoise and Liam Óg, the needle drops on a hip-hop act like no other. Rapping in their native Irish, they lead a movement to save their mother tongue.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Dec 2024 · ★ 4.0 · Rewatch
 > Tags  [[dad]] · [[caleb]] · [[prime]] · [[wexford]]
 

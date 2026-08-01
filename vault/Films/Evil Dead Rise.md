@@ -78,7 +78,7 @@ log_tags:
 
 A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Oct 2023 · ★ 3.5
 > Tags  [[caleb]] · [[home]] · [[netflix]]
 

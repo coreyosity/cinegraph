@@ -52,7 +52,7 @@ providers:
 
 When their car breaks down, a couple on the run headed southbound for a fresh start in the Sunshine State break into a nearby house looking for a new set of wheels. What they find instead is a dark secret, and a sweet-as-pie pair of homeowners who will do anything to keep it from getting out.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

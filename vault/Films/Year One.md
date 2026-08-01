@@ -49,7 +49,7 @@ providers:
 
 When a couple of lazy hunter-gatherers are banished from their primitive village, they set off on an epic journey through the ancient world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

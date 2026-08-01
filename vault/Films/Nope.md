@@ -66,7 +66,7 @@ log_tags:
 
 Residents in a lonely gulch of inland California bear witness to an uncanny, chilling discovery.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022 · ★ 4.5
 > Tags  [[linda]] · [[cinema]] · [[odeon-blanch]]
 

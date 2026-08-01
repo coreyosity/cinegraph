@@ -55,7 +55,7 @@ providers:
 
 After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Jun 2022 · ★ 5.0
 
 > [!info]- Cast & crew

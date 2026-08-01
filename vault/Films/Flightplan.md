@@ -47,7 +47,7 @@ providers:
 
 Flying at 40,000 feet in a state-of-the art aircraft that she helped design, Kyle Pratt's 6-year-old daughter Julia vanishes without a trace. Or did she? No one on the plane believes Julia was ever onboard. And now Kyle, desperate and alone, can only count on her own wits to unravel the mystery and save her daughter.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Apr 2025
 
 > [!info]- Cast & crew

@@ -76,7 +76,7 @@ log_tags:
 
 An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Dec 2024 · ★ 3.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]] · [[preview]] · [[screen-unseen]]
 

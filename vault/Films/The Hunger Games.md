@@ -92,7 +92,7 @@ log_tags:
 
 In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Dec 2023 · Rewatch
 > Tags  [[dad]] · [[wexford]] · [[netflix]]
 

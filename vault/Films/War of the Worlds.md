@@ -78,7 +78,7 @@ log_tags:
 
 Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Nov 2024 · ★ 3.5 · Rewatch
 > Tags  [[dad]] · [[caleb]] · [[netflix]] · [[wexford]]
 

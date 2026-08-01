@@ -64,7 +64,7 @@ providers:
 
 Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2025
 
 > [!info]- Cast & crew

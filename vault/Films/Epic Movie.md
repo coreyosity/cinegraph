@@ -51,7 +51,7 @@ log_tags:
 
 When the Pevensie siblings each follow their own path, they find themselves at Willy's Chocolate Factory. Walking through a wardrobe, they discover the world of Gnarnia, ruled by the White Bitch. Meeting up with characters such as Harry Potter and Captain Jack Swallows, the newly reunited family must team up with Aslo, a wise-but-horny lion to stop the White Bitch's army.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Jan 2025 · ★ 1.0
 > Tags  [[prime]] · [[dean]] · [[home]]
 

@@ -62,7 +62,7 @@ providers:
 
 A deaf woman is stalked by a psychotic killer in her secluded home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

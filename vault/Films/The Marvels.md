@@ -59,7 +59,7 @@ log_tags:
 
 When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Nov 2023 · ★ 3.0
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 

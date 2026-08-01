@@ -75,7 +75,7 @@ log_tags:
 
 In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Sep 2025 · ★ 4.0
 > Tags  [[cinema]] · [[myself]] · [[cineworld]]
 

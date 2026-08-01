@@ -58,7 +58,7 @@ providers:
 
 Intrepid teenage private eye Nancy Drew heads to Tinseltown with her father to investigate the unsolved murder of a movie star in this old-fashioned whodunit based on Carolyn Keene's popular series of books for young adults. But can the small-town girl cut through the Hollywood hype to solve the case?
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

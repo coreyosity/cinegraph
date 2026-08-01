@@ -97,7 +97,7 @@ log_tags:
 
 FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Jul 2024 · ★ 4.0
 > Tags  [[dean]] · [[andrew]] · [[odeon-the-point]] · [[grace]] · [[eoin]]
 

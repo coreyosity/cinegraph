@@ -89,7 +89,7 @@ log_tags:
 
 Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it. When social media starts blowing up, so do his life and the lives of everyone following him. As a stock tip becomes a movement, everyone gets rich—until the billionaires fight back, and both sides find their worlds turned upside down.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Sep 2023 · ★ 4.0
 > Tags  [[myself]] · [[odeon-blanch]] · [[cinema]]
 

@@ -70,7 +70,7 @@ providers:
 
 Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He aspires to become a chef, one who creates rather than scavenges. When fate leads him beneath one of Paris's finest restaurants, he forms an unusual alliance with a young kitchen worker to pursue his culinary ambitions. As his double life unfolds, Remy must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, whose judgment can make or break a chef's legacy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

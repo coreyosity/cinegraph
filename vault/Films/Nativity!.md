@@ -45,7 +45,7 @@ providers:
 
 Paul, charged with directing his school's Nativity play, falsely boasts that his ex-girlfriend plans to turn the production into a film.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

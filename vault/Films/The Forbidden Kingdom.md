@@ -65,7 +65,7 @@ providers:
 
 An American teenager who is obsessed with Hong Kong cinema and kung-fu classics makes an extraordinary discovery in a Chinatown pawnshop: the legendary stick weapon of the Chinese sage and warrior, the Monkey King. With the lost relic in hand, the teenager unexpectedly finds himself travelling back to ancient China to join a crew of warriors from martial arts lore on a dangerous quest to free the imprisoned Monkey King.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

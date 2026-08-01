@@ -66,7 +66,7 @@ providers:
 
 Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022 · ★ 3.5
 
 > [!info]- Cast & crew

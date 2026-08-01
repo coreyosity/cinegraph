@@ -71,7 +71,7 @@ log_tags:
 
 Four sisters come of age in America in the aftermath of the Civil War.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Jul 2024 · ★ 4.5
 > Tags  [[myself]] · [[disney+]] · [[home]]
 

@@ -63,7 +63,7 @@ providers:
 
 Bruce Nolan toils as a "human interest" television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God — and the Almighty responds, endowing Bruce with all of His divine powers.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

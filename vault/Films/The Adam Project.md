@@ -46,7 +46,7 @@ providers:
 
 After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Jul 2022
 
 > [!info]- Cast & crew

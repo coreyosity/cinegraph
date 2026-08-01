@@ -52,7 +52,7 @@ providers:
 
 Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 3.0
 
 > [!info]- Cast & crew

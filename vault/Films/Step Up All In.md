@@ -44,7 +44,7 @@ providers:
 
 All-stars from previous installments convene in glittering Las Vegas, battling for a victory that could define their dreams and their careers.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

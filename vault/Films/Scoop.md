@@ -57,7 +57,7 @@ log_tags:
 
 Inspired by real events, this fictional dramatization gives an insider account of how the women of Newsnight secured Prince Andrew's infamous interview.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Apr 2024 · ★ 2.5
 > Tags  [[andrew]] · [[home]] · [[netflix]]
 

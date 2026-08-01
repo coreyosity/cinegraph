@@ -45,7 +45,7 @@ providers:
 
 In an alternate present-day where magical creatures live among us, two L.A. cops become embroiled in a prophesied turf battle.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

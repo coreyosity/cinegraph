@@ -71,7 +71,7 @@ providers:
 
 Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.5
 
 > [!info]- Cast & crew

@@ -73,7 +73,7 @@ log_tags:
 
 The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Apr 2026 · ★ 3.0
 > Tags  [[cinema]] · [[lighthouse]] · [[conor]]
 

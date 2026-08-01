@@ -48,7 +48,7 @@ providers:
 
 Dale, Kurt and Nick decide to start their own business but things don't go as planned because of a slick investor, prompting the trio to pull off a harebrained and misguided kidnapping scheme.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

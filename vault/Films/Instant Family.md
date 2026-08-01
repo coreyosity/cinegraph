@@ -61,7 +61,7 @@ providers:
 
 When Pete and Ellie decide to start a family, they stumble into the world of foster care adoption. They hope to take in one small child but when they meet three siblings, including a rebellious 15 year old girl, they find themselves speeding from zero to three kids overnight.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 May 2026
 
 > [!info]- Cast & crew

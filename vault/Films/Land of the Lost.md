@@ -60,7 +60,7 @@ providers:
 
 On his latest expedition, has-been scientist Dr. Rick Marshall is sucked into a space-time vortex alongside his crack-smart research assistant Holly and redneck survivalist Will into a world populated by marauding dinosaurs and painfully slow creatures called Sleestaks. With no weapons, few skills and questionable smarts, the trio must rely on their only ally, a primate named Chaka, to try to survive long enough to figure out a way back home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

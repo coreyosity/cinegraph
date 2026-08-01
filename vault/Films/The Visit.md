@@ -55,7 +55,7 @@ letterboxd: https://boxd.it/9ssO
 
 A brother and sister are sent to their grandparents' remote Pennsylvania farm for a week, where they discover that the elderly couple is involved in something deeply disturbing.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

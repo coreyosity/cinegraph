@@ -60,7 +60,7 @@ providers:
 
 Calvin Joyner, a mild-mannered accountant whose high school glory days are long behind him, reconnects with an awkward pal from high school through Facebook. After meeting up, Calvin’s mundane life takes an unexpectedly thrilling turn when he's thrust into the world of international espionage.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -56,7 +56,7 @@ providers:
 
 A well-to-do husband who allows his wife to have affairs in order to avoid a divorce becomes a prime suspect in the disappearance of her lovers.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022
 
 > [!info]- Cast & crew

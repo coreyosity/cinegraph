@@ -68,7 +68,7 @@ providers:
 
 After the harrowing death of his partner, forensic psychologist and best-selling author Alex Cross cannot forgive himself and has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, he is lured back into action as the kidnapper wants to deal with Alex personally. Teamed with Jezzie Flanigan, the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Jul 2022 · ★ 3.5
 
 > [!info]- Cast & crew

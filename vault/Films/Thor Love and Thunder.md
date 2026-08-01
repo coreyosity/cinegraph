@@ -55,7 +55,7 @@ providers:
 
 After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jul 2022 · ★ 2.5
 
 > [!info]- Cast & crew

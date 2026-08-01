@@ -70,7 +70,7 @@ log_tags:
 
 In 1985, while working as a coal merchant to support his family, Bill Furlong discovers disturbing secrets kept by the local convent and uncovers truths of his own; forcing him to confront his past and the complicit silence of a small Irish town controlled by the Catholic Church.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Nov 2024 · ★ 4.0
 > Tags  [[myself]] · [[odeon-the-point]] · [[cinema]]
 

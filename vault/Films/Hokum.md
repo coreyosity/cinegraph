@@ -59,7 +59,7 @@ log_tags:
 
 When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 May 2026 · ★ 2.5
 > Tags  [[conor]] · [[cinema]] · [[lighthouse]]
 

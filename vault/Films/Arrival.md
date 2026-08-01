@@ -79,7 +79,7 @@ log_tags:
 
 Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Apr 2024 · ★ 4.5 · Rewatch
 > Tags  [[myself]] · [[wexford]] · [[netflix]]
 

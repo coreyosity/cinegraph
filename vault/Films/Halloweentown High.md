@@ -46,7 +46,7 @@ providers:
 
 Marnie puts her magic on the line to get several Halloweentown teenagers transferred to her high school in the mortal world. But soon, Marnie and her new friends are in trouble and out of luck when the evil Knight Of The Iron Dagger appears. He's determined to destroy all things magical, and it's up to Marnie to save her high school, the human world and her magic.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Oct 2025
 
 > [!info]- Cast & crew

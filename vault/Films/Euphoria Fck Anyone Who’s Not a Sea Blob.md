@@ -8,5 +8,5 @@ tags:
 - film
 ---
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Apr 2026

@@ -8,5 +8,5 @@ tags:
 - film
 ---
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Apr 2025

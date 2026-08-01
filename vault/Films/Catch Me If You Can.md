@@ -68,7 +68,7 @@ log_tags:
 
 A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Dec 2025 · ★ 4.5
 > Tags  [[myself]] · [[home]] · [[prime]]
 

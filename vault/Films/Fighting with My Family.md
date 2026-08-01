@@ -50,7 +50,7 @@ providers:
 
 Born into a tight-knit wrestling family, Paige and her brother Zak are ecstatic when they get the once-in-a-lifetime opportunity to try out for the WWE. But when only Paige earns a spot in the competitive training program, she must leave her loved ones behind and face this new cutthroat world alone. Paige's journey pushes her to dig deep and ultimately prove to the world that what makes her different is the very thing that can make her a star.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Dec 2024
 
 > [!info]- Cast & crew

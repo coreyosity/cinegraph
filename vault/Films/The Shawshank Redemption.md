@@ -63,7 +63,7 @@ providers:
 
 Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 5.0
 
 > [!info]- Cast & crew

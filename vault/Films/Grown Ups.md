@@ -63,7 +63,7 @@ providers:
 
 After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

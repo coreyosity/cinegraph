@@ -70,7 +70,7 @@ providers:
 
 A young boy wins a tour through the most magnificent chocolate factory in the world, led by the world's most unusual candy maker.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

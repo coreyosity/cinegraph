@@ -79,7 +79,7 @@ providers:
 
 An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

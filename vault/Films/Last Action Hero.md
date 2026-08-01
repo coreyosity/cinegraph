@@ -56,7 +56,7 @@ providers:
 
 After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Jul 2026
 
 > [!info]- Cast & crew

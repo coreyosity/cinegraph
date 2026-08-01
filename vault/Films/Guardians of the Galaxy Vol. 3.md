@@ -62,7 +62,7 @@ log_tags:
 
 Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 May 2023 · ★ 4.0
 > Tags  [[dean]] · [[eoghan]] · [[linda]] · [[cinema]] · [[vue]] · [[chris]]
 

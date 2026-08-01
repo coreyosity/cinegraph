@@ -50,7 +50,7 @@ providers:
 
 Madeline is married to Ernest, who was once her arch-rival Helen's fiancé. After recovering from a mental breakdown, Helen vows to kill Madeline and steal back Ernest. Unfortunately for everyone, the introduction of a magic potion causes things to be a great deal more complicated than a mere murder plot.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

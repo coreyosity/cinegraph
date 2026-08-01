@@ -59,7 +59,7 @@ providers:
 
 A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

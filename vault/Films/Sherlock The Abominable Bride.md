@@ -47,7 +47,7 @@ providers:
 
 Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday special.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

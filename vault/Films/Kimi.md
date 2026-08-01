@@ -56,7 +56,7 @@ log_tags:
 
 A tech worker with agoraphobia discovers recorded evidence of a violent crime but is met with resistance when she tries to report it. Seeking justice, she must do the thing she fears the most: leave her apartment.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Mar 2023 · ★ 2.0
 > Tags  [[dad]] · [[netflix]] · [[wexford]]
 

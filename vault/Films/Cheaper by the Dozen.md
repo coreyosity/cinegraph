@@ -55,7 +55,7 @@ providers:
 
 The Baker brood moves to Chicago after patriarch Tom gets a job coaching football at Northwestern University, forcing his writer wife, Kate, and the couple's 12 children to make a major adjustment. The transition works well until work demands pull the parents away from home, leaving the kids bored -- and increasingly mischievous.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

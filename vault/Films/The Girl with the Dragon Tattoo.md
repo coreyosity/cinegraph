@@ -82,7 +82,7 @@ log_tags:
 
 Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Feb 2025 · ★ 3.5
 > Tags  [[myself]] · [[netflix]] · [[home]]
 

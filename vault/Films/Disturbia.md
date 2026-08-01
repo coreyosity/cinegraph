@@ -49,7 +49,7 @@ providers:
 
 Kale has a life most teenagers would envy. He spends his days endlessly playing video games, surfing the net, eating junk food and watching cable. He has complete free reign of the house, and a beautiful young hottie named Ashley has just moved in next door. There’s only one problem—he’s not allowed to leave the house. Kale’s under court-ordered house arrest for three months, and if he takes one step beyond a 100-foot perimeter of the house, his next confinement will be in a real prison.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

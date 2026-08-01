@@ -35,7 +35,7 @@ log_tags:
 
 Daisy is perfect. Ramona is not perfect. Therefore, Daisy must watch Ramona. Daisy must follow Ramona. Daisy must perfect Ramona.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 May 2026 · ★ 4.5
 > Tags  [[cinema]] · [[conor]] · [[the square]]
 

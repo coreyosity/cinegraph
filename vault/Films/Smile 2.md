@@ -157,7 +157,7 @@ log_tags:
 
 About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Nov 2024 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 

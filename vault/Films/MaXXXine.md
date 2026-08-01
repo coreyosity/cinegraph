@@ -79,7 +79,7 @@ log_tags:
 
 In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Jul 2024 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-the-point]]
 

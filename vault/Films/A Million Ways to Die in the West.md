@@ -52,7 +52,7 @@ providers:
 
 As a cowardly farmer begins to fall for the mysterious new woman in town, he must put his new-found courage to the test when her husband, a notorious gun-slinger, announces his arrival.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2025
 
 > [!info]- Cast & crew

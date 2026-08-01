@@ -76,7 +76,7 @@ log_tags:
 
 During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jan 2025 · ★ 3.0
 > Tags  [[dean]] · [[andrew]] · [[scream-unseen]] · [[cinema]] · [[odeon-the-point]]
 

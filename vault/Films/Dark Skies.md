@@ -54,7 +54,7 @@ providers:
 
 From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Skies: a supernatural thriller that follows a young family living in the suburbs. As husband and wife Daniel and Lacey Barret witness an escalating series of disturbing events involving their family, their safe and peaceful home quickly unravels. When it becomes clear that the Barret family is being targeted by an unimaginably terrifying and deadly force, Daniel and Lacey take matters in their own hands to solve the mystery of what is after their family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Mar 2025
 
 > [!info]- Cast & crew

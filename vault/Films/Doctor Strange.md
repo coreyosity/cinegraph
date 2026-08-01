@@ -56,7 +56,7 @@ providers:
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 May 2022 · ★ 4.0
 
 > [!info]- Cast & crew

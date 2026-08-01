@@ -68,7 +68,7 @@ log_tags:
 
 After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Nov 2024 · ★ 3.5
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]]
 

@@ -56,7 +56,7 @@ providers:
 
 A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

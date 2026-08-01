@@ -59,7 +59,7 @@ log_tags:
 
 Creatively unfulfilled and facing financial ruin, Nick Cage must accept a $1 million offer to attend the birthday of a dangerous superfan. Things take a wildly unexpected turn when Cage is recruited by a CIA operative and forced to live up to his own legend, channeling his most iconic and beloved on-screen characters in order to save himself and his loved ones.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Feb 2023 · ★ 4.0
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

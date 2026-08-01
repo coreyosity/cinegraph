@@ -71,7 +71,7 @@ log_tags:
 
 Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Dec 2025 · Rewatch
 > Tags  [[home]] · [[sky]] · [[dad]]
 

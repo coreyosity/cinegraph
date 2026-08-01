@@ -71,7 +71,7 @@ providers:
 
 Matilda Wormwood is an brilliant and intelligent little girl. Unfortunately, her parents, Harry and Zinnia, fail to see that fact. As time passes, she finally starts school and has a kind teacher, loyal friends, and a terrifying, sadistic headmistress. As she becomes fed up with the constant cruelty, she discovers she has a special gift that she just might be able to use to outwit the unruly adults around her.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

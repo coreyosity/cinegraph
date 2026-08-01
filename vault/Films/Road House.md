@@ -53,7 +53,7 @@ log_tags:
 
 Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Mar 2024 · ★ 2.5
 > Tags  [[dad]] · [[prime]] · [[wexford]]
 

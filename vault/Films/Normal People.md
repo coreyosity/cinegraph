@@ -26,7 +26,7 @@ letterboxd: https://boxd.it/q2VY
 
 What the future holds for Marianne and Connell's relationship.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

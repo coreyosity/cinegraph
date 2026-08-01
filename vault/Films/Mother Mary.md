@@ -57,7 +57,7 @@ log_tags:
 
 Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm on the eve of her comeback performance.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Apr 2026
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[lighthouse]]
 

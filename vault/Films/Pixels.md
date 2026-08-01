@@ -87,7 +87,7 @@ providers:
 
 Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

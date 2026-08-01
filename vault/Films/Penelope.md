@@ -23,7 +23,7 @@ letterboxd: https://boxd.it/20HW
 
 Economic depression and political chaos force Tajik men to become migrant labourers, working in unsafe conditions and with inconsistent pay. Tajik women attempt to keep their families alive, and, in some cases, enter polygamous marriages to feed themselves and their families. Often, these women relate to Penelope, the wife of the mythical hero Odysseus, who waits many years for her husband to return.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -62,7 +62,7 @@ providers:
 
 God contacts Junior Congressman Evan Baxter and tells him to build an ark in preparation for a great flood.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2025
 
 > [!info]- Cast & crew

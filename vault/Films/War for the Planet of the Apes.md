@@ -110,7 +110,7 @@ log_tags:
 
 Caesar and his apes are forced into a deadly conflict with an army of humans led by a ruthless Colonel. After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the Colonel are pitted against each other in an epic battle that will determine the fate of both their species and the future of the planet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 May 2024 · ★ 4.0 · Rewatch
 > Tags  [[andrew]] · [[disney+]] · [[home]]
 

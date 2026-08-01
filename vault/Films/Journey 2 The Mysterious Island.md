@@ -50,7 +50,7 @@ providers:
 
 Sean Anderson partners with his mom's boyfriend on a mission to find his grandfather, who is thought to be missing on a mythical island.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

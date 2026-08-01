@@ -72,7 +72,7 @@ providers:
 
 When a shopping mall is taken over by a gang of organized crooks, it's up to a mild-mannered security guard to save the day.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Jan 2025
 
 > [!info]- Cast & crew

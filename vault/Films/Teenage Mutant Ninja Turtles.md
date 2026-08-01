@@ -69,7 +69,7 @@ providers:
 
 When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -47,7 +47,7 @@ providers:
 
 When an unmanned space shuttle crashes on an uncharted planet, a trio of astronaut chimpanzees are launched by NASA into a wormhole to investigate.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Nov 2024
 
 > [!info]- Cast & crew

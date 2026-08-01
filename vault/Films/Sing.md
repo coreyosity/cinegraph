@@ -64,7 +64,7 @@ providers:
 
 A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

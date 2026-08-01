@@ -76,7 +76,7 @@ log_tags:
 
 In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Aug 2025 · ★ 3.5
 > Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]]
 

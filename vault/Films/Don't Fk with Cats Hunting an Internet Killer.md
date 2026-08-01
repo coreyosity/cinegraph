@@ -56,7 +56,7 @@ providers:
 
 A twisted criminal's gruesome videos drive a group of amateur online sleuths to launch a risky manhunt that pulls them into a dark underworld.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Jun 2024
 
 > [!info]- Cast & crew

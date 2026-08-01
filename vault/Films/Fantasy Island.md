@@ -60,7 +60,7 @@ providers:
 
 A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022 · ★ 2.0
 
 > [!info]- Cast & crew

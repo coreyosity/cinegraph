@@ -60,7 +60,7 @@ providers:
 
 The story of a mild-mannered radio executive who strives to become the best stepdad ever to his wife's two children, but complications ensue when their freewheeling, freeloading real father arrives, forcing stepdad to compete for the affection of the kids.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

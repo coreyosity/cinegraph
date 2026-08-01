@@ -55,7 +55,7 @@ providers:
 
 When a much-publicized ice-skating scandal strips them of their gold medals, two world-class athletes skirt their way back onto the ice via a loophole that allows them to compete together as a pairs team.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Apr 2025
 
 > [!info]- Cast & crew

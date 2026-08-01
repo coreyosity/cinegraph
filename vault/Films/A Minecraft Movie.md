@@ -80,7 +80,7 @@ log_tags:
 
 Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Apr 2025 · ★ 2.0
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-the-point]] · [[eve]] · [[grace]]
 

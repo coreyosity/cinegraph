@@ -50,7 +50,7 @@ providers:
 
 Dangerous missions are the bread and butter of the Thunderbirds, a high-tech secret force employed by the government. Led by Jeff Tracy (Bill Paxton), the Thunderbirds are at the top of their game, but their nemesis, The Hood (Ben Kingsley), has landed on their island and is attempting a coup by using the team's rescue vehicles. He'll soon discover that the Thunderbirds won't go down.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

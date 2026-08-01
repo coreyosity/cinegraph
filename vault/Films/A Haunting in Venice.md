@@ -73,7 +73,7 @@ log_tags:
 
 Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile in Venice, reluctantly attends a Halloween séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Sep 2023 · ★ 3.5
 > Tags  [[dean]] · [[cinema]] · [[odeon-blanch]] · [[imax]]
 

@@ -56,7 +56,7 @@ providers:
 
 Climbing aboard their mammoth recreational vehicle for a cross-country road trip to the Colorado Rockies, the Munro family – led by dysfunctional patriarch, Bob – prepares for the adventure of a lifetime. But spending two weeks together in one seriously small space has a way of cramping their style.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

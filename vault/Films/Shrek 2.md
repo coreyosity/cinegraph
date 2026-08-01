@@ -87,7 +87,7 @@ log_tags:
 
 Happily ever after never seemed so far far away when a trip to meet the in-laws turns into a hilariously twisted adventure for Shrek and Fiona. With the help of ever-faithful Donkey, Shrek takes on the potion-brewing Fairy Godmother, pompous Prince Charming, and infamous ogre-killer Puss In Boots.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Jan 2025 · ★ 4.0 · Rewatch
 > Tags  [[irish]] · [[wexford]] · [[tg4]] · [[myself]]
 

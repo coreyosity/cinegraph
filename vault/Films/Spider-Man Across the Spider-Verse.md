@@ -94,7 +94,7 @@ log_tags:
 
 After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Jun 2023 · ★ 5.0
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

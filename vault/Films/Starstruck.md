@@ -49,7 +49,7 @@ providers:
 
 Pop star Christopher Wilde has fame, fortune and a big-budget Hollywood movie awaiting him. But after meeting Jessica Olson, a down-to-earth girl from the Midwest, he is faced with following his heart or doing what's best for his career.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

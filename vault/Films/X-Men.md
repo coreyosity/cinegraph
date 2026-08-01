@@ -44,7 +44,7 @@ log_tags:
 
 While Senator Kelly addresses a senate committee about the supposed mutant menace, we learn about the making of the movie, X-Men (2000)
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Apr 2026 · ★ 3.0
 > Tags  [[home]] · [[myself]] · [[disney+]]
 

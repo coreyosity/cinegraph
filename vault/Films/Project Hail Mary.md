@@ -78,7 +78,7 @@ log_tags:
 
 Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Mar 2026 · ★ 4.5
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[odeon-the-point]] · [[isense]]
 

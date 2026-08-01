@@ -57,7 +57,7 @@ log_tags:
 
 After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Feb 2026 · ★ 4.0
 > Tags  [[cinema]] · [[conor]] · [[ifi]]
 

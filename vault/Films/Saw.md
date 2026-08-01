@@ -61,7 +61,7 @@ providers:
 
 Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Nov 2023
 
 > [!info]- Cast & crew

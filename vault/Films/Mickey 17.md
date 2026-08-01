@@ -74,7 +74,7 @@ log_tags:
 
 Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Mar 2025 · ★ 4.5
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-blanch]] · [[isense]]
 

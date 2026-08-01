@@ -65,7 +65,7 @@ providers:
 
 Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together, they uncover a local criminal plot that threatens the future of the Bay.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

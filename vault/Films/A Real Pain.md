@@ -67,7 +67,7 @@ log_tags:
 
 Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Jan 2025 · ★ 4.0
 > Tags  [[odeon-the-point]] · [[myself]]
 

@@ -74,7 +74,7 @@ log_tags:
 
 Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Dec 2023 · ★ 3.0
 > Tags  [[dean]] · [[andrew]] · [[cinema]]
 

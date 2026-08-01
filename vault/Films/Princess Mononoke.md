@@ -71,7 +71,7 @@ providers:
 
 Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Sep 2022 · ★ 4.0
 
 > [!info]- Cast & crew

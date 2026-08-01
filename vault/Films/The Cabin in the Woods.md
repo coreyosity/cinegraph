@@ -80,7 +80,7 @@ log_tags:
 
 Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Jun 2025 · ★ 2.5 · Rewatch
 > Tags  [[netflix]] · [[home]] · [[myself]]
 

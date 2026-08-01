@@ -77,7 +77,7 @@ log_tags:
 
 A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Mar 2023 · ★ 5.0
 > Tags  [[dean]] · [[torrent]] · [[home]]
 

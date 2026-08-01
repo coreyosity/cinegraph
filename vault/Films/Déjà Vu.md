@@ -53,7 +53,7 @@ providers:
 
 Called in to recover evidence in the aftermath of a horrific explosion on a New Orleans ferry, Federal agent Doug Carlin gets pulled away from the scene and taken to a top-secret government lab that uses a time-shifting surveillance device to help prevent crime.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

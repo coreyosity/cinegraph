@@ -53,7 +53,7 @@ providers:
 
 Michael Collins plays a crucial role in the establishment of the Irish Free State in the 1920s, but becomes vilified by those hoping to create a completely independent Irish republic.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025
 
 > [!info]- Cast & crew

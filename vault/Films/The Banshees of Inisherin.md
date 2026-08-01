@@ -62,7 +62,7 @@ log_tags:
 
 Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Oct 2022 · ★ 4.5
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

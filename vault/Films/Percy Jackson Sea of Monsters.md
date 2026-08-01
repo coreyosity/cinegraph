@@ -59,7 +59,7 @@ providers:
 
 In their quest to confront the ultimate evil, Percy and his friends battle swarms of mythical creatures to find the mythical Golden Fleece and to stop an ancient evil from rising.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

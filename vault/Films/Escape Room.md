@@ -61,7 +61,7 @@ providers:
 
 Six strangers find themselves in circumstances beyond their control, and must use their wits to survive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

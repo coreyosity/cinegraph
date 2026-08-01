@@ -52,7 +52,7 @@ providers:
 
 An orphaned child's dreams—and nightmares—manifest physically as he sleeps.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jun 2024
 
 > [!info]- Cast & crew

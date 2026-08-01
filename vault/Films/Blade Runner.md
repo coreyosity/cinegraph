@@ -77,7 +77,7 @@ log_tags:
 
 In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Apr 2024 · ★ 3.0
 > Tags  [[myself]] · [[netflix]] · [[home]]
 

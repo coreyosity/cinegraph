@@ -64,7 +64,7 @@ log_tags:
 
 Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Sep 2023 · ★ 2.5
 > Tags  [[myself]] · [[home]] · [[disney+]]
 

@@ -63,7 +63,7 @@ providers:
 
 Alice Kingsleigh returns to Underland and faces a new adventure in saving the Mad Hatter.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -75,7 +75,7 @@ providers:
 
 Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jul 2024
 
 > [!info]- Cast & crew

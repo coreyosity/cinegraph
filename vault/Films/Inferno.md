@@ -61,7 +61,7 @@ providers:
 
 After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Mar 2025
 
 > [!info]- Cast & crew

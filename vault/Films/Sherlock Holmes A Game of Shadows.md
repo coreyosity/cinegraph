@@ -60,7 +60,7 @@ providers:
 
 There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Feb 2026
 
 > [!info]- Cast & crew

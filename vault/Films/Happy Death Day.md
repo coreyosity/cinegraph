@@ -60,7 +60,7 @@ log_tags:
 
 Caught in a bizarre and terrifying time warp, college student Tree finds herself repeatedly reliving the day of her murder, ultimately realizing that she must identify the killer and the reason for her death before her chances of survival run out.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Jun 2024 · ★ 2.0
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 

@@ -52,7 +52,7 @@ providers:
 
 Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium—the strangest, most fantastic and most wonderful toy store in the world. After Mr. Magorium bequeaths the store to her, a dark and ominous change begins to take over the once-remarkable Emporium.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

@@ -48,7 +48,7 @@ providers:
 
 Young Jim Hawkins and his two best friends embark on a voyage across the high seas in search of buried treasure, but soon find that not everyone on board can be trusted.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Dec 2024
 
 > [!info]- Cast & crew

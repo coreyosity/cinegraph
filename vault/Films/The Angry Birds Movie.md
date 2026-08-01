@@ -69,7 +69,7 @@ providers:
 
 An island populated entirely by happy, flightless birds or almost entirely. In this paradise, Red, a bird with a temper problem, speedy Chuck, and the volatile Bomb have always been outsiders. But when the island is visited by mysterious green piggies, it’s up to these unlikely outcasts to figure out what the pigs are up to.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jul 2024
 
 > [!info]- Cast & crew

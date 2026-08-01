@@ -57,7 +57,7 @@ providers:
 
 A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

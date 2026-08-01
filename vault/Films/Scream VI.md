@@ -86,7 +86,7 @@ log_tags:
 
 Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Mar 2023 · ★ 4.0
 > Tags  [[dean]] · [[eoghan]] · [[linda]] · [[cinema]] · [[lighthouse]]
 

@@ -88,7 +88,7 @@ log_tags:
 
 In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Nov 2024 · ★ 4.0
 > Tags  [[train]] · [[appletv+]] · [[myself]]
 

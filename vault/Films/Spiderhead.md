@@ -48,7 +48,7 @@ providers:
 
 A prisoner in a state-of-the-art penitentiary begins to question the purpose of the emotion-controlling drugs he's testing for a pharmaceutical genius.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Jun 2022 · ★ 1.5
 
 > [!info]- Cast & crew

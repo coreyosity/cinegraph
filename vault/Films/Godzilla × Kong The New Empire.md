@@ -61,7 +61,7 @@ log_tags:
 
 Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Apr 2024 · ★ 2.5
 > Tags  [[andrew]] · [[cinema]] · [[odeon-blanch]] · [[imax]] · [[3d]]
 

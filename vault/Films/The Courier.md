@@ -53,7 +53,7 @@ providers:
 
 Cold War spy Greville Wynne and his Russian source try to put an end to the Cuban Missile Crisis.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Jul 2024
 
 > [!info]- Cast & crew

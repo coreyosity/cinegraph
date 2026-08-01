@@ -60,7 +60,7 @@ log_tags:
 
 After a series of brutal slayings, a teen and her friends take on an evil force that's plagued their notorious town for centuries.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Oct 2023 · ★ 2.5
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 

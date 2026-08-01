@@ -58,7 +58,7 @@ providers:
 
 Over the course of one evening, an unsuspecting group of twenty-somethings find themselves bombarded by a series of natural disasters and catastrophic events.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

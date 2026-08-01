@@ -50,7 +50,7 @@ providers:
 
 An agoraphobic woman living alone in New York begins spying on her new neighbors only to witness a disturbing act of violence.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

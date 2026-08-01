@@ -65,7 +65,7 @@ log_tags:
 
 While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Feb 2023 · ★ 4.0
 > Tags  [[eoghan]] · [[cinema]] · [[cineworld]]
 

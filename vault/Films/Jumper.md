@@ -58,7 +58,7 @@ providers:
 
 David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David’s extraordinary gift may be his only hope for survival!
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Sep 2024
 
 > [!info]- Cast & crew

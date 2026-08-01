@@ -60,7 +60,7 @@ providers:
 
 After getting a taste for blood as children, Hansel and Gretel have become the ultimate vigilantes, hell-bent on retribution. Now, unbeknownst to them, Hansel and Gretel have become the hunted, and must face an evil far greater than witches... their past.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

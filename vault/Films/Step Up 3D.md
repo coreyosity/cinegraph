@@ -42,7 +42,7 @@ providers:
 
 A tight-knit group of New York City street dancers, including Luke and Natalie, team up with NYU freshman Moose, and find themselves pitted against the world's best hip-hop dancers in a high-stakes showdown that will change their lives forever.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

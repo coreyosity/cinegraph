@@ -75,7 +75,7 @@ log_tags:
 
 Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 Jul 2023 · ★ 4.0
 > Tags  [[eoghan]] · [[linda]] · [[cineworld]] · [[cinema]]
 

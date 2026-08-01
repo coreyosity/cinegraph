@@ -83,7 +83,7 @@ log_tags:
 
 An overnight flight to Miami quickly becomes a battle for survival when Lisa realizes her seatmate plans to use her as part of a chilling assassination plot against the Deputy Secretary of Homeland Security. If she refuses to cooperate, her own father will be killed. As the miles tick by, she's in a race against time to find a way to warn the potential victims before it's too late.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Apr 2023 · ★ 3.0
 > Tags  [[myself]] · [[home]] · [[netflix]]
 

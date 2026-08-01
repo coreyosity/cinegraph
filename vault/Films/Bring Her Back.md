@@ -72,7 +72,7 @@ log_tags:
 
 Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Jul 2025 · ★ 3.5
 > Tags  [[dean]] · [[cinema]] · [[andrew]] · [[odeon-the-point]] · [[grace]] · [[eve]]
 

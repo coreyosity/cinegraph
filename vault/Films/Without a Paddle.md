@@ -53,7 +53,7 @@ providers:
 
 Three friends, whose lives have been drifting apart, reunite for the funeral of a fourth childhood friend. When looking through their childhood belongings, they discover a trunk which contained details on a quest their friend was attempting. It revealed that he was hot on the trail of the $200,000 that went missing with airplane hijacker D.B. Cooper in 1971. They decide to continue his journey, but do not understand the dangers they will soon encounter.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Feb 2025
 
 > [!info]- Cast & crew

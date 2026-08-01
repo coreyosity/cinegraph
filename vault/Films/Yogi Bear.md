@@ -57,7 +57,7 @@ providers:
 
 A documentary filmmaker travels to Jellystone Park to shoot a project and soon crosses paths with Yogi Bear, his sidekick Boo-Boo, and Ranger Smith.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

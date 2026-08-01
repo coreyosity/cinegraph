@@ -63,7 +63,7 @@ providers:
 
 A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

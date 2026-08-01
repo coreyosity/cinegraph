@@ -50,7 +50,7 @@ providers:
 
 Life's a beach for surfers Brady and McKenzie – until a rogue wave magically transports them inside the classic '60s beach party flick, "Wet Side Story," where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film’s dreamy hero and heroine fall for them instead of for each other!
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 May 2025
 
 > [!info]- Cast & crew

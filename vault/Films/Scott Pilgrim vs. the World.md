@@ -67,7 +67,7 @@ providers:
 
 As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023 · ★ 3.0
 
 > [!info]- Cast & crew

@@ -62,7 +62,7 @@ log_tags:
 
 Mia, a drug addict, is determined to kick the habit. To that end, she asks her brother, David, his girlfriend, Natalie and their friends Olivia and Eric to accompany her to their family's remote forest cabin to help her through withdrawal. Eric finds a mysterious Book of the Dead at the cabin and reads aloud from it, awakening an ancient demon. All hell breaks loose when the malevolent entity possesses Mia.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024 · ★ 3.5
 > Tags  [[eoghan]] · [[david conde]] · [[david urdaibay]] · [[cinema-room]]
 

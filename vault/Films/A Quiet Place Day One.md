@@ -80,7 +80,7 @@ log_tags:
 
 As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Dec 2024 · ★ 4.0 · Rewatch
 > Tags  [[andrew]] · [[cinema]] · [[dean]] · [[odeon-the-point]] · [[isense]] · [[dad]] · [[sky]] · [[wexford]]
 

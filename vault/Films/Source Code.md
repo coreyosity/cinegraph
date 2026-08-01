@@ -67,7 +67,7 @@ log_tags:
 
 When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Feb 2024
 > Tags  [[dad]] · [[netflix]] · [[wexford]]
 

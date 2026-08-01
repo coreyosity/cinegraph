@@ -69,7 +69,7 @@ log_tags:
 
 A young bride's wedding night turns into her worst nightmare when her ridiculously rich in-laws force her to play a gruesome game of hide-and-seek.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Mar 2026 · ★ 2.5
 > Tags  [[home]] · [[myself]] · [[disney+]]
 

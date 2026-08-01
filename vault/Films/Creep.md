@@ -59,7 +59,7 @@ log_tags:
 
 Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day. Filming service. Discretion is appreciated.” Low on cash and full of naiveté, he decides to go for it. He drives to a cabin in a remote mountain town where he meets Josef, his cinematic subject for the day. Josef is sincere and the project seems heartfelt, so Aaron begins to film. But as the day goes on, it becomes clear that Josef is not who he says, and his intentions are not at all pure.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Oct 2024 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[cat]] · [[cinema-room]] · [[netflix]]
 

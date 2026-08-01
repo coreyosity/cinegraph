@@ -68,7 +68,7 @@ log_tags:
 
 Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 May 2026 · ★ 3.5
 > Tags  [[home]] · [[myself]] · [[prime]]
 

@@ -60,7 +60,7 @@ providers:
 
 A detective becomes entangled in a mystery involving his missing daughter and a secret government program while investigating a string of reality-bending crimes.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Nov 2024
 
 > [!info]- Cast & crew

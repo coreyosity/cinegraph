@@ -39,7 +39,7 @@ log_tags:
 
 Farid, who works abroad, locks himself on the last day of his stay in Beirut in his son Rawad's room, to find what he is hiding there. Separated by a locked door, the dysfunctional dynamic between them intensifies, and the past resurfaces.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Jul 2023 · ★ 4.0
 > Tags  [[dean]] · [[odeon-blanch]] · [[cinema]] · [[scream-unseen]] · [[preview]]
 

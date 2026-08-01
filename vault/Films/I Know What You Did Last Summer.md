@@ -60,7 +60,7 @@ providers:
 
 After an accident on a winding road, four teens make the fatal mistake of dumping their victim's body into the sea. Exactly one year later, the deadly secret resurfaces as they're stalked by a hook-handed figure.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

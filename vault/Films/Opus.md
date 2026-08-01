@@ -66,7 +66,7 @@ log_tags:
 
 A young writer is invited to the remote compound of a legendary pop star who mysteriously disappeared thirty years ago. Surrounded by the star's cult of sycophants and intoxicated journalists, she finds herself in the middle of his twisted plan.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Mar 2025 · ★ 2.5
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[lighthouse]]
 

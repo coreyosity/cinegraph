@@ -76,7 +76,7 @@ log_tags:
 
 Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Aug 2023 · ★ 3.5
 > Tags  [[dean]] · [[andrew]] · [[netflix]] · [[home]]
 

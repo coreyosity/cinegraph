@@ -82,7 +82,7 @@ log_tags:
 
 A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jan 2025 · ★ 4.0
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]] · [[isense]]
 

@@ -114,7 +114,7 @@ providers:
 
 Ex-government operative Bryan Mills finds his life is shattered when he's falsely accused of a murder that hits close to home. As he's pursued by a savvy police inspector, Mills employs his particular set of skills to track the real killer and exact his unique brand of justice.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2025
 
 > [!info]- Cast & crew

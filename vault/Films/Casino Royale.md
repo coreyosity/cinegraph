@@ -72,7 +72,7 @@ log_tags:
 
 Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Feb 2026 · ★ 3.5
 > Tags  [[myself]] · [[netflix]] · [[home]]
 

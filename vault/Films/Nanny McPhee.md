@@ -59,7 +59,7 @@ providers:
 
 Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious children, who have chased away all previous nannies. Taunted by Simon and his siblings, Nanny McPhee uses mystical powers to instill discipline. And when the children's great-aunt and benefactor, Lady Adelaide Stitch, threatens to separate the kids, the family pulls together under the guidance of Nanny McPhee.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

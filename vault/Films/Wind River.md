@@ -82,7 +82,7 @@ log_tags:
 
 An FBI agent teams with the town's veteran game tracker to investigate a murder that occurred on a Native American reservation.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Nov 2024 · ★ 4.0
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

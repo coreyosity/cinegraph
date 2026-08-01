@@ -58,7 +58,7 @@ providers:
 
 An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Apr 2025
 
 > [!info]- Cast & crew

@@ -71,7 +71,7 @@ log_tags:
 
 A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Nov 2022 · ★ 5.0
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

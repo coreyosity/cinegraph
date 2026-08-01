@@ -48,7 +48,7 @@ log_tags:
 
 A college campus is plagued by a vicious serial killer murdering students in ways that correspond to various urban legends.
 
-> [!note]- Log
+> [!log] Log
 > Watched 15 Jun 2025 · ★ 3.0
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

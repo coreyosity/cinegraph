@@ -65,7 +65,7 @@ providers:
 
 Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 5.0
 
 > [!info]- Cast & crew

@@ -46,7 +46,7 @@ providers:
 
 Travel writer Lemuel Gulliver takes an assignment in Bermuda, but ends up on the island of Liliput, where he towers over its tiny citizens.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

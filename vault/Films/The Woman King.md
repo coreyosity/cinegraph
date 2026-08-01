@@ -72,7 +72,7 @@ log_tags:
 
 The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022 · ★ 4.0
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

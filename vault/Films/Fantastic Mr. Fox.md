@@ -65,7 +65,7 @@ providers:
 
 The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023 · ★ 4.0
 
 > [!info]- Cast & crew

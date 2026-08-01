@@ -74,7 +74,7 @@ rewatch: true
 
 In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2025 · ★ 3.0 · Rewatch
 
 > [!info]- Cast & crew

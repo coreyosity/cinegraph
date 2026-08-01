@@ -75,7 +75,7 @@ log_tags:
 
 A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Apr 2025 · ★ 4.5
 > Tags  [[dean]] · [[andrew]] · [[cinema-room]] · [[netflix]] · [[grace]] · [[eve]]
 

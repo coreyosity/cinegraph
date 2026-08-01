@@ -55,7 +55,7 @@ letterboxd: https://boxd.it/iQI
 
 A luxury condo manager leads a staff of workers to seek payback on the Wall Street swindler who defrauded them. With only days until the billionaire gets away with the perfect crime, the unlikely crew of amateur thieves enlists the help of petty crook Slide to steal the $20 million they’re sure is hidden in the penthouse.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

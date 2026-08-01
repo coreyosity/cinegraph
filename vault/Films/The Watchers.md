@@ -67,7 +67,7 @@ log_tags:
 
 A young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jun 2024 · ★ 2.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 

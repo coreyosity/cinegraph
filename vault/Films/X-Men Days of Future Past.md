@@ -64,7 +64,7 @@ log_tags:
 
 The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Jul 2026 · ★ 3.0 · Rewatch
 > Tags  [[home]] · [[dad]] · [[disney+]]
 

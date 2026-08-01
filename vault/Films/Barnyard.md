@@ -57,7 +57,7 @@ providers:
 
 Otis is a mischievous, carefree Holstein cow who lives on a farm where, unbeknownst to humans, the animals are anthropomorphic. He prefers having fun with his best friends: Pip the mouse, Freddy the ferret, Peck the rooster, and Pig the pig - rather than following strict rules and accepting responsibility. But when his adoptive father is killed in a coyote attack, he has a heavy responsibility thrust upon him to become leader of his farm home's community.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Apr 2025
 
 > [!info]- Cast & crew

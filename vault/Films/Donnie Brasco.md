@@ -61,7 +61,7 @@ providers:
 
 An FBI undercover agent infiltrates the mob and identifies more with the mafia life at the expense of his regular one.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

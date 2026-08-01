@@ -67,7 +67,7 @@ providers:
 
 An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn...
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

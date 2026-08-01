@@ -60,7 +60,7 @@ log_tags:
 
 At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Oct 2025 · ★ 5.0
 > Tags  [[myself]] · [[netflix]] · [[train]]
 

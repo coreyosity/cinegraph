@@ -41,7 +41,7 @@ providers:
 
 Jamal and Silas, two ordinary guys who smoke something magical, pass their college entrance exams with flying colors and end up at Harvard. Ivy League ways are strange but Silas and Jamal take it in a stride -- until their supply of supernatural smoke runs dry. That's when they have to start living by their wits and rely on their natural resources to make the grade.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

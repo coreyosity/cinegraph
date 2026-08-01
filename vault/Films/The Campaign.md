@@ -50,7 +50,7 @@ providers:
 
 Two rival politicians compete to win an election to represent their small North Carolina congressional district in the United States House of Representatives.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

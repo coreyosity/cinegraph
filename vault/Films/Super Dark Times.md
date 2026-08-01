@@ -67,7 +67,7 @@ providers:
 
 Teenagers Zach and Josh have been best friends their whole lives, but when a gruesome accident leads to a cover-up, the secret drives a wedge between them and propels them down a rabbit hole of escalating paranoia and violence.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Nov 2025
 
 > [!info]- Cast & crew

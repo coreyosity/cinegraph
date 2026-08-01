@@ -55,7 +55,7 @@ providers:
 
 Babe, fresh from his victory in the sheepherding contest, returns to Farmer Hoggett's farm, but after Farmer Hoggett is injured and unable to work, Babe has to go to the big city to save the farm.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

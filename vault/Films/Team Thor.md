@@ -36,7 +36,7 @@ providers:
 
 Discover what Thor was up to during the events of Captain America: Civil War.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

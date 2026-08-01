@@ -39,7 +39,7 @@ providers:
 
 A family is terrorized by an evil doll named Robert, which seems to come to life after an elderly housekeeper is dismissed. As the attacks grow more intense, the parents struggle with their disbelief and fear while trying to break the curse before it's too late.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Mar 2025
 
 > [!info]- Cast & crew

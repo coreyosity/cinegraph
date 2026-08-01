@@ -47,7 +47,7 @@ providers:
 
 Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022
 
 > [!info]- Cast & crew

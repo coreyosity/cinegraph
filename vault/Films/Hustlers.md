@@ -56,7 +56,7 @@ providers:
 
 A crew of savvy former strip club employees band together to turn the tables on their Wall Street clients.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Dec 2024
 
 > [!info]- Cast & crew

@@ -79,7 +79,7 @@ log_tags:
 
 Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 Jan 2023 · ★ 4.0
 > Tags  [[mam]] · [[erin]] · [[sky]] · [[wexford]]
 

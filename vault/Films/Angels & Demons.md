@@ -70,7 +70,7 @@ providers:
 
 Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati – a secret, underground organization – after four cardinals are kidnapped on the night of the papal conclave.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Jan 2025
 
 > [!info]- Cast & crew

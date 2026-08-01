@@ -55,7 +55,7 @@ providers:
 
 A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jul 2022 · ★ 4.0
 
 > [!info]- Cast & crew

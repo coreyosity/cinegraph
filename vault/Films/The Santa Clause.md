@@ -55,7 +55,7 @@ providers:
 
 On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Dec 2024
 
 > [!info]- Cast & crew

@@ -68,7 +68,7 @@ log_tags:
 
 The men who made millions from a global economic meltdown.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Sep 2024 · ★ 4.0
 > Tags  [[dad]] · [[caleb]] · [[wexford]] · [[prime]]
 

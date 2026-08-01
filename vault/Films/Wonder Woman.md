@@ -68,7 +68,7 @@ providers:
 
 An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

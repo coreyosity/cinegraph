@@ -65,7 +65,7 @@ providers:
 
 Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

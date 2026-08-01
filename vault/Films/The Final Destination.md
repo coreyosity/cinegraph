@@ -61,7 +61,7 @@ providers:
 
 A horrifying premonition saves a young man and his friends from death during a racetrack accident but terrible fates await them nonetheless.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

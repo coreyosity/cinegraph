@@ -62,7 +62,7 @@ log_tags:
 
 A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Jul 2024 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[isense]] · [[odeon-the-point]]
 

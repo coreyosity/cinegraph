@@ -67,7 +67,7 @@ log_tags:
 
 When a mutating, highly contagious fungus escapes a sealed facility, two employees – joined by a grizzled bioterror operative – must survive the wildest night shift ever to save humanity from extinction.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 Feb 2026 · ★ 2.5
 > Tags  [[cinema]] · [[cineworld]] · [[conor]]
 

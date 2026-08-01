@@ -72,7 +72,7 @@ log_tags:
 
 A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Oct 2025 · ★ 2.0
 > Tags  [[dean]] · [[andrew]] · [[eve]] · [[luke]] · [[grace]] · [[cinema]] · [[odeon-the-point]]
 

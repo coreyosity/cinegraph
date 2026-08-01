@@ -72,7 +72,7 @@ log_tags:
 
 Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Oct 2025 · ★ 2.5 · Rewatch
 > Tags  [[vue]] · [[myself]] · [[cinema]]
 

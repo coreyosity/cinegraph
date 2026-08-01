@@ -65,7 +65,7 @@ log_tags:
 
 Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Oct 2023 · ★ 4.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]]
 

@@ -70,7 +70,7 @@ log_tags:
 
 64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Dec 2023 · ★ 4.0
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 

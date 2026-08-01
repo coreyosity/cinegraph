@@ -55,7 +55,7 @@ providers:
 
 Goofy’s teenage son Max is desperate to impress his crush and fit in at school. After well-meaning but ignorant Goofy suddenly whisks him away on a cross-country road trip—messing up Max’s first date plans in the process—Goofy’s old-school parenting and Max’s desire for independence lead to a vacation of hilarious mishaps, as they both learn to see eye to eye and listen to each other.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

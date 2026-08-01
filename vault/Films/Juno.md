@@ -53,7 +53,7 @@ providers:
 
 Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 3.0
 
 > [!info]- Cast & crew

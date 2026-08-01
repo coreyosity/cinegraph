@@ -71,7 +71,7 @@ log_tags:
 
 While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the "long-awaited one."
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2024 · ★ 4.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[imax]] · [[odeon-blanch]]
 

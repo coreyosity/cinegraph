@@ -47,7 +47,7 @@ providers:
 
 When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

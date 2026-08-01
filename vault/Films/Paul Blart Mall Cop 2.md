@@ -60,7 +60,7 @@ providers:
 
 Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

@@ -75,7 +75,7 @@ log_tags:
 
 In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a murder, become suspects themselves and uncover one of the most outrageous plots in American history.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Oct 2022 · ★ 3.5
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

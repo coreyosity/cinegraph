@@ -31,7 +31,7 @@ providers:
 
 Freaks of Nurture is an animated short about a neurotic mother-daughter relationship inspired by the filmmaker’s own unorthodox upbringing with her single-parent mom, who is also a foster parent and dog breeder. Self-deprecating and bursting with energy, the film reveals that no matter how grown-up we think we are, we never quite stop craving the love and support of a parent.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jul 2024
 
 > [!info]- Cast & crew

@@ -50,7 +50,7 @@ providers:
 
 When five ragtag freshman first meet in detention, it seems they have nothing in common. But, through music, they form an unbreakable bond and discover they have the makings of the greatest high school garage band in history! In the face of incredible odds, Olivia, Stella, Wen, Mohini and Charlie find they can make a real difference when they learn to lean on each other and let go of everything holding back their dreams.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Nov 2024
 
 > [!info]- Cast & crew

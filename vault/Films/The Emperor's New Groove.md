@@ -53,7 +53,7 @@ providers:
 
 When the self‑absorbed Emperor Kuzco is accidentally transformed into a llama, he must rely on a humble villager to survive the jungle and reclaim his throne.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

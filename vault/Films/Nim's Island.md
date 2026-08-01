@@ -51,7 +51,7 @@ letterboxd: https://boxd.it/1W8y
 
 A young girl inhabits an isolated island with her scientist father and communicates with a reclusive author of the novel she's reading.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Apr 2025
 
 > [!info]- Cast & crew

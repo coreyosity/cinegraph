@@ -61,7 +61,7 @@ log_tags:
 
 A rich man learns about a guru who can see without using his eyes. He sets out to master the skill in order to cheat at gambling.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Oct 2023 · ★ 4.0
 > Tags  [[caleb]] · [[netflix]] · [[wexford]]
 

@@ -73,7 +73,7 @@ providers:
 
 Po is finally living the dream as the Dragon Warrior—until a shadow from his past comes roaring back. When the ruthless peacock Lord Shen unleashes a devastating new weapon used to wipe out kung fu masters across the land, Po and the Furious Five race across China to put an end to his plans. But if Po is to have any hope of stopping him, he must first confront the truth of his origins—and find inner peace before his past tears him apart.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

@@ -45,7 +45,7 @@ log_tags:
 
 Stan is a sailor whose girl gets kidnapped by a rough sea captain. Stan dresses in drag and seduces the captain but the captain's wife catches him. Stan and his girl beat a hasty retreat as the captain's wife fires off a parting shot.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jan 2024
 > Tags  [[dean]] · [[andrew]] · [[torrent]] · [[home]]
 

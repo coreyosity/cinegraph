@@ -64,7 +64,7 @@ providers:
 
 Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jun 2022
 
 > [!info]- Cast & crew

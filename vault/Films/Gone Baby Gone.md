@@ -66,7 +66,7 @@ providers:
 
 When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons—they're not cops and they know the tough neighborhood in which they all live.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024 · ★ 4.0
 
 > [!info]- Cast & crew

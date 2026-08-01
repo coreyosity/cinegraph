@@ -61,7 +61,7 @@ providers:
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Nov 2024
 
 > [!info]- Cast & crew

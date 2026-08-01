@@ -59,7 +59,7 @@ log_tags:
 
 An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Jan 2025 · ★ 2.5
 > Tags  [[dad]] · [[wexford]] · [[netflix]]
 

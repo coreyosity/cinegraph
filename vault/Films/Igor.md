@@ -50,7 +50,7 @@ providers:
 
 A cliché hunchbacked evil scientist's assistant aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

@@ -64,7 +64,7 @@ providers:
 
 Viola Hastings is in a real jam. Complications threaten her scheme to pose as her twin brother, Sebastian, and take his place at a new boarding school. She falls in love with her handsome roommate, Duke, who loves beautiful Olivia, who has fallen for Sebastian! As if that were not enough, Viola's twin returns from London ahead of schedule but has no idea that his sister has already replaced him on campus.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

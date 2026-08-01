@@ -36,7 +36,7 @@ letterboxd: https://boxd.it/lG46
 
 Jennifer Saunders and a host of famous faces star in this hilarious Comic Relief reimagining of the hit movie featuring some of ABBA's biggest hits as well as a peek behind the scenes.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Dec 2024
 
 > [!info]- Cast & crew

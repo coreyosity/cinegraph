@@ -61,7 +61,7 @@ log_tags:
 
 Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Feb 2023 · ★ 2.5
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

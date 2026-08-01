@@ -72,7 +72,7 @@ providers:
 
 A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

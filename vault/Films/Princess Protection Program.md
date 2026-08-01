@@ -54,7 +54,7 @@ providers:
 
 When her nation is invaded, a young princess is taken into the Princess Protection Program. She is relocated to Louisiana, where she stays with a covert agent and his tomboyish daughter, and must learn how to behave like an ordinary teenager.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

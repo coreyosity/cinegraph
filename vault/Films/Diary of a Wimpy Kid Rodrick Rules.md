@@ -46,7 +46,7 @@ providers:
 
 Wimpy Greg Heffley, now in seventh grade, thinks he has it all together. He has mastered middle school and gotten rid of the Cheese Touch. However, Greg's older brother, Rodrick, is itching to cut him down to size. He gets the perfect opportunity when their mother tries to force the boys to bond. Rodrick may be Greg's chief tormentor, but he feels his constant pranks are just what his little brother needs to prepare him for life's hard knocks.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Apr 2025
 
 > [!info]- Cast & crew

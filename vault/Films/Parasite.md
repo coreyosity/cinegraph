@@ -71,7 +71,7 @@ providers:
 
 All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 5.0
 
 > [!info]- Cast & crew

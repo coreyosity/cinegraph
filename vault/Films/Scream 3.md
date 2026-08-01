@@ -74,7 +74,7 @@ log_tags:
 
 As bodies begin dropping around the Hollywood set of STAB 3, the third film based on the gruesome Woodsboro killings, Sidney and other survivors are once again terrorized by another Ghostface killer.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Mar 2023 · ★ 3.5
 > Tags  [[dean]] · [[chris]] · [[linda]] · [[torrent]] · [[home]]
 

@@ -52,7 +52,7 @@ providers:
 
 Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -72,7 +72,7 @@ providers:
 
 An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Oct 2025
 
 > [!info]- Cast & crew

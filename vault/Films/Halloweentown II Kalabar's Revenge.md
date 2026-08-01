@@ -46,7 +46,7 @@ providers:
 
 The Cromwell clan lives in the real world, except for their grandmother who lives in Halloweentown, a place where monsters go to escape reality. But now the son of the Cromwells' old enemy Kalabar has a plan to use the grandmother's book to turn Halloweentown into a grey dreary version of the real world while transforming the denizens of the real world into monsters.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Oct 2025
 
 > [!info]- Cast & crew

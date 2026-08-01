@@ -56,7 +56,7 @@ providers:
 
 The Baker family, while on vacation, find themselves in competition with a rival family of eight children.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

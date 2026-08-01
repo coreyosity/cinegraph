@@ -63,7 +63,7 @@ providers:
 
 Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 3.0
 
 > [!info]- Cast & crew

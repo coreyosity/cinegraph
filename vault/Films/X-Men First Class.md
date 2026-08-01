@@ -68,7 +68,7 @@ log_tags:
 
 Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Jul 2026 · ★ 3.0 · Rewatch
 > Tags  [[home]] · [[myself]] · [[disney+]]
 

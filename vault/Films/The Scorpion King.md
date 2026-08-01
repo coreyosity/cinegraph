@@ -63,7 +63,7 @@ providers:
 
 In ancient Egypt, peasant Mathayus is hired to exact revenge on the powerful Memnon and the sorceress Cassandra, who are ready to overtake Balthazar's village. Amid betrayals, thieves, abductions and more, Mathayus strives to bring justice to his complicated world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

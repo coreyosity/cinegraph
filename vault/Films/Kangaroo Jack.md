@@ -48,7 +48,7 @@ providers:
 
 Two childhood friends — a New York hairstylist and a wanna-be musician — get mixed-up with the mob and are forced to deliver $50,000 to Australia, but things go all wrong when the money is lost to a wild kangaroo.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Mar 2025
 
 > [!info]- Cast & crew

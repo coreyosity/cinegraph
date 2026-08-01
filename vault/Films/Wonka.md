@@ -61,7 +61,7 @@ log_tags:
 
 Willy Wonka – chock-full of ideas and determined to change the world one delectable bite at a time – is proof that the best things in life begin with a dream, and if you’re lucky enough to meet Willy Wonka, anything is possible.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Dec 2023 · ★ 3.5
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 

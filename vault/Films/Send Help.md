@@ -62,7 +62,7 @@ log_tags:
 
 Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Feb 2026 · ★ 4.0
 > Tags  [[cinema]] · [[dean]] · [[andrew]] · [[odeon-the-point]] · [[grace]] · [[eve]]
 

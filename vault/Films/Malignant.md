@@ -64,7 +64,7 @@ log_tags:
 
 Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Oct 2023 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[bluray]]
 

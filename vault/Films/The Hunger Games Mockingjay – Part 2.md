@@ -61,7 +61,7 @@ log_tags:
 
 As the war between the Capitol and the districts reaches its peak, Katniss Everdeen embarks on a perilous mission to liberate Panem and confront President Snow. Joined by a team of trusted allies, she navigates deadly traps, shifting loyalties, and the heavy cost of rebellion, determined to bring freedom to her people and end the Hunger Games once and for all.
 
-> [!note]- Log
+> [!log] Log
 > Watched 29 Dec 2023 · Rewatch
 > Tags  [[dad]] · [[netflix]] · [[wexford]]
 

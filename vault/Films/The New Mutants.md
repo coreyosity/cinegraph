@@ -52,7 +52,7 @@ providers:
 
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Sep 2022 · ★ 2.0
 
 > [!info]- Cast & crew

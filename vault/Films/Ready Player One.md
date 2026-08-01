@@ -67,7 +67,7 @@ providers:
 
 When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

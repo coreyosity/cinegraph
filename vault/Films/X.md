@@ -68,7 +68,7 @@ log_tags:
 
 In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 May 2024 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[netflix]]
 

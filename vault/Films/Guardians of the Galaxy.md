@@ -47,7 +47,7 @@ providers:
 
 Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 3.5
 
 > [!info]- Cast & crew

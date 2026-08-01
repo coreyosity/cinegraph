@@ -56,7 +56,7 @@ providers:
 
 Carmen's caught in a virtual reality game designed by the Kids' new nemesis, the Toymaker. It's up to Juni to save his sister, and ultimately the world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Mar 2025
 
 > [!info]- Cast & crew

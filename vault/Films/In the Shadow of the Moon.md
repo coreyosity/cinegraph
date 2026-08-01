@@ -58,7 +58,7 @@ log_tags:
 
 In 1988, Philadelphia police officer Thomas "Locke" Lockhart, hungry to become a detective, begins tracking a serial killer whose crimes defy scientific explanation. When the killer mysteriously resurfaces nine years later, Locke's obsession with finding the truth threatens to destroy his career, his family, and possibly his sanity.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 May 2024 · ★ 1.0
 > Tags  [[dad]] · [[wexford]] · [[netflix]]
 

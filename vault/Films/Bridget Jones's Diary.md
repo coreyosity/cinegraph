@@ -78,7 +78,7 @@ providers:
 
 Bridget Jones is an average woman struggling against expectations. As a New Year's resolution, Bridget decides to take control of her life, starting by keeping a diary in which she will always tell the complete truth. Her charming boss takes an interest in her, and she cannot stop running into a rather disagreeable acquaintance whom Bridget cannot help finding quietly attractive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

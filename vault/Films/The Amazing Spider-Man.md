@@ -71,7 +71,7 @@ providers:
 
 A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

@@ -68,7 +68,7 @@ log_tags:
 
 As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jul 2024 · ★ 3.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[cineworld]] · [[4dx]]
 

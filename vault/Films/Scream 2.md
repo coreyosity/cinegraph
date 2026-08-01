@@ -69,7 +69,7 @@ log_tags:
 
 Two years after the Woodsboro murders, Sidney Prescott acclimates to college life while someone donning the Ghostface costume begins a new string of killings.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Mar 2023 · ★ 4.5
 > Tags  [[dean]] · [[torrent]] · [[home]]
 

@@ -76,7 +76,7 @@ providers:
 
 Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.5
 
 > [!info]- Cast & crew

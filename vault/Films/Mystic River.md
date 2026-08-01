@@ -75,7 +75,7 @@ log_tags:
 
 The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2026 · ★ 4.5
 > Tags  [[home]] · [[myself]] · [[prime]]
 

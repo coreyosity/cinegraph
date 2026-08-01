@@ -57,7 +57,7 @@ providers:
 
 In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2025
 
 > [!info]- Cast & crew

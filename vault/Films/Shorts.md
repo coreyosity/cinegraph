@@ -41,7 +41,7 @@ letterboxd: https://boxd.it/1wl2
 
 A young boy's discovery of a colorful, wish-granting rock causes chaos in the suburban town of Black Falls when jealous kids and scheming adults alike set out to get their hands on it.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Apr 2025
 
 > [!info]- Cast & crew

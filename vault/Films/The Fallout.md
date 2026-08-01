@@ -53,7 +53,7 @@ providers:
 
 In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic bond as they navigate the never linear, often confusing journey to heal in a world that feels forever changed.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Jun 2022 · ★ 3.0
 
 > [!info]- Cast & crew

@@ -64,7 +64,7 @@ providers:
 
 Five years after the horrible bloodbath at Camp Crystal Lake, new counselors roam the area, not sensing the ominous lurking presence that proves that the grisly legend is real.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

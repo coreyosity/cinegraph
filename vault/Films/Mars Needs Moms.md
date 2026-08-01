@@ -48,7 +48,7 @@ providers:
 
 When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and discovers why all moms are so special.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

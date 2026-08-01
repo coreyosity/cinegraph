@@ -60,7 +60,7 @@ log_tags:
 
 Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Jul 2026 · ★ 4.5
 > Tags  [[omniplex]] · [[wexford]] · [[dad]]
 

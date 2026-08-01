@@ -58,7 +58,7 @@ log_tags:
 
 After a 4 a.m. knock at the door and haunting voices, Kristen McKay and James Hoyt’s remote getaway becomes a psychological night of terror as three masked strangers invade. Now they must go far beyond what they thought themselves capable of if they hope to survive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 May 2024 · ★ 2.5 · Rewatch
 > Tags  [[dean]] · [[torrent]] · [[home]]
 

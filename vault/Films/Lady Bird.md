@@ -71,7 +71,7 @@ log_tags:
 
 Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Aug 2024 · ★ 4.0
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 

@@ -87,7 +87,7 @@ log_tags:
 
 Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[cat]] · [[grace]] · [[4dx]] · [[eve]] · [[eoin]] · [[cineworld]]
 

@@ -49,7 +49,7 @@ providers:
 
 After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicably stops growing older. As the years stretch on and on, Adaline keeps her secret to herself  until she meets a man who changes her life.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jun 2022
 
 > [!info]- Cast & crew

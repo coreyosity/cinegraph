@@ -72,7 +72,7 @@ providers:
 
 In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 5.0
 
 > [!info]- Cast & crew

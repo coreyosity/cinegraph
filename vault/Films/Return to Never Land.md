@@ -44,7 +44,7 @@ providers:
 
 In 1940, the world is besieged by World War II. Wendy, all grown up, has two children; including Jane, who does not believe Wendy's stories about Peter Pan.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

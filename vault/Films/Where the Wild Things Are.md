@@ -57,7 +57,7 @@ providers:
 
 Max imagines running away from his mom and sailing to a far-off land where large talking beasts—Ira, Carol, Douglas, the Bull, Judith and Alexander—crown him as their king, play rumpus, build forts and discover secret hideaways.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

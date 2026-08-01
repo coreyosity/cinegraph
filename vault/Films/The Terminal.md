@@ -79,7 +79,7 @@ log_tags:
 
 An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2026 · ★ 4.0
 > Tags  [[home]] · [[myself]] · [[youtube]]
 

@@ -60,7 +60,7 @@ log_tags:
 
 Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 May 2024 · ★ 4.0
 > Tags  [[myself]] · [[odeon-blanch]] · [[cinema]]
 

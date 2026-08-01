@@ -40,7 +40,7 @@ providers:
 
 A brother-sister team who fake paranormal encounters for cash get more than they bargained for when a job at a haunted estate turns very, very real.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jul 2024
 
 > [!info]- Cast & crew

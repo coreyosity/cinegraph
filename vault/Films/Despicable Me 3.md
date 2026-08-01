@@ -59,7 +59,7 @@ providers:
 
 Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

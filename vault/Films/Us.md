@@ -61,7 +61,7 @@ providers:
 
 Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jun 2022 · ★ 4.0
 
 > [!info]- Cast & crew

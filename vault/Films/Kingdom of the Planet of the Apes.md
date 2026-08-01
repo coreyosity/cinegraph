@@ -67,7 +67,7 @@ log_tags:
 
 Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 May 2024 · ★ 4.0
 > Tags  [[andrew]] · [[imax]] · [[odeon-blanch]]
 

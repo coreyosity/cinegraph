@@ -60,7 +60,7 @@ log_tags:
 
 After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Mar 2025 · ★ 3.0
 > Tags  [[cinema]] · [[myself]] · [[odeon-the-point]]
 

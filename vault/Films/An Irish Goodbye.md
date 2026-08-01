@@ -37,7 +37,7 @@ log_tags:
 
 A disconsolate man draws comparisons to this when he struggles to write a suicide note for his parents. Through a melancholy yet humorous monologue, he criticises and provides observations on contemporary Irish youth culture.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 Apr 2023 · ★ 5.0
 > Tags  [[caleb]] · [[mam]] · [[wexford]]
 

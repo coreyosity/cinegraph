@@ -82,7 +82,7 @@ log_tags:
 
 Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic odyssey back home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jun 2023 · ★ 4.0
 > Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 

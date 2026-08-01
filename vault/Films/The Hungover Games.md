@@ -44,7 +44,7 @@ providers:
 
 Each year, drunk people are selected to participate in torturous games the morning after a big night out. There's no sunglasses, no water, and no headache medicine. "The Hungover Games," a film that manages to merge the premises of both "The Hunger Games" and "The Hangover" and throw in references to "Ted," "Django Unchained," "The Lord of the Rings," "Carrie," "The Real Housewives of Beverly Hills" and whatever else crossed the writers' fevered brains during the probably very drunken "development process."
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jun 2025
 
 > [!info]- Cast & crew

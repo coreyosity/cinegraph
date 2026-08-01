@@ -55,7 +55,7 @@ providers:
 
 A stoner and his dealer are forced to go on the run from the police after the pothead witnesses a cop commit a murder.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

@@ -74,7 +74,7 @@ log_tags:
 
 Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Jun 2025 · ★ 4.0
 > Tags  [[netflix]] · [[home]] · [[dean]]
 

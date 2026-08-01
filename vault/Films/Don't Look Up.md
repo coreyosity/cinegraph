@@ -59,7 +59,7 @@ providers:
 
 Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 3.0
 
 > [!info]- Cast & crew

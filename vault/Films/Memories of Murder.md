@@ -71,7 +71,7 @@ log_tags:
 
 A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to unravel the violent mind of the killer in a futile effort to solve the case.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Jun 2024 · ★ 5.0
 > Tags  [[myself]] · [[home]] · [[torrent]]
 

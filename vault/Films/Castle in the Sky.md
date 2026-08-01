@@ -69,7 +69,7 @@ log_tags:
 
 A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jan 2023 · ★ 4.0
 > Tags  [[dean]] · [[netflix]] · [[home]]
 

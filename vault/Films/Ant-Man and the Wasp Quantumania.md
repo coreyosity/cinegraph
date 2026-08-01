@@ -55,7 +55,7 @@ log_tags:
 
 Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Feb 2023 · ★ 3.0
 > Tags  [[linda]] · [[vue]] · [[cinema]]
 

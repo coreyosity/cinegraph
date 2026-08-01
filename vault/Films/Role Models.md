@@ -61,7 +61,7 @@ providers:
 
 Two salesmen trash a company truck on an energy drink-fueled bender. Upon their arrest, the court gives them a choice: do hard time or spend 150 service hours with a mentorship program. After one day with the kids, however, jail doesn't look half bad.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

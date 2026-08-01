@@ -53,7 +53,7 @@ providers:
 
 Ten-year-old Arthur, in a bid to save his grandfather's house from being demolished, goes looking for some much-fabled hidden treasure in the land of the Minimoys, tiny people living in harmony with nature.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

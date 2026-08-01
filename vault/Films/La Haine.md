@@ -70,7 +70,7 @@ log_tags:
 
 After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Apr 2025 · ★ 5.0
 > Tags  [[cinema]] · [[lighthouse]] · [[eoghan]]
 

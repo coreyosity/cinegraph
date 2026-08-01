@@ -30,7 +30,7 @@ log_tags:
 
 A story about a teenage boy and his first kiss with another boy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 4 Jun 2024 · ★ 4.5
 > Tags  [[tv show]] · [[myself]] · [[netflix]] · [[home]]
 

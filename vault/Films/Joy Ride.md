@@ -46,7 +46,7 @@ log_tags:
 
 When Audrey's business trip to Asia goes sideways, she enlists the aid of Lolo, her irreverent, childhood best friend who also happens to be a hot mess; Kat, her college friend turned Chinese soap star; and Deadeye, Lolo's eccentric cousin. Their no-holds-barred, epic experience becomes a journey of bonding, friendship, belonging, and wild debauchery that reveals the universal truth of what it means to know and love who you are.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Aug 2023
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

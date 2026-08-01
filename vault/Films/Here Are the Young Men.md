@@ -51,7 +51,7 @@ providers:
 
 Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school to a social vacuum of drinking and drugs, falling into shocking acts of transgression.
 
-> [!note]- Log
+> [!log] Log
 > Watched 8 May 2022
 
 > [!info]- Cast & crew

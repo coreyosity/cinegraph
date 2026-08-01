@@ -63,7 +63,7 @@ log_tags:
 
 The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S military's Guantanamo Bay detention center without charges for over a decade and sought help from a defense attorney for his release.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Jul 2022 · ★ 4.5
 > Tags  [[dad]] · [[wexford]] · [[prime]]
 

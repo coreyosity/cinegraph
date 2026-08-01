@@ -59,7 +59,7 @@ log_tags:
 
 Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Mar 2025 · ★ 4.0
 > Tags  [[home]] · [[myself]] · [[prime]]
 

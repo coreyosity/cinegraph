@@ -65,7 +65,7 @@ providers:
 
 A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during nighttime visitations by the Ghosts of Christmas Past, Present and Future.
 
-> [!note]- Log
+> [!log] Log
 > Watched 24 Dec 2024
 
 > [!info]- Cast & crew

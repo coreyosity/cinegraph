@@ -48,7 +48,7 @@ providers:
 
 When a feisty little fox named Tod is adopted into a farm family, he quickly becomes friends with a fun and adorable hound puppy named Copper. Life is full of hilarious adventures until Copper is expected to take on his role as a hunting dog -- and the object of his search is his best friend!
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Mar 2025
 
 > [!info]- Cast & crew

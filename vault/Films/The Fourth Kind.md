@@ -68,7 +68,7 @@ providers:
 
 Since the 1960s, a disproportionate number of the population in and around Nome, Alaska, have gone missing. Despite FBI investigations, the disappearances remain a mystery. Dr. Abigail Tyler, a psychologist, may be on the verge of blowing the unsolved cases wide open when, during the course of treating her patients, she finds evidence of alien abductions.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

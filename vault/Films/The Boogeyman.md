@@ -52,7 +52,7 @@ log_tags:
 
 Still reeling from the tragic death of their mother, a teenage girl and her younger sister find themselves plagued by a sadistic presence in their house and struggle to get their grieving father to pay attention before it’s too late.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Jun 2023 · ★ 2.0
 > Tags  [[odeon-blanch]] · [[dean]] · [[cinema]]
 

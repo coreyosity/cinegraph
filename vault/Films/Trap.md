@@ -66,7 +66,7 @@ log_tags:
 
 A father and teen daughter attend a pop concert, where they realize they're at the center of a dark and sinister event.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jul 2025 · ★ 2.5
 > Tags  [[netflix]] · [[dad]] · [[wexford]]
 

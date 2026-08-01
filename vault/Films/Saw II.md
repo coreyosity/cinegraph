@@ -50,7 +50,7 @@ providers:
 
 The chilling and relentless Jigsaw killer returns to terrorize the city once again. When a gruesome murder victim emerges with unmistakable traces of Jigsaw's sinister methods, Detective Eric Matthews is thrust into a high-stakes investigation. To his surprise, apprehending Jigsaw seems almost too easy, but what he doesn't realize is that being caught is merely another piece of Jigsaw's intricate puzzle.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

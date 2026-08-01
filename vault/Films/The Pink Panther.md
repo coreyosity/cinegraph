@@ -53,7 +53,7 @@ providers:
 
 When the coach of the France football team is killed by a poisoned dart in the stadium at the end of a game, and his huge, expensive ring with the Pink Panther diamond  disappears, the ambitious Chief Inspector Dreyfus assigns the worst police inspector – Jacques Clouseau – to the case.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Mar 2025
 
 > [!info]- Cast & crew

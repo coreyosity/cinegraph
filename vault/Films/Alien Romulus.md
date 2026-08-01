@@ -67,7 +67,7 @@ log_tags:
 
 While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Aug 2024 · ★ 3.5
 > Tags  [[eoghan]] · [[david conde]] · [[david urdaibay]] · [[cineworld]] · [[cinema]]
 

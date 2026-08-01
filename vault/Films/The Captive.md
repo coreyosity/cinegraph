@@ -64,7 +64,7 @@ log_tags:
 
 Eight years after their daughter Cassandra's abduction tore them apart, an estranged couple discover disturbing clues that indicate that she is still alive.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Feb 2024
 > Tags  [[dad]] · [[wexford]] · [[netflix]]
 

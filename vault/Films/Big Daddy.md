@@ -58,7 +58,7 @@ providers:
 
 A lazy law school grad adopts a kid to impress his girlfriend, but everything doesn't go as planned. Now he's forced to grow up while navigating the challenges of fatherhood.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

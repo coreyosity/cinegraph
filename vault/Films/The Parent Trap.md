@@ -65,7 +65,7 @@ providers:
 
 Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

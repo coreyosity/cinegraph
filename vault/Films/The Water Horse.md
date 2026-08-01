@@ -49,7 +49,7 @@ providers:
 
 A lonely boy discovers a mysterious egg that hatches a sea creature of Scottish legend.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Feb 2026
 
 > [!info]- Cast & crew

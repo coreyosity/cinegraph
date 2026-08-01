@@ -76,7 +76,7 @@ log_tags:
 
 Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jul 2025 · ★ 4.0
 > Tags  [[odeon-the-point]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]]
 

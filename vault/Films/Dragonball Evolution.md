@@ -61,7 +61,7 @@ providers:
 
 On his 18th birthday, Goku receives a mystical Dragonball as a gift from his grandfather. There are only six others like it in the whole world, and legend has it that whoever possesses all seven will be granted one perfect wish. When the arrival of a dark force triggers a tragedy, Goku and his companions are propelled into an epic quest to collect the seven Dragonballs and save the Earth from destruction.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

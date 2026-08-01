@@ -71,7 +71,7 @@ log_tags:
 
 On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jun 2023 · ★ 3.5
 > Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 

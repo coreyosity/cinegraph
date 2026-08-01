@@ -71,7 +71,7 @@ log_tags:
 
 A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Jan 2025 · ★ 5.0
 > Tags  [[dean]] · [[home]] · [[prime]]
 

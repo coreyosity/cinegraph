@@ -69,7 +69,7 @@ providers:
 
 Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 Oct 2023
 
 > [!info]- Cast & crew

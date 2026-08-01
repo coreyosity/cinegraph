@@ -63,7 +63,7 @@ providers:
 
 A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

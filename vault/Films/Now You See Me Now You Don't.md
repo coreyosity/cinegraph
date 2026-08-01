@@ -72,7 +72,7 @@ log_tags:
 
 The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 Nov 2025 · ★ 2.5
 > Tags  [[cinema]] · [[conor]] · [[odeon-the-point]]
 

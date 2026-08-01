@@ -67,7 +67,7 @@ providers:
 
 Two women, one American and one British, swap homes at Christmastime following bad breakups. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

@@ -52,7 +52,7 @@ providers:
 
 Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Apr 2022 · ★ 4.0
 
 > [!info]- Cast & crew

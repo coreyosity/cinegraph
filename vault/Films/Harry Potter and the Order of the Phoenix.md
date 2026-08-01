@@ -71,7 +71,7 @@ providers:
 
 When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2022
 
 > [!info]- Cast & crew

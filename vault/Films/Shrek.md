@@ -93,7 +93,7 @@ log_tags:
 
 It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Jan 2025 · ★ 4.0 · Rewatch
 > Tags  [[caleb]] · [[tg4]] · [[irish]] · [[wexford]]
 

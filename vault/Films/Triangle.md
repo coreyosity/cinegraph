@@ -69,7 +69,7 @@ log_tags:
 
 When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 May 2026 · ★ 3.0
 > Tags  [[home]] · [[myself]] · [[prime]]
 

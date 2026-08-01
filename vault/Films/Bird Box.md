@@ -49,7 +49,7 @@ providers:
 
 Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

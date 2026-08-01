@@ -62,7 +62,7 @@ providers:
 
 Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Nov 2023
 
 > [!info]- Cast & crew

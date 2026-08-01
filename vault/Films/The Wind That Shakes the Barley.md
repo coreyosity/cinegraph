@@ -84,7 +84,7 @@ log_tags:
 
 In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job in a London hospital. As he says his goodbyes at a friend's farm, British Black and Tans arrive, and a young man is killed. Damien joins his brother Teddy in the Irish Republican Army, but political events are soon set in motion that tear the brothers apart.
 
-> [!note]- Log
+> [!log] Log
 > Watched 25 Nov 2023 · ★ 4.0
 > Tags  [[home]] · [[torrent]] · [[myself]]
 

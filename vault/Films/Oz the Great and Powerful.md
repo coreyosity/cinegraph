@@ -51,7 +51,7 @@ providers:
 
 Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Nov 2024
 
 > [!info]- Cast & crew

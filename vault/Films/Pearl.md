@@ -76,7 +76,7 @@ log_tags:
 
 Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Dec 2025 · ★ 3.0
 > Tags  [[home]] · [[myself]] · [[prime]]
 

@@ -63,7 +63,7 @@ providers:
 
 The haunted Lambert family seeks to uncover the mysterious childhood secret that has left them dangerously connected to the spirit world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Nov 2023
 
 > [!info]- Cast & crew

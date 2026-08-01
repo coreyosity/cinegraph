@@ -61,7 +61,7 @@ log_tags:
 
 When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it's up to Kimberly to stop it before she's next.
 
-> [!note]- Log
+> [!log] Log
 > Watched 21 May 2025 · ★ 2.5
 > Tags  [[netflix]] · [[copenhagen]] · [[myself]]
 

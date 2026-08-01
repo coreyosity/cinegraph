@@ -54,7 +54,7 @@ log_tags:
 
 Desperate to fit in at school, Sam rejects her Indian culture and family to be like everyone else. However, when a mythological demonic spirit latches onto her former best friend, she must come to terms with her heritage to defeat it.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Sep 2023 · ★ 2.5
 > Tags  [[andrew]] · [[dean]] · [[cinema]] · [[odeon-blanch]] · [[preview]] · [[scream-unseen]]
 

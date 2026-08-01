@@ -52,7 +52,7 @@ log_tags:
 
 After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Feb 2023 · ★ 4.0
 > Tags  [[myself]] · [[torrent]] · [[home]]
 

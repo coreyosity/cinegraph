@@ -78,7 +78,7 @@ log_tags:
 
 In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Apr 2024 · ★ 4.0
 > Tags  [[myself]] · [[cinema]] · [[odeon-blanch]]
 

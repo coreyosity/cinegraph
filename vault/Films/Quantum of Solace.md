@@ -65,7 +65,7 @@ log_tags:
 
 Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Feb 2026 · ★ 2.0
 > Tags  [[myself]] · [[home]] · [[netflix]]
 

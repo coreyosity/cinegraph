@@ -69,7 +69,7 @@ log_tags:
 
 Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Jul 2025 · ★ 4.5
 > Tags  [[lighthouse]] · [[grace]] · [[andrew]]
 

@@ -81,7 +81,7 @@ providers:
 
 Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022 · ★ 3.0
 
 > [!info]- Cast & crew

@@ -64,7 +64,7 @@ log_tags:
 
 Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Nov 2023 · ★ 2.5
 > Tags  [[andrew]] · [[home]] · [[torrent]]
 

@@ -60,7 +60,7 @@ providers:
 
 Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022 · ★ 4.0
 
 > [!info]- Cast & crew

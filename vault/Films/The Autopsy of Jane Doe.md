@@ -78,7 +78,7 @@ log_tags:
 
 Father and son coroners receive a mysterious unidentified corpse with no apparent cause of death. As they attempt to examine the "Jane Doe," they discover increasingly bizarre clues that hold the key to her terrifying secrets.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Oct 2024 · ★ 3.0 · Rewatch
 > Tags  [[andrew]] · [[dean]] · [[netflix]] · [[cat]] · [[cinema-room]]
 

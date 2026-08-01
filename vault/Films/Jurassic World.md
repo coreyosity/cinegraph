@@ -76,7 +76,7 @@ providers:
 
 Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jun 2022
 
 > [!info]- Cast & crew

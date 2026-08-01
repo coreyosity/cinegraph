@@ -75,7 +75,7 @@ providers:
 
 A grieving single mother and her child fall into a deep well of paranoia when an eerie children's book manifests in their home.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

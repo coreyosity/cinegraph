@@ -80,7 +80,7 @@ log_tags:
 
 Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimble escapes from the law in an attempt to find the real killer and clear his name.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2025 · ★ 4.0
 > Tags  [[netflix]] · [[home]] · [[myself]]
 

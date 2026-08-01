@@ -46,7 +46,7 @@ providers:
 
 In 1967 Los Angeles, a widowed mother and her two daughters add a new stunt to bolster their séance scam business and unwittingly invite authentic evil into their home. When the youngest daughter is overtaken by the merciless spirit, this small family confronts unthinkable fears to save her and send her possessor back to the other side.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Jul 2024
 
 > [!info]- Cast & crew

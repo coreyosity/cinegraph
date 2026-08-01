@@ -64,7 +64,7 @@ providers:
 
 After taking his dying father's advice, Hal dates only the embodiments of female physical perfection. But that all changes after Hal has an unexpected run-in with self-help guru Tony Robbins. Intrigued by Hal's shallowness, Robbins hypnotizes him into seeing the beauty that exists even in the least physically appealing women. Hal soon falls for Rosemary, but he doesn't realize that his gorgeous girlfriend is actually a 300-pound-not-so-hottie.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

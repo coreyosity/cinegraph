@@ -59,7 +59,7 @@ log_tags:
 
 After their car breaks down in an eerie small town, a young couple are forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motives.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 May 2024 · ★ 2.5
 > Tags  [[dean]] · [[cinema]] · [[odeon-blanch]]
 

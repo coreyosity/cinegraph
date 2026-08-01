@@ -42,7 +42,7 @@ providers:
 
 Four tales unfold in Wes Anderson's anthology of short films adapted from Roald Dahl's beloved stories, "The Wonderful Story of Henry Sugar", "The Swan", "The Rat Catcher", and "Poison."
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Jul 2024
 
 > [!info]- Cast & crew

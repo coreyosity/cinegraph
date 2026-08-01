@@ -56,7 +56,7 @@ providers:
 
 Fed up with being targeted by the neighborhood bully, 10-year-old Lucas Nickle vents his frustrations on the anthill in his front yard ... until the insects shrink him to the size of a bug with a magic elixir. Convicted of "crimes against the colony," Lucas can only regain his freedom by living with the ants and learning their ways.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Mar 2025
 
 > [!info]- Cast & crew

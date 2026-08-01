@@ -54,7 +54,7 @@ providers:
 
 A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023
 
 > [!info]- Cast & crew

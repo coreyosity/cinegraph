@@ -63,7 +63,7 @@ log_tags:
 
 A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2023 · ★ 2.5
 > Tags  [[dean]] · [[odeon-blanch]] · [[cinema]]
 

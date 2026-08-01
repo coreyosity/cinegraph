@@ -41,7 +41,7 @@ providers:
 
 Political strategist Dominic Cummings leads a popular but controversial campaign to convince British voters to leave the European Union from 2015 up until the present day.
 
-> [!note]- Log
+> [!log] Log
 > Watched 30 Jul 2024
 
 > [!info]- Cast & crew

@@ -60,7 +60,7 @@ providers:
 
 Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

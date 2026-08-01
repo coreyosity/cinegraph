@@ -73,7 +73,7 @@ log_tags:
 
 When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, and the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.
 
-> [!note]- Log
+> [!log] Log
 > Watched 13 Oct 2024 · Rewatch
 > Tags  [[dean]] · [[andrew]] · [[sky]] · [[home]]
 

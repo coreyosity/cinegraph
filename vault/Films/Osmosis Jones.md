@@ -44,7 +44,7 @@ letterboxd: https://boxd.it/1RAi
 
 A white blood cell policeman, with the help of a cold pill, must stop a deadly virus from destroying the human they live in, Frank.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Apr 2025
 
 > [!info]- Cast & crew

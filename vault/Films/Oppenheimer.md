@@ -74,7 +74,7 @@ log_tags:
 
 The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Jul 2023 · ★ 4.5
 > Tags  [[eoghan]] · [[linda]] · [[imax]] · [[cinema]] · [[cineworld]]
 

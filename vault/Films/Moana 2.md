@@ -60,7 +60,7 @@ log_tags:
 
 After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Dec 2024 · ★ 1.5
 > Tags  [[andrew]] · [[cinema]] · [[odeon-the-point]]
 

@@ -52,7 +52,7 @@ providers:
 
 When Mitchie gets a chance to attend Camp Rock, her life takes an unpredictable twist, and she learns just how important it is to be true to yourself.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

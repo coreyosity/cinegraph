@@ -51,7 +51,7 @@ providers:
 
 When a magical artifact is lifted from his library, a meek librarian sets out to ensure its safe return.
 
-> [!note]- Log
+> [!log] Log
 > Watched 9 Jun 2024
 
 > [!info]- Cast & crew

@@ -85,7 +85,7 @@ providers:
 
 A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 May 2023 · ★ 4.5
 
 > [!info]- Cast & crew

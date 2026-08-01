@@ -94,7 +94,7 @@ log_tags:
 
 Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.
 
-> [!note]- Log
+> [!log] Log
 > Watched 7 Mar 2023 · ★ 3.0
 > Tags  [[dean]] · [[linda]] · [[chris]] · [[torrent]] · [[home]]
 

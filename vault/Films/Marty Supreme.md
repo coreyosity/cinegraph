@@ -61,7 +61,7 @@ log_tags:
 
 Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.
 
-> [!note]- Log
+> [!log] Log
 > Watched 16 Jan 2026 · ★ 5.0
 > Tags  [[lighthouse]] · [[cinema]] · [[conor]]
 

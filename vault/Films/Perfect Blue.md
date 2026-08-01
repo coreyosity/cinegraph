@@ -77,7 +77,7 @@ log_tags:
 
 Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 Oct 2025 · ★ 4.5
 > Tags  [[lighthouse]] · [[cinema]] · [[dean]] · [[andrew]]
 

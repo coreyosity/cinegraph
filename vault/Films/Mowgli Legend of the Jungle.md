@@ -49,7 +49,7 @@ providers:
 
 A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jun 2024
 
 > [!info]- Cast & crew

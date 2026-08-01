@@ -53,7 +53,7 @@ providers:
 
 Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.
 
-> [!note]- Log
+> [!log] Log
 > Watched 10 May 2024
 
 > [!info]- Cast & crew

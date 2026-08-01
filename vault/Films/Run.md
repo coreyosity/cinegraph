@@ -58,7 +58,7 @@ log_tags:
 
 Chloe, a teenager who is confined to a wheelchair, is homeschooled by her mother, Diane. Chloe soon becomes suspicious of her mother and begins to suspect that she may be harboring a dark secret.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 Aug 2023 · ★ 3.0
 > Tags  [[andrew]] · [[dean]] · [[home]] · [[netflix]]
 

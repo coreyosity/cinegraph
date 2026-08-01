@@ -64,7 +64,7 @@ providers:
 
 This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Jul 2024
 
 > [!info]- Cast & crew

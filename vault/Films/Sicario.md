@@ -90,7 +90,7 @@ log_tags:
 
 An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
 
-> [!note]- Log
+> [!log] Log
 > Watched 22 May 2026 · ★ 4.0
 > Tags  [[home]] · [[myself]] · [[disney+]]
 

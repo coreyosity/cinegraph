@@ -61,7 +61,7 @@ log_tags:
 
 When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 May 2024 · ★ 2.0
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-blanch]]
 

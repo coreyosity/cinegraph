@@ -51,7 +51,7 @@ providers:
 
 Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.
 
-> [!note]- Log
+> [!log] Log
 > Watched 1 Feb 2025
 
 > [!info]- Cast & crew

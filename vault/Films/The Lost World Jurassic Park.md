@@ -75,7 +75,7 @@ providers:
 
 Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that he has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 Jun 2022
 
 > [!info]- Cast & crew

@@ -75,7 +75,7 @@ log_tags:
 
 The staff of an American magazine based in France puts out its last issue, with stories featuring an artist sentenced to life imprisonment, student riots, and a kidnapping resolved by a chef.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Dec 2024 · ★ 3.5
 > Tags  [[dad]] · [[netflix]] · [[wexford]]
 

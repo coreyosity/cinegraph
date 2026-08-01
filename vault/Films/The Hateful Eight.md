@@ -66,7 +66,7 @@ log_tags:
 
 Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.
 
-> [!note]- Log
+> [!log] Log
 > Watched 12 Dec 2025 · ★ 4.5
 > Tags  [[home]] · [[myself]] · [[netflix]]
 

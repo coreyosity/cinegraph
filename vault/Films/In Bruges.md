@@ -61,7 +61,7 @@ providers:
 
 Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Nov 2022
 
 > [!info]- Cast & crew

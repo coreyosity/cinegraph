@@ -90,7 +90,7 @@ log_tags:
 
 Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.
 
-> [!note]- Log
+> [!log] Log
 > Watched 26 Apr 2025 · ★ 4.5
 > Tags  [[cinema]] · [[myself]] · [[odeon-the-point]] · [[isense]]
 

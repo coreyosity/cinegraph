@@ -75,7 +75,7 @@ log_tags:
 
 Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.
 
-> [!note]- Log
+> [!log] Log
 > Watched 31 Dec 2024 · ★ 5.0 · Rewatch
 > Tags  [[eoghan]] · [[imax]] · [[cinema]] · [[cineworld]] · [[preview]] · [[dean]] · [[andrew]] · [[dad]] · [[sky]] · [[wexford]]
 

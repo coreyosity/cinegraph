@@ -55,7 +55,7 @@ providers:
 
 A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.
 
-> [!note]- Log
+> [!log] Log
 > Watched 3 Jul 2022
 
 > [!info]- Cast & crew

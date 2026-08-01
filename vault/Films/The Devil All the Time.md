@@ -59,7 +59,7 @@ providers:
 
 In Knockemstiff, Ohio and its neighboring backwoods, sinister characters converge around young Arvin Russell as he fights the evil forces that threaten him and his family.
 
-> [!note]- Log
+> [!log] Log
 > Watched 11 Apr 2022 · ★ 4.5
 
 > [!info]- Cast & crew

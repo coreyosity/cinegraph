@@ -24,7 +24,7 @@ letterboxd: https://boxd.it/4W9M
 
 Mieke is being harassed by an inexplicable phenomenon. She is having nightmares and her children are acting strange. For no apparent reason her mother appears, after a long period without any contact. She tries to warn Mieke for impending doom. Has it something to do with the doll that one of her sons got for his birthday? Mieke makes a discovery, a very dark one. Something that will turn her life upside down.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Jun 2024
 
 > [!info]- Cast & crew

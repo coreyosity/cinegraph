@@ -56,7 +56,7 @@ providers:
 
 Two stoners wake up after a night of partying and cannot remember where they parked their car.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

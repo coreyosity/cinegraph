@@ -55,7 +55,7 @@ letterboxd: https://boxd.it/dSE
 
 Dispatched to a small Italian town to await further orders, assassin Jack embarks on a double life that may be more relaxing than is good for him.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Mar 2025
 
 > [!info]- Cast & crew

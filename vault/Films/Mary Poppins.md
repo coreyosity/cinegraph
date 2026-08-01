@@ -73,7 +73,7 @@ providers:
 
 In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

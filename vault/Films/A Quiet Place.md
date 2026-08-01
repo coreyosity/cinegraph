@@ -71,7 +71,7 @@ providers:
 
 A family is forced to live in silence while hiding from creatures that hunt by sound.
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.5
 
 > [!info]- Cast & crew

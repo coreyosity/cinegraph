@@ -67,7 +67,7 @@ log_tags:
 
 Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson "Kingpin" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 May 2026 · ★ 5.0 · Rewatch
 > Tags  [[omniplex]] · [[cinema]] · [[dean]] · [[andrew]] · [[grace]] · [[eve]] · [[luke]]
 

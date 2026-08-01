@@ -54,7 +54,7 @@ log_tags:
 
 In the West End of 1950s London, plans for a movie version of a smash-hit play come to an abrupt halt after a pivotal member of the crew is murdered. When world-weary Inspector Stoppard and eager rookie Constable Stalker take on the case, the two find themselves thrown into a puzzling whodunit within the glamorously sordid theater underground, investigating the mysterious homicide at their own peril.
 
-> [!note]- Log
+> [!log] Log
 > Watched 6 Nov 2022 · ★ 3.5
 > Tags  [[myself]] · [[disney+]] · [[home]]
 

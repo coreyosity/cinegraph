@@ -31,7 +31,7 @@ log_tags:
 
 Man and Woman are reunited after a long time. Sorrow and desire cannot break the silence. But that's okay: when words don't come, it's the body that speaks.
 
-> [!note]- Log
+> [!log] Log
 > Watched 17 May 2026 · ★ 3.0
 > Tags  [[home]] · [[myself]] · [[myflixer]]
 

@@ -53,7 +53,7 @@ providers:
 
 In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one other than his eccentric new friend believes his ability is real. One day, Norman's eccentric uncle tells him of a ritual he must perform to protect the town from a curse cast by a witch centuries ago.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Mar 2025
 
 > [!info]- Cast & crew

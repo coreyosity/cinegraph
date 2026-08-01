@@ -58,7 +58,7 @@ providers:
 
 E.B., the Easter Bunny's teenage son, heads to Hollywood, determined to become a drummer in a rock 'n' roll band. In L.A., he's taken in by Fred after the out-of-work slacker hits E.B. with his car.
 
-> [!note]- Log
+> [!log] Log
 > Watched 23 Aug 2024
 
 > [!info]- Cast & crew

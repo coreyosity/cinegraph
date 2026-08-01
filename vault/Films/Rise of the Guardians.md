@@ -55,7 +55,7 @@ providers:
 
 When an evil spirit known as Pitch lays down the gauntlet to take over the world, the immortal Guardians must join forces for the first time to protect the hopes, beliefs and imagination of children all over the world.
 
-> [!note]- Log
+> [!log] Log
 > Watched 5 Jan 2025
 
 > [!info]- Cast & crew

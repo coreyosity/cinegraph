@@ -37,7 +37,7 @@ log_tags:
 
 A Presence is.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Jan 2025 · ★ 3.5
 > Tags  [[dean]] · [[andrew]] · [[cinema]] · [[odeon-the-point]] · [[screen-unseen]]
 

@@ -50,7 +50,7 @@ providers:
 
 On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises.
 
-> [!note]- Log
+> [!log] Log
 > Watched 19 Oct 2025
 
 > [!info]- Cast & crew

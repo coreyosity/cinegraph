@@ -46,7 +46,7 @@ providers:
 
 A young woman discovers that both her husband and their new home harbor sinister secrets after they leave Manhattan for small-town life.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Feb 2025
 
 > [!info]- Cast & crew

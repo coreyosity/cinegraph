@@ -56,7 +56,7 @@ providers:
 
 Law enforcement finds itself chasing the ghost of a man dead for over a decade, embroiled in a diabolical new game that's only just begun.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew

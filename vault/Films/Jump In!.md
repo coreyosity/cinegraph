@@ -49,7 +49,7 @@ providers:
 
 A young boxer, Izzy Daniels, trains to follow in his father's footsteps by winning the Golden Glove. But when his friend, Mary asks him to substitute for a team member in a Double Dutch tournament, the young man discovers a hidden passion for jump roping, all while finding love with Mary and navigating conflict with himself and his father about boxing.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 Dec 2024
 
 > [!info]- Cast & crew

@@ -69,7 +69,7 @@ log_tags:
 
 Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.
 
-> [!note]- Log
+> [!log] Log
 > Watched 18 May 2025 · ★ 3.0
 > Tags  [[odeon-the-point]] · [[andrew]] · [[dean]]
 

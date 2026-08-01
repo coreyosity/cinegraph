@@ -38,7 +38,7 @@ letterboxd: https://boxd.it/dgSy
 
 The story of a young woman who takes an epic journey to claim her own darkness and sexuality so she can stop putting it into the hands of her abusive lover.  When Inanna, a young actress, working as a stripper, becomes obsessed with a mask maker, she sacrifices parts of herself and her life, piece by piece, in order to win his love.  At the same time she enters a mythic journey in the theater.  One that forces her to face the many abuses endured by women around that world and that blurs her performance, her dreams and her real life and results in a provocative and powerful confrontation that frees her. -- from official website
 
-> [!note]- Log
+> [!log] Log
 > Watched 27 Mar 2022 · ★ 4.0
 
 > [!info]- Cast & crew

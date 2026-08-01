@@ -44,7 +44,7 @@ providers:
 
 Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby firehouse. He teams up with a young kid to get the station back on its feet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 14 Oct 2024
 
 > [!info]- Cast & crew

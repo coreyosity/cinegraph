@@ -50,7 +50,7 @@ providers:
 
 Miles Logan is a jewel thief who just hit the big time by stealing a huge diamond. However, after two years in jail, he comes to find out that he hid the diamond in a police building that was being built at the time of the robbery. In an attempt to regain his diamond, he poses as an LAPD detective.
 
-> [!note]- Log
+> [!log] Log
 > Watched 2 Mar 2025
 
 > [!info]- Cast & crew

@@ -58,7 +58,7 @@ log_tags:
 
 When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever.
 
-> [!note]- Log
+> [!log] Log
 > Watched 20 Mar 2025 · ★ 3.5
 > Tags  [[home]] · [[myself]] · [[torrent]]
 

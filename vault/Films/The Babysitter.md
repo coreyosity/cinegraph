@@ -47,7 +47,7 @@ providers:
 
 When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a Satanic cult that will stop at nothing to keep him quiet.
 
-> [!note]- Log
+> [!log] Log
 > Watched 28 May 2024
 
 > [!info]- Cast & crew
