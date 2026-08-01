@@ -210,7 +210,9 @@ def render_log(watched, rating, rewatch, log_tags) -> str | None:
         lines.append("Tags  " + " · ".join(common.wikilink(t) for t in tags))
     if not lines:
         return None
-    return "> [!note]- Log\n" + "\n".join("> " + ln for ln in lines)
+    # Custom `log` callout (not `note`): no fold marker → always open, and styled neutral
+    # (not Quartz's blue) via .callout[data-callout="log"] in the cinegraph-views CSS.
+    return "> [!log] Log\n" + "\n".join("> " + ln for ln in lines)
 
 
 def render_body(director, cast, studios, genres, overview, *,

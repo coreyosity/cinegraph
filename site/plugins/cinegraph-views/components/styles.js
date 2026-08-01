@@ -68,6 +68,15 @@ export const cinegraphViewsCss = `
 .film-related { margin-top: 2rem; }
 .film-related h2 { margin-bottom: 0.75rem; }
 
+/* --- film "Log" callout: subtle neutral card, always open (no blue, no fold arrow) --- */
+/* doubled [data-callout="log"] outranks Quartz's equal-specificity .callout[data-callout] blue default */
+.callout[data-callout="log"][data-callout="log"] { --color: var(--gray); --border: var(--lightgray); --bg: var(--lightgray); margin: 0.5rem 0 1.3rem; padding: 0.35rem 0.9rem; border: none; border-left: 3px solid var(--gray); border-radius: 5px; }
+.callout[data-callout="log"] .callout-title { padding: 0.2rem 0 0.05rem; }
+.callout[data-callout="log"] .callout-icon { display: none; }
+.callout[data-callout="log"] .callout-title-inner p { font-size: 0.68rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--gray); }
+.callout[data-callout="log"] .callout-content { font-size: 0.9rem; color: var(--darkgray); }
+.callout[data-callout="log"] .callout-content p { margin: 0.1rem 0 0.15rem; }
+
 /* --- person page --- */
 .person-wrapper { margin: 0.2rem 0 0.5rem; }
 .person-meta { color: var(--gray); font-size: 0.92rem; margin-bottom: 1rem; }

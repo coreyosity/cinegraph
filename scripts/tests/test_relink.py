@@ -22,8 +22,8 @@ def test_relink_round_trip_is_idempotent():
     body1 = _body("the overview prose")
     body2 = _body(extract_overview(body1) or None)  # a second relink pass
     assert body1 == body2
-    assert "> [!note]- Log" in body2
+    assert "> [!log] Log" in body2
     assert "> Watched 24 Feb 2023 · ★ 4.0 · Rewatch" in body2
     assert "> Tags  [[cinema]] · [[dean]]" in body2
     # Log sits between the blurb and Cast & crew
-    assert body2.index("overview prose") < body2.index("[!note]- Log") < body2.index("[!info]- Cast")
+    assert body2.index("overview prose") < body2.index("[!log] Log") < body2.index("[!info]- Cast")

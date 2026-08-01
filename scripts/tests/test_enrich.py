@@ -62,7 +62,7 @@ def test_build_note_body_has_overview_and_wikilinks():
     assert "A young blade runner" in body
     assert "[[Denis Villeneuve]]" in body
     assert "> [!info]- Cast & crew" in body   # links tucked in a folded callout
-    assert "[!note]- Log" not in body          # no diary fields -> no Log callout
+    assert "[!log] Log" not in body          # no diary fields -> no Log callout
 
 
 def test_fmt_date():
@@ -74,17 +74,17 @@ def test_fmt_date():
 def test_render_log_full_partial_and_empty():
     # tags render as wikilinks so they resolve to their /logs/<tag> hub pages
     assert enrich.render_log("2023-02-24", 4.0, True, ["cinema", "dean"]) == (
-        "> [!note]- Log\n"
+        "> [!log] Log\n"
         "> Watched 24 Feb 2023 · ★ 4.0 · Rewatch\n"
         "> Tags  [[cinema]] · [[dean]]"
     )
     # no rating, not a rewatch -> just the watched date
     assert enrich.render_log("2023-02-24", None, False, []) == (
-        "> [!note]- Log\n> Watched 24 Feb 2023"
+        "> [!log] Log\n> Watched 24 Feb 2023"
     )
     # tags only (no diary entry) -> just the tags line
     assert enrich.render_log(None, None, False, ["home"]) == (
-        "> [!note]- Log\n> Tags  [[home]]"
+        "> [!log] Log\n> Tags  [[home]]"
     )
     assert enrich.render_log(None, None, False, None) is None  # nothing logged
 
@@ -93,11 +93,11 @@ def test_build_note_body_has_log_callout_when_logged():
     meta = {"title": "X", "watched": "2023-05-12", "rating": 4.5,
             "rewatch": True, "log_tags": ["cinema", "dean"]}
     _, body = enrich.build_note(meta, _movie_data(), "movie", cast_size=2)
-    assert "> [!note]- Log" in body
+    assert "> [!log] Log" in body
     assert "> Watched 12 May 2023 · ★ 4.5 · Rewatch" in body
     assert "> Tags  [[cinema]] · [[dean]]" in body
     # order: overview, then Log, then Cast & crew
-    assert body.index("young blade runner") < body.index("[!note]- Log") < body.index("[!info]- Cast")
+    assert body.index("young blade runner") < body.index("[!log] Log") < body.index("[!info]- Cast")
 
 
 def test_build_note_tv_uses_created_by_and_origin_country():
