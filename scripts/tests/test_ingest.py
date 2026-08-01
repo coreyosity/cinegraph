@@ -23,15 +23,17 @@ def test_build_indexes_keeps_latest_diary_entry_and_unions_tags(tmp_path):
     (tmp_path / "ratings.csv").write_text(
         "Letterboxd URI,Rating\nlb/a,4.5\nlb/b,\n", encoding="utf-8"
     )
+    # Two diary entries for one film (a rewatch). Note the per-entry URIs differ from any
+    # film URI — the diary is keyed by (Name, Year), not by URI.
     (tmp_path / "diary.csv").write_text(
-        "Letterboxd URI,Watched Date,Rewatch,Tags\n"
-        'lb/a,2023-01-01,No,"cinema, first-watch"\n'
-        'lb/a,2024-02-02,Yes,"cinema, imax"\n',   # later row wins for watched/rewatch
+        "Name,Year,Letterboxd URI,Watched Date,Rewatch,Tags\n"
+        'Dune,2021,lb/entry-1,2023-01-01,No,"cinema, first-watch"\n'
+        'Dune,2021,lb/entry-2,2024-02-02,Yes,"cinema, imax"\n',   # later row wins for watched/rewatch
         encoding="utf-8",
     )
     ratings, diary = ingest.build_indexes(tmp_path)
     assert ratings == {"lb/a": 4.5, "lb/b": None}
-    assert diary["lb/a"] == {
+    assert diary[("Dune", "2021")] == {
         "watched": "2024-02-02",       # latest entry
         "rewatch": True,
         "log_tags": ["cinema", "first-watch", "imax"],   # unioned across both entries, deduped
@@ -41,10 +43,43 @@ def test_build_indexes_keeps_latest_diary_entry_and_unions_tags(tmp_path):
 def test_build_indexes_omits_log_tags_when_absent(tmp_path):
     # An export with no Tags column (older exports) must not add a log_tags key.
     (tmp_path / "diary.csv").write_text(
-        "Letterboxd URI,Watched Date,Rewatch\nlb/a,2023-01-01,No\n", encoding="utf-8"
+        "Name,Year,Letterboxd URI,Watched Date,Rewatch\nDune,2021,lb/e,2023-01-01,No\n",
+        encoding="utf-8",
     )
     _, diary = ingest.build_indexes(tmp_path)
-    assert diary["lb/a"] == {"watched": "2023-01-01", "rewatch": False}
+    assert diary[("Dune", "2021")] == {"watched": "2023-01-01", "rewatch": False}
+
+
+def test_ingest_joins_diary_by_name_year_not_uri(tmp_path, monkeypatch):
+    """Regression: diary.csv's URI is the per-entry permalink, so watched date / rewatch /
+    log_tags must join to the film by (Name, Year). Here the diary URI deliberately differs
+    from the film URI — a URI join would silently drop all three."""
+    export = tmp_path / "export"
+    export.mkdir()
+    vault = tmp_path / "vault"
+    (export / "watched.csv").write_text(
+        "Date,Name,Year,Letterboxd URI\n"
+        "2022-07-07,The Mauritanian,2021,https://boxd.it/film\n",
+        encoding="utf-8",
+    )
+    (export / "ratings.csv").write_text(
+        "Letterboxd URI,Rating\nhttps://boxd.it/film,4.0\n", encoding="utf-8"
+    )
+    (export / "diary.csv").write_text(
+        "Date,Name,Year,Letterboxd URI,Rating,Rewatch,Tags,Watched Date\n"
+        '2022-07-07,The Mauritanian,2021,https://boxd.it/entry,4.0,Yes,"dad, prime",2022-07-06\n',
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(
+        "sys.argv", ["ingest.py", "--export", str(export), "--vault", str(vault)]
+    )
+    assert ingest.main() == 0
+
+    meta, _ = common.read_note(vault / "Films" / "The Mauritanian.md")
+    assert meta["watched"] == "2022-07-06"    # diary Watched Date, NOT watched.csv Date
+    assert meta["rewatch"] is True
+    assert meta["log_tags"] == ["dad", "prime"]
+    assert meta["rating"] == 4.0
 
 
 def test_write_film_disambiguates_duplicate_titles(tmp_path):

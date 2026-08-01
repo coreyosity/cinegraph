@@ -45,6 +45,8 @@ FILM_KEY_ORDER = [
     "language", "poster", "tags",
 ]
 PRESERVE = {"rating", "watched"}  # Letterboxd-owned; never overwritten
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 
 def load_key(cli_key: str | None) -> str:
@@ -171,16 +173,52 @@ def build_note(meta, data, content_type, cast_size) -> tuple[dict, str]:
         if value is not None:  # honor the None-filter above for leftover/extra keys too
             ordered.setdefault(key, value)
 
-    body = render_body(director, cast, studios, genres, data.get("overview"))
+    body = render_body(
+        director, cast, studios, genres, data.get("overview"),
+        watched=meta.get("watched"), rating=meta.get("rating"),
+        rewatch=bool(meta.get("rewatch")), log_tags=meta.get("log_tags"),
+    )
     return ordered, body
 
 
-def render_body(director, cast, studios, genres, overview) -> str:
-    """Body = overview prose + a collapsed "Cast & crew" callout holding the
-    [[wikilinks]]. The links must live in the note body (that's what Quartz's graph and
-    backlinks read), but the film-page component renders them prettily from frontmatter —
-    so we tuck them into a folded callout to avoid visible duplication while keeping the
-    graph edges. Still fully readable/native in Obsidian."""
+def fmt_date(value) -> str:
+    """'2023-02-24' -> '24 Feb 2023'. Built from the string parts (not a real date) so a
+    bare ISO date isn't shifted across a timezone; returns the raw string on no match."""
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", str(value))
+    if not m:
+        return str(value)
+    year, month, day = m.groups()
+    return f"{int(day)} {MONTHS[int(month) - 1]} {year}"
+
+
+def render_log(watched, rating, rewatch, log_tags) -> str | None:
+    """The folded "Log" callout — your Letterboxd diary entry (watched date, rating,
+    rewatch flag) and its tags. Returns None when nothing was logged (e.g. Watchlist)."""
+    head = []
+    if watched:
+        head.append("Watched " + fmt_date(watched))
+    if rating is not None:
+        head.append(f"★ {rating}")
+    if rewatch:
+        head.append("Rewatch")
+    lines = []
+    if head:
+        lines.append(" · ".join(head))
+    tags = common.as_list(log_tags)
+    if tags:
+        lines.append("Tags  " + " · ".join(tags))
+    if not lines:
+        return None
+    return "> [!note]- Log\n" + "\n".join("> " + ln for ln in lines)
+
+
+def render_body(director, cast, studios, genres, overview, *,
+                watched=None, rating=None, rewatch=False, log_tags=None) -> str:
+    """Body = overview prose + a folded "Log" callout (your diary entry) + a folded
+    "Cast & crew" callout holding the [[wikilinks]]. The links must live in the note body
+    (that's what Quartz's graph and backlinks read), but the film-page component renders
+    them prettily from frontmatter — so we tuck them into a folded callout to avoid visible
+    duplication while keeping the graph edges. Still fully readable/native in Obsidian."""
     rows = []
     if director:
         rows.append(f"**Director** {common.wikilink(director)}")
@@ -194,6 +232,9 @@ def render_body(director, cast, studios, genres, overview) -> str:
     parts = []
     if overview:
         parts.append(overview.strip())
+    log = render_log(watched, rating, rewatch, log_tags)
+    if log:
+        parts.append(log)
     if rows:
         parts.append("> [!info]- Cast & crew\n" + "\n".join("> " + r for r in rows))
     return "\n\n".join(parts)

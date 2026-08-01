@@ -51,29 +51,36 @@ def parse_tags(value: str | None) -> list[str]:
     return [t for t in (part.strip().lower() for part in (value or "").split(",")) if t]
 
 
+def film_key(row: dict) -> tuple[str, str]:
+    """Join key shared by watched.csv and diary.csv. diary.csv's 'Letterboxd URI' is the
+    *per-entry* permalink (not the film's), so it can't be joined to watched.csv by URI —
+    the film is matched by (Name, Year) instead."""
+    return (row.get("Name", ""), row.get("Year", ""))
+
+
 def build_indexes(export: Path):
     ratings = {
         r["Letterboxd URI"]: parse_rating(r.get("Rating"))
         for r in read_csv(export / "ratings.csv")
     }
-    diary: dict[str, dict] = {}
-    log_tags: dict[str, list[str]] = {}
+    diary: dict[tuple[str, str], dict] = {}
+    log_tags: dict[tuple[str, str], list[str]] = {}
     for row in read_csv(export / "diary.csv"):
-        uri = row["Letterboxd URI"]
+        key = film_key(row)
         # keep the most recent diary entry per film (rows are chronological)
-        diary[uri] = {
+        diary[key] = {
             "watched": (row.get("Watched Date") or "").strip() or None,
             "rewatch": (row.get("Rewatch") or "").strip().lower() == "yes",
         }
         # tags are per-entry — union them across every diary entry for the film,
         # preserving first-seen order
-        bucket = log_tags.setdefault(uri, [])
+        bucket = log_tags.setdefault(key, [])
         for tag in parse_tags(row.get("Tags")):
             if tag not in bucket:
                 bucket.append(tag)
-    for uri, tags in log_tags.items():
+    for key, tags in log_tags.items():
         if tags:
-            diary[uri]["log_tags"] = tags
+            diary[key]["log_tags"] = tags
     return ratings, diary
 
 
@@ -118,11 +125,12 @@ def main() -> int:
     n_films = 0
     for row in read_csv(args.export / "watched.csv"):
         uri = row["Letterboxd URI"]
+        entry = diary.get(film_key(row), {})
         extra = {
             "rating": ratings.get(uri),
-            "watched": (diary.get(uri, {}).get("watched")) or row.get("Date"),
-            "rewatch": diary.get(uri, {}).get("rewatch") or None,
-            "log_tags": diary.get(uri, {}).get("log_tags") or None,
+            "watched": entry.get("watched") or row.get("Date"),
+            "rewatch": entry.get("rewatch") or None,
+            "log_tags": entry.get("log_tags") or None,
         }
         write_film(args.vault, "Films", used, row, extra)
         n_films += 1

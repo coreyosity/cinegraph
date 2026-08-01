@@ -52,6 +52,10 @@ def main() -> int:
                 common.as_list(meta.get("studios")),
                 common.as_list(meta.get("genres")),
                 overview or None,
+                watched=meta.get("watched"),
+                rating=meta.get("rating"),
+                rewatch=bool(meta.get("rewatch")),
+                log_tags=meta.get("log_tags"),
             )
             common.write_note(path, meta, new_body)
             n += 1
