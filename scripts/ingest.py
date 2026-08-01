@@ -6,13 +6,13 @@ film note per watched film into <vault>/Films, plus watchlist entries into
 graph nodes.
 
 Sources:
-    watched.csv    master list of every film watched  -> Films/
-    ratings.csv    rating (0.5-5) by Letterboxd URI    -> merged in
-    diary.csv      actual Watched Date + rewatch flag  -> merged in
-    watchlist.csv  unseen films                        -> Watchlist/
+    watched.csv    master list of every film watched      -> Films/
+    ratings.csv    rating (0.5-5) by Letterboxd URI        -> merged in
+    diary.csv      Watched Date + rewatch flag + Tags      -> merged in
+    watchlist.csv  unseen films                            -> Watchlist/
 
 Idempotent: on re-run, existing notes keep their enriched fields and body; only the
-Letterboxd-owned fields (rating / watched / letterboxd / rewatch) are refreshed.
+Letterboxd-owned fields (rating / watched / letterboxd / rewatch / log_tags) are refreshed.
 
 Usage:
     python scripts/ingest.py --export /path/to/letterboxd-export --vault vault
@@ -26,7 +26,7 @@ from pathlib import Path
 
 import common
 
-LB_OWNED = ("rating", "watched", "letterboxd", "rewatch")
+LB_OWNED = ("rating", "watched", "letterboxd", "rewatch", "log_tags")
 
 
 def read_csv(path: Path) -> list[dict]:
@@ -44,12 +44,20 @@ def parse_rating(value: str | None):
         return None
 
 
+def parse_tags(value: str | None) -> list[str]:
+    """Letterboxd's diary 'Tags' column is a comma-separated list of labels. Normalize
+    to lowercase and drop blanks; de-duplication happens at the call site (tags are
+    unioned across all of a film's diary entries)."""
+    return [t for t in (part.strip().lower() for part in (value or "").split(",")) if t]
+
+
 def build_indexes(export: Path):
     ratings = {
         r["Letterboxd URI"]: parse_rating(r.get("Rating"))
         for r in read_csv(export / "ratings.csv")
     }
     diary: dict[str, dict] = {}
+    log_tags: dict[str, list[str]] = {}
     for row in read_csv(export / "diary.csv"):
         uri = row["Letterboxd URI"]
         # keep the most recent diary entry per film (rows are chronological)
@@ -57,6 +65,15 @@ def build_indexes(export: Path):
             "watched": (row.get("Watched Date") or "").strip() or None,
             "rewatch": (row.get("Rewatch") or "").strip().lower() == "yes",
         }
+        # tags are per-entry — union them across every diary entry for the film,
+        # preserving first-seen order
+        bucket = log_tags.setdefault(uri, [])
+        for tag in parse_tags(row.get("Tags")):
+            if tag not in bucket:
+                bucket.append(tag)
+    for uri, tags in log_tags.items():
+        if tags:
+            diary[uri]["log_tags"] = tags
     return ratings, diary
 
 
@@ -105,6 +122,7 @@ def main() -> int:
             "rating": ratings.get(uri),
             "watched": (diary.get(uri, {}).get("watched")) or row.get("Date"),
             "rewatch": diary.get(uri, {}).get("rewatch") or None,
+            "log_tags": diary.get(uri, {}).get("log_tags") or None,
         }
         write_film(args.vault, "Films", used, row, extra)
         n_films += 1

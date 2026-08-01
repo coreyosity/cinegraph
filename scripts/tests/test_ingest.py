@@ -12,19 +12,39 @@ def test_parse_rating():
     assert ingest.parse_rating(None) is None
 
 
-def test_build_indexes_keeps_latest_diary_entry(tmp_path):
+def test_parse_tags():
+    assert ingest.parse_tags("cinema, imax") == ["cinema", "imax"]
+    assert ingest.parse_tags("  Cinema ,, IMAX ") == ["cinema", "imax"]  # trims, lowercases, drops blanks
+    assert ingest.parse_tags("") == []
+    assert ingest.parse_tags(None) == []
+
+
+def test_build_indexes_keeps_latest_diary_entry_and_unions_tags(tmp_path):
     (tmp_path / "ratings.csv").write_text(
         "Letterboxd URI,Rating\nlb/a,4.5\nlb/b,\n", encoding="utf-8"
     )
     (tmp_path / "diary.csv").write_text(
-        "Letterboxd URI,Watched Date,Rewatch\n"
-        "lb/a,2023-01-01,No\n"
-        "lb/a,2024-02-02,Yes\n",   # later row wins (rows are chronological)
+        "Letterboxd URI,Watched Date,Rewatch,Tags\n"
+        'lb/a,2023-01-01,No,"cinema, first-watch"\n'
+        'lb/a,2024-02-02,Yes,"cinema, imax"\n',   # later row wins for watched/rewatch
         encoding="utf-8",
     )
     ratings, diary = ingest.build_indexes(tmp_path)
     assert ratings == {"lb/a": 4.5, "lb/b": None}
-    assert diary["lb/a"] == {"watched": "2024-02-02", "rewatch": True}
+    assert diary["lb/a"] == {
+        "watched": "2024-02-02",       # latest entry
+        "rewatch": True,
+        "log_tags": ["cinema", "first-watch", "imax"],   # unioned across both entries, deduped
+    }
+
+
+def test_build_indexes_omits_log_tags_when_absent(tmp_path):
+    # An export with no Tags column (older exports) must not add a log_tags key.
+    (tmp_path / "diary.csv").write_text(
+        "Letterboxd URI,Watched Date,Rewatch\nlb/a,2023-01-01,No\n", encoding="utf-8"
+    )
+    _, diary = ingest.build_indexes(tmp_path)
+    assert diary["lb/a"] == {"watched": "2023-01-01", "rewatch": False}
 
 
 def test_write_film_disambiguates_duplicate_titles(tmp_path):
@@ -57,3 +77,16 @@ def test_write_film_preserves_enrichment_refreshes_lb_fields(tmp_path):
     assert meta2["rating"] == 4.5                    # Letterboxd-owned field refreshed
     assert meta2["watched"] == "2024-01-01"
     assert body2.strip() == "overview prose"         # body untouched
+
+
+def test_write_film_writes_and_refreshes_log_tags(tmp_path):
+    row = {"Name": "Dune", "Year": "2021", "Letterboxd URI": "lb/dune"}
+    ingest.write_film(tmp_path, "Films", {}, row, {"log_tags": ["cinema", "imax"]})
+    path = tmp_path / "Films" / "Dune.md"
+    meta, _ = common.read_note(path)
+    assert meta["log_tags"] == ["cinema", "imax"]
+
+    # Re-ingest with a changed tag set → refreshed (it's a Letterboxd-owned field).
+    ingest.write_film(tmp_path, "Films", {}, row, {"log_tags": ["cinema", "rewatch"]})
+    meta2, _ = common.read_note(path)
+    assert meta2["log_tags"] == ["cinema", "rewatch"]
