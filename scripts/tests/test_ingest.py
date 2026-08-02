@@ -1,5 +1,7 @@
 """ingest.py — Letterboxd CSV parsing, index building, and idempotent note writes."""
 
+import zipfile
+
 import common
 import ingest
 
@@ -80,6 +82,27 @@ def test_ingest_joins_diary_by_name_year_not_uri(tmp_path, monkeypatch):
     assert meta["rewatch"] is True
     assert meta["log_tags"] == ["dad", "prime"]
     assert meta["rating"] == 4.0
+
+
+def test_ingest_accepts_zip(tmp_path, monkeypatch):
+    """A user can point --export straight at the Letterboxd .zip; ingest extracts it to a
+    temp dir (auto-cleaned) and writes notes exactly as it would from an unzipped folder."""
+    export = tmp_path / "letterboxd-export.zip"
+    with zipfile.ZipFile(export, "w") as zf:
+        zf.writestr(
+            "watched.csv", "Date,Name,Year,Letterboxd URI\n2022-07-07,Dune,2021,lb/dune\n"
+        )
+        zf.writestr("ratings.csv", "Letterboxd URI,Rating\nlb/dune,4.5\n")
+        zf.writestr("watchlist.csv", "Name,Year,Letterboxd URI\nArrival,2016,lb/arrival\n")
+    vault = tmp_path / "vault"
+    monkeypatch.setattr(
+        "sys.argv", ["ingest.py", "--export", str(export), "--vault", str(vault)]
+    )
+    assert ingest.main() == 0
+
+    meta, _ = common.read_note(vault / "Films" / "Dune.md")
+    assert meta["rating"] == 4.5
+    assert (vault / "Watchlist" / "Arrival.md").exists()
 
 
 def test_write_film_disambiguates_duplicate_titles(tmp_path):

@@ -21,7 +21,10 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import contextlib
 import csv
+import tempfile
+import zipfile
 from pathlib import Path
 
 import common
@@ -113,33 +116,55 @@ def write_film(vault: Path, subdir: str, used: dict, row: dict, extra: dict) -> 
         common.write_note(path, meta, "")
 
 
+@contextlib.contextmanager
+def export_dir(path: Path):
+    """Yield a directory of Letterboxd CSVs. Accepts either an already-unzipped export
+    directory or the .zip straight from Letterboxd's 'Export your data' (extracted to a
+    temp dir that's cleaned up on exit)."""
+    if path.is_dir():
+        yield path
+    elif zipfile.is_zipfile(path):
+        with tempfile.TemporaryDirectory(prefix="lb-export-") as tmp:
+            with zipfile.ZipFile(path) as zf:
+                zf.extractall(tmp)          # stdlib sanitizes member paths (no zip-slip)
+            root = Path(tmp)
+            if not (root / "watched.csv").exists():   # be robust to a wrapper folder
+                found = next(root.rglob("watched.csv"), None)
+                if found is not None:
+                    root = found.parent
+            yield root
+    else:
+        raise SystemExit(f"--export must be a directory or a Letterboxd .zip: {path}")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Ingest a Letterboxd export.")
     parser.add_argument("--export", type=Path, required=True)
     parser.add_argument("--vault", type=Path, default=Path("vault"))
     args = parser.parse_args()
 
-    ratings, diary = build_indexes(args.export)
+    with export_dir(args.export) as export:
+        ratings, diary = build_indexes(export)
 
-    used: dict[str, str] = {}
-    n_films = 0
-    for row in read_csv(args.export / "watched.csv"):
-        uri = row["Letterboxd URI"]
-        entry = diary.get(film_key(row), {})
-        extra = {
-            "rating": ratings.get(uri),
-            "watched": entry.get("watched") or row.get("Date"),
-            "rewatch": entry.get("rewatch") or None,
-            "log_tags": entry.get("log_tags") or None,
-        }
-        write_film(args.vault, "Films", used, row, extra)
-        n_films += 1
+        used: dict[str, str] = {}
+        n_films = 0
+        for row in read_csv(export / "watched.csv"):
+            uri = row["Letterboxd URI"]
+            entry = diary.get(film_key(row), {})
+            extra = {
+                "rating": ratings.get(uri),
+                "watched": entry.get("watched") or row.get("Date"),
+                "rewatch": entry.get("rewatch") or None,
+                "log_tags": entry.get("log_tags") or None,
+            }
+            write_film(args.vault, "Films", used, row, extra)
+            n_films += 1
 
-    used_wl: dict[str, str] = {}
-    n_wl = 0
-    for row in read_csv(args.export / "watchlist.csv"):
-        write_film(args.vault, "Watchlist", used_wl, row, {})
-        n_wl += 1
+        used_wl: dict[str, str] = {}
+        n_wl = 0
+        for row in read_csv(export / "watchlist.csv"):
+            write_film(args.vault, "Watchlist", used_wl, row, {})
+            n_wl += 1
 
     print(f"Films: {n_films}  |  Watchlist: {n_wl}")
     return 0
