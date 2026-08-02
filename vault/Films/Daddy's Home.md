@@ -47,15 +47,17 @@ providers:
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
+- Philo
 - Starz Apple TV Channel
 - Paramount+ Amazon Channel
 - YouTube TV
+- Starz
+- FXNow
 - Paramount+ Roku Premium Channel
-- BINGE
+- Starz Amazon Channel
 - Foxtel Now
 - Stan
 - AMC+
-- 'AMC Plus Apple TV Channel '
 ---
 
 The story of a mild-mannered radio executive who strives to become the best stepdad ever to his wife's two children, but complications ensue when their freewheeling, freeloading real father arrives, forcing stepdad to compete for the affection of the kids.
@@ -68,3 +70,4 @@ The story of a mild-mannered radio executive who strives to become the best step
 > **Cast** [[Will Ferrell]] · [[Mark Wahlberg]] · [[Linda Cardellini]] · [[Thomas Haden Church]] · [[Scarlett Estevez]] · [[Owen Vaccaro]] · [[Bobby Cannavale]] · [[Hannibal Buress]] · [[Bill Burr]] · [[Jamie Denbo]]
 > **Studios** [[Paramount Pictures]] · [[Gary Sanchez Productions]] · [[Red Granite Pictures]]
 > **Genres** [[Comedy]]
+

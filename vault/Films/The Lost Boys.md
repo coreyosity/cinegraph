@@ -55,7 +55,6 @@ letterboxd: https://boxd.it/28DI
 providers:
 - Sky Go
 - Now TV Cinema
-- YouTube TV
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -71,3 +70,4 @@ When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brot
 > **Cast** [[Jason Patric]] · [[Corey Haim]] · [[Dianne Wiest]] · [[Barnard Hughes]] · [[Edward Herrmann]] · [[Kiefer Sutherland]] · [[Jami Gertz]] · [[Corey Feldman]] · [[Jamison Newlander]] · [[Brooke McCarter]]
 > **Studios** [[Warner Bros. Pictures]]
 > **Genres** [[Horror]] · [[Comedy]] · [[Thriller]] · [[Drama]] · [[Romance]]
+

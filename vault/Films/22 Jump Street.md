@@ -53,19 +53,24 @@ tags:
 - film
 letterboxd: https://boxd.it/5Fvy
 providers:
-- Amazon Prime Video
 - FilmBox+
-- Amazon Prime Video with Ads
-- fuboTV
+- MGM Plus Amazon Channel
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
 - YouTube TV
+- Starz
+- FXNow
 - TNT
 - TBS
 - tru TV
 - Starz Amazon Channel
+- Hollywood Suite
 - Sony Pictures Core Amazon Channel
 - Netflix
 - Stan
 - Netflix Standard with Ads
+- MGM Amazon Channel
 - HBO Max
 - HBO Max Amazon Channel
 ---
@@ -80,3 +85,4 @@ After making their way through high school (twice), big changes are in store for
 > **Cast** [[Jonah Hill]] · [[Channing Tatum]] · [[Peter Stormare]] · [[Wyatt Russell]] · [[Amber Stevens West]] · [[Jillian Bell]] · [[Ice Cube]] · [[Keith Lucas]] · [[Kenneth Lucas]] · [[Nick Offerman]]
 > **Studios** [[Columbia Pictures]] · [[Original Film]] · [[MRC]] · [[Metro-Goldwyn-Mayer]] · [[Cannell Studios]] · [[JHF Productions]] · [[33andOut Productions]]
 > **Genres** [[Crime]] · [[Comedy]] · [[Action]]
+

@@ -76,3 +76,4 @@ When a mutating, highly contagious fungus escapes a sealed facility, two employe
 > **Cast** [[Georgina Campbell]] · [[Joe Keery]] · [[Sosie Bacon]] · [[Vanessa Redgrave]] · [[Lesley Manville]] · [[Liam Neeson]] · [[Richard Brake]] · [[Aaron Heffernan]] · [[Ellora Torchia]] · [[Rob Collins]]
 > **Studios** [[Pariah]] · [[StudioCanal UK]] · [[StudioCanal]]
 > **Genres** [[Horror]] · [[Science Fiction]] · [[Comedy]]
+

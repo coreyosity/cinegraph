@@ -50,7 +50,6 @@ tags:
 - film
 letterboxd: https://boxd.it/8gw8
 providers:
-- Philo
 - Netflix
 - Super Channel Plus
 - Club Illico
@@ -75,3 +74,4 @@ Bounty hunters seek shelter from a raging blizzard and get caught up in a plot o
 > **Cast** [[Samuel L. Jackson]] · [[Kurt Russell]] · [[Jennifer Jason Leigh]] · [[Walton Goggins]] · [[Demián Bichir]] · [[Tim Roth]] · [[Michael Madsen]] · [[Bruce Dern]] · [[James Parks]] · [[Dana Gourrier]]
 > **Studios** [[The Weinstein Company]] · [[Double Feature Films]] · [[FilmColony]]
 > **Genres** [[Drama]] · [[Mystery]] · [[Western]]
+

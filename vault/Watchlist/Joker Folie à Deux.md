@@ -57,3 +57,4 @@ While struggling with his dual identity, Arthur Fleck not only stumbles upon tru
 > **Cast** [[Joaquin Phoenix]] · [[Lady Gaga]] · [[Brendan Gleeson]] · [[Catherine Keener]] · [[Zazie Beetz]] · [[Steve Coogan]] · [[Harry Lawtey]] · [[Leigh Gill]] · [[Ken Leung]] · [[Jacob Lofland]]
 > **Studios** [[Warner Bros. Pictures]] · [[Joint Effort]] · [[Domain Entertainment]]
 > **Genres** [[Drama]] · [[Crime]] · [[Thriller]]
+

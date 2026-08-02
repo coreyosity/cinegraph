@@ -84,3 +84,4 @@ Follow the mythic journey of Paul Atreides as he unites with Chani and the Freme
 > **Cast** [[Timothée Chalamet]] · [[Zendaya]] · [[Rebecca Ferguson]] · [[Javier Bardem]] · [[Josh Brolin]] · [[Austin Butler]] · [[Florence Pugh]] · [[Dave Bautista]] · [[Christopher Walken]] · [[Léa Seydoux]]
 > **Studios** [[Legendary Pictures]]
 > **Genres** [[Science Fiction]] · [[Adventure]]
+

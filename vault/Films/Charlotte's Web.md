@@ -63,7 +63,10 @@ providers:
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - fuboTV
+- MGM+ Amazon Channel
 - Paramount Plus Essential
+- Philo
+- MGM Plus Roku Premium Channel
 - MGM Plus
 - Wonder Project Amazon Channel
 - Stan
@@ -79,3 +82,4 @@ Wilbur the pig is scared of the end of the season, because he knows that come th
 > **Cast** [[Dakota Fanning]] · [[Julia Roberts]] · [[Steve Buscemi]] · [[John Cleese]] · [[Oprah Winfrey]] · [[Cedric the Entertainer]] · [[Reba McEntire]] · [[Kathy Bates]] · [[Robert Redford]] · [[Thomas Haden Church]]
 > **Studios** [[Paramount Pictures]] · [[The Kerner Entertainment Company]] · [[Nickelodeon Movies]] · [[Walden Media]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

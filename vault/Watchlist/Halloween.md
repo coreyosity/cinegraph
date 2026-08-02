@@ -63,3 +63,4 @@ Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers 
 > **Cast** [[Donald Pleasence]] · [[Jamie Lee Curtis]] · [[Nancy Kyes]] · [[P. J. Soles]] · [[Charles Cyphers]] · [[Kyle Richards]] · [[Brian Andrews]] · [[John Michael Graham]] · [[Nancy Stephens]] · [[Arthur Malet]]
 > **Studios** [[Compass International Pictures]] · [[Falcon International Productions]] · [[Miracle Films]]
 > **Genres** [[Horror]] · [[Thriller]]
+

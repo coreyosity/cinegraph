@@ -69,6 +69,7 @@ providers:
 - Disney Plus
 - Hulu
 - fuboTV
+- FXNow
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -86,3 +87,4 @@ A highly intelligent chimpanzee named Caesar has been living a peaceful suburban
 > **Cast** [[Andy Serkis]] · [[James Franco]] · [[Freida Pinto]] · [[John Lithgow]] · [[Brian Cox]] · [[Tom Felton]] · [[Tyler Labine]] · [[Karin Konoval]] · [[Terry Notary]] · [[Christopher Gordon]]
 > **Studios** [[Dune Entertainment]] · [[Chernin Entertainment]] · [[Ingenious Media]] · [[Big Screen Productions]] · [[20th Century Fox]]
 > **Genres** [[Thriller]] · [[Action]] · [[Drama]] · [[Science Fiction]]
+

@@ -54,6 +54,7 @@ providers:
 - Channel 4 Plus
 - fuboTV
 - YouTube TV
+- FXNow
 log_tags:
 - myself
 - cinema
@@ -71,3 +72,4 @@ Two lifelong friends find themselves at an impasse when one abruptly ends their 
 > **Cast** [[Colin Farrell]] · [[Brendan Gleeson]] · [[Kerry Condon]] · [[Barry Keoghan]] · [[Gary Lydon]] · [[Pat Shortt]] · [[Sheila Flitton]] · [[Bríd Ní Neachtain]] · [[Jon Kenny]] · [[Aaron Monaghan]]
 > **Studios** [[Searchlight Pictures]] · [[Blueprint Pictures]] · [[Film4 Productions]] · [[TSG Entertainment]]
 > **Genres** [[Drama]] · [[Comedy]]
+

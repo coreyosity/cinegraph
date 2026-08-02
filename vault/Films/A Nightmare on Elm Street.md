@@ -80,3 +80,4 @@ Teenagers in a small town are dropping like flies, apparently in the grip of mas
 > **Cast** [[Heather Langenkamp]] · [[Johnny Depp]] · [[Robert Englund]] · [[Amanda Wyss]] · [[Jsu Garcia]] · [[John Saxon]] · [[Ronee Blakley]] · [[Charles Fleischer]] · [[Joseph Whipp]] · [[Lin Shaye]]
 > **Studios** [[New Line Cinema]] · [[Smart Egg Pictures]] · [[Media Home Entertainment]] · [[Cinema 84]] · [[The Elm Street Venture]]
 > **Genres** [[Horror]]
+

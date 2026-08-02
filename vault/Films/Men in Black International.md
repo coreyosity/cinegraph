@@ -53,12 +53,10 @@ letterboxd: https://boxd.it/hdJw
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
 - Starz Apple TV Channel
-- Peacock Premium Plus
+- Sony Pictures Core Amazon Channel
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
-- Sony Pictures Core Amazon Channel
 - Amazon Prime Video
 - Stan
 - Amazon Prime Video with Ads
@@ -74,3 +72,4 @@ The Men in Black have always protected the Earth from the scum of the universe. 
 > **Cast** [[Chris Hemsworth]] · [[Tessa Thompson]] · [[Kumail Nanjiani]] · [[Rebecca Ferguson]] · [[Rafe Spall]] · [[Emma Thompson]] · [[Liam Neeson]] · [[Laurent Bourgeois]] · [[Larry Bourgeois]] · [[Kayvan Novak]]
 > **Studios** [[Amblin Entertainment]] · [[Parkes+MacDonald Image Nation]] · [[Columbia Pictures]] · [[Tencent Pictures]]
 > **Genres** [[Comedy]] · [[Science Fiction]] · [[Action]] · [[Adventure]]
+

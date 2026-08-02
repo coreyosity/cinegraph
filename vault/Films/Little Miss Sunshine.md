@@ -50,7 +50,9 @@ letterboxd: https://boxd.it/29EW
 providers:
 - Disney Plus
 - Netflix
+- Peacock Premium
 - Netflix Standard with Ads
+- Peacock Premium Plus
 ---
 
 A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.
@@ -63,3 +65,4 @@ A family loaded with quirky, colorful characters piles into an old van and road 
 > **Cast** [[Greg Kinnear]] · [[Toni Collette]] · [[Steve Carell]] · [[Paul Dano]] · [[Abigail Breslin]] · [[Alan Arkin]] · [[Bryan Cranston]] · [[Beth Grant]] · [[Wallace Langham]] · [[Matt Winston]]
 > **Studios** [[Big Beach]] · [[Bona Fide Productions]]
 > **Genres** [[Comedy]] · [[Drama]]
+

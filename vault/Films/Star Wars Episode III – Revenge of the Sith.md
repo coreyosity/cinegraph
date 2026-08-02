@@ -79,3 +79,4 @@ When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the R
 > **Cast** [[Hayden Christensen]] · [[Ewan McGregor]] · [[Natalie Portman]] · [[Ian McDiarmid]] · [[Samuel L. Jackson]] · [[Jimmy Smits]] · [[Frank Oz]] · [[Anthony Daniels]] · [[Christopher Lee]] · [[Keisha Castle-Hughes]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

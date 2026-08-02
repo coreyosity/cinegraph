@@ -45,8 +45,6 @@ tags:
 - film
 letterboxd: https://boxd.it/1zWg
 providers:
-- Sky Go
-- Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
 - Amazon Prime Video
@@ -63,3 +61,4 @@ The story of Michael Oher, a homeless and traumatized boy who became an All Amer
 > **Cast** [[Sandra Bullock]] · [[Tim McGraw]] · [[Quinton Aaron]] · [[Jae Head]] · [[Lily Collins]] · [[Ray McKinnon]] · [[Kim Dickens]] · [[Adriane Lenox]] · [[Kathy Bates]] · [[Catherine Dyer]]
 > **Studios** [[Alcon Entertainment]] · [[Netter Productions]]
 > **Genres** [[Drama]]
+

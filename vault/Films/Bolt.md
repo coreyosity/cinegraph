@@ -63,3 +63,4 @@ Bolt is the star of the biggest show in Hollywood. The only problem is, he think
 > **Cast** [[John Travolta]] · [[Miley Cyrus]] · [[Susie Essman]] · [[Mark Walton]] · [[Malcolm McDowell]] · [[James Lipton]] · [[Greg Germann]] · [[Diedrich Bader]] · [[Nick Swardson]] · [[J.P. Manoux]]
 > **Studios** [[Walt Disney Animation Studios]] · [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Comedy]]
+

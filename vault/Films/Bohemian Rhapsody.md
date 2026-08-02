@@ -71,3 +71,4 @@ Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guita
 > **Cast** [[Rami Malek]] · [[Gwilym Lee]] · [[Ben Hardy]] · [[Joseph Mazzello]] · [[Lucy Boynton]] · [[Aidan Gillen]] · [[Allen Leech]] · [[Tom Hollander]] · [[Mike Myers]] · [[Aaron McCusker]]
 > **Studios** [[20th Century Fox]] · [[Regency Enterprises]] · [[GK Films]] · [[TSG Entertainment]]
 > **Genres** [[Music]] · [[Drama]]
+

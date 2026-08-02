@@ -56,6 +56,7 @@ providers:
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - ITVX Premium
+- Philo
 - BINGE
 - Foxtel Now
 rewatch: true
@@ -80,3 +81,4 @@ Holly Golightly is an eccentric New York City playgirl determined to marry a Bra
 > **Cast** [[Audrey Hepburn]] · [[George Peppard]] · [[Patricia Neal]] · [[Buddy Ebsen]] · [[Martin Balsam]] · [[José Luis de Vilallonga]] · [[John McGiver]] · [[Alan Reed]] · [[Dorothy Whitney]] · [[Beverly Powers]]
 > **Studios** [[Paramount Pictures]] · [[Jurow-Shepherd]]
 > **Genres** [[Comedy]] · [[Romance]] · [[Drama]]
+

@@ -60,13 +60,9 @@ providers:
 - Amazon Prime Video
 - Disney Plus
 - Amazon Prime Video with Ads
+- fuboTV
 - Philo
-- 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
-- AMC+ Roku Premium Channel
-- AMC+
 - YouTube TV
-- AMC
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -82,3 +78,4 @@ During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a 
 > **Cast** [[Matt Damon]] · [[Jessica Chastain]] · [[Kristen Wiig]] · [[Jeff Daniels]] · [[Michael Peña]] · [[Sean Bean]] · [[Kate Mara]] · [[Sebastian Stan]] · [[Aksel Hennie]] · [[Chiwetel Ejiofor]]
 > **Studios** [[Genre Films]] · [[TSG Entertainment]] · [[20th Century Fox]] · [[Scott Free Productions]]
 > **Genres** [[Science Fiction]] · [[Drama]] · [[Adventure]]
+

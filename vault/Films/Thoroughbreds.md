@@ -54,9 +54,7 @@ letterboxd: https://boxd.it/dVHQ
 providers:
 - MUBI
 - MUBI Amazon Channel
-- Amazon Prime Video
 - Starz Apple TV Channel
-- Amazon Prime Video with Ads
 log_tags:
 - myself
 - torrent
@@ -74,3 +72,4 @@ Lily and Amanda, two high school students living in suburban Connecticut, rekind
 > **Cast** [[Olivia Cooke]] · [[Anya Taylor-Joy]] · [[Anton Yelchin]] · [[Paul Sparks]] · [[Francie Swift]] · [[Kaili Vernoff]] · [[Alyssa Fishenden]] · [[Jackson Damon]] · [[James Haddad]] · [[Nolan Ball]]
 > **Studios** [[June Pictures]] · [[B Story]] · [[Big Indie Pictures]]
 > **Genres** [[Drama]] · [[Thriller]]
+

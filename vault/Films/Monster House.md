@@ -60,3 +60,4 @@ Monsters under the bed are scary enough, but what happens when an entire house i
 > **Cast** [[Mitchel Musso]] · [[Sam Lerner]] · [[Spencer Locke]] · [[Steve Buscemi]] · [[Maggie Gyllenhaal]] · [[Kevin James]] · [[Nick Cannon]] · [[Jon Heder]] · [[Jason Lee]] · [[Catherine O'Hara]]
 > **Studios** [[ImageMovers]] · [[Amblin Entertainment]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

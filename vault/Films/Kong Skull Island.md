@@ -56,12 +56,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
-- Amazon Prime Video
 - Crave
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 ---
 
@@ -75,3 +71,4 @@ Explore the mysterious and dangerous home of the king of the apes as a team of e
 > **Cast** [[Tom Hiddleston]] · [[Samuel L. Jackson]] · [[John Goodman]] · [[Brie Larson]] · [[Jing Tian]] · [[Toby Kebbell]] · [[John Ortiz]] · [[Corey Hawkins]] · [[Jason Mitchell]] · [[Shea Whigham]]
 > **Studios** [[Legendary Pictures]] · [[Tencent Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

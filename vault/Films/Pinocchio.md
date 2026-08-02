@@ -72,3 +72,4 @@ When the gentle woodcarver Geppetto builds a marionette to be his substitute son
 > **Cast** [[Dickie Jones]] · [[Cliff Edwards]] · [[Christian Rub]] · [[Evelyn Venable]] · [[Walter Catlett]] · [[Mel Blanc]] · [[Charles Judels]] · [[Frankie Darro]] · [[Don Brodie]] · [[Marion Darlington]]
 > **Studios** [[Walt Disney Productions]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]]
+

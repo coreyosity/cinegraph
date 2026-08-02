@@ -53,8 +53,6 @@ tags:
 letterboxd: https://boxd.it/6CCe
 providers:
 - Netflix
-- Sky Go
-- Now TV Cinema
 - Netflix Standard with Ads
 - Starz Amazon Channel
 - Sony Pictures Core Amazon Channel
@@ -74,3 +72,4 @@ Hot dog Frank leads a group of supermarket products on a quest to discover the t
 > **Cast** [[Seth Rogen]] · [[Kristen Wiig]] · [[Jonah Hill]] · [[Bill Hader]] · [[Michael Cera]] · [[James Franco]] · [[Danny McBride]] · [[Craig Robinson]] · [[Paul Rudd]] · [[Nick Kroll]]
 > **Studios** [[Columbia Pictures]] · [[Annapurna Pictures]] · [[Point Grey Pictures]] · [[Nitrogen Studios Canada]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Fantasy]]
+

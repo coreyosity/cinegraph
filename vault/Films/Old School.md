@@ -49,8 +49,10 @@ providers:
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - Amazon Prime Video with Ads
-- fuboTV
+- Peacock Premium
 - YouTube TV
+- FXNow
+- Peacock Premium Plus
 - Netflix
 - BINGE
 - Foxtel Now
@@ -68,3 +70,4 @@ Three friends attempt to recapture their glory days by opening up a fraternity n
 > **Cast** [[Luke Wilson]] · [[Will Ferrell]] · [[Vince Vaughn]] · [[Jeremy Piven]] · [[Ellen Pompeo]] · [[Craig Kilborn]] · [[Perrey Reeves]] · [[Sara Tanaka]] · [[Juliette Lewis]] · [[Elisha Cuthbert]]
 > **Studios** [[The Montecito Picture Company]] · [[DreamWorks Pictures]]
 > **Genres** [[Comedy]]
+

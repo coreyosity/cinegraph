@@ -52,11 +52,11 @@ providers:
 - YouTube TV
 - HBO Max
 - Amazon Prime Video
-- Amazon Prime Video with Ads
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+- Amazon Prime Video with Ads
 ---
 
 Though safely entombed in a crypt deep beneath the unforgiving desert, an ancient queen whose destiny was unjustly taken from her is awakened in our current day, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.
@@ -69,3 +69,4 @@ Though safely entombed in a crypt deep beneath the unforgiving desert, an ancien
 > **Cast** [[Tom Cruise]] · [[Annabelle Wallis]] · [[Sofia Boutella]] · [[Jake Johnson]] · [[Courtney B. Vance]] · [[Russell Crowe]] · [[Marwan Kenzari]] · [[Neil Maskell]] · [[Javier Botet]] · [[Andrew Brooke]]
 > **Studios** [[Secret Hideout]] · [[Universal Pictures]] · [[Conspiracy Factory]] · [[Sean Daniel Company]]
 > **Genres** [[Fantasy]] · [[Thriller]] · [[Action]] · [[Adventure]] · [[Horror]]
+

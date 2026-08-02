@@ -80,3 +80,4 @@ Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once
 > **Cast** [[Daniel Radcliffe]] · [[Emma Watson]] · [[Rupert Grint]] · [[Ralph Fiennes]] · [[Alan Rickman]] · [[Michael Gambon]] · [[Warwick Davis]] · [[Helena Bonham Carter]] · [[Ciarán Hinds]] · [[Matthew Lewis]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

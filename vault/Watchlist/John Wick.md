@@ -42,7 +42,13 @@ letterboxd: https://boxd.it/7dEc
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
+- AMC+
 - YouTube TV
+- AMC
 - Crave
 - Club Illico
 - Starz Amazon Channel
@@ -62,3 +68,4 @@ Ex-hitman John Wick comes out of retirement to track down the gangsters that too
 > **Cast** [[Keanu Reeves]] · [[Michael Nyqvist]] · [[Alfie Allen]] · [[Willem Dafoe]] · [[Dean Winters]] · [[Adrianne Palicki]] · [[Omer Barnea]] · [[Toby Leonard Moore]] · [[Daniel Bernhardt]] · [[Bridget Moynahan]]
 > **Studios** [[87Eleven]] · [[DefyNite Films]] · [[MJW Films]] · [[Thunder Road]]
 > **Genres** [[Action]] · [[Thriller]]
+

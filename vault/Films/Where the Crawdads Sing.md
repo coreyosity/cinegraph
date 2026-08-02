@@ -61,8 +61,8 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Club Illico
-- BINGE
 - Foxtel Now
 - Stan
 ---
@@ -77,3 +77,4 @@ Abandoned by her family, Kya raises herself all alone in the marshes outside of 
 > **Cast** [[Daisy Edgar-Jones]] · [[Taylor John Smith]] · [[Harris Dickinson]] · [[David Strathairn]] · [[Michael Hyatt]] · [[Sterling Macer Jr]] · [[Logan Macrae]] · [[Bill Kelly]] · [[Ahna O'Reilly]] · [[Garret Dillahunt]]
 > **Studios** [[3000 Pictures]] · [[Hello Sunshine]] · [[HarperCollins Publishers]]
 > **Genres** [[Drama]] · [[Mystery]] · [[Romance]]
+

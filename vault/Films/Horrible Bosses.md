@@ -42,7 +42,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - Amazon Prime Video with Ads
-- Starz Amazon Channel
 - Netflix
 - Netflix Standard with Ads
 ---
@@ -57,3 +56,4 @@ For Nick, Kurt and Dale, the only thing that would make the daily grind more tol
 > **Cast** [[Jason Bateman]] · [[Charlie Day]] · [[Jason Sudeikis]] · [[Kevin Spacey]] · [[Jennifer Aniston]] · [[Colin Farrell]] · [[Jamie Foxx]] · [[Donald Sutherland]] · [[P.J. Byrne]] · [[Julie Bowen]]
 > **Studios** [[New Line Cinema]] · [[RAT Entertainment]]
 > **Genres** [[Comedy]] · [[Crime]]
+

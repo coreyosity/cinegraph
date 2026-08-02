@@ -73,3 +73,4 @@ The ultimate X-Men ensemble fights a war for the survival of the species across 
 > **Cast** [[Hugh Jackman]] · [[James McAvoy]] · [[Michael Fassbender]] · [[Patrick Stewart]] · [[Ian McKellen]] · [[Jennifer Lawrence]] · [[Halle Berry]] · [[Nicholas Hoult]] · [[Anna Paquin]] · [[Elliot Page]]
 > **Studios** [[Bad Hat Harry Productions]] · [[The Donners' Company]] · [[20th Century Fox]] · [[Marvel Entertainment]] · [[TSG Entertainment]] · [[Genre Films]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

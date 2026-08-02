@@ -56,3 +56,4 @@ Dutch coach Thomas Rongen attempts the nearly impossible task of turning the Ame
 > **Cast** [[Michael Fassbender]] · [[Oscar Kightley]] · [[Kaimana]] · [[David Fane]] · [[Rachel House]] · [[Beulah Koale]] · [[Taika Waititi]] · [[Will Arnett]] · [[Elisabeth Moss]] · [[Uli Latukefu]]
 > **Studios** [[The Imaginarium]] · [[Searchlight Pictures]] · [[TSG Entertainment]] · [[Garrett Basch Productions]] · [[Defender Films]] · [[Archer's Mark]]
 > **Genres** [[Comedy]] · [[Drama]]
+

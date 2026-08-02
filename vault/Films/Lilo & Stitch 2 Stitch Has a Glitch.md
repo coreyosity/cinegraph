@@ -53,3 +53,4 @@ Now, we find the rowdy extraterrestrial getting used to life with his new ʻohan
 > **Cast** [[Chris Sanders]] · [[Dakota Fanning]] · [[Tia Carrere]] · [[David Ogden Stiers]] · [[Kevin McDonald]] · [[Kunewa Mook]] · [[Jason Scott Lee]] · [[William J. Caparella]] · [[Holliston Coleman]] · [[Matt Corboy]]
 > **Studios** [[Disney Television Animation]] · [[DisneyToon Studios]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Science Fiction]]
+

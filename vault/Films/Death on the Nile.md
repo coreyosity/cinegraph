@@ -54,8 +54,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- FXNow
 log_tags:
 - myself
 - home
@@ -73,3 +72,4 @@ Belgian sleuth Hercule Poirot's Egyptian vacation aboard a glamorous river steam
 > **Cast** [[Kenneth Branagh]] · [[Tom Bateman]] · [[Annette Bening]] · [[Russell Brand]] · [[Ali Fazal]] · [[Dawn French]] · [[Gal Gadot]] · [[Armie Hammer]] · [[Rose Leslie]] · [[Emma Mackey]]
 > **Studios** [[Genre Films]] · [[20th Century Studios]] · [[Scott Free Productions]] · [[Mark Gordon Pictures]]
 > **Genres** [[Mystery]] · [[Crime]] · [[Thriller]]
+

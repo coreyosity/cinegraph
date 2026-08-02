@@ -47,7 +47,6 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - ITVX Premium
-- Philo
 - YouTube TV
 - Amazon Prime Video
 - Super Channel Plus
@@ -66,3 +65,4 @@ An assassin is shot by her ruthless employer, Bill, and other members of their a
 > **Cast** [[Uma Thurman]] · [[Lucy Liu]] · [[Vivica A. Fox]] · [[Daryl Hannah]] · [[David Carradine]] · [[Michael Madsen]] · [[Julie Dreyfus]] · [[Chiaki Kuriyama]] · [[Sonny Chiba]] · [[Gordon Liu Chia-Hui]]
 > **Studios** [[Miramax]] · [[A Band Apart]] · [[Super Cool ManChu]]
 > **Genres** [[Action]] · [[Crime]]
+

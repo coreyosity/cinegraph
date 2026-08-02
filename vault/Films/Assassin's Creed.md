@@ -67,3 +67,4 @@ Through a technology that unlocks the genetic memories of his ancestor in 15th c
 > **Cast** [[Michael Fassbender]] · [[Marion Cotillard]] · [[Jeremy Irons]] · [[Brendan Gleeson]] · [[Charlotte Rampling]] · [[Michael Kenneth Williams]] · [[Ariane Labed]] · [[James Sobol Kelly]] · [[Denis Ménochet]] · [[Callum Turner]]
 > **Studios** [[New Regency Pictures]] · [[The KennedyMarshall Company]] · [[Ubisoft Film & Television]] · [[DMC Film]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

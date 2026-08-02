@@ -80,3 +80,4 @@ Following the death of District Attorney Harvey Dent, Batman assumes responsibil
 > **Cast** [[Christian Bale]] · [[Gary Oldman]] · [[Tom Hardy]] · [[Joseph Gordon-Levitt]] · [[Anne Hathaway]] · [[Marion Cotillard]] · [[Morgan Freeman]] · [[Michael Caine]] · [[Matthew Modine]] · [[Alon Aboutboul]]
 > **Studios** [[Syncopy]] · [[Legendary Pictures]] · [[Warner Bros. Pictures]] · [[DC]]
 > **Genres** [[Action]] · [[Crime]] · [[Drama]] · [[Thriller]]
+

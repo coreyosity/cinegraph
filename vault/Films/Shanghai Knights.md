@@ -70,3 +70,4 @@ When a Chinese rebel murders Chon's estranged father and escapes to England, Cho
 > **Cast** [[Jackie Chan]] · [[Owen Wilson]] · [[Fann Wong]] · [[Aidan Gillen]] · [[Donnie Yen]] · [[Tom Fisher]] · [[Aaron Taylor-Johnson]] · [[Alison King]] · [[Constantine Gregory]] · [[Anna-Louise Plowman]]
 > **Studios** [[All Knight Productions]] · [[Spyglass Entertainment]] · [[Touchstone Pictures]] · [[BirnbaumBarber Productions]] · [[JCE Movies]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Western]]
+

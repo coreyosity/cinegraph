@@ -74,8 +74,6 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
 - Hulu
-- Peacock Premium
-- Peacock Premium Plus
 - Disney Plus
 - Crave
 - Hollywood Suite
@@ -93,3 +91,4 @@ A mysterious story of two magicians whose intense rivalry leads them on a life-l
 > **Cast** [[Hugh Jackman]] · [[Christian Bale]] · [[Michael Caine]] · [[Piper Perabo]] · [[Rebecca Hall]] · [[Scarlett Johansson]] · [[Samantha Mahurin]] · [[David Bowie]] · [[Andy Serkis]] · [[Daniel Davis]]
 > **Studios** [[Warner Bros. Pictures]] · [[Touchstone Pictures]] · [[Newmarket Films]] · [[Syncopy]]
 > **Genres** [[Drama]] · [[Mystery]] · [[Science Fiction]]
+

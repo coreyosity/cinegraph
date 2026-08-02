@@ -65,6 +65,8 @@ providers:
 - Crave
 - Paramount Plus
 - Paramount+ Amazon Channel
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
@@ -81,3 +83,4 @@ A young boy learns that he has extraordinary powers and is not of this earth. As
 > **Cast** [[Henry Cavill]] · [[Amy Adams]] · [[Michael Shannon]] · [[Diane Lane]] · [[Russell Crowe]] · [[Antje Traue]] · [[Harry Lennix]] · [[Richard Schiff]] · [[Christopher Meloni]] · [[Kevin Costner]]
 > **Studios** [[Syncopy]] · [[Peters Entertainment]] · [[Warner Bros. Pictures]] · [[DC]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

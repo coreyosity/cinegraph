@@ -74,3 +74,4 @@ In Ancient Polynesia, when a terrible curse incurred by Maui reaches an impetuou
 > **Cast** [[Auliʻi Cravalho]] · [[Dwayne Johnson]] · [[Rachel House]] · [[Temuera Morrison]] · [[Jemaine Clement]] · [[Nicole Scherzinger]] · [[Alan Tudyk]] · [[Louise Bush]] · [[Oscar Kightley]] · [[Troy Polamalu]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]] · [[Animation]]
+

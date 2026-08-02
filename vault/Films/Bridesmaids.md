@@ -60,15 +60,13 @@ providers:
 - Amazon Prime Video
 - Disney Plus
 - Amazon Prime Video with Ads
-- Peacock Premium
 - Philo
 - Starz Roku Premium Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
-- Peacock Premium Plus
 - Netflix
 - Hollywood Suite Amazon Channel
+- Starz Amazon Channel
 - Netflix Standard with Ads
 - BINGE
 - Paramount Plus
@@ -89,3 +87,4 @@ Annie's life is a mess. But when she finds out her lifetime best friend is engag
 > **Cast** [[Kristen Wiig]] · [[Maya Rudolph]] · [[Rose Byrne]] · [[Chris O'Dowd]] · [[Melissa McCarthy]] · [[Wendi McLendon-Covey]] · [[Ellie Kemper]] · [[Jill Clayburgh]] · [[Matt Lucas]] · [[Rebel Wilson]]
 > **Studios** [[Apatow Productions]] · [[Relativity Media]]
 > **Genres** [[Comedy]] · [[Romance]]
+

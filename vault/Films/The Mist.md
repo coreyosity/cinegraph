@@ -79,3 +79,4 @@ After a violent storm, a dense cloud of mist envelops a small Maine town, trappi
 > **Cast** [[Thomas Jane]] · [[Laurie Holden]] · [[Toby Jones]] · [[Marcia Gay Harden]] · [[Andre Braugher]] · [[William Sadler]] · [[Jeffrey DeMunn]] · [[Frances Sternhagen]] · [[Sam Witwer]] · [[Alexa Davalos]]
 > **Studios** [[Darkwoods Productions]] · [[Dimension Films]]
 > **Genres** [[Horror]] · [[Science Fiction]] · [[Thriller]]
+

@@ -69,3 +69,4 @@ At an elite, old-fashioned boarding school in New England, a passionate English 
 > **Cast** [[Robin Williams]] · [[Robert Sean Leonard]] · [[Ethan Hawke]] · [[Josh Charles]] · [[Gale Hansen]] · [[Dylan Kussman]] · [[Allelon Ruggiero]] · [[James Waterston]] · [[Norman Lloyd]] · [[Kurtwood Smith]]
 > **Studios** [[A Steven Haft Production]] · [[WittThomas Productions]] · [[Silver Screen Partners IV]] · [[Touchstone Pictures]]
 > **Genres** [[Drama]]
+

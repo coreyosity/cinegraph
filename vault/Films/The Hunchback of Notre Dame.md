@@ -69,3 +69,4 @@ Isolated bell-ringer Quasimodo wishes to leave Notre Dame tower against the wish
 > **Cast** [[Tom Hulce]] · [[Demi Moore]] · [[Kevin Kline]] · [[Tony Jay]] · [[Charles Kimbrough]] · [[Mary Wickes]] · [[Jason Alexander]] · [[Paul Kandel]] · [[Mary Kay Bergman]] · [[David Ogden Stiers]]
 > **Studios** [[Walt Disney Pictures]] · [[Walt Disney Feature Animation]]
 > **Genres** [[Drama]] · [[Animation]] · [[Family]]
+

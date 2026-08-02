@@ -41,3 +41,4 @@ One of four biopics, focusing on individual members of The Beatles, this one tel
 > **Cast** [[Joseph Quinn]] · [[Paul Mescal]] · [[Harris Dickinson]] · [[Barry Keoghan]] · [[James Norton]] · [[Mia McKenna-Bruce]] · [[Saoirse Ronan]] · [[Aimee Lou Wood]] · [[Anna Sawai]] · [[Farhan Akhtar]]
 > **Studios** [[Sony Pictures]] · [[Neal Street Productions]] · [[Apple Corps]]
 > **Genres** [[Drama]] · [[Music]]
+

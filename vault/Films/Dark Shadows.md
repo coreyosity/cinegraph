@@ -53,11 +53,11 @@ tags:
 - film
 letterboxd: https://boxd.it/bQ2
 providers:
+- Amazon Prime Video
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video
-- Stan
 - Amazon Prime Video with Ads
+- Stan
 ---
 
 Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into the very changed world of 1972. He returns to Collinwood Manor to find that his once-grand estate and family have fallen into ruin.
@@ -70,3 +70,4 @@ Vampire Barnabas Collins is inadvertently freed from his tomb and emerges into t
 > **Cast** [[Johnny Depp]] · [[Michelle Pfeiffer]] · [[Eva Green]] · [[Helena Bonham Carter]] · [[Chloë Grace Moretz]] · [[Bella Heathcote]] · [[Gulliver McGrath]] · [[Jackie Earle Haley]] · [[Jonny Lee Miller]] · [[Ray Shirley]]
 > **Studios** [[Village Roadshow Pictures]] · [[Infinitum Nihil]] · [[GK Films]] · [[The Zanuck Company]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

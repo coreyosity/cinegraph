@@ -63,6 +63,12 @@ tags:
 letterboxd: https://boxd.it/29Js
 providers:
 - Disney Plus
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
+- AMC+
+- AMC
 ---
 
 Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.
@@ -75,3 +81,4 @@ Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine y
 > **Cast** [[Bruce Willis]] · [[Haley Joel Osment]] · [[Toni Collette]] · [[Olivia Williams]] · [[Trevor Morgan]] · [[Donnie Wahlberg]] · [[Peter Anthony Tambakis]] · [[Jeffrey Zubernis]] · [[Bruce Norris]] · [[Glenn Fitzgerald]]
 > **Studios** [[Spyglass Entertainment]] · [[The KennedyMarshall Company]] · [[Hollywood Pictures]] · [[Barry Mendel Productions]]
 > **Genres** [[Mystery]] · [[Thriller]] · [[Drama]]
+

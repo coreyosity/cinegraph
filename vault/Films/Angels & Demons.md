@@ -78,3 +78,4 @@ Harvard symbologist Robert Langdon is recruited by the Vatican to investigate th
 > **Cast** [[Tom Hanks]] · [[Ewan McGregor]] · [[Ayelet Zurer]] · [[Stellan Skarsgård]] · [[Pierfrancesco Favino]] · [[Nikolaj Lie Kaas]] · [[Armin Mueller-Stahl]] · [[Thure Lindhardt]] · [[David Pasquesi]] · [[Cosimo Fusco]]
 > **Studios** [[Columbia Pictures]] · [[Imagine Entertainment]] · [[Skylark Productions]] · [[Panorama Films]] · [[Brian Grazer Productions]]
 > **Genres** [[Thriller]] · [[Mystery]]
+

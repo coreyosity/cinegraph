@@ -56,3 +56,4 @@ Sam the snowman tells us the story of a young red-nosed reindeer who, after bein
 > **Cast** [[Burl Ives]] · [[Billie Mae Richards]] · [[Larry D. Mann]] · [[Paul Soles]] · [[Stan Francis]] · [[Alfie Scopp]] · [[Janis Orenstein]] · [[Paul Kligman]] · [[Carl Banas]] · [[Corinne Conley]]
 > **Studios** [[RankinBass Productions]] · [[Videocraft International]] · [[NBC]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Fantasy]]
+

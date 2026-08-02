@@ -66,3 +66,4 @@ When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Blac
 > **Cast** [[Johnny Depp]] · [[Geoffrey Rush]] · [[Orlando Bloom]] · [[Keira Knightley]] · [[Jack Davenport]] · [[Jonathan Pryce]] · [[Lee Arenberg]] · [[Mackenzie Crook]] · [[Damian O'Hare]] · [[Giles New]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

@@ -88,3 +88,4 @@ Twenty-five years after a streak of brutal murders shocked the quiet town of Woo
 > **Cast** [[Melissa Barrera]] · [[Jenna Ortega]] · [[Mason Gooding]] · [[Jasmin Savoy Brown]] · [[Jack Quaid]] · [[Mikey Madison]] · [[Courteney Cox]] · [[David Arquette]] · [[Neve Campbell]] · [[Dylan Minnette]]
 > **Studios** [[Paramount Pictures]] · [[Project X Entertainment]] · [[Radio Silence]] · [[Spyglass Media Group]]
 > **Genres** [[Horror]] · [[Mystery]]
+

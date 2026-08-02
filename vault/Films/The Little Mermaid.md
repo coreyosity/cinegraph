@@ -72,3 +72,4 @@ This colorful adventure tells the story of an impetuous mermaid princess named A
 > **Cast** [[Jodi Benson]] · [[Samuel E. Wright]] · [[Pat Carroll]] · [[Christopher Daniel Barnes]] · [[Kenneth Mars]] · [[Buddy Hackett]] · [[Jason Marin]] · [[René Auberjonois]] · [[Paddi Edwards]] · [[Ben Wright]]
 > **Studios** [[Silver Screen Partners IV]] · [[Walt Disney Feature Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]]
+

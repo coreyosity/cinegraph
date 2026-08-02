@@ -55,3 +55,4 @@ In ancient times, a man named Claus, who delivers toys in his small village, ful
 > **Cast** [[Dudley Moore]] · [[John Lithgow]] · [[David Huddleston]] · [[Burgess Meredith]] · [[Judy Cornwell]] · [[Jeffrey Kramer]] · [[Christian Fitzpatrick]] · [[Carrie Kei Heim]] · [[John Barrard]] · [[Anthony O'Donnell]]
 > **Studios** [[Calash Corporation]] · [[Santa Claus Ltd]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Adventure]]
+

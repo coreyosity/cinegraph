@@ -68,3 +68,4 @@ During the 1972 Munich Olympics, an American sports broadcasting crew finds itse
 > **Cast** [[Peter Sarsgaard]] · [[John Magaro]] · [[Ben Chaplin]] · [[Leonie Benesch]] · [[Zinedine Soualem]] · [[Georgina Rich]] · [[Corey Johnson]] · [[Marcus Rutherford]] · [[Daniel Adeosun]] · [[Benjamin Walker]]
 > **Studios** [[BerghausWöbke Filmproduktion]] · [[Projected Picture Works]] · [[Constantin Film]] · [[Edgar Reitz Filmproduktion]]
 > **Genres** [[Thriller]] · [[Drama]] · [[History]]
+

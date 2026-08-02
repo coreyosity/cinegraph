@@ -87,3 +87,4 @@ In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance agains
 > **Cast** [[Leonardo DiCaprio]] · [[Tom Hardy]] · [[Domhnall Gleeson]] · [[Will Poulter]] · [[Forrest Goodluck]] · [[Duane Howard]] · [[Arthur Redcloud]] · [[Melaw Nakehk'o]] · [[Grace Dove]] · [[Lukas Haas]]
 > **Studios** [[Monarchy Enterprises S.a.r.l]] · [[Regency Enterprises]] · [[Appian Way]] · [[CatchPlay]] · [[Anonymous Content]] · [[New Regency Pictures]] · [[Hong Kong Alpha Motion Pictures Co]] · [[M Productions]] · [[RatPac Entertainment]]
 > **Genres** [[Western]] · [[Drama]] · [[Adventure]]
+

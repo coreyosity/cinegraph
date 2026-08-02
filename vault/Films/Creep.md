@@ -68,3 +68,4 @@ Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day.
 > **Cast** [[Mark Duplass]] · [[Patrick Brice]] · [[Katie Aselton]]
 > **Studios** [[Blumhouse Productions]] · [[Duplass Brothers Productions]]
 > **Genres** [[Horror]] · [[Thriller]]
+

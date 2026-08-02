@@ -70,3 +70,4 @@ A rich man learns about a guru who can see without using his eyes. He sets out t
 > **Cast** [[Ralph Fiennes]] · [[Benedict Cumberbatch]] · [[Dev Patel]] · [[Ben Kingsley]] · [[Richard Ayoade]] · [[Jarvis Cocker]] · [[Rebecca Cornford]] · [[David Gant]] · [[Martin Foreman]] · [[Agatino Trimarchi]]
 > **Studios** [[American Empirical Pictures]] · [[Indian Paintbrush]]
 > **Genres** [[Comedy]] · [[Fantasy]] · [[Adventure]] · [[Drama]]
+

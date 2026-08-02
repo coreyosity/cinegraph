@@ -78,3 +78,4 @@ Two years after the Woodsboro murders, Sidney Prescott acclimates to college lif
 > **Cast** [[Neve Campbell]] · [[Courteney Cox]] · [[David Arquette]] · [[Jerry O'Connell]] · [[Timothy Olyphant]] · [[Jamie Kennedy]] · [[Laurie Metcalf]] · [[Elise Neal]] · [[Sarah Michelle Gellar]] · [[Liev Schreiber]]
 > **Studios** [[Dimension Films]] · [[Konrad Pictures]] · [[Craven-Maddalena Films]]
 > **Genres** [[Horror]] · [[Mystery]]
+

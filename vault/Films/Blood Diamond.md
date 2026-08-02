@@ -78,3 +78,4 @@ An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war
 > **Cast** [[Leonardo DiCaprio]] · [[Djimon Hounsou]] · [[Jennifer Connelly]] · [[Kagiso Kuypers]] · [[Arnold Vosloo]] · [[Antony Coleman]] · [[Benu Mabhena]] · [[Anointing Lukola]] · [[David Harewood]] · [[Basil Wallace]]
 > **Studios** [[Virtual Studios]] · [[Spring Creek Pictures]] · [[Bedford Falls Productions]] · [[Initial Entertainment Group]] · [[Lonely Film Productions]] · [[Warner Bros. Pictures]] · [[Liberty Pictures]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Action]]
+

@@ -63,3 +63,4 @@ Accident prone teenager, Percy discovers he's actually a demi-God, the son of Po
 > **Cast** [[Logan Lerman]] · [[Brandon T. Jackson]] · [[Alexandra Daddario]] · [[Jake Abel]] · [[Pierce Brosnan]] · [[Sean Bean]] · [[Steve Coogan]] · [[Rosario Dawson]] · [[Melina Kanakaredes]] · [[Catherine Keener]]
 > **Studios** [[1492 Pictures]] · [[Sunswept Entertainment]] · [[Dune Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Family]]
+

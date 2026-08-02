@@ -28,3 +28,4 @@ The second film of Greta Gerwig’s adaptation of C.S. Lewis’s The Chronicles 
 > **Director** [[Greta Gerwig]]
 > **Studios** [[Pascal Pictures]] · [[C.S. Lewis Company]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Family]]
+

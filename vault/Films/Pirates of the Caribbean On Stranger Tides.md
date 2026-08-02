@@ -73,3 +73,4 @@ When Jack crosses paths with a woman from his past, he's not sure if it's love..
 > **Cast** [[Johnny Depp]] · [[Penélope Cruz]] · [[Geoffrey Rush]] · [[Ian McShane]] · [[Kevin McNally]] · [[Sam Claflin]] · [[Àstrid Bergès-Frisbey]] · [[Stephen Graham]] · [[Keith Richards]] · [[Richard Griffiths]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]] · [[Moving Picture Company]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

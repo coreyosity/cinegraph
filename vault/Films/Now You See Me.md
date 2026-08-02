@@ -57,6 +57,11 @@ letterboxd: https://boxd.it/2Bsu
 providers:
 - Disney Plus
 - Sky Go
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Crave
 - Crave Amazon Channel
 - Lionsgate+ Amazon Channels
@@ -73,3 +78,4 @@ An FBI agent and an Interpol detective track a team of illusionists who pull off
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Isla Fisher]] · [[Dave Franco]] · [[Mark Ruffalo]] · [[Mélanie Laurent]] · [[Morgan Freeman]] · [[Michael Caine]] · [[Michael Kelly]] · [[Common]]
 > **Studios** [[Summit Entertainment]] · [[KO Paper Products]] · [[SOIXAN7E QUIN5E]] · [[See Me Louisiana]]
 > **Genres** [[Thriller]] · [[Crime]]
+

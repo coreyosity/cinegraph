@@ -69,3 +69,4 @@ After a family tragedy, three generations of the Deetz family return home to Win
 > **Cast** [[Michael Keaton]] · [[Winona Ryder]] · [[Catherine O'Hara]] · [[Jenna Ortega]] · [[Justin Theroux]] · [[Willem Dafoe]] · [[Monica Bellucci]] · [[Arthur Conti]] · [[Nick Kellington]] · [[Santiago Cabrera]]
 > **Studios** [[Warner Bros. Pictures]] · [[Geffen Pictures]] · [[Plan B Entertainment]] · [[Tim Burton Productions]] · [[Tommy Harper Productions]] · [[Domain Entertainment]]
 > **Genres** [[Comedy]] · [[Fantasy]] · [[Horror]]
+

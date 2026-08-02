@@ -50,15 +50,16 @@ tags:
 - film
 letterboxd: https://boxd.it/17ue
 providers:
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
 - Netflix
 - Crave
 - Starz Amazon Channel
 - Netflix Standard with Ads
 - Crave Amazon Channel
-- Amazon Prime Video
+- Paramount+ Amazon Channel
 - Stan
-- Amazon Prime Video with Ads
 ---
 
 In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.
@@ -71,3 +72,4 @@ In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work o
 > **Cast** [[Jesse Eisenberg]] · [[Andrew Garfield]] · [[Armie Hammer]] · [[Justin Timberlake]] · [[Rooney Mara]] · [[Max Minghella]] · [[Brenda Song]] · [[Josh Pence]] · [[Rashida Jones]] · [[John Getz]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Scott Rudin Productions]] · [[Michael De Luca Productions]] · [[Trigger Street Productions]]
 > **Genres** [[Drama]]
+

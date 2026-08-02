@@ -60,6 +60,7 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
@@ -80,3 +81,4 @@ A young couple travels to a remote island to eat at an exclusive restaurant wher
 > **Cast** [[Anya Taylor-Joy]] · [[Ralph Fiennes]] · [[Nicholas Hoult]] · [[Janet McTeer]] · [[Paul Adelstein]] · [[Rob Yang]] · [[Aimee Carrero]] · [[John Leguizamo]] · [[Arturo Castro]] · [[Reed Birney]]
 > **Studios** [[Hyperobject Industries]] · [[Searchlight Pictures]] · [[Gary Sanchez Productions]] · [[TSG Entertainment]]
 > **Genres** [[Comedy]] · [[Horror]]
+

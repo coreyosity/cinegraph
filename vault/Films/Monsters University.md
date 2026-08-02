@@ -63,3 +63,4 @@ A look at the relationship between Mike and Sulley during their days at Monsters
 > **Cast** [[Billy Crystal]] · [[John Goodman]] · [[Steve Buscemi]] · [[Helen Mirren]] · [[Peter Sohn]] · [[Joel Murray]] · [[Sean Hayes]] · [[Dave Foley]] · [[Charlie Day]] · [[Alfred Molina]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Fantasy]]
+

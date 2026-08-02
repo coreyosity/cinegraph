@@ -77,3 +77,4 @@ As the world falls, young Furiosa is snatched from the Green Place of Many Mothe
 > **Cast** [[Anya Taylor-Joy]] · [[Chris Hemsworth]] · [[Tom Burke]] · [[Alyla Browne]] · [[George Shevtsov]] · [[Lachy Hulme]] · [[John Howard]] · [[Angus Sampson]] · [[Charlee Fraser]] · [[Elsa Pataky]]
 > **Studios** [[Warner Bros. Pictures]] · [[Kennedy Miller Mitchell]] · [[Domain Entertainment]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

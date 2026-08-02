@@ -65,8 +65,6 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 ---
@@ -81,3 +79,4 @@ Columbus has made a habit of running from what scares him. Tallahassee doesn't h
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Emma Stone]] · [[Abigail Breslin]] · [[Amber Heard]] · [[Bill Murray]] · [[Derek Graf]] · [[Elle Alexander]] · [[Melanie Booth]] · [[Chris Burns]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Pariah]]
 > **Genres** [[Comedy]] · [[Horror]]
+

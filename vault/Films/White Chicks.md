@@ -62,7 +62,11 @@ providers:
 - Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
 - Netflix
+- Paramount Plus
+- Paramount+ Amazon Channel
 - Stan
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 ---
 
 Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich European-American women.
@@ -75,3 +79,4 @@ Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust
 > **Cast** [[Shawn Wayans]] · [[Marlon Wayans]] · [[Frankie Faison]] · [[Terry Crews]] · [[Faune Chambers Watkins]] · [[Rochelle Aytes]] · [[John Heard]] · [[Lochlyn Munro]] · [[Busy Philipps]] · [[Jennifer Carpenter]]
 > **Studios** [[Revolution Studios]] · [[Wayans Bros. Entertainment]] · [[Gone North Productions]]
 > **Genres** [[Comedy]] · [[Crime]]
+

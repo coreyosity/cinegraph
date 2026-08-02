@@ -58,3 +58,4 @@ Madeline is married to Ernest, who was once her arch-rival Helen's fiancé. Afte
 > **Cast** [[Meryl Streep]] · [[Goldie Hawn]] · [[Bruce Willis]] · [[Isabella Rossellini]] · [[Ian Ogilvy]] · [[Adam Storke]] · [[Alaina Reed Hall]] · [[Nancy Fish]] · [[Michelle Johnson]] · [[Mary Ellen Trainor]]
 > **Studios** [[Universal Pictures]] · [[South Side Amusement Company]]
 > **Genres** [[Comedy]] · [[Fantasy]] · [[Horror]]
+

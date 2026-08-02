@@ -65,7 +65,11 @@ providers:
 - Amazon Prime Video with Ads
 - YouTube TV
 - Crave
+- Paramount Plus
+- Paramount+ Amazon Channel
 - Starz Amazon Channel
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 - Crave Amazon Channel
 ---
 
@@ -79,3 +83,4 @@ Chris and his girlfriend Rose go upstate to visit her parents for the weekend. A
 > **Cast** [[Daniel Kaluuya]] · [[Allison Williams]] · [[Catherine Keener]] · [[Bradley Whitford]] · [[Caleb Landry Jones]] · [[Marcus Henderson]] · [[Betty Gabriel]] · [[LaKeith Stanfield]] · [[Stephen Root]] · [[Lil Rel Howery]]
 > **Studios** [[Monkeypaw Productions]] · [[Blumhouse Productions]] · [[QC Entertainment]]
 > **Genres** [[Mystery]] · [[Thriller]] · [[Horror]]
+

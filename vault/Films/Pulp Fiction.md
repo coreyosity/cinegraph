@@ -59,14 +59,13 @@ providers:
 - Amazon Prime Video with Ads
 - ITVX Premium
 - fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Essential
-- Philo
 - YouTube TV
 - MGM Plus
 - Paramount+ Roku Premium Channel
 - Crave
 - Super Channel Plus
+- Hollywood Suite
 - Super Channel Amazon Channel
 - Hollywood Suite Amazon Channel
 - Starz Amazon Channel
@@ -87,3 +86,4 @@ A burger-loving hit man, his philosophical partner, a drug-addled gangster's mol
 > **Cast** [[John Travolta]] · [[Samuel L. Jackson]] · [[Uma Thurman]] · [[Bruce Willis]] · [[Ving Rhames]] · [[Harvey Keitel]] · [[Eric Stoltz]] · [[Tim Roth]] · [[Amanda Plummer]] · [[Maria de Medeiros]]
 > **Studios** [[Miramax]] · [[A Band Apart]] · [[Jersey Films]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Comedy]]
+

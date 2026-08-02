@@ -68,3 +68,4 @@ The tender, heartbreaking story of a young man’s struggle to find himself, tol
 > **Cast** [[Trevante Rhodes]] · [[André Holland]] · [[Janelle Monáe]] · [[Ashton Sanders]] · [[Jharrel Jerome]] · [[Alex R. Hibbert]] · [[Jaden Piner]] · [[Naomie Harris]] · [[Mahershala Ali]] · [[Shariff Earp]]
 > **Studios** [[A24]] · [[Plan B Entertainment]] · [[PASTEL]]
 > **Genres** [[Drama]]
+

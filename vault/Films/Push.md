@@ -59,3 +59,4 @@ After his father, an assassin, is brutally murdered, Nick Gant vows revenge on D
 > **Cast** [[Chris Evans]] · [[Dakota Fanning]] · [[Camilla Belle]] · [[Djimon Hounsou]] · [[Cliff Curtis]] · [[Ming-Na Wen]] · [[Joel Gretsch]] · [[Nate Mooney]] · [[Li Xiaolu]] · [[Maggie Siff]]
 > **Studios** [[Summit Entertainment]] · [[Icon Productions]] · [[Infinity Features]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]] · [[Thriller]]
+

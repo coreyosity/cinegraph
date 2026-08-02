@@ -51,13 +51,13 @@ providers:
 - Now TV Cinema
 - fuboTV
 - YouTube TV
+- FXNow
 - Netflix
 - Crave
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Hollywood Suite
 - Club Illico
-- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Netflix Standard with Ads
 - Paramount Plus Premium
@@ -79,3 +79,4 @@ As the gang return to Jumanji to rescue one of their own, they discover that not
 > **Cast** [[Dwayne Johnson]] · [[Kevin Hart]] · [[Jack Black]] · [[Karen Gillan]] · [[Awkwafina]] · [[Nick Jonas]] · [[Alex Wolff]] · [[Morgan Turner]] · [[Madison Iseman]] · [[Ser'Darius Blain]]
 > **Studios** [[Columbia Pictures]] · [[Seven Bucks Productions]] · [[Matt Tolmach Productions]] · [[The Detective Agency]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

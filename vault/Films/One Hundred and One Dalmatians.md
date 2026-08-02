@@ -58,3 +58,4 @@ When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil
 > **Cast** [[Rod Taylor]] · [[J. Pat O'Malley]] · [[Betty Lou Gerson]] · [[Martha Wentworth]] · [[Ben Wright]] · [[Cate Bauer]] · [[David Frankham]] · [[Frederick Worlock]] · [[Lisa Davis]] · [[Tom Conway]]
 > **Studios** [[Walt Disney Productions]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

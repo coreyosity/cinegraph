@@ -64,3 +64,4 @@ Scientist Bruce Banner scours the planet for an antidote to the unbridled force 
 > **Cast** [[Edward Norton]] · [[Liv Tyler]] · [[Tim Roth]] · [[William Hurt]] · [[Tim Blake Nelson]] · [[Ty Burrell]] · [[Christina Cabot]] · [[Peter Mensah]] · [[Lou Ferrigno]] · [[Paul Soles]]
 > **Studios** [[Marvel Studios]] · [[Valhalla Motion Pictures]] · [[Marvel Entertainment]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

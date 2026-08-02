@@ -49,3 +49,4 @@ Jamal and Silas, two ordinary guys who smoke something magical, pass their colle
 > **Cast** [[Method Man]] · [[Redman]] · [[Obba Babatundé]] · [[Mike Epps]] · [[Anna Maria Horsford]] · [[Fred Willard]] · [[Jeffrey Jones]] · [[Héctor Elizondo]] · [[Lark Voorhies]] · [[Essence Atkins]]
 > **Studios** [[Universal Pictures]] · [[Jersey Films]] · [[Native Pictures Productions]]
 > **Genres** [[Comedy]]
+

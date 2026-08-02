@@ -79,3 +79,4 @@ Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, al
 > **Cast** [[Logan Lerman]] · [[Emma Watson]] · [[Ezra Miller]] · [[Mae Whitman]] · [[Kate Walsh]] · [[Dylan McDermott]] · [[Melanie Lynskey]] · [[Nina Dobrev]] · [[Johnny Simmons]] · [[Joan Cusack]]
 > **Studios** [[Mr. Mudd]]
 > **Genres** [[Drama]]
+

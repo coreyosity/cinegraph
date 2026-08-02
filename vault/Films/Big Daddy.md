@@ -47,9 +47,12 @@ letterboxd: https://boxd.it/1ZkW
 providers:
 - Sky Go
 - Now TV Cinema
-- Paramount Plus
-- Paramount+ Amazon Channel
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
 - Starz Amazon Channel
+- Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Sony Pictures Core Amazon Channel
@@ -66,3 +69,4 @@ A lazy law school grad adopts a kid to impress his girlfriend, but everything do
 > **Cast** [[Adam Sandler]] · [[Cole Sprouse]] · [[Dylan Sprouse]] · [[Joey Lauren Adams]] · [[Josh Mostel]] · [[Leslie Mann]] · [[Jon Stewart]] · [[Allen Covert]] · [[Jonathan Loughran]] · [[Peter Dante]]
 > **Studios** [[Columbia Pictures]] · [[Out of the Blue... Entertainment]] · [[Jack Giarraputo Productions]]
 > **Genres** [[Comedy]] · [[Drama]]
+

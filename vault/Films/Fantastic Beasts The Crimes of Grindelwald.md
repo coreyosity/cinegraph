@@ -68,3 +68,4 @@ Gellert Grindelwald has escaped imprisonment and has begun gathering followers t
 > **Cast** [[Eddie Redmayne]] · [[Katherine Waterston]] · [[Dan Fogler]] · [[Alison Sudol]] · [[Johnny Depp]] · [[Jude Law]] · [[Ezra Miller]] · [[Zoë Kravitz]] · [[Callum Turner]] · [[Claudia Kim]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Fantasy]] · [[Adventure]]
+

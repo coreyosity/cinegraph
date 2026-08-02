@@ -74,13 +74,15 @@ letterboxd: https://boxd.it/4pDO
 providers:
 - Sky Go
 - Now TV Cinema
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
 - Amazon Prime Video
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Starz Amazon Channel
 - Amazon Prime Video with Ads
-- Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
 - Netflix
@@ -100,3 +102,4 @@ An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterB
 > **Cast** [[Chris Pratt]] · [[Elizabeth Banks]] · [[Will Ferrell]] · [[Morgan Freeman]] · [[Will Arnett]] · [[Liam Neeson]] · [[Alison Brie]] · [[Nick Offerman]] · [[Charlie Day]] · [[Jadon Sand]]
 > **Studios** [[Lin Pictures]] · [[Vertigo Entertainment]] · [[Village Roadshow Pictures]] · [[The LEGO Group]] · [[Animal Logic]] · [[Warner Animation Group]] · [[RatPac Entertainment]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

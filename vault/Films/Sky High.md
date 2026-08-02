@@ -57,3 +57,4 @@ Set in a world where superheroes are commonly known and accepted, young Will Str
 > **Cast** [[Kurt Russell]] · [[Michael Angarano]] · [[Kelly Preston]] · [[Danielle Panabaker]] · [[Mary Elizabeth Winstead]] · [[Bruce Campbell]] · [[Steven Strait]] · [[Dave Foley]] · [[Kevin McDonald]] · [[Nicholas Braun]]
 > **Studios** [[Max Stronghold Productions Inc]] · [[Walt Disney Pictures]] · [[Gunn Films]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]]
+

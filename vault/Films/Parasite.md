@@ -59,9 +59,7 @@ providers:
 - ITVX Premium
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -79,3 +77,4 @@ All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glam
 > **Cast** [[Song Kang-ho]] · [[Lee Sun-kyun]] · [[Cho Yeo-jeong]] · [[Choi Woo-shik]] · [[Park So-dam]] · [[Lee Jung-eun]] · [[Jang Hye-jin]] · [[Park Myung-hoon]] · [[Jung Zi-so]] · [[Jung Hyeon-jun]]
 > **Studios** [[Barunson E&A]]
 > **Genres** [[Comedy]] · [[Thriller]] · [[Drama]]
+

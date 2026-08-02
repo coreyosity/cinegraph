@@ -78,3 +78,4 @@ Determined to prove he's the world's greatest supervillain, Gru hatches an audac
 > **Cast** [[Steve Carell]] · [[Jason Segel]] · [[Russell Brand]] · [[Julie Andrews]] · [[Will Arnett]] · [[Kristen Wiig]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Elsie Fisher]] · [[Pierre Coffin]]
 > **Studios** [[Illumination]] · [[Universal Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Crime]] · [[Science Fiction]] · [[Family]]
+

@@ -54,3 +54,4 @@ In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial g
 > **Cast** [[Michael Douglas]] · [[Sean Penn]] · [[Deborah Kara Unger]] · [[James Rebhorn]] · [[Peter Donat]] · [[Carroll Baker]] · [[Anna Katarina]] · [[Armin Mueller-Stahl]] · [[Charles Martinet]] · [[Scott Hunter McGuire]]
 > **Studios** [[PolyGram Filmed Entertainment]] · [[Propaganda Films]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Mystery]]
+

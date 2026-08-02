@@ -45,6 +45,8 @@ providers:
 - Starz Apple TV Channel
 - YouTube TV
 - Netflix Standard with Ads
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 ---
 
 As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in-law James to bring down a drug dealer who's supplying the dealers of Atlanta with product.
@@ -57,3 +59,4 @@ As his wedding day approaches, Ben heads to Miami with his soon-to-be brother-in
 > **Cast** [[Kevin Hart]] · [[Ice Cube]] · [[Olivia Munn]] · [[Tika Sumpter]] · [[Ken Jeong]] · [[Tyrese Gibson]] · [[Nadine Velazquez]] · [[Benjamin Bratt]] · [[Glen Powell]] · [[Sherri Shepherd]]
 > **Studios** [[Reel Chefs Catering]] · [[Universal Pictures]] · [[Will Packer Productions]] · [[Cube Vision]]
 > **Genres** [[Action]] · [[Comedy]]
+

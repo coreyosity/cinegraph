@@ -62,3 +62,4 @@ Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny
 > **Cast** [[Chiwetel Ejiofor]] · [[John Oliver]] · [[Donald Glover]] · [[James Earl Jones]] · [[John Kani]] · [[Alfre Woodard]] · [[Beyoncé]] · [[JD McCrary]] · [[Shahadi Wright Joseph]] · [[Penny Johnson Jerald]]
 > **Studios** [[Walt Disney Pictures]] · [[Fairview Entertainment]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Family]] · [[Animation]]
+

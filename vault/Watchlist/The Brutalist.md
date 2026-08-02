@@ -66,8 +66,6 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Netflix
 - BINGE
 - Foxtel Now
@@ -81,3 +79,4 @@ When an innovative modern architect flees post-war Europe, he is given the oppor
 > **Cast** [[Adrien Brody]] · [[Felicity Jones]] · [[Guy Pearce]] · [[Joe Alwyn]] · [[Raffey Cassidy]] · [[Stacy Martin]] · [[Isaach de Bankolé]] · [[Alessandro Nivola]] · [[Ariane Labed]] · [[Michael Epp]]
 > **Studios** [[Brookstreet Pictures]] · [[Kaplan Morrison]] · [[Intake Films]] · [[Andrew Lauren Productions]] · [[Lipsync Productions]] · [[Richmond Pictures]] · [[Meyohas Studio]] · [[Carte Blanche]] · [[Pierce Capital Entertainment]]
 > **Genres** [[Drama]]
+

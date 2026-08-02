@@ -71,3 +71,4 @@ Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the 
 > **Cast** [[Brendan Fraser]] · [[Rachel Weisz]] · [[John Hannah]] · [[Oded Fehr]] · [[Arnold Vosloo]] · [[Patricia Velásquez]] · [[Freddie Boath]] · [[Dwayne Johnson]] · [[Alun Armstrong]] · [[Adewale Akinnuoye-Agbaje]]
 > **Studios** [[Universal Pictures]] · [[Alphaville Films]] · [[Imhotep Productions]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

@@ -61,3 +61,4 @@ Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff,
 > **Cast** [[Elliot Page]] · [[Michael Cera]] · [[Jennifer Garner]] · [[Jason Bateman]] · [[J.K. Simmons]] · [[Allison Janney]] · [[Olivia Thirlby]] · [[Eileen Pedde]] · [[Rainn Wilson]] · [[Daniel Clark]]
 > **Studios** [[Mandate Pictures]] · [[Mr. Mudd]] · [[Fox Searchlight Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

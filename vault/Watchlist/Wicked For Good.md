@@ -71,3 +71,4 @@ As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to 
 > **Cast** [[Cynthia Erivo]] · [[Ariana Grande]] · [[Jeff Goldblum]] · [[Michelle Yeoh]] · [[Jonathan Bailey]] · [[Ethan Slater]] · [[Marissa Bode]] · [[Colman Domingo]] · [[Bowen Yang]] · [[Bronwyn James]]
 > **Studios** [[Universal Pictures]] · [[Marc Platt Productions]] · [[dentsu]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Romance]]
+

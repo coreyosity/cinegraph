@@ -54,6 +54,7 @@ tags:
 letterboxd: https://boxd.it/2b0E
 providers:
 - Netflix
+- Sky Go
 - Now TV Cinema
 - Netflix Standard with Ads
 ---
@@ -65,3 +66,4 @@ Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and
 > **Cast** [[Bill Murray]] · [[Scarlett Johansson]] · [[Giovanni Ribisi]] · [[Anna Faris]] · [[Akiko Takeshita]] · [[Kazuyoshi Minamimagoe]] · [[Kazuko Shibata]] · [[Take]] · [[Ryuichiro Baba]] · [[Akira Yamaguchi]]
 > **Studios** [[American Zoetrope]] · [[Elemental Films]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Romance]]
+

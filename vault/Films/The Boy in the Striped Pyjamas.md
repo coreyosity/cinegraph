@@ -62,3 +62,4 @@ When his family moves from their home in Berlin to a strange new house in Poland
 > **Cast** [[Asa Butterfield]] · [[Vera Farmiga]] · [[David Thewlis]] · [[Jack Scanlon]] · [[Amber Beattie]] · [[Rupert Friend]] · [[David Hayman]] · [[Sheila Hancock]] · [[Richard Johnson]] · [[Cara Horgan]]
 > **Studios** [[BBC Film]] · [[Miramax]] · [[Heyday Films]]
 > **Genres** [[Drama]] · [[War]] · [[History]]
+

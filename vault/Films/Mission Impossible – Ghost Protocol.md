@@ -91,3 +91,4 @@ Ethan Hunt and his team are racing against time to track down a dangerous terror
 > **Cast** [[Tom Cruise]] · [[Paula Patton]] · [[Simon Pegg]] · [[Jeremy Renner]] · [[Michael Nyqvist]] · [[Vladimir Mashkov]] · [[Samuli Edelmann]] · [[Ivan Shvedoff]] · [[Anil Kapoor]] · [[Léa Seydoux]]
 > **Studios** [[Paramount Pictures]] · [[Bad Robot]] · [[TC Productions]] · [[Skydance Media]]
 > **Genres** [[Action]] · [[Thriller]] · [[Adventure]]
+

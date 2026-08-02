@@ -69,3 +69,4 @@ The enigmatic resurrection, rampage, and retribution of an undead monster in a r
 > **Cast** [[Ry Barrett]] · [[Andrea Pavlovic]] · [[Cameron Love]] · [[Reece Presley]] · [[Liam Leone]] · [[Charlotte Creaghan]] · [[Lea Rose Sebastianis]] · [[Sam Roulston]] · [[Alexander Oliver]] · [[Timothy Paul McCarthy]]
 > **Studios** [[Low Sky Productions]] · [[Zygote Pictures]] · [[Shudder]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Drama]]
+

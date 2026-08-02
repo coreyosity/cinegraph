@@ -70,8 +70,6 @@ providers:
 - Now TV Cinema
 - Peacock Premium
 - Peacock Premium Plus
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Foxtel Now
@@ -98,3 +96,4 @@ In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced 
 > **Cast** [[Cynthia Erivo]] · [[Ariana Grande]] · [[Michelle Yeoh]] · [[Jonathan Bailey]] · [[Ethan Slater]] · [[Marissa Bode]] · [[Jeff Goldblum]] · [[Peter Dinklage]] · [[Andy Nyman]] · [[Courtney-Mae Briggs]]
 > **Studios** [[Universal Pictures]] · [[Marc Platt Productions]]
 > **Genres** [[Drama]] · [[Romance]] · [[Fantasy]]
+

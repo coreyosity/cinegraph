@@ -55,3 +55,4 @@ Based on the popular books, the story tells of Tony who wants a friend to add so
 > **Cast** [[Jonathan Lipnicki]] · [[Richard E. Grant]] · [[Jim Carter]] · [[Alice Krige]] · [[Rollo Weeks]] · [[Anna Popplewell]] · [[Pamela Gidley]] · [[Tommy Hinkley]] · [[Dean Cook]] · [[Iain De Caestecker]]
 > **Studios** [[New Line Cinema]] · [[Stonewood Communications]] · [[Cometstone Pictures]] · [[Comet Film]]
 > **Genres** [[Family]] · [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

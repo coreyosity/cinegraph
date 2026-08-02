@@ -52,7 +52,6 @@ providers:
 - Cinemax Amazon Channel
 - Cinemax Apple TV Channel
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
@@ -68,3 +67,4 @@ For centuries, a small but powerful force of warriors called the Green Lantern C
 > **Cast** [[Ryan Reynolds]] · [[Blake Lively]] · [[Peter Sarsgaard]] · [[Mark Strong]] · [[Tim Robbins]] · [[Angela Bassett]] · [[Taika Waititi]] · [[Temuera Morrison]] · [[Michael Clarke Duncan]] · [[Geoffrey Rush]]
 > **Studios** [[De Line Pictures]] · [[Warner Bros. Pictures]] · [[DC]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

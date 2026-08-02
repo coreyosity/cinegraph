@@ -67,3 +67,4 @@ Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alon
 > **Cast** [[Chris Pratt]] · [[Bryce Dallas Howard]] · [[Laura Dern]] · [[Sam Neill]] · [[Jeff Goldblum]] · [[DeWanda Wise]] · [[Mamoudou Athie]] · [[Isabella Sermon]] · [[Campbell Scott]] · [[BD Wong]]
 > **Studios** [[Amblin Entertainment]] · [[Universal Pictures]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Thriller]]
+

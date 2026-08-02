@@ -95,3 +95,4 @@ Video game experts are recruited by the military to fight 1980s-era video game c
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Michelle Monaghan]] · [[Peter Dinklage]] · [[Josh Gad]] · [[Matt Lintz]] · [[Brian Cox]] · [[Denis Akiyama]] · [[Sean Bean]] · [[Jane Krakowski]]
 > **Studios** [[Columbia Pictures]] · [[Happy Madison Productions]] · [[1492 Pictures]] · [[LStar Capital]] · [[Film Croppers Entertainment]] · [[China Film Group Corporation]]
 > **Genres** [[Action]] · [[Comedy]] · [[Science Fiction]]
+

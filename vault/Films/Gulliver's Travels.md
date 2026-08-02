@@ -54,3 +54,4 @@ Travel writer Lemuel Gulliver takes an assignment in Bermuda, but ends up on the
 > **Cast** [[Jack Black]] · [[Jason Segel]] · [[Emily Blunt]] · [[Amanda Peet]] · [[Billy Connolly]] · [[Chris O'Dowd]] · [[T.J. Miller]] · [[James Corden]] · [[Catherine Tate]] · [[Emmanuel Quatra]]
 > **Studios** [[Dune Entertainment]] · [[Davis Entertainment]] · [[Dune Entertainment III]] · [[20th Century Fox]]
 > **Genres** [[Family]] · [[Comedy]] · [[Adventure]] · [[Fantasy]]
+

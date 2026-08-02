@@ -56,3 +56,4 @@ An indifferent hitman, his infatuated business partner and an ex-convict search 
 > **Cast** [[Leon Lai Ming]] · [[Michele Reis]] · [[Takeshi Kaneshiro]] · [[Charlie Yeung Choi-Nei]] · [[Karen Mok Man-Wai]] · [[Chan Man-Lei]] · [[Toru Saito]] · [[Benz Kong To-Hoi]] · [[Chan Fai-Hung]] · [[Kwan Lee-Na]]
 > **Studios** [[Jet Tone Production]]
 > **Genres** [[Action]] · [[Romance]] · [[Crime]]
+

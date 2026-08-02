@@ -67,3 +67,4 @@ A crew of miniature aliens operate a spaceship that has a human form. While tryi
 > **Cast** [[Eddie Murphy]] · [[Elizabeth Banks]] · [[Gabrielle Union]] · [[Scott Caan]] · [[Ed Helms]] · [[Kevin Hart]] · [[Mike O'Malley]] · [[Pat Kilbane]] · [[Judah Friedlander]] · [[Marc Blucas]]
 > **Studios** [[Dune Entertainment]] · [[Regency Enterprises]] · [[Guy Walks into a Bar Productions]] · [[Deep River Productions]] · [[Friendly Films (II)]] · [[20th Century Fox]]
 > **Genres** [[Comedy]] · [[Science Fiction]] · [[Adventure]] · [[Family]]
+

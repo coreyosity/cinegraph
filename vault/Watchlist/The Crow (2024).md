@@ -68,3 +68,4 @@ Soulmates Eric and Shelly are brutally murdered when the demons of her dark past
 > **Cast** [[Bill Skarsgård]] · [[FKA twigs]] · [[Danny Huston]] · [[Josette Simon]] · [[Laura Birn]] · [[Sami Bouajila]] · [[Karel Dobrý]] · [[Jordan Bolger]] · [[Sebastian Orozco]] · [[David Bowles]]
 > **Studios** [[Davis Films]] · [[Pressman Film]] · [[Hassell Free Productions]] · [[Electric Shadow Company]] · [[30WEST]] · [[Ashland Hill Media Finance]] · [[FilmNation Entertainment]] · [[Maze Pictures]] · [[Occupant Entertainment]]
 > **Genres** [[Action]] · [[Fantasy]] · [[Horror]]
+

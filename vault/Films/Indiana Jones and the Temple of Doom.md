@@ -85,3 +85,4 @@ After arriving in India, Indiana Jones is asked by a desperate village to find a
 > **Cast** [[Harrison Ford]] · [[Kate Capshaw]] · [[Ke Huy Quan]] · [[Amrish Puri]] · [[Roshan Seth]] · [[Philip Stone]] · [[Roy Chiao]] · [[David Yip]] · [[Ric Young]] · [[Chua Kah Joo]]
 > **Studios** [[Paramount Pictures]] · [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]]
+

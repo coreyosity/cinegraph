@@ -74,3 +74,4 @@ A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up
 > **Cast** [[Angelina Jolie]] · [[Elle Fanning]] · [[Imelda Staunton]] · [[Sharlto Copley]] · [[Lesley Manville]] · [[Juno Temple]] · [[Sam Riley]] · [[Brenton Thwaites]] · [[Kenneth Cranham]] · [[Sarah Flind]]
 > **Studios** [[Walt Disney Pictures]] · [[Roth Films]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Action]] · [[Family]] · [[Romance]]
+

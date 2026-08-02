@@ -59,11 +59,14 @@ tags:
 letterboxd: https://boxd.it/7Axe
 providers:
 - Hulu
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
 - Netflix
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Netflix Standard with Ads
-- Paramount Plus Premium
 - Paramount Plus Basic with Ads
 ---
 
@@ -77,3 +80,4 @@ When millionaire hedge fund manager James is convicted of fraud and sentenced to
 > **Cast** [[Will Ferrell]] · [[Kevin Hart]] · [[Alison Brie]] · [[Craig T. Nelson]] · [[T.I]] · [[Greg Germann]] · [[Matt Walsh]] · [[Mariana Paola Vicente]] · [[Katia Gomez]] · [[Candi Brooks]]
 > **Studios** [[Gary Sanchez Productions]] · [[RatPac Entertainment]]
 > **Genres** [[Comedy]]
+

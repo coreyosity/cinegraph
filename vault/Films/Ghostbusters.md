@@ -72,6 +72,7 @@ providers:
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - Amazon Prime Video
 - Stan
 - Amazon Prime Video with Ads
@@ -87,3 +88,4 @@ After losing their university jobs, three parapsychologists start a ghost-catchi
 > **Cast** [[Bill Murray]] · [[Dan Aykroyd]] · [[Sigourney Weaver]] · [[Harold Ramis]] · [[Rick Moranis]] · [[Annie Potts]] · [[William Atherton]] · [[Ernie Hudson]] · [[David Margulies]] · [[Steven Tash]]
 > **Studios** [[Columbia Pictures]] · [[Delphi Films]] · [[Black Rhino Productions]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

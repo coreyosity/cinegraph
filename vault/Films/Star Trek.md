@@ -84,3 +84,4 @@ The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is 
 > **Cast** [[Chris Pine]] · [[Zachary Quinto]] · [[Leonard Nimoy]] · [[Eric Bana]] · [[Bruce Greenwood]] · [[Karl Urban]] · [[Zoe Saldaña]] · [[Simon Pegg]] · [[John Cho]] · [[Anton Yelchin]]
 > **Studios** [[Paramount Pictures]] · [[Spyglass Entertainment]] · [[Bad Robot]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

@@ -58,6 +58,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Hollywood Suite
 - Club Illico
 - Hollywood Suite Amazon Channel
@@ -81,3 +82,4 @@ The story of the Agojie, the all-female unit of warriors who protected the Afric
 > **Cast** [[Viola Davis]] · [[Thuso Mbedu]] · [[Lashana Lynch]] · [[Sheila Atim]] · [[John Boyega]] · [[Jordan Bolger]] · [[Hero Fiennes Tiffin]] · [[Jimmy Odukoya]] · [[Masali Baduza]] · [[Jayme Lawson]]
 > **Studios** [[TriStar Pictures]] · [[JuVee Productions]] · [[Entertainment One]] · [[Welle Entertainment]] · [[TSG Entertainment II]]
 > **Genres** [[Action]] · [[Drama]] · [[History]] · [[War]]
+

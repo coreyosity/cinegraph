@@ -43,8 +43,6 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
-- Peacock Premium
-- Peacock Premium Plus
 - Starz Amazon Channel
 ---
 
@@ -58,3 +56,4 @@ Sean Anderson partners with his mom's boyfriend on a mission to find his grandfa
 > **Cast** [[Dwayne Johnson]] · [[Josh Hutcherson]] · [[Vanessa Hudgens]] · [[Luis Guzmán]] · [[Michael Caine]] · [[Kristin Davis]] · [[Anna Colwell]] · [[Stephen Caudill]] · [[Branscombe Richmond]] · [[Walter Bankson]]
 > **Studios** [[Walden Media]] · [[New Line Cinema]] · [[Contrafilm]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

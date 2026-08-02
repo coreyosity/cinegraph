@@ -43,13 +43,15 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
+- Peacock Premium
 - Philo
 - Starz Apple TV Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
+- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
+- Starz Amazon Channel
 - Foxtel Now
 - Stan
 ---
@@ -64,3 +66,4 @@ Lenny has relocated his family back to the small town where he and his friends g
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Chris Rock]] · [[David Spade]] · [[Salma Hayek Pinault]] · [[Maya Rudolph]] · [[Maria Bello]] · [[Nick Swardson]] · [[Steve Buscemi]] · [[Colin Quinn]]
 > **Studios** [[Columbia Pictures]] · [[Happy Madison Productions]]
 > **Genres** [[Comedy]]
+

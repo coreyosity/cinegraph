@@ -51,6 +51,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
+- Cinemax Amazon Channel
+- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -66,3 +68,4 @@ Batman and his sidekick Robin attempt to the foil the sinister schemes of a dera
 > **Cast** [[George Clooney]] · [[Chris O'Donnell]] · [[Arnold Schwarzenegger]] · [[Uma Thurman]] · [[Alicia Silverstone]] · [[Michael Gough]] · [[Pat Hingle]] · [[John Glover]] · [[Elle Macpherson]] · [[Vivica A. Fox]]
 > **Studios** [[Warner Bros. Pictures]] · [[Polygram Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

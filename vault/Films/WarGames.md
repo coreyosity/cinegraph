@@ -54,8 +54,12 @@ providers:
 - fuboTV
 - MGM+ Amazon Channel
 - Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+
 - MGM Plus Roku Premium Channel
 - YouTube TV
+- AMC
 - MGM Plus
 - MGM Amazon Channel
 rewatch: true
@@ -76,3 +80,4 @@ High school student David Lightman has a talent for hacking. But while trying to
 > **Cast** [[Matthew Broderick]] · [[Dabney Coleman]] · [[John Wood]] · [[Ally Sheedy]] · [[Barry Corbin]] · [[Juanin Clay]] · [[Kent Williams]] · [[Dennis Lipscomb]] · [[Joe Dorsey]] · [[Irving Metzman]]
 > **Studios** [[Sherwood Productions]] · [[United Artists]]
 > **Genres** [[Drama]] · [[Science Fiction]] · [[Thriller]]
+

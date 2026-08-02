@@ -74,3 +74,4 @@ Skipper, Kowalski, Rico and Private join forces with undercover organization The
 > **Cast** [[Tom McGrath]] · [[Chris Miller]] · [[Christopher Knights]] · [[Conrad Vernon]] · [[John Malkovich]] · [[Benedict Cumberbatch]] · [[Ken Jeong]] · [[Annet Mahendru]] · [[Peter Stormare]] · [[Andy Richter]]
 > **Studios** [[DreamWorks Animation]] · [[Pacific Data Images]]
 > **Genres** [[Family]] · [[Animation]] · [[Adventure]] · [[Comedy]]
+

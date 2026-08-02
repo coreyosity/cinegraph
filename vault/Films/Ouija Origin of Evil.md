@@ -54,3 +54,4 @@ In 1967 Los Angeles, a widowed mother and her two daughters add a new stunt to b
 > **Cast** [[Parker Mack]] · [[Annalise Basso]] · [[Elizabeth Reaser]] · [[Lulu Wilson]] · [[Henry Thomas]] · [[Halle Charlton]] · [[Alexis G. Zall]] · [[Doug Jones]] · [[Kate Siegel]] · [[Sam Anderson]]
 > **Studios** [[Platinum Dunes]] · [[Universal Pictures]] · [[Allspark Pictures]] · [[Blumhouse Productions]]
 > **Genres** [[Horror]]
+

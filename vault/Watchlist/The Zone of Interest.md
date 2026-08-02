@@ -59,3 +59,4 @@ The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build 
 > **Cast** [[Christian Friedel]] · [[Sandra Hüller]] · [[Johann Karthaus]] · [[Luis Noah Witte]] · [[Nele Ahrensmeier]] · [[Lilli Falk]] · [[Anastazja Drobniak]] · [[Cecylia Pekala]] · [[Kalman Wilson]] · [[Medusa Knopf]]
 > **Studios** [[JW Films]] · [[Extreme Emotions]] · [[Access Entertainment]] · [[A24]] · [[Film4 Productions]]
 > **Genres** [[Drama]] · [[History]] · [[War]]
+

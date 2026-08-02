@@ -55,10 +55,14 @@ tags:
 - film
 letterboxd: https://boxd.it/4PBu
 providers:
+- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
+- Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
 - Paramount Plus Essential
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -77,3 +81,4 @@ An island populated entirely by happy, flightless birds or almost entirely. In t
 > **Cast** [[Jason Sudeikis]] · [[Josh Gad]] · [[Danny McBride]] · [[Maya Rudolph]] · [[Bill Hader]] · [[Peter Dinklage]] · [[Sean Penn]] · [[Keegan-Michael Key]] · [[Kate McKinnon]] · [[Tony Hale]]
 > **Studios** [[Rovio Animation]] · [[Columbia Pictures]]
 > **Genres** [[Animation]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

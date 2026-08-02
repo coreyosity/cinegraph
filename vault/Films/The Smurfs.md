@@ -47,10 +47,8 @@ tags:
 - film
 letterboxd: https://boxd.it/Zcm
 providers:
-- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
-- Amazon Prime Video with Ads
 - Netflix
 - Netflix Standard with Ads
 - Crave
@@ -74,3 +72,4 @@ When the evil wizard Gargamel chases the tiny blue Smurfs out of their village, 
 > **Cast** [[Hank Azaria]] · [[Neil Patrick Harris]] · [[Jayma Mays]] · [[Jonathan Winters]] · [[Katy Perry]] · [[Anton Yelchin]] · [[Sofía Vergara]] · [[Tim Gunn]] · [[Frank Welker]] · [[Madison McKinley]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[The Kerner Entertainment Company]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

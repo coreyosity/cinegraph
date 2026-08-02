@@ -43,15 +43,12 @@ tags:
 letterboxd: https://boxd.it/3TMY
 providers:
 - Amazon Prime Video
-- Sky Go
-- Now TV Cinema
 - Amazon Prime Video with Ads
 - fuboTV
 - Philo
 - YouTube TV
 - Shout! Factory Amazon Channel
 - Netflix
-- Club Illico
 - Netflix Standard with Ads
 - Stan
 ---
@@ -66,3 +63,4 @@ When the White House (Secret Service Code: "Olympus") is captured by a terrorist
 > **Cast** [[Gerard Butler]] · [[Aaron Eckhart]] · [[Finley Jacobsen]] · [[Dylan McDermott]] · [[Rick Yune]] · [[Morgan Freeman]] · [[Cole Hauser]] · [[Radha Mitchell]] · [[Angela Bassett]] · [[Melissa Leo]]
 > **Studios** [[Millennium Media]] · [[G-BASE]] · [[Nu Image]]
 > **Genres** [[Action]] · [[Thriller]]
+

@@ -68,3 +68,4 @@ Fifty years into the future, the sun is dying, and Earth is threatened by arctic
 > **Cast** [[Cillian Murphy]] · [[Rose Byrne]] · [[Chris Evans]] · [[Michelle Yeoh]] · [[Cliff Curtis]] · [[Hiroyuki Sanada]] · [[Troy Garity]] · [[Benedict Wong]] · [[Mark Strong]] · [[Paloma Baeza]]
 > **Studios** [[Ingenious Media]] · [[Moving Picture Company]] · [[UK Film Council]] · [[DNA Films]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Horror]]
+

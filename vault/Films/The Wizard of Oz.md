@@ -64,7 +64,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - BINGE
 - Stan
@@ -80,3 +79,4 @@ Young Dorothy finds herself in a magical world where she makes friends with a li
 > **Cast** [[Judy Garland]] · [[Ray Bolger]] · [[Jack Haley]] · [[Bert Lahr]] · [[Frank Morgan]] · [[Margaret Hamilton]] · [[Billie Burke]] · [[Charley Grapewin]] · [[Pat Walshe]] · [[Clara Blandick]]
 > **Studios** [[Metro-Goldwyn-Mayer]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Family]]
+

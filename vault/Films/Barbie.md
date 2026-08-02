@@ -62,7 +62,6 @@ tags:
 letterboxd: https://boxd.it/bCLK
 providers:
 - Netflix
-- Netflix Standard with Ads
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
@@ -84,3 +83,4 @@ Barbie and Ken are having the time of their lives in the colorful and seemingly 
 > **Cast** [[Margot Robbie]] · [[Ryan Gosling]] · [[America Ferrera]] · [[Ariana Greenblatt]] · [[Issa Rae]] · [[Kate McKinnon]] · [[Alexandra Shipp]] · [[Emma Mackey]] · [[Hari Nef]] · [[Sharon Rooney]]
 > **Studios** [[LuckyChap Entertainment]] · [[Heyday Films]] · [[NBGG Pictures]] · [[Mattel]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Fantasy]]
+

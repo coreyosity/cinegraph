@@ -49,3 +49,4 @@ A young boy's discovery of a colorful, wish-granting rock causes chaos in the su
 > **Cast** [[Jimmy Bennett]] · [[Jake Short]] · [[Kat Dennings]] · [[Trevor Gagnon]] · [[Devon Gearhart]] · [[Jolie Vanier]] · [[Rebel Rodriguez]] · [[Leo Howard]] · [[Leslie Mann]] · [[Jon Cryer]]
 > **Studios** [[Troublemaker Studios]] · [[Image Nation Abu Dhabi]] · [[MRC]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Comedy]] · [[Adventure]] · [[Science Fiction]]
+

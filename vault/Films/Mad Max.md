@@ -71,9 +71,8 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Crave
+- MGM Amazon Channel
 - Crave Amazon Channel
 - Stan
 log_tags:
@@ -93,3 +92,4 @@ In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing
 > **Cast** [[Mel Gibson]] · [[Joanne Samuel]] · [[Hugh Keays-Byrne]] · [[Steve Bisley]] · [[Tim Burns]] · [[Roger Ward]] · [[Vincent Gil]] · [[Lulu Pinkus]] · [[Lisa Aldenhoven]] · [[David Bracks]]
 > **Studios** [[Kennedy Miller Productions]]
 > **Genres** [[Action]] · [[Thriller]] · [[Science Fiction]]
+

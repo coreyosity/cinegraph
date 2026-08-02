@@ -65,13 +65,10 @@ providers:
 - Netflix Standard with Ads
 - BFI Player Apple TV Channel
 - fuboTV
-- Philo
 - 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
 - AMC+
 - Sundance Now
 - Shout! Factory Amazon Channel
-- Starz Amazon Channel
 - Stan
 ---
 
@@ -85,3 +82,4 @@ When Lou Bloom, desperate for work, muscles into the world of L.A. crime journal
 > **Cast** [[Jake Gyllenhaal]] · [[Rene Russo]] · [[Riz Ahmed]] · [[Bill Paxton]] · [[Kevin Rahm]] · [[Michael Hyatt]] · [[Price Carson]] · [[Ann Cusack]] · [[Kent Shocknek]] · [[Sharon Tay]]
 > **Studios** [[SierraAffinity]] · [[Bold Films]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

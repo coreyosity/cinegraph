@@ -54,3 +54,4 @@ The drug-induced utopias of four Coney Island residents are shattered when their
 > **Cast** [[Ellen Burstyn]] · [[Jared Leto]] · [[Jennifer Connelly]] · [[Marlon Wayans]] · [[Christopher McDonald]] · [[Louise Lasser]] · [[Marcia Jean Kurtz]] · [[Janet Sarno]] · [[Suzanne Shepherd]] · [[Joanne Gordon]]
 > **Studios** [[Artisan Entertainment]] · [[Thousand Words]] · [[Protozoa Pictures]] · [[Industry Entertainment Partners]] · [[Bandeira Entertainment]]
 > **Genres** [[Crime]] · [[Drama]]
+

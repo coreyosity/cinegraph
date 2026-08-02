@@ -64,3 +64,4 @@ Two stoners wake up after a night of partying and cannot remember where they par
 > **Cast** [[Ashton Kutcher]] · [[Seann William Scott]] · [[Jennifer Garner]] · [[Marla Sokoloff]] · [[Kristy Swanson]] · [[David Herman]] · [[Hal Sparks]] · [[Charlie O'Connell]] · [[John Toles-Bey]] · [[Christian Middelthon]]
 > **Studios** [[20th Century Fox]] · [[Wayne RiceGil Netter Productions]] · [[Alcon Entertainment]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Mystery]] · [[Science Fiction]]
+

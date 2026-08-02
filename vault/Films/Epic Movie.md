@@ -60,3 +60,4 @@ When the Pevensie siblings each follow their own path, they find themselves at W
 > **Cast** [[Kal Penn]] · [[Adam Campbell]] · [[Jennifer Coolidge]] · [[Jayma Mays]] · [[Faune Chambers Watkins]] · [[Crispin Glover]] · [[Tony Cox]] · [[Héctor Jiménez]] · [[Darrell Hammond]] · [[Carmen Electra]]
 > **Studios** [[Regency Enterprises]] · [[New Regency Pictures]] · [[Paul Schiff Productions]] · [[20th Century Fox]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Fantasy]]
+

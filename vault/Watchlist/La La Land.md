@@ -72,3 +72,4 @@ Mia, an aspiring actress, serves lattes to movie stars in between auditions and 
 > **Cast** [[Ryan Gosling]] · [[Emma Stone]] · [[John Legend]] · [[Rosemarie DeWitt]] · [[Finn Wittrock]] · [[Callie Hernandez]] · [[Sonoya Mizuno]] · [[Jessica Rothe]] · [[Tom Everett Scott]] · [[Josh Pence]]
 > **Studios** [[Summit Entertainment]] · [[Gilbert Films]] · [[Impostor Pictures]] · [[Marc Platt Productions]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

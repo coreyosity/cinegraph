@@ -60,3 +60,4 @@ Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrio
 > **Cast** [[Chris Hemsworth]] · [[Natalie Portman]] · [[Tom Hiddleston]] · [[Anthony Hopkins]] · [[Stellan Skarsgård]] · [[Kat Dennings]] · [[Clark Gregg]] · [[Colm Feore]] · [[Idris Elba]] · [[Ray Stevenson]]
 > **Studios** [[Marvel Studios]] · [[Marvel Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

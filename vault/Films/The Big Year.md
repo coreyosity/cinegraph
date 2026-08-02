@@ -76,3 +76,4 @@ Three fanatical bird-watchers spend an entire year competing to spot the highest
 > **Cast** [[Steve Martin]] · [[Jack Black]] · [[Owen Wilson]] · [[Brian Dennehy]] · [[Anjelica Huston]] · [[Rashida Jones]] · [[Rosamund Pike]] · [[Dianne Wiest]] · [[JoBeth Williams]] · [[Anthony Anderson]]
 > **Studios** [[Ingenious Media]] · [[Fox 2000 Pictures]] · [[Deuce Three Productions]] · [[Sunswept Entertainment]] · [[Dune Entertainment]] · [[20th Century Fox]] · [[Red Hour]]
 > **Genres** [[Comedy]]
+

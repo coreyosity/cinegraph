@@ -87,3 +87,4 @@ When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage peop
 > **Cast** [[Leonardo DiCaprio]] · [[Robert De Niro]] · [[Lily Gladstone]] · [[Jesse Plemons]] · [[Tantoo Cardinal]] · [[John Lithgow]] · [[Brendan Fraser]] · [[Cara Jade Myers]] · [[JaNae Collins]] · [[Jillian Dion]]
 > **Studios** [[Apple Studios]] · [[Imperative Entertainment]] · [[Sikelia Productions]] · [[Appian Way]]
 > **Genres** [[Crime]] · [[History]] · [[Drama]]
+

@@ -51,3 +51,4 @@ A girl, abandoned by her mother when she was three, moves to a small town in Flo
 > **Cast** [[AnnaSophia Robb]] · [[Jeff Daniels]] · [[Cicely Tyson]] · [[Eva Marie Saint]] · [[Dave Matthews]] · [[Courtney Jines]] · [[Elle Fanning]] · [[Luke Benward]] · [[Nick Price]] · [[B.J. Hopper]]
 > **Studios** [[20th Century Fox]] · [[Walden Media]]
 > **Genres** [[Family]] · [[Comedy]] · [[Drama]]
+

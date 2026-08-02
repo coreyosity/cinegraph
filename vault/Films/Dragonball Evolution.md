@@ -69,3 +69,4 @@ On his 18th birthday, Goku receives a mystical Dragonball as a gift from his gra
 > **Cast** [[Justin Chatwin]] · [[Chow Yun-Fat]] · [[Joon Park]] · [[Jamie Chung]] · [[Emmy Rossum]] · [[James Marsters]] · [[Randall Duk Kim]] · [[Ernie Hudson]] · [[Texas Battle]] · [[Shavon Kirksey]]
 > **Studios** [[Dune Entertainment]] · [[Star Overseas]] · [[Big Screen Productions]] · [[Ingenious Media]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]] · [[Science Fiction]] · [[Thriller]]
+

@@ -66,10 +66,8 @@ tags:
 letterboxd: https://boxd.it/2w9M
 providers:
 - Amazon Prime Video
+- Sky Go
 - Amazon Prime Video with Ads
-- Peacock Premium
-- Peacock Premium Plus
-- Club Illico
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -88,3 +86,4 @@ A 12-year-old boy searches for the one thing that will enable him to win the aff
 > **Cast** [[Danny DeVito]] · [[Ed Helms]] · [[Zac Efron]] · [[Rob Riggle]] · [[Taylor Swift]] · [[Jenny Slate]] · [[Betty White]] · [[Nasim Pedrad]] · [[Joel Swetow]] · [[Michael Beattie]]
 > **Studios** [[Illumination]] · [[dentsu]]
 > **Genres** [[Animation]] · [[Family]]
+

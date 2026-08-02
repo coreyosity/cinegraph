@@ -70,19 +70,19 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- Amazon Prime Video
 - Hulu
 - Paramount Plus Premium
 - Paramount Plus Essential
 - Paramount+ Amazon Channel
 - Paramount+ Roku Premium Channel
+- Amazon Prime Video with Ads
 - Netflix
 - Paramount Plus
 - Netflix Standard with Ads
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
-- Amazon Prime Video
 - Stan
-- Amazon Prime Video with Ads
 rewatch: true
 log_tags:
 - andrew
@@ -103,3 +103,4 @@ The adventures of a group of explorers who make use of a newly discovered wormho
 > **Cast** [[Matthew McConaughey]] · [[Anne Hathaway]] · [[Michael Caine]] · [[Jessica Chastain]] · [[Casey Affleck]] · [[Wes Bentley]] · [[Topher Grace]] · [[Mackenzie Foy]] · [[Ellen Burstyn]] · [[John Lithgow]]
 > **Studios** [[Legendary Pictures]] · [[Syncopy]] · [[Lynda Obst Productions]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Science Fiction]]
+

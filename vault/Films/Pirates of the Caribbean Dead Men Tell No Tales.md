@@ -68,3 +68,4 @@ Thrust into an all-new adventure, a down-on-his-luck Capt. Jack Sparrow feels th
 > **Cast** [[Johnny Depp]] · [[Javier Bardem]] · [[Geoffrey Rush]] · [[Brenton Thwaites]] · [[Kaya Scodelario]] · [[Golshifteh Farahani]] · [[Kevin McNally]] · [[Stephen Graham]] · [[Angus Barnett]] · [[David Wenham]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]] · [[Infinitum Nihil]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

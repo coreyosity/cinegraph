@@ -83,3 +83,4 @@ Sophie, a young milliner, is turned into an elderly woman by a witch who enters 
 > **Cast** [[Chieko Baisho]] · [[Takuya Kimura]] · [[Akihiro Miwa]] · [[Tatsuya Gashuin]] · [[Ryunosuke Kamiki]] · [[Mitsunori Isaki]] · [[Yo Oizumi]] · [[Akio Otsuka]] · [[Daijirō Harada]] · [[Haruko Katō]]
 > **Studios** [[Studio Ghibli]] · [[Tokuma Shoten]] · [[Nippon Television Network Corporation]] · [[dentsu]] · [[Walt Disney Japan]] · [[d-rights]] · [[TOHO]]
 > **Genres** [[Fantasy]] · [[Animation]] · [[Adventure]]
+

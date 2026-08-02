@@ -75,3 +75,4 @@ When the creator of a popular video game system dies, a virtual contest is creat
 > **Cast** [[Tye Sheridan]] · [[Olivia Cooke]] · [[Ben Mendelsohn]] · [[Lena Waithe]] · [[T.J. Miller]] · [[Simon Pegg]] · [[Mark Rylance]] · [[Philip Zhao]] · [[Win Morisaki]] · [[Hannah John-Kamen]]
 > **Studios** [[Amblin Entertainment]] · [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[De Line Pictures]] · [[Dune Entertainment]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

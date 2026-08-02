@@ -77,3 +77,4 @@ When a kingpin threatens New York City, a group of mutated turtle warriors must 
 > **Cast** [[Pete Ploszek]] · [[Alan Ritchson]] · [[Jeremy Howard]] · [[Noel Fisher]] · [[Megan Fox]] · [[Will Arnett]] · [[William Fichtner]] · [[Danny Woodburn]] · [[Johnny Knoxville]] · [[Tony Shalhoub]]
 > **Studios** [[Platinum Dunes]] · [[Gama Entertainment Partners]] · [[Heavy Metal]] · [[Mednick Productions]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]] · [[Comedy]]
+

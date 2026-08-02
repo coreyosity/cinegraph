@@ -96,3 +96,4 @@ Clarice Starling is a top student at the FBI's training academy.  Jack Crawford 
 > **Cast** [[Jodie Foster]] · [[Anthony Hopkins]] · [[Scott Glenn]] · [[Ted Levine]] · [[Anthony Heald]] · [[Brooke Smith]] · [[Diane Baker]] · [[Kasi Lemmons]] · [[Frankie Faison]] · [[Tracey Walter]]
 > **Studios** [[Orion Pictures]] · [[Strong Heart]] · [[A Luta Continua]]
 > **Genres** [[Crime]] · [[Thriller]] · [[Drama]]
+

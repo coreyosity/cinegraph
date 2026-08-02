@@ -54,3 +54,4 @@ Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his s
 > **Cast** [[Koji Yakusho]] · [[Tokio Emoto]] · [[Arisa Nakano]] · [[Aoi Yamada]] · [[Yumi Aso]] · [[Sayuri Ishikawa]] · [[Tomokazu Miura]] · [[Min Tanaka]] · [[Miyako Tanaka]] · [[Ron Mizuma]]
 > **Studios** [[Master Mind]] · [[Wenders Images]]
 > **Genres** [[Drama]]
+

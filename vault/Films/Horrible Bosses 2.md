@@ -56,3 +56,4 @@ Dale, Kurt and Nick decide to start their own business but things don't go as pl
 > **Cast** [[Jason Bateman]] · [[Jason Sudeikis]] · [[Charlie Day]] · [[Jennifer Aniston]] · [[Chris Pine]] · [[Christoph Waltz]] · [[Jamie Foxx]] · [[Kevin Spacey]] · [[Jonathan Banks]] · [[Lindsay Sloane]]
 > **Studios** [[New Line Cinema]] · [[BenderSpink]] · [[RatPac Entertainment]]
 > **Genres** [[Comedy]]
+

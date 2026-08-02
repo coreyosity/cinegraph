@@ -66,3 +66,4 @@ The Grinch hatches a scheme to ruin Christmas when the residents of Whoville pla
 > **Cast** [[Benedict Cumberbatch]] · [[Rashida Jones]] · [[Kenan Thompson]] · [[Cameron Seely]] · [[Angela Lansbury]] · [[Pharrell Williams]] · [[Ramone Hamilton]] · [[Sam Lavagnino]] · [[Scarlett Estevez]] · [[Michael Beattie]]
 > **Studios** [[Illumination]] · [[Universal Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

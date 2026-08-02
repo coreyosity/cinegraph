@@ -56,3 +56,4 @@ A theater director struggles with his work, and the women in his life, as he att
 > **Cast** [[Philip Seymour Hoffman]] · [[Samantha Morton]] · [[Michelle Williams]] · [[Catherine Keener]] · [[Emily Watson]] · [[Dianne Wiest]] · [[Jennifer Jason Leigh]] · [[Hope Davis]] · [[Tom Noonan]] · [[Sadie Goldstein]]
 > **Studios** [[Likely Story]] · [[Projective Testing Service]] · [[Sidney Kimmel Entertainment]] · [[Russia]]
 > **Genres** [[Drama]]
+

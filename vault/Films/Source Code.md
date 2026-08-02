@@ -51,7 +51,9 @@ tags:
 letterboxd: https://boxd.it/fdo
 providers:
 - Studiocanal Presents Amazon Channel
+- Peacock Premium
 - YouTube TV
+- Peacock Premium Plus
 - MovieSphere+ Amazon Channel
 - Crave
 - Crave Amazon Channel
@@ -76,3 +78,4 @@ When decorated soldier Captain Colter Stevens wakes up in the body of an unknown
 > **Cast** [[Jake Gyllenhaal]] · [[Michelle Monaghan]] · [[Vera Farmiga]] · [[Jeffrey Wright]] · [[Michael Arden]] · [[Cas Anvar]] · [[Russell Peters]] · [[Brent Skagford]] · [[Craig Thomas]] · [[Gordon Masten]]
 > **Studios** [[The Mark Gordon Company]] · [[Summit Entertainment]] · [[Vendôme Production]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Mystery]]
+

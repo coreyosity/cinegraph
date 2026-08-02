@@ -70,3 +70,4 @@ Five friends head out to rural Texas to visit the grave of a grandfather. On the
 > **Cast** [[Marilyn Burns]] · [[Allen Danziger]] · [[Paul A. Partain]] · [[William Vail]] · [[Teri McMinn]] · [[Edwin Neal]] · [[Jim Siedow]] · [[Gunnar Hansen]] · [[John Dugan]] · [[Robert Courtin]]
 > **Studios** [[Vortex]] · [[Henkel Productions]] · [[Hooper Productions]] · [[Bryanston Pictures]]
 > **Genres** [[Horror]]
+

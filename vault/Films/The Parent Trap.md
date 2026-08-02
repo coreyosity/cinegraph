@@ -73,3 +73,4 @@ Hallie Parker and Annie James are identical twins who were separated at a young 
 > **Cast** [[Lindsay Lohan]] · [[Dennis Quaid]] · [[Natasha Richardson]] · [[Elaine Hendrix]] · [[Lisa Ann Walter]] · [[Simon Kunz]] · [[Polly Holliday]] · [[Maggie Wheeler]] · [[Ronnie Stevens]] · [[Erin Mackey]]
 > **Studios** [[Walt Disney Pictures]] · [[The MeyersShyer Company]]
 > **Genres** [[Comedy]] · [[Family]] · [[Romance]]
+

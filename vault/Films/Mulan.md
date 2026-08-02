@@ -70,3 +70,4 @@ When Imperial China calls one man from every family to defend the empire from in
 > **Cast** [[Ming-Na Wen]] · [[Eddie Murphy]] · [[BD Wong]] · [[Miguel Ferrer]] · [[Harvey Fierstein]] · [[Freda Foh Shen]] · [[June Foray]] · [[James Hong]] · [[Miriam Margolyes]] · [[Pat Morita]]
 > **Studios** [[Walt Disney Feature Animation]] · [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]]
+

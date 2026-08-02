@@ -56,6 +56,7 @@ tags:
 letterboxd: https://boxd.it/kPRu
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.
@@ -68,3 +69,4 @@ The tale of an extraordinary family, the Madrigals, who live hidden in the mount
 > **Cast** [[Stephanie Beatriz]] · [[María Cecilia Botero]] · [[John Leguizamo]] · [[Diane Guerrero]] · [[Jess Darrow]] · [[Carolina Gaitán]] · [[Angie Cepeda]] · [[Ravi Cabot-Conyers]] · [[Mauro Castillo]] · [[Rhenzy Feliz]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

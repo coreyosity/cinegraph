@@ -77,3 +77,4 @@ The true story of the inseparable Von Erich brothers, who made history in the in
 > **Cast** [[Zac Efron]] · [[Jeremy Allen White]] · [[Harris Dickinson]] · [[Stanley Simons]] · [[Holt McCallany]] · [[Maura Tierney]] · [[Lily James]] · [[Grady Wilson]] · [[Valentine Newcomer]] · [[Scott Innes]]
 > **Studios** [[House Productions]] · [[BBC Film]] · [[A24]] · [[Access Entertainment]]
 > **Genres** [[Drama]] · [[History]]
+

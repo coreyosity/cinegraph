@@ -83,3 +83,4 @@ In an American desert town circa 1955, the itinerary of a Junior Stargazer/Space
 > **Cast** [[Jason Schwartzman]] · [[Scarlett Johansson]] · [[Tom Hanks]] · [[Jeffrey Wright]] · [[Tilda Swinton]] · [[Bryan Cranston]] · [[Edward Norton]] · [[Adrien Brody]] · [[Liev Schreiber]] · [[Hope Davis]]
 > **Studios** [[Indian Paintbrush]] · [[American Empirical Pictures]] · [[Studio Babelsberg]]
 > **Genres** [[Comedy]] · [[Drama]]
+

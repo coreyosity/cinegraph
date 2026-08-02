@@ -61,7 +61,6 @@ providers:
 - YouTube TV
 - HBO Max
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Stan
@@ -77,3 +76,4 @@ Max and Annie's weekly game night gets kicked up a notch when Max's brother Broo
 > **Cast** [[Jason Bateman]] · [[Rachel McAdams]] · [[Kyle Chandler]] · [[Sharon Horgan]] · [[Billy Magnussen]] · [[Lamorne Morris]] · [[Kylie Bunbury]] · [[Jesse Plemons]] · [[Michael C. Hall]] · [[Danny Huston]]
 > **Studios** [[New Line Cinema]] · [[Aggregate Films]] · [[Davis Entertainment]] · [[Access Entertainment]] · [[Dune Entertainment]]
 > **Genres** [[Mystery]] · [[Comedy]] · [[Crime]]
+

@@ -61,20 +61,27 @@ tags:
 - film
 letterboxd: https://boxd.it/J0
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
-- fuboTV
+- MGM Plus Amazon Channel
 - Paramount Plus Essential
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
 - YouTube TV
+- Starz
+- FXNow
 - TNT
 - TBS
 - tru TV
+- Starz Amazon Channel
 - Crave
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Netflix
 - Stan
 - Netflix Standard with Ads
+- MGM Amazon Channel
 - HBO Max
 - HBO Max Amazon Channel
 ---
@@ -89,3 +96,4 @@ When cops Schmidt and Jenko join the secret Jump Street unit, they use their you
 > **Cast** [[Jonah Hill]] · [[Channing Tatum]] · [[Brie Larson]] · [[Dave Franco]] · [[Rob Riggle]] · [[DeRay Davis]] · [[Ice Cube]] · [[Dax Flame]] · [[Chris Parnell]] · [[Ellie Kemper]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Original Film]] · [[Metro-Goldwyn-Mayer]] · [[Stephen J. Cannell Productions]] · [[SJC Studios]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]]
+

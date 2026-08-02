@@ -47,7 +47,6 @@ letterboxd: https://boxd.it/3EiO
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- ITVX Premium
 - BINGE
 ---
 
@@ -61,3 +60,4 @@ Five friends who reunite in an attempt to top their epic pub crawl from 20 years
 > **Cast** [[Simon Pegg]] · [[Nick Frost]] · [[Paddy Considine]] · [[Martin Freeman]] · [[Eddie Marsan]] · [[Rosamund Pike]] · [[David Bradley]] · [[Pierce Brosnan]] · [[Michael Smiley]] · [[Darren Boyd]]
 > **Studios** [[Big Talk Studios]] · [[Working Title Films]] · [[Relativity Media]] · [[Working Title Films]]
 > **Genres** [[Comedy]] · [[Action]] · [[Science Fiction]]
+

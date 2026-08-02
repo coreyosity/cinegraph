@@ -88,3 +88,4 @@ Following the events at home, the Abbott family now face the terrors of the outs
 > **Cast** [[Emily Blunt]] · [[John Krasinski]] · [[Millicent Simmonds]] · [[Noah Jupe]] · [[Cillian Murphy]] · [[Djimon Hounsou]] · [[Okieriete Onaodowan]] · [[Scoot McNairy]] · [[Zachary Golinger]] · [[Blake DeLong]]
 > **Studios** [[Paramount Pictures]] · [[Platinum Dunes]] · [[Sunday Night Productions]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Horror]]
+

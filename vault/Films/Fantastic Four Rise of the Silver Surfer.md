@@ -80,3 +80,4 @@ The Fantastic Four return to the big screen as a new and all powerful enemy thre
 > **Cast** [[Ioan Gruffudd]] · [[Jessica Alba]] · [[Chris Evans]] · [[Michael Chiklis]] · [[Julian McMahon]] · [[Laurence Fishburne]] · [[Doug Jones]] · [[Kerry Washington]] · [[Andre Braugher]] · [[Beau Garrett]]
 > **Studios** [[1492 Pictures]] · [[Bernd Eichinger Productions]] · [[20th Century Fox]] · [[Constantin Film]] · [[Marvel Studios]] · [[Ingenious Film Partners]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

@@ -53,7 +53,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
-- Philo
 ---
 
 A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.
@@ -63,3 +62,4 @@ A supernatural tale set on death row in a Southern prison, where gentle giant Jo
 > **Cast** [[Tom Hanks]] · [[David Morse]] · [[Bonnie Hunt]] · [[Michael Clarke Duncan]] · [[James Cromwell]] · [[Michael Jeter]] · [[Graham Greene]] · [[Doug Hutchison]] · [[Sam Rockwell]] · [[Barry Pepper]]
 > **Studios** [[Castle Rock Entertainment]] · [[Darkwoods Productions]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Crime]]
+

@@ -56,6 +56,7 @@ providers:
 - Now TV Cinema
 - Netflix
 - Netflix Standard with Ads
+- Sony Pictures Core Amazon Channel
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -82,3 +83,4 @@ When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his
 > **Cast** [[Michael J. Fox]] · [[Geena Davis]] · [[Hugh Laurie]] · [[Jonathan Lipnicki]] · [[Nathan Lane]] · [[Chazz Palminteri]] · [[Steve Zahn]] · [[Jim Doughan]] · [[David Alan Grier]] · [[Bruno Kirby]]
 > **Studios** [[FranklinWaterman Productions]] · [[Columbia Pictures]] · [[Global Medien KG]] · [[Red Wagon Entertainment]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Comedy]] · [[Adventure]]
+

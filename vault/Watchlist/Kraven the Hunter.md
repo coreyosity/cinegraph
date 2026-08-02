@@ -55,3 +55,4 @@ Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikol
 > **Cast** [[Aaron Taylor-Johnson]] · [[Ariana DeBose]] · [[Fred Hechinger]] · [[Alessandro Nivola]] · [[Christopher Abbott]] · [[Russell Crowe]] · [[Yuri Kolokolnikov]] · [[Levi Miller]] · [[Tom Reed]] · [[Billy Barratt]]
 > **Studios** [[Columbia Pictures]] · [[Matt Tolmach Productions]] · [[Arad Productions]] · [[TSG Entertainment II]]
 > **Genres** [[Action]] · [[Adventure]] · [[Thriller]]
+

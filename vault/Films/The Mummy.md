@@ -84,3 +84,4 @@ Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra 
 > **Cast** [[Brendan Fraser]] · [[Rachel Weisz]] · [[John Hannah]] · [[Arnold Vosloo]] · [[Patricia Velásquez]] · [[Oded Fehr]] · [[Kevin J. O'Connor]] · [[Jonathan Hyde]] · [[Erick Avari]] · [[Stephen Dunham]]
 > **Studios** [[Alphaville Films]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

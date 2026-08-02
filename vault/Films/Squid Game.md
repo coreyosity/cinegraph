@@ -58,3 +58,4 @@ Hundreds of cash-strapped players accept a strange invitation to compete in chil
 > **Cast** [[Lee Jung-jae]] · [[Yim Si-wan]] · [[Wi Ha-jun]] · [[Jo Yu-ri]] · [[Lee Byung-hun]] · [[Park Gyu-young]] · [[Kang Ae-sim]] · [[Lee Jin-uk]] · [[Yang Dong-geun]] · [[Park Sung-hoon]]
 > **Studios** [[Siren Pictures]] · [[Firstman Studio]]
 > **Genres** [[Action & Adventure]] · [[Mystery]] · [[Drama]]
+

@@ -102,3 +102,4 @@ It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre
 > **Cast** [[Mike Myers]] · [[Eddie Murphy]] · [[Cameron Diaz]] · [[John Lithgow]] · [[Vincent Cassel]] · [[Peter Dennis]] · [[Clive Pearse]] · [[Jim Cummings]] · [[Bobby Block]] · [[Chris Miller]]
 > **Studios** [[Pacific Data Images]] · [[DreamWorks Animation]] · [[DreamWorks Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Fantasy]] · [[Adventure]] · [[Family]]
+

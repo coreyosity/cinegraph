@@ -69,16 +69,16 @@ tags:
 letterboxd: https://boxd.it/728
 providers:
 - Netflix
+- Amazon Prime Video
 - Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - Netflix Standard with Ads
+- Amazon Prime Video with Ads
 - ITVX Premium
+- fuboTV
 - Paramount Plus Essential
-- Peacock Premium
-- Peacock Premium Plus
-- Wonder Project Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -94,3 +94,4 @@ A man with a low IQ has accomplished great things in his life and been present d
 > **Cast** [[Tom Hanks]] · [[Robin Wright]] · [[Gary Sinise]] · [[Sally Field]] · [[Mykelti Williamson]] · [[Michael Conner Humphreys]] · [[Hanna Hall]] · [[Haley Joel Osment]] · [[Siobhan Fallon Hogan]] · [[Rebecca Williams]]
 > **Studios** [[Paramount Pictures]] · [[The Steve Tisch Company]] · [[Wendy Finerman Productions]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

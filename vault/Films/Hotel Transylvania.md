@@ -49,16 +49,22 @@ tags:
 - film
 letterboxd: https://boxd.it/2DF6
 providers:
+- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
+- Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
 - Crave
 - Club Illico
 - Starz Amazon Channel
 - Crave Amazon Channel
 - BINGE
+- Paramount Plus
+- Paramount+ Amazon Channel
 - Foxtel Now
 - Stan
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 ---
 
 Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!
@@ -71,3 +77,4 @@ Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monster
 > **Cast** [[Selena Gomez]] · [[Adam Sandler]] · [[Andy Samberg]] · [[Kevin James]] · [[Fran Drescher]] · [[Steve Buscemi]] · [[Molly Shannon]] · [[David Spade]] · [[Cee Lo Green]] · [[Jon Lovitz]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

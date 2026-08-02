@@ -67,6 +67,7 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
 - YouTube TV
 ---
 
@@ -80,3 +81,4 @@ A veteran pot dealer creates a fake family as part of his plan to move a huge sh
 > **Cast** [[Jennifer Aniston]] · [[Jason Sudeikis]] · [[Emma Roberts]] · [[Will Poulter]] · [[Ed Helms]] · [[Nick Offerman]] · [[Kathryn Hahn]] · [[Molly C. Quinn]] · [[Tomer Sisley]] · [[Matthew Willig]]
 > **Studios** [[New Line Cinema]] · [[NewmanTooley Films]] · [[Bad Version]] · [[Slap Happy Productions]] · [[Heyday Films]] · [[BenderSpink]]
 > **Genres** [[Comedy]] · [[Crime]]
+

@@ -50,7 +50,6 @@ letterboxd: https://boxd.it/21em
 providers:
 - Disney Plus
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 ---
 
 Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.
@@ -60,3 +59,4 @@ Truck driver Jack Burton gets embroiled in a supernatural battle when his best f
 > **Cast** [[Kurt Russell]] · [[Kim Cattrall]] · [[Dennis Dun]] · [[James Hong]] · [[Victor Wong]] · [[Kate Burton]] · [[Donald Li]] · [[Carter Huang Chia-Ta]] · [[Peter Kwong]] · [[James Pax]]
 > **Studios** [[Taft Entertainment Pictures]] · [[20th Century Fox]] · [[SLM Production Group]]
 > **Genres** [[Action]] · [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

@@ -47,8 +47,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Essential
 - Philo
@@ -56,8 +54,10 @@ providers:
 - Paramount+ Amazon Channel
 - MGM Plus Roku Premium Channel
 - YouTube TV
+- Starz
 - MGM Plus
 - Paramount+ Roku Premium Channel
+- Starz Amazon Channel
 - Stan
 ---
 
@@ -71,3 +71,4 @@ With the 70s behind him, San Diego's top rated newsman, Ron Burgundy, returns to
 > **Cast** [[Will Ferrell]] · [[Steve Carell]] · [[Paul Rudd]] · [[David Koechner]] · [[Christina Applegate]] · [[Dylan Baker]] · [[Meagan Good]] · [[Judah Nelson]] · [[James Marsden]] · [[Greg Kinnear]]
 > **Studios** [[Gary Sanchez Productions]] · [[Paramount Pictures]] · [[Apatow Productions]]
 > **Genres** [[Comedy]]
+

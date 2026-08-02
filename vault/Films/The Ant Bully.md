@@ -47,7 +47,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Netflix
 - Netflix Kids
@@ -64,3 +63,4 @@ Fed up with being targeted by the neighborhood bully, 10-year-old Lucas Nickle v
 > **Cast** [[Zach Tyler Eisen]] · [[Julia Roberts]] · [[Meryl Streep]] · [[Nicolas Cage]] · [[Paul Giamatti]] · [[Bruce Campbell]] · [[Regina King]] · [[Lily Tomlin]] · [[Larry Miller]] · [[Cheri Oteri]]
 > **Studios** [[DNA Productions]] · [[Playtone]] · [[Legendary Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

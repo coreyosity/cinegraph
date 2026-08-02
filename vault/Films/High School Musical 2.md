@@ -57,3 +57,4 @@ The East High Wildcats are gearing up for big fun as they land the coolest summe
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Olesya Rulin]] · [[Chris Warren]] · [[Monique Coleman]] · [[Alyson Reed]] · [[Ryne Sanborn]]
 > **Studios** [[First Street Films]] · [[Salty Pictures]] · [[Disney Channel]]
 > **Genres** [[Comedy]] · [[Family]] · [[TV Movie]]
+

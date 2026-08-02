@@ -62,7 +62,6 @@ providers:
 - Amazon Prime Video with Ads
 - YouTube TV
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Stan
 ---
@@ -77,3 +76,4 @@ Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and 
 > **Cast** [[Christian Bale]] · [[Michael Caine]] · [[Liam Neeson]] · [[Katie Holmes]] · [[Gary Oldman]] · [[Cillian Murphy]] · [[Tom Wilkinson]] · [[Rutger Hauer]] · [[Ken Watanabe]] · [[Mark Boone Junior]]
 > **Studios** [[Warner Bros. Pictures]] · [[DC]] · [[Syncopy]] · [[Legendary Pictures]] · [[Patalex III Productions]]
 > **Genres** [[Drama]] · [[Crime]] · [[Action]]
+

@@ -62,8 +62,13 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Hulu
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
 - YouTube TV
+- Starz
 - AMC
+- Starz Amazon Channel
 - Sony Pictures Core Amazon Channel
 - BINGE
 - Foxtel Now
@@ -80,3 +85,4 @@ Capitol Policeman John Cale has just been denied his dream job with the Secret S
 > **Cast** [[Channing Tatum]] · [[Jamie Foxx]] · [[Maggie Gyllenhaal]] · [[Jason Clarke]] · [[Richard Jenkins]] · [[Joey King]] · [[James Woods]] · [[Nicolas Wright]] · [[Jimmi Simpson]] · [[Michael Murphy]]
 > **Studios** [[Columbia Pictures]] · [[Mythology Entertainment]] · [[Centropolis Entertainment]] · [[Iron Horse Entertainment]] · [[Street Entertainment]]
 > **Genres** [[Action]] · [[Drama]] · [[Thriller]]
+

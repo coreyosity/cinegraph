@@ -48,7 +48,6 @@ providers:
 - Amazon Prime Video with Ads
 - ITVX Premium
 - YouTube TV
-- Cinemax Amazon Channel
 - Cinemax Apple TV Channel
 ---
 
@@ -59,3 +58,4 @@ A down-on-his-luck crab fisherman embarks on a journey to get a young man with D
 > **Cast** [[Shia LaBeouf]] · [[Zack Gottsagen]] · [[Dakota Johnson]] · [[Thomas Haden Church]] · [[John Hawkes]] · [[Bruce Dern]] · [[Jon Bernthal]] · [[Yelawolf]] · [[Wayne Dehart]] · [[Aurelian Smith Jr]]
 > **Studios** [[Bona Fide Productions]] · [[Armory Films]] · [[1993]] · [[Tvacom Film and TV]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Drama]]
+

@@ -86,3 +86,4 @@ After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited
 > **Cast** [[Lupita Nyong'o]] · [[Pedro Pascal]] · [[Kit Connor]] · [[Bill Nighy]] · [[Stephanie Hsu]] · [[Matt Berry]] · [[Ving Rhames]] · [[Mark Hamill]] · [[Catherine O'Hara]] · [[Boone Storm]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Family]] · [[Animation]] · [[Science Fiction]] · [[Adventure]]
+

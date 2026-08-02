@@ -53,3 +53,4 @@ Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Tor
 > **Cast** [[Ewan McGregor]] · [[Rebecca Ferguson]] · [[Kyliegh Curran]] · [[Cliff Curtis]] · [[Zahn McClarnon]] · [[Emily Alyn Lind]] · [[Selena Anduze]] · [[Robert Longstreet]] · [[Carel Struycken]] · [[Katie Parker]]
 > **Studios** [[Vertigo Entertainment]] · [[Intrepid Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Horror]] · [[Fantasy]]
+

@@ -57,12 +57,14 @@ letterboxd: https://boxd.it/1Yey
 providers:
 - Hulu
 - Philo
+- Starz Roku Premium Channel
 - YouTube TV
+- Starz
+- Starz Amazon Channel
 - Amazon Prime Video
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Paramount Plus
@@ -82,3 +84,4 @@ Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional app
 > **Cast** [[Adam Sandler]] · [[Christopher McDonald]] · [[Julie Bowen]] · [[Frances Bay]] · [[Carl Weathers]] · [[Allen Covert]] · [[Robert Smigel]] · [[Bob Barker]] · [[Richard Kiel]] · [[Dennis Dugan]]
 > **Studios** [[Universal Pictures]] · [[Brillstein-Grey Entertainment]] · [[Robert Simonds Productions]]
 > **Genres** [[Comedy]]
+

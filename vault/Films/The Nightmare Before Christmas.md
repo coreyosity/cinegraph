@@ -63,3 +63,4 @@ Tired of scaring humans every October 31 with the same old bag of tricks, Jack S
 > **Cast** [[Danny Elfman]] · [[Chris Sarandon]] · [[Catherine O'Hara]] · [[William Hickey]] · [[Glenn Shadix]] · [[Paul Reubens]] · [[Ken Page]] · [[Edward Ivory]] · [[Susan McBride]] · [[Debi Durst]]
 > **Studios** [[Touchstone Pictures]] · [[Skellington Productions]]
 > **Genres** [[Fantasy]] · [[Animation]] · [[Family]]
+

@@ -49,3 +49,4 @@ A scientific experiment unknowingly brings extraterrestrial life forms to the Ea
 > **Cast** [[Lea Thompson]] · [[Jeffrey Jones]] · [[Tim Robbins]] · [[Ed Gale]] · [[Chip Zien]] · [[Tim Rose]] · [[Steve Sleap]] · [[Peter Baird]] · [[Mary Wells]] · [[Lisa Sturz]]
 > **Studios** [[Lucasfilm Ltd]] · [[Universal Pictures]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Science Fiction]]
+

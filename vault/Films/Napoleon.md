@@ -65,3 +65,4 @@ An epic that details the checkered rise and fall of French Emperor Napoleon Bona
 > **Cast** [[Joaquin Phoenix]] · [[Vanessa Kirby]] · [[Tahar Rahim]] · [[Rupert Everett]] · [[Mark Bonnar]] · [[Paul Rhys]] · [[Ben Miles]] · [[Riana Duce]] · [[Edouard Philipponnat]] · [[Miles Jupp]]
 > **Studios** [[Apple Studios]] · [[Scott Free Productions]]
 > **Genres** [[History]] · [[War]] · [[Drama]]
+

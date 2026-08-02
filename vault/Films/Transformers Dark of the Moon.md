@@ -77,3 +77,4 @@ The Autobots continue to work for NEST, now no longer in secret. But after disco
 > **Cast** [[Shia LaBeouf]] · [[Rosie Huntington-Whiteley]] · [[Peter Cullen]] · [[Leonard Nimoy]] · [[John Turturro]] · [[Frances McDormand]] · [[Josh Duhamel]] · [[Tyrese Gibson]] · [[Patrick Dempsey]] · [[Hugo Weaving]]
 > **Studios** [[Paramount Pictures]] · [[di Bonaventura Pictures]] · [[DeSantoMurphy Productions]] · [[Ian Bryce Productions]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

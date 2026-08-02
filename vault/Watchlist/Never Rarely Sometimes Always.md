@@ -48,3 +48,4 @@ A pair of teenage girls in rural Pennsylvania travel to New York City to seek ou
 > **Cast** [[Sidney Flanigan]] · [[Talia Ryder]] · [[Théodore Pellerin]] · [[Ryan Eggold]] · [[Sharon Van Etten]] · [[Eliazar Jimenez]] · [[David Buneta]] · [[Christian Clements]] · [[Sam Dugger]] · [[Aurora Richards]]
 > **Studios** [[BBC Film]] · [[Mutressa Movies]] · [[PASTEL]] · [[Rooftop Films]] · [[Cinereach]] · [[Tango Entertainment]]
 > **Genres** [[Drama]]
+

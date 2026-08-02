@@ -51,7 +51,6 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
-- fuboTV
 - YouTube TV
 - Netflix
 - Stan
@@ -67,3 +66,4 @@ In a picture-perfect seaside town, an insurance salesman begins to realize that 
 > **Cast** [[Jim Carrey]] · [[Laura Linney]] · [[Noah Emmerich]] · [[Natascha McElhone]] · [[Holland Taylor]] · [[Ed Harris]] · [[Paul Giamatti]] · [[Brian Delate]] · [[Peter Krause]] · [[Blair Slater]]
 > **Studios** [[Paramount Pictures]] · [[Scott Rudin Productions]]
 > **Genres** [[Comedy]] · [[Drama]]
+

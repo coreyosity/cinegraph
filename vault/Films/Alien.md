@@ -65,3 +65,4 @@ During its return to the earth, commercial spaceship Nostromo intercepts a distr
 > **Cast** [[Tom Skerritt]] · [[Sigourney Weaver]] · [[Veronica Cartwright]] · [[Harry Dean Stanton]] · [[John Hurt]] · [[Ian Holm]] · [[Yaphet Kotto]] · [[Bolaji Badejo]] · [[Helen Horton]]
 > **Studios** [[Brandywine Productions]] · [[Twentieth Century-Fox Productions]] · [[Ronald Shusett Productions]]
 > **Genres** [[Horror]] · [[Science Fiction]]
+

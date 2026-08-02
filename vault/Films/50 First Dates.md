@@ -47,11 +47,13 @@ tags:
 letterboxd: https://boxd.it/285c
 providers:
 - fuboTV
+- Philo
+- Starz Roku Premium Channel
 - YouTube TV
+- Starz Amazon Channel
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Netflix
@@ -72,3 +74,4 @@ Henry is a player skilled at seducing women. But when this veterinarian meets Lu
 > **Cast** [[Adam Sandler]] · [[Drew Barrymore]] · [[Rob Schneider]] · [[Sean Astin]] · [[Lusia Strus]] · [[Dan Aykroyd]] · [[Amy Hill]] · [[Allen Covert]] · [[Blake Clark]] · [[Maya Rudolph]]
 > **Studios** [[Columbia Pictures]] · [[Anonymous Content]] · [[Flower Films]] · [[Happy Madison Productions]]
 > **Genres** [[Comedy]] · [[Romance]]
+

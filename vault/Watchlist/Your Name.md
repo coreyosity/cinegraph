@@ -69,3 +69,4 @@ High schoolers Mitsuha and Taki are complete strangers living separate lives. Bu
 > **Cast** [[Ryunosuke Kamiki]] · [[Mone Kamishiraishi]] · [[Ryo Narita]] · [[Aoi Yuuki]] · [[Nobunaga Shimazaki]] · [[Kaito Ishikawa]] · [[Kanon Tani]] · [[Masaki Terasoma]] · [[Sayaka Ohara]] · [[Kazuhiko Inoue]]
 > **Studios** [[CoMix Wave Films]] · [[TOHO]] · [[KADOKAWA]] · [[jeki]] · [[AMUSE]] · [[voque ting]] · [[Lawson Entertainment]]
 > **Genres** [[Animation]] · [[Romance]] · [[Drama]]
+

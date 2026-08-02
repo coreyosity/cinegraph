@@ -82,3 +82,4 @@ Robert Neville is a scientist who was unable to stop the spread of the terrible 
 > **Cast** [[Will Smith]] · [[Alice Braga]] · [[Charlie Tahan]] · [[Dash Mihok]] · [[Salli Richardson-Whitfield]] · [[Willow Smith]] · [[Emma Thompson]] · [[Darrell Foster]] · [[Joanna Numata]] · [[Samuel Glen]]
 > **Studios** [[Village Roadshow Pictures]] · [[Weed Road Pictures]] · [[Overbrook Entertainment]] · [[Warner Bros. Pictures]] · [[Heyday Films]] · [[Original Film]]
 > **Genres** [[Drama]] · [[Science Fiction]] · [[Thriller]]
+

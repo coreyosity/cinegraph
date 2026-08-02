@@ -50,8 +50,6 @@ providers:
 - Amazon Prime Video
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
-- Peacock Premium
-- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - BINGE
@@ -69,3 +67,4 @@ Deckard Shaw seeks revenge against Dominic Toretto and his family for his comato
 > **Cast** [[Vin Diesel]] · [[Paul Walker]] · [[Dwayne Johnson]] · [[Michelle Rodriguez]] · [[Tyrese Gibson]] · [[Ludacris]] · [[Jordana Brewster]] · [[Jason Statham]] · [[Kurt Russell]] · [[Nathalie Emmanuel]]
 > **Studios** [[Original Film]] · [[One Race]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

@@ -64,3 +64,4 @@ Following Jigsaw's grisly demise, Detective Mark Hoffman is commended as a hero,
 > **Cast** [[Tobin Bell]] · [[Costas Mandylor]] · [[Scott Patterson]] · [[Betsy Russell]] · [[Julie Benz]] · [[Meagan Good]] · [[Mark Rolston]] · [[Carlo Rota]] · [[Greg Bryk]] · [[Laura Gordon]]
 > **Studios** [[Twisted Pictures]] · [[Mandate Pictures]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Crime]]
+

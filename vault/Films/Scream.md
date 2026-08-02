@@ -86,3 +86,4 @@ A year after the murder of her mother, a teenage girl is terrorized by a masked 
 > **Cast** [[David Arquette]] · [[Neve Campbell]] · [[Courteney Cox]] · [[Matthew Lillard]] · [[Rose McGowan]] · [[Skeet Ulrich]] · [[Jamie Kennedy]] · [[W. Earl Brown]] · [[Joseph Whipp]] · [[Liev Schreiber]]
 > **Studios** [[Dimension Films]] · [[Woods Entertainment]]
 > **Genres** [[Crime]] · [[Horror]] · [[Mystery]]
+

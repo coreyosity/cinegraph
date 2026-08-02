@@ -68,3 +68,4 @@ In the boorish city of Agrabah, kind-hearted street urchin Aladdin and Princess 
 > **Cast** [[Scott Weinger]] · [[Robin Williams]] · [[Linda Larkin]] · [[Jonathan Freeman]] · [[Gilbert Gottfried]] · [[Douglas Seale]] · [[Frank Welker]] · [[Brad Kane]] · [[Lea Salonga]] · [[Bruce Adler]]
 > **Studios** [[Walt Disney Feature Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Fantasy]] · [[Romance]]
+

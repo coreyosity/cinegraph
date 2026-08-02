@@ -79,3 +79,4 @@ Matilda Wormwood is an brilliant and intelligent little girl. Unfortunately, her
 > **Cast** [[Mara Wilson]] · [[Danny DeVito]] · [[Rhea Perlman]] · [[Embeth Davidtz]] · [[Pam Ferris]] · [[Paul Reubens]] · [[Tracey Walter]] · [[Jean Speegle Howard]] · [[Brian Levinson]] · [[Sara Magdalin]]
 > **Studios** [[Jersey Films]] · [[TriStar Pictures]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

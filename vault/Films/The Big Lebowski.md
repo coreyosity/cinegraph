@@ -73,3 +73,4 @@ Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and dr
 > **Cast** [[Jeff Bridges]] · [[John Goodman]] · [[Julianne Moore]] · [[Steve Buscemi]] · [[David Huddleston]] · [[Philip Seymour Hoffman]] · [[Tara Reid]] · [[Philip Moon]] · [[Mark Pellegrino]] · [[Peter Stormare]]
 > **Studios** [[PolyGram Filmed Entertainment]] · [[Working Title Films]]
 > **Genres** [[Comedy]] · [[Crime]]
+

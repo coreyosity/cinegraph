@@ -73,3 +73,4 @@ A ticking-time-bomb insomniac and a slippery soap salesman channel primal male a
 > **Cast** [[Edward Norton]] · [[Brad Pitt]] · [[Helena Bonham Carter]] · [[Meat Loaf]] · [[Jared Leto]] · [[Zach Grenier]] · [[Holt McCallany]] · [[Eion Bailey]] · [[Richmond Arquette]] · [[David Andrews]]
 > **Studios** [[Fox 2000 Pictures]] · [[Regency Enterprises]] · [[Linson Entertainment]] · [[20th Century Fox]] · [[Taurus Film]]
 > **Genres** [[Drama]] · [[Thriller]]
+

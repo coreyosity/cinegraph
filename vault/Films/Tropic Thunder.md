@@ -65,10 +65,7 @@ providers:
 - Amazon Prime Video with Ads
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Essential
-- Philo
 - MGM Plus Roku Premium Channel
 - YouTube TV
 - MGM Plus
@@ -86,3 +83,4 @@ A group of self-absorbed actors set out to make the most expensive war film ever
 > **Cast** [[Ben Stiller]] · [[Robert Downey Jr]] · [[Jack Black]] · [[Jay Baruchel]] · [[Brandon T. Jackson]] · [[Brandon Soo Hoo]] · [[Matthew McConaughey]] · [[Tom Cruise]] · [[Nick Nolte]] · [[Danny McBride]]
 > **Studios** [[DreamWorks Pictures]] · [[Red Hour]]
 > **Genres** [[Action]] · [[Comedy]] · [[War]]
+

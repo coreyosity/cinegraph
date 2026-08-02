@@ -74,3 +74,4 @@ Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer trave
 > **Cast** [[Tobin Bell]] · [[Shawnee Smith]] · [[Synnøve Macody Lund]] · [[Steven Brand]] · [[Renata Vaca]] · [[Joshua Okamoto]] · [[Octavio Hinojosa Martínez]] · [[Paulette Hernández]] · [[Jorge Briseño]] · [[Michael Beach]]
 > **Studios** [[Twisted Pictures]] · [[Serendipity Productions]] · [[Galaxy 8 Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]]
+

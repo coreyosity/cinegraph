@@ -61,3 +61,4 @@ The Texas Rangers chase down a gang of outlaws led by Butch Cavendish, but the g
 > **Cast** [[Johnny Depp]] · [[Armie Hammer]] · [[Tom Wilkinson]] · [[William Fichtner]] · [[Helena Bonham Carter]] · [[Barry Pepper]] · [[James Badge Dale]] · [[Ruth Wilson]] · [[Leon Rippy]] · [[Stephen Root]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]] · [[Infinitum Nihil]] · [[Blind Wink]]
 > **Genres** [[Action]] · [[Adventure]] · [[Western]]
+

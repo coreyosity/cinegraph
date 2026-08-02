@@ -66,3 +66,4 @@ providers:
 > **Cast** [[Alex D. Linz]] · [[Olek Krupa]] · [[Rya Kihlstedt]] · [[Lenny Von Dohlen]] · [[David Thornton]] · [[Haviland Morris]] · [[Kevin Kilner]] · [[Marian Seldes]] · [[Seth Smith]] · [[Scarlett Johansson]]
 > **Studios** [[20th Century Fox]] · [[Hughes Entertainment]]
 > **Genres** [[Comedy]] · [[Family]]
+

@@ -82,3 +82,4 @@ In October of 1994 three student filmmakers disappeared in the woods near Burkit
 > **Cast** [[Heather Donahue]] · [[Joshua Leonard]] · [[Michael C. Williams]] · [[Bob Griffin]] · [[Jim King]] · [[Sandra Sánchez]] · [[Ed Swanson]] · [[Patricia DeCou]] · [[Mark Mason]] · [[Susie Gooch]]
 > **Studios** [[Haxan Films]] · [[Artisan Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]]
+

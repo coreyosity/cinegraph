@@ -64,3 +64,4 @@ Set on an island off the coast of New England in the summer of 1965, Moonrise Ki
 > **Cast** [[Jared Gilman]] · [[Kara Hayward]] · [[Bruce Willis]] · [[Edward Norton]] · [[Bill Murray]] · [[Frances McDormand]] · [[Tilda Swinton]] · [[Jason Schwartzman]] · [[Bob Balaban]] · [[Lucas Hedges]]
 > **Studios** [[Indian Paintbrush]] · [[American Empirical Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

@@ -45,3 +45,4 @@ Sequel to the 2022 film The Batman.
 > **Cast** [[Robert Pattinson]] · [[Jeffrey Wright]] · [[Andy Serkis]] · [[Colin Farrell]] · [[Jayme Lawson]] · [[Gil Perez-Abraham]] · [[Scarlett Johansson]] · [[Sebastian Stan]] · [[Charles Dance]] · [[Sebastian Koch]]
 > **Studios** [[6th & Idaho Motion Picture Company]] · [[DC Studios]] · [[Dylan Clark Productions]]
 > **Genres** [[Mystery]] · [[Drama]] · [[Crime]]
+

@@ -59,3 +59,4 @@ Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches o
 > **Cast** [[Mark Hamill]] · [[Harrison Ford]] · [[Carrie Fisher]] · [[Billy Dee Williams]] · [[Anthony Daniels]] · [[Peter Mayhew]] · [[Sebastian Shaw]] · [[Ian McDiarmid]] · [[Frank Oz]] · [[James Earl Jones]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

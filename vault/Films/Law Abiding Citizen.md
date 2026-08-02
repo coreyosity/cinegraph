@@ -55,7 +55,6 @@ tags:
 letterboxd: https://boxd.it/1A2I
 providers:
 - ITVX Premium
-- fuboTV
 - Amazon Prime Video
 - Netflix
 - Netflix Standard with Ads
@@ -73,3 +72,4 @@ A frustrated man decides to take justice into his own hands after a plea bargain
 > **Cast** [[Jamie Foxx]] · [[Gerard Butler]] · [[Colm Meaney]] · [[Bruce McGill]] · [[Leslie Bibb]] · [[Michael Irby]] · [[Gregory Itzin]] · [[Regina Hall]] · [[Emerald-Angel Young]] · [[Brooke Stacy Mills]]
 > **Studios** [[The Film Department]] · [[Evil Twins]] · [[Warp Films]] · [[Overture Films]] · [[G-BASE]]
 > **Genres** [[Drama]] · [[Crime]] · [[Thriller]]
+

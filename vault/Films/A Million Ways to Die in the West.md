@@ -43,6 +43,10 @@ tags:
 letterboxd: https://boxd.it/5H9k
 providers:
 - Netflix
+- Philo
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Netflix Standard with Ads
 - Amazon Prime Video
 - Amazon Prime Video with Ads
@@ -60,3 +64,4 @@ As a cowardly farmer begins to fall for the mysterious new woman in town, he mus
 > **Cast** [[Seth MacFarlane]] · [[Charlize Theron]] · [[Amanda Seyfried]] · [[Liam Neeson]] · [[Giovanni Ribisi]] · [[Neil Patrick Harris]] · [[Sarah Silverman]] · [[Christopher Hagen]] · [[Wes Studi]] · [[Matt Clark]]
 > **Studios** [[RGB Media]] · [[Fuzzy Door Productions]] · [[MRC]] · [[Bluegrass Films]]
 > **Genres** [[Comedy]] · [[Western]]
+

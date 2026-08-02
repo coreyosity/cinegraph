@@ -60,7 +60,6 @@ providers:
 - Paramount+ Amazon Channel
 - Philo
 - 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
 - AMC+
 - YouTube TV
 - AMC
@@ -76,3 +75,4 @@ As U.S. troops storm the beaches of Normandy, three brothers lie dead on the bat
 > **Cast** [[Tom Hanks]] · [[Tom Sizemore]] · [[Edward Burns]] · [[Barry Pepper]] · [[Adam Goldberg]] · [[Vin Diesel]] · [[Giovanni Ribisi]] · [[Jeremy Davies]] · [[Matt Damon]] · [[Ted Danson]]
 > **Studios** [[DreamWorks Pictures]] · [[Paramount Pictures]] · [[Amblin Entertainment]] · [[Mutual Film Company]]
 > **Genres** [[War]] · [[Drama]] · [[History]]
+

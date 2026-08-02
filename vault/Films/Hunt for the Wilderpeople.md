@@ -46,10 +46,9 @@ tags:
 - film
 letterboxd: https://boxd.it/cTgG
 providers:
-- MGM Plus Amazon Channel
 - Amazon Prime Video
-- fuboTV
 - Amazon Prime Video with Ads
+- fuboTV
 log_tags:
 - home
 - myself
@@ -67,3 +66,4 @@ Ricky is a defiant young city kid who finds himself on the run with his cantanke
 > **Cast** [[Sam Neill]] · [[Julian Dennison]] · [[Rima Te Wiata]] · [[Rachel House]] · [[Tioreore Ngatai-Melbourne]] · [[Oscar Kightley]] · [[Stan Walker]] · [[Mike Minogue]] · [[Cohen Holloway]] · [[Rhys Darby]]
 > **Studios** [[Defender Films]] · [[Piki Films]] · [[Curious Films]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Drama]]
+

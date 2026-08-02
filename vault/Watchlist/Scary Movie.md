@@ -62,3 +62,4 @@ Twenty-six years after outrunning a suspiciously familiar masked killer, the Cor
 > **Cast** [[Marlon Wayans]] · [[Shawn Wayans]] · [[Anna Faris]] · [[Regina Hall]] · [[Olivia Rose Keegan]] · [[Savannah Lee Nassif]] · [[Cameron Scott Roberts]] · [[Sydney Park]] · [[Gregg Wayans]] · [[Benny Zielke]]
 > **Studios** [[Wayans Bros. Entertainment]] · [[Miramax]]
 > **Genres** [[Comedy]]
+

@@ -64,6 +64,7 @@ tags:
 - film
 letterboxd: https://boxd.it/2a2E
 providers:
+- Philo
 - YouTube TV
 - Wonder Project Amazon Channel
 - BINGE
@@ -80,3 +81,4 @@ Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spend
 > **Cast** [[Gregory Peck]] · [[Mary Badham]] · [[Phillip Alford]] · [[John Megna]] · [[Frank Overton]] · [[Brock Peters]] · [[Rosemary Murphy]] · [[Ruth White]] · [[Estelle Evans]] · [[Paul Fix]]
 > **Studios** [[Pakula-Mulligan]] · [[Brentwood Productions]] · [[Universal Pictures]]
 > **Genres** [[Drama]]
+

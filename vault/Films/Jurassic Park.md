@@ -52,7 +52,6 @@ providers:
 - Amazon Prime Video with Ads
 - ITVX Premium
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - BINGE
 - Paramount Plus
@@ -72,3 +71,4 @@ A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs 
 > **Cast** [[Sam Neill]] · [[Laura Dern]] · [[Jeff Goldblum]] · [[Richard Attenborough]] · [[Bob Peck]] · [[Martin Ferrero]] · [[BD Wong]] · [[Joseph Mazzello]] · [[Ariana Richards]] · [[Samuel L. Jackson]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Science Fiction]]
+

@@ -70,10 +70,12 @@ letterboxd: https://boxd.it/GZk
 providers:
 - Netflix
 - Netflix Standard with Ads
+- MGM Plus Amazon Channel
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
 - Crave
+- MGM Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -87,3 +89,4 @@ Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by 
 > **Cast** [[Martin Freeman]] · [[Ian McKellen]] · [[Richard Armitage]] · [[James Nesbitt]] · [[Ken Stott]] · [[Sylvester McCoy]] · [[Barry Humphries]] · [[Dean O'Gorman]] · [[Aidan Turner]] · [[Graham McTavish]]
 > **Studios** [[New Line Cinema]] · [[Metro-Goldwyn-Mayer]] · [[WingNut Films]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

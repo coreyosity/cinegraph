@@ -54,11 +54,11 @@ tags:
 letterboxd: https://boxd.it/2b84
 providers:
 - Disney Plus
+- fuboTV
+- Peacock Premium
 - Philo
-- 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
-- AMC+
 - YouTube TV
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -74,3 +74,4 @@ A team of elite commandos on a secret mission in a Central American jungle come 
 > **Cast** [[Arnold Schwarzenegger]] · [[Carl Weathers]] · [[Kevin Peter Hall]] · [[Elpidia Carrillo]] · [[Bill Duke]] · [[Jesse Ventura]] · [[Sonny Landham]] · [[Richard Chaves]] · [[R.G. Armstrong]] · [[Shane Black]]
 > **Studios** [[20th Century Fox]] · [[Lawrence Gordon Productions]] · [[Silver Pictures]] · [[Davis Entertainment]] · [[Amercent Films]] · [[American Entertainment Partners L.P]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]] · [[Thriller]]
+

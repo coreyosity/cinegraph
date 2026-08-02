@@ -87,3 +87,4 @@ In a 19th-century European village, a young man about to be married is whisked a
 > **Cast** [[Johnny Depp]] · [[Helena Bonham Carter]] · [[Emily Watson]] · [[Tracey Ullman]] · [[Paul Whitehouse]] · [[Joanna Lumley]] · [[Albert Finney]] · [[Richard E. Grant]] · [[Christopher Lee]] · [[Michael Gough]]
 > **Studios** [[Tim Burton Productions]] · [[LAIKA]] · [[Patalex Productions]] · [[Warner Bros. Pictures]] · [[Will Vinton Studios]]
 > **Genres** [[Romance]] · [[Fantasy]] · [[Animation]]
+

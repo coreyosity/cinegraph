@@ -64,3 +64,4 @@ Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legend
 > **Cast** [[Johnny Depp]] · [[Orlando Bloom]] · [[Keira Knightley]] · [[Jack Davenport]] · [[Bill Nighy]] · [[Jonathan Pryce]] · [[Lee Arenberg]] · [[Mackenzie Crook]] · [[Kevin McNally]] · [[David Bailie]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]] · [[Second Mate Productions]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

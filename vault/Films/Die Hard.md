@@ -61,10 +61,7 @@ letterboxd: https://boxd.it/2a7u
 providers:
 - Disney Plus
 - Amazon Prime Video
-- Philo
-- 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
-- AMC+
+- fuboTV
 - AMC
 - Amazon Prime Video with Ads
 ---
@@ -79,3 +76,4 @@ High above the city of L.A. a team of terrorists has seized a building, taken ho
 > **Cast** [[Bruce Willis]] · [[Alan Rickman]] · [[Alexander Godunov]] · [[Bonnie Bedelia]] · [[Reginald VelJohnson]] · [[Paul Gleason]] · [[De'voreaux White]] · [[William Atherton]] · [[Hart Bochner]] · [[James Shigeta]]
 > **Studios** [[Gordon Company]] · [[Silver Pictures]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Thriller]]
+

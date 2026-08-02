@@ -47,3 +47,4 @@ The evil Empire has fallen, and Imperial warlords remain scattered throughout th
 > **Cast** [[Pedro Pascal]] · [[Jeremy Allen White]] · [[Sigourney Weaver]] · [[Brendan Wayne]] · [[Lateef Crowder]] · [[Steve Blum]] · [[Jonny Coyne]] · [[Matthew Willig]] · [[Martin Scorsese]] · [[Hemky Madera]]
 > **Studios** [[Lucasfilm Ltd]] · [[Fairview Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

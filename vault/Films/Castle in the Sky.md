@@ -78,3 +78,4 @@ A young boy and a girl with a magic crystal must race against pirates and foreig
 > **Cast** [[Keiko Yokozawa]] · [[Mayumi Tanaka]] · [[Minori Terada]] · [[Kotoe Hatsui]] · [[Fujio Tokita]] · [[Ichiro Nagai]] · [[Hiroshi Ito]] · [[Machiko Washio]] · [[Takuzō Kamiyama]] · [[Yoshito Yasuhara]]
 > **Studios** [[Studio Ghibli]] · [[Nibariki]] · [[Tokuma Shoten]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Animation]] · [[Action]] · [[Family]]
+

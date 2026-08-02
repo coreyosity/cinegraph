@@ -69,3 +69,4 @@ On a golden afternoon, wildly curious young Alice tumbles into the burrow and en
 > **Cast** [[Kathryn Beaumont]] · [[Ed Wynn]] · [[Richard Haydn]] · [[Sterling Holloway]] · [[Jerry Colonna]] · [[Verna Felton]] · [[J. Pat O'Malley]] · [[Bill Thompson]] · [[Heather Angel]] · [[Joseph Kearns]]
 > **Studios** [[Walt Disney Productions]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]] · [[Adventure]]
+

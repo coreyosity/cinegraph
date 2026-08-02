@@ -49,3 +49,4 @@ In 1666, a colonial town is gripped by a hysterical witch-hunt that has deadly c
 > **Cast** [[Kiana Madeira]] · [[Benjamin Flores Jr]] · [[Olivia Scott Welch]] · [[Ashley Zukerman]] · [[Darrell Britt-Gibson]] · [[Elizabeth Scopel]] · [[Randy Havens]] · [[Julia Rehwald]] · [[Matthew Zuk]] · [[Fred Hechinger]]
 > **Studios** [[Chernin Entertainment]]
 > **Genres** [[Mystery]] · [[Horror]]
+

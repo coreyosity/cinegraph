@@ -59,6 +59,7 @@ letterboxd: https://boxd.it/1ZMw
 providers:
 - Netflix
 - Crave
+- Starz Amazon Channel
 - Netflix Standard with Ads
 - Crave Amazon Channel
 - BINGE
@@ -81,3 +82,4 @@ Casper is a kind young ghost who peacefully haunts a mansion in Maine. When spec
 > **Cast** [[Malachi Pearson]] · [[Christina Ricci]] · [[Bill Pullman]] · [[Cathy Moriarty]] · [[Eric Idle]] · [[Joe Alaskey]] · [[Joe Nipote]] · [[Brad Garrett]] · [[Devon Sawa]] · [[Chauncey Leopardi]]
 > **Studios** [[The Harvey Entertainment Company]] · [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Fantasy]] · [[Comedy]] · [[Family]]
+

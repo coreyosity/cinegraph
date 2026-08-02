@@ -72,12 +72,11 @@ providers:
 - Lionsgate+ Amazon Channels
 - Hulu
 - fuboTV
+- HBO Max Amazon Channel
+- HBO Max
 - Disney Plus
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -99,3 +98,4 @@ An idealistic FBI agent is enlisted by a government task force to aid in the esc
 > **Cast** [[Emily Blunt]] · [[Benicio del Toro]] · [[Josh Brolin]] · [[Victor Garber]] · [[Jon Bernthal]] · [[Daniel Kaluuya]] · [[Jeffrey Donovan]] · [[Raoul Max Trujillo]] · [[Julio Cesar Cedillo]] · [[Hank Rogerson]]
 > **Studios** [[Lionsgate]] · [[Black Label Media]] · [[Thunder Road]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

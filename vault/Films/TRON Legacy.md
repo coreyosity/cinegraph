@@ -63,3 +63,4 @@ Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father
 > **Cast** [[Garrett Hedlund]] · [[Olivia Wilde]] · [[Jeff Bridges]] · [[Bruce Boxleitner]] · [[James Frain]] · [[Beau Garrett]] · [[Michael Sheen]] · [[Anis Cheurfa]] · [[Serinda Swan]] · [[Yaya DaCosta]]
 > **Studios** [[Walt Disney Pictures]] · [[Sean Bailey Productions]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

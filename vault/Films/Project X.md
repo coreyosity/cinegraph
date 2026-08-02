@@ -52,3 +52,4 @@ Three high school seniors throw a party to make a name for themselves. As the ni
 > **Cast** [[Thomas Mann]] · [[Oliver Cooper]] · [[Jonathan Daniel Brown]] · [[Dax Flame]] · [[Kirby Bliss Blanton]] · [[Brady Hender]] · [[Nick Nervies]] · [[Alexis Knapp]] · [[Miles Teller]] · [[Peter MacKenzie]]
 > **Studios** [[Silver Pictures]] · [[Green Hat Films]]
 > **Genres** [[Comedy]]
+

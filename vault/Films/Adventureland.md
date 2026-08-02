@@ -75,3 +75,4 @@ It's the summer of 1987, and recent college grad James Brennan can't wait to beg
 > **Cast** [[Jesse Eisenberg]] · [[Kristen Stewart]] · [[Martin Starr]] · [[Kristen Wiig]] · [[Bill Hader]] · [[Ryan Reynolds]] · [[Margarita Levieva]] · [[Jack Gilpin]] · [[Josh Pais]] · [[Wendie Malick]]
 > **Studios** [[Miramax]] · [[This is that]] · [[Sidney Kimmel Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

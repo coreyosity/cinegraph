@@ -65,3 +65,4 @@ In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by
 > **Cast** [[Liam Neeson]] · [[Maggie Grace]] · [[Famke Janssen]] · [[Leland Orser]] · [[D. B. Sweeney]] · [[Jon Gries]] · [[Rade Šerbedžija]] · [[Luke Grimes]] · [[Kevork Malikyan]] · [[Alain Figlarz]]
 > **Studios** [[EuropaCorp]] · [[Grive Productions]] · [[M6 Films]] · [[20th Century Fox]] · [[Karma Film Prod]] · [[Taken 2]] · [[Dune Entertainment]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

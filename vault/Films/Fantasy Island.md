@@ -54,6 +54,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Club Illico
 - Stan
 ---
@@ -68,3 +69,4 @@ A group of contest winners arrive at an island hotel to live out their dreams, o
 > **Cast** [[Michael Peña]] · [[Maggie Q]] · [[Lucy Hale]] · [[Michael Rooker]] · [[Austin Stowell]] · [[Jimmy O. Yang]] · [[Portia Doubleday]] · [[Charlotte McKinney]] · [[Ryan Hansen]] · [[Mike Vogel]]
 > **Studios** [[Blumhouse Productions]] · [[Columbia Pictures]] · [[Tower of Babble]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Horror]] · [[Mystery]]
+

@@ -49,6 +49,7 @@ tags:
 - film
 letterboxd: https://boxd.it/16g6
 providers:
+- Lionsgate+ Amazon Channels
 - Starz Apple TV Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
@@ -64,3 +65,4 @@ A fantasy movie about an arrogant, lazy prince and his more heroic brother who m
 > **Cast** [[Danny McBride]] · [[James Franco]] · [[Natalie Portman]] · [[Zooey Deschanel]] · [[Justin Theroux]] · [[Toby Jones]] · [[Damian Lewis]] · [[Rasmus Hardiker]] · [[Simon Farnaby]] · [[Deobia Oparei]]
 > **Studios** [[Universal Pictures]] · [[Stuber Pictures]] · [[Bluegrass Films]]
 > **Genres** [[Comedy]] · [[Fantasy]] · [[Adventure]] · [[Action]] · [[Romance]]
+

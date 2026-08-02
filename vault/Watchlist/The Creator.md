@@ -60,3 +60,4 @@ Amid a future war between the human race and the forces of artificial intelligen
 > **Cast** [[John David Washington]] · [[Madeleine Yuna Voyles]] · [[Gemma Chan]] · [[Allison Janney]] · [[Ken Watanabe]] · [[Sturgill Simpson]] · [[Amar Chadha-Patel]] · [[Marc Menchaca]] · [[Robbie Tann]] · [[Ralph Ineson]]
 > **Studios** [[New Regency Pictures]] · [[Entertainment One]] · [[Regency Enterprises]] · [[Bad Dreams]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

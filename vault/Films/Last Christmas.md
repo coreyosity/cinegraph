@@ -72,3 +72,4 @@ Kate is a young woman who has a habit of making bad decisions, and her last date
 > **Cast** [[Emilia Clarke]] · [[Henry Golding]] · [[Michelle Yeoh]] · [[Emma Thompson]] · [[Lydia Leonard]] · [[Boris Isaković]] · [[Rebecca Root]] · [[Ingrid Oliver]] · [[Laura Evelyn]] · [[Patti LuPone]]
 > **Studios** [[Universal Pictures]] · [[Feigco Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

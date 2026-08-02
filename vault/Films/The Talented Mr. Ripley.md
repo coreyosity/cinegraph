@@ -92,3 +92,4 @@ Tom Ripley is a calculating young man who believes it's better to be a fake some
 > **Cast** [[Matt Damon]] · [[Gwyneth Paltrow]] · [[Jude Law]] · [[Cate Blanchett]] · [[Philip Seymour Hoffman]] · [[Jack Davenport]] · [[James Rebhorn]] · [[Sergio Rubini]] · [[Philip Baker Hall]] · [[Celia Weston]]
 > **Studios** [[Mirage Enterprises]] · [[Timnick Films]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Drama]]
+

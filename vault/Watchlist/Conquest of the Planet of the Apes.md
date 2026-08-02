@@ -37,6 +37,7 @@ tags:
 letterboxd: https://boxd.it/28iA
 providers:
 - Disney Plus
+- Philo
 - IndieFlix
 - IndieFlix Shorts Amazon Channel
 ---
@@ -48,3 +49,4 @@ In a futuristic world that has embraced ape slavery, a chimpanzee named Caesar r
 > **Cast** [[Roddy McDowall]] · [[Don Murray]] · [[Ricardo Montalban]] · [[Hari Rhodes]] · [[Severn Darden]] · [[Lou Wagner]] · [[Natalie Trundy]] · [[John Randolph]] · [[Asa Maynor]] · [[Joyce Haber]]
 > **Studios** [[APJAC Productions]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

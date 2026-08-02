@@ -51,16 +51,18 @@ tags:
 - film
 letterboxd: https://boxd.it/1Ygk
 providers:
-- Amazon Prime Video
 - Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Channel 4 Plus
 - Paramount+ Amazon Channel
-- Amazon Prime Video with Ads
+- Netflix
 - Paramount Plus Essential
+- Peacock Premium
 - Starz Apple TV Channel
 - YouTube TV
+- Netflix Standard with Ads
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -77,3 +79,4 @@ Shallow, rich and socially successful Cher is at the top of her Beverly Hills hi
 > **Cast** [[Alicia Silverstone]] · [[Stacey Dash]] · [[Brittany Murphy]] · [[Paul Rudd]] · [[Donald Faison]] · [[Elisa Donovan]] · [[Breckin Meyer]] · [[Jeremy Sisto]] · [[Dan Hedaya]] · [[Aida Linares]]
 > **Studios** [[Paramount Pictures]] · [[Robert Lawrence Productions]] · [[Scott Rudin Productions]]
 > **Genres** [[Comedy]] · [[Romance]]
+

@@ -67,3 +67,4 @@ Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about 
 > **Cast** [[Idina Menzel]] · [[Kristen Bell]] · [[Josh Gad]] · [[Jonathan Groff]] · [[Evan Rachel Wood]] · [[Sterling K. Brown]] · [[Alfred Molina]] · [[Rachel Matthews]] · [[Jason Ritter]] · [[Martha Plimpton]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Family]] · [[Animation]] · [[Adventure]] · [[Comedy]] · [[Fantasy]]
+

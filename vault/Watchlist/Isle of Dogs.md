@@ -54,3 +54,4 @@ In the future, an outbreak of canine flu leads the mayor of a Japanese city to b
 > **Cast** [[Bryan Cranston]] · [[Koyu Rankin]] · [[Bob Balaban]] · [[Edward Norton]] · [[Bill Murray]] · [[Jeff Goldblum]] · [[Kunichi Nomura]] · [[Fisher Stevens]] · [[Akira Takayama]] · [[Greta Gerwig]]
 > **Studios** [[Studio Babelsberg]] · [[American Empirical Pictures]] · [[Indian Paintbrush]] · [[Scott Rudin Productions]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Animation]]
+

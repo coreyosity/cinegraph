@@ -68,3 +68,4 @@ When her duties send her to an anomalous wormhole linked to a Kree revolutionary
 > **Cast** [[Brie Larson]] · [[Teyonah Parris]] · [[Iman Vellani]] · [[Samuel L. Jackson]] · [[Zawe Ashton]] · [[Gary Lewis]] · [[Park Seo-jun]] · [[Zenobia Shroff]] · [[Mohan Kapur]] · [[Saagar Shaikh]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

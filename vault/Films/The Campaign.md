@@ -58,3 +58,4 @@ Two rival politicians compete to win an election to represent their small North 
 > **Cast** [[Will Ferrell]] · [[Zach Galifianakis]] · [[Jason Sudeikis]] · [[Katherine LaNasa]] · [[Dylan McDermott]] · [[Sarah Baker]] · [[John Lithgow]] · [[Dan Aykroyd]] · [[Brian Cox]] · [[Karen Maruyama]]
 > **Studios** [[Location Gourmet]] · [[Gary Sanchez Productions]] · [[Everyman Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]]
+

@@ -59,3 +59,4 @@ A young girl inhabits an isolated island with her scientist father and communica
 > **Cast** [[Abigail Breslin]] · [[Jodie Foster]] · [[Gerard Butler]] · [[Michael Carman]] · [[Maddison Joyce]] · [[Christopher James Baker]] · [[Rhonda Doyle]] · [[Bryan Probets]] · [[Jay Laga'aia]] · [[Mark Brady]]
 > **Studios** [[Walden Media]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

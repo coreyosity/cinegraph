@@ -66,9 +66,7 @@ providers:
 - Paramount+ Amazon Channel
 - Amazon Prime Video with Ads
 - Paramount Plus Essential
-- Peacock Premium
 - Paramount+ Roku Premium Channel
-- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 - Foxtel Now
@@ -85,3 +83,4 @@ When Ethan Hunt, the leader of a crack espionage team whose perilous operation h
 > **Cast** [[Tom Cruise]] · [[Jon Voight]] · [[Emmanuelle Béart]] · [[Henry Czerny]] · [[Jean Reno]] · [[Ving Rhames]] · [[Kristin Scott Thomas]] · [[Vanessa Redgrave]] · [[Ingeborga Dapkūnaitė]] · [[Valentina Yakunina]]
 > **Studios** [[Paramount Pictures]] · [[CruiseWagner Productions]]
 > **Genres** [[Adventure]] · [[Action]] · [[Thriller]]
+

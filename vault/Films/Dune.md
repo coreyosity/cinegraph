@@ -85,3 +85,4 @@ Paul Atreides, a brilliant and gifted young man born into a great destiny beyond
 > **Cast** [[Timothée Chalamet]] · [[Rebecca Ferguson]] · [[Oscar Isaac]] · [[Jason Momoa]] · [[Stellan Skarsgård]] · [[Stephen McKinley Henderson]] · [[Josh Brolin]] · [[Javier Bardem]] · [[Sharon Duncan-Brewster]] · [[Chang Chen]]
 > **Studios** [[Legendary Pictures]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Drama]]
+

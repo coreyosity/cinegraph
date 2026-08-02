@@ -57,6 +57,7 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
+- fuboTV
 - YouTube TV
 - Netflix
 - Netflix Standard with Ads
@@ -75,3 +76,4 @@ College student Beca knows she does not want to be part of a clique, but that's 
 > **Cast** [[Anna Kendrick]] · [[Anna Camp]] · [[Brittany Snow]] · [[Skylar Astin]] · [[Rebel Wilson]] · [[Ester Dean]] · [[Hana Mae Lee]] · [[Adam Devine]] · [[Elizabeth Banks]] · [[Ben Platt]]
 > **Studios** [[Brownstone Productions]] · [[Gold Circle Films]] · [[Universal Pictures]]
 > **Genres** [[Comedy]] · [[Music]] · [[Romance]]
+

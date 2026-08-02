@@ -59,9 +59,11 @@ providers:
 - Amazon Prime Video
 - Disney Plus
 - Hulu
-- fuboTV
+- Philo
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
 - YouTube TV
-- Wonder Project Amazon Channel
+- AMC
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -77,3 +79,4 @@ Strange phenomena surface around the globe. The skies ignite. Terror races throu
 > **Cast** [[Will Smith]] · [[Bill Pullman]] · [[Jeff Goldblum]] · [[Mary McDonnell]] · [[Judd Hirsch]] · [[Robert Loggia]] · [[Randy Quaid]] · [[Margaret Colin]] · [[James Rebhorn]] · [[Harvey Fierstein]]
 > **Studios** [[20th Century Fox]] · [[Centropolis Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

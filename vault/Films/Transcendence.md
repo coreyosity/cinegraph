@@ -66,3 +66,4 @@ Two leading computer scientists work toward their goal of Technological Singular
 > **Cast** [[Johnny Depp]] · [[Rebecca Hall]] · [[Paul Bettany]] · [[Cillian Murphy]] · [[Kate Mara]] · [[Cole Hauser]] · [[Morgan Freeman]] · [[Clifton Collins Jr]] · [[Cory Hardrict]] · [[Falk Hentschel]]
 > **Studios** [[Alcon Entertainment]] · [[DMG Entertainment]] · [[Straight Up Films]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Drama]] · [[Mystery]]
+

@@ -44,3 +44,4 @@ After living for over two centuries, Augusto Pinochet is a vampire ready to die�
 > **Cast** [[Jaime Vadell]] · [[Gloria Münchmeyer]] · [[Alfredo Castro]] · [[Paula Luchsinger]] · [[Stella Gonet]] · [[Catalina Guerra]] · [[Amparo Noguera]] · [[Antonia Zegers]] · [[Marcial Tagle]] · [[Diego Muñoz]]
 > **Studios** [[Fabula]]
 > **Genres** [[Fantasy]] · [[Comedy]] · [[Horror]]
+

@@ -58,10 +58,11 @@ providers:
 - Paramount+ Amazon Channel
 - ITVX Premium
 - Paramount Plus Essential
+- Peacock Premium
 - YouTube TV
 - Freeform
 - Paramount+ Roku Premium Channel
-- Wonder Project Amazon Channel
+- Peacock Premium Plus
 - BINGE
 - Foxtel Now
 - Stan
@@ -77,3 +78,4 @@ After high school slacker Ferris Bueller successfully fakes an illness in order 
 > **Cast** [[Matthew Broderick]] · [[Alan Ruck]] · [[Mia Sara]] · [[Jeffrey Jones]] · [[Jennifer Grey]] · [[Cindy Pickett]] · [[Lyman Ward]] · [[Edie McClurg]] · [[Charlie Sheen]] · [[Ben Stein]]
 > **Studios** [[Paramount Pictures]] · [[Hughes Entertainment]]
 > **Genres** [[Comedy]]
+

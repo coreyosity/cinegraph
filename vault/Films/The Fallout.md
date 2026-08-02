@@ -61,3 +61,4 @@ In the wake of a school tragedy, Vada, Mia and Quinton form a unique and dynamic
 > **Cast** [[Jenna Ortega]] · [[Maddie Ziegler]] · [[Niles Fitch]] · [[Will Ropp]] · [[Lumi Pollack]] · [[John Ortiz]] · [[Julie Bowen]] · [[Shailene Woodley]] · [[Christine Horn]] · [[Austin Zajur]]
 > **Studios** [[Clear Horizon Entertainment]] · [[SSS Entertainment]]
 > **Genres** [[Drama]]
+

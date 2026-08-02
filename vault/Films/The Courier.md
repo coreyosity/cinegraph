@@ -61,3 +61,4 @@ Cold War spy Greville Wynne and his Russian source try to put an end to the Cuba
 > **Cast** [[Benedict Cumberbatch]] · [[Merab Ninidze]] · [[Rachel Brosnahan]] · [[Jessie Buckley]] · [[Angus Wright]] · [[Kirill Pirogov]] · [[Iva Šindelková]] · [[Vladimir Chuprikov]] · [[Fred Haig]] · [[Emma Penzina]]
 > **Studios** [[SunnyMarch]] · [[42]] · [[FilmNation Entertainment]]
 > **Genres** [[Thriller]] · [[History]] · [[Drama]]
+

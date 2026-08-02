@@ -67,7 +67,6 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
-- Stan
 log_tags:
 - myself
 - train
@@ -84,3 +83,4 @@ A wealthy New York investment banking executive hides his alternate psychopathic
 > **Cast** [[Christian Bale]] · [[Justin Theroux]] · [[Josh Lucas]] · [[Bill Sage]] · [[Chloë Sevigny]] · [[Reese Witherspoon]] · [[Samantha Mathis]] · [[Matt Ross]] · [[Jared Leto]] · [[Willem Dafoe]]
 > **Studios** [[Lionsgate]] · [[Pressman Film]] · [[Muse Productions]] · [[Christian Halsey Solomon Productions]]
 > **Genres** [[Thriller]] · [[Drama]] · [[Crime]]
+

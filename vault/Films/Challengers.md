@@ -64,8 +64,7 @@ tags:
 - film
 letterboxd: https://boxd.it/zld0
 providers:
-- Peacock Premium
-- Peacock Premium Plus
+- Amazon Prime Video
 - Crave
 - Crave Amazon Channel
 log_tags:
@@ -86,3 +85,4 @@ Tennis player turned coach Tashi has taken her husband, Art, and transformed him
 > **Cast** [[Zendaya]] · [[Mike Faist]] · [[Josh O'Connor]] · [[Darnell Appling]] · [[Bryan Doo]] · [[Shane T Harris]] · [[Nada Despotovich]] · [[Joan Mcshane]] · [[Chris Fowler]] · [[Mary Joe Fernández]]
 > **Studios** [[Pascal Pictures]] · [[Why Are You Acting Productions]] · [[Frenesy Film]] · [[Amazon MGM Studios]]
 > **Genres** [[Drama]] · [[Romance]]
+

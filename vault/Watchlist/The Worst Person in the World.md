@@ -66,3 +66,4 @@ The chronicles of four years in the life of Julie, a young woman who navigates t
 > **Cast** [[Renate Reinsve]] · [[Anders Danielsen Lie]] · [[Herbert Nordrum]] · [[Hans Olav Brenner]] · [[Helene Bjørneby]] · [[Vidar Sandem]] · [[Maria Grazia Di Meo]] · [[Lasse Gretland]] · [[Karen Røise Kielland]] · [[Marianne Krogh]]
 > **Studios** [[Oslo Pictures]] · [[Film i Väst]] · [[Snowglobe]] · [[B-Reel Films]] · [[ARTE France Cinéma]] · [[MK Productions]] · [[mk2 Films]]
 > **Genres** [[Drama]] · [[Romance]] · [[Comedy]]
+

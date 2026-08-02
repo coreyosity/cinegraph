@@ -83,3 +83,4 @@ The story of J. Robert Oppenheimer's role in the development of the atomic bomb 
 > **Cast** [[Cillian Murphy]] · [[Emily Blunt]] · [[Matt Damon]] · [[Robert Downey Jr]] · [[Florence Pugh]] · [[Josh Hartnett]] · [[Casey Affleck]] · [[Rami Malek]] · [[Kenneth Branagh]] · [[Benny Safdie]]
 > **Studios** [[Syncopy]] · [[Universal Pictures]] · [[Atlas Entertainment]] · [[Breakheart Films]] · [[Peters Creek Entertainment]]
 > **Genres** [[Drama]] · [[History]]
+

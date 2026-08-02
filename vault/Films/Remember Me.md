@@ -60,3 +60,4 @@ Still reeling from a heartbreaking family event and his parents' subsequent divo
 > **Cast** [[Robert Pattinson]] · [[Emilie de Ravin]] · [[Pierce Brosnan]] · [[Lena Olin]] · [[Chris Cooper]] · [[Ruby Jerins]] · [[Gregory Jbara]] · [[Tate Ellington]] · [[Kate Burton]] · [[Chris McKinney]]
 > **Studios** [[Summit Entertainment]]
 > **Genres** [[Drama]] · [[Romance]]
+

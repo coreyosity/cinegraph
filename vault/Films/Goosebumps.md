@@ -73,3 +73,4 @@ After moving to a small town, Zach Cooper finds a silver lining when he meets ne
 > **Cast** [[Dylan Minnette]] · [[Jack Black]] · [[Odeya Rush]] · [[Ryan Lee]] · [[Amy Ryan]] · [[Jillian Bell]] · [[Halston Sage]] · [[Steven Krueger]] · [[Keith Arthur Bolden]] · [[Amanda Lund]]
 > **Studios** [[Original Film]] · [[Scholastic Entertainment]] · [[Columbia Pictures]] · [[Village Roadshow Pictures]] · [[Sony Pictures Animation]]
 > **Genres** [[Adventure]] · [[Horror]] · [[Comedy]]
+

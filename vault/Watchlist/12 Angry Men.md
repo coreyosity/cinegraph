@@ -49,9 +49,13 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/2auI
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- MGM Plus Amazon Channel
+- fuboTV
+- MGM+ Amazon Channel
+- Philo
+- MGM Plus Roku Premium Channel
 - MGM Plus
+- MGM Amazon Channel
 - Foxtel Now
 ---
 
@@ -62,3 +66,4 @@ The defense and the prosecution have rested and the jury is filing into the jury
 > **Cast** [[Martin Balsam]] · [[John Fiedler]] · [[Lee J. Cobb]] · [[E.G. Marshall]] · [[Jack Klugman]] · [[Edward Binns]] · [[Jack Warden]] · [[Henry Fonda]] · [[Joseph Sweeney]] · [[Ed Begley]]
 > **Studios** [[Orion-Nova Productions]]
 > **Genres** [[Drama]]
+

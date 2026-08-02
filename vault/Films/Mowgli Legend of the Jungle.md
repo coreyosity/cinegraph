@@ -57,3 +57,4 @@ A human child raised by wolves, must face off against a menacing tiger named She
 > **Cast** [[Rohan Chand]] · [[Christian Bale]] · [[Cate Blanchett]] · [[Benedict Cumberbatch]] · [[Naomie Harris]] · [[Andy Serkis]] · [[Peter Mullan]] · [[Jack Reynor]] · [[Eddie Marsan]] · [[Tom Hollander]]
 > **Studios** [[The Imaginarium]] · [[Warner Bros. Pictures]]
 > **Genres** [[Adventure]] · [[Drama]]
+

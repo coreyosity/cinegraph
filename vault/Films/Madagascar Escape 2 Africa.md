@@ -64,7 +64,6 @@ letterboxd: https://boxd.it/1W2K
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- ITVX Premium
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -84,3 +83,4 @@ Alex, Marty, and other zoo animals find a way to escape from Madagascar when the
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Sacha Baron Cohen]] · [[Cedric the Entertainer]] · [[Andy Richter]] · [[Bernie Mac]] · [[Alec Baldwin]] · [[Sherri Shepherd]]
 > **Studios** [[DreamWorks Animation]] · [[Pacific Data Images]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

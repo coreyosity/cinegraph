@@ -54,18 +54,12 @@ letterboxd: https://boxd.it/1zOc
 providers:
 - Netflix
 - Netflix Standard with Ads
-- fuboTV
-- Philo
 - 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
 - AMC+
 - YouTube TV
 - MovieSphere+ Amazon Channel
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
-- Shudder Amazon Channel
-- Shudder Apple TV Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -89,3 +83,4 @@ Five friends set out for a weekend at a remote cabin in the woods, expecting not
 > **Cast** [[Kristen Connolly]] · [[Fran Kranz]] · [[Chris Hemsworth]] · [[Jesse Williams]] · [[Anna Hutchison]] · [[Richard Jenkins]] · [[Bradley Whitford]] · [[Amy Acker]] · [[Brian J. White]] · [[Sigourney Weaver]]
 > **Studios** [[Mutant Enemy Productions]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Comedy]]
+

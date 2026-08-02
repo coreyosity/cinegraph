@@ -76,3 +76,4 @@ Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game nam
 > **Cast** [[John C. Reilly]] · [[Sarah Silverman]] · [[Jack McBrayer]] · [[Jane Lynch]] · [[Alan Tudyk]] · [[Rich Moore]] · [[Raymond S. Persi]] · [[Mindy Kaling]] · [[Jamie Elman]] · [[Adam Carolla]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Family]] · [[Animation]] · [[Comedy]] · [[Adventure]]
+

@@ -45,14 +45,12 @@ tags:
 - film
 letterboxd: https://boxd.it/6oCY
 providers:
-- Philo
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
-- Amazon Prime Video
 - Disney Plus
-- Amazon Prime Video with Ads
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -71,3 +69,4 @@ Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify t
 > **Cast** [[Mark Wahlberg]] · [[Seth MacFarlane]] · [[Amanda Seyfried]] · [[Jessica Barth]] · [[Giovanni Ribisi]] · [[Morgan Freeman]] · [[Sam J. Jones]] · [[Patrick Warburton]] · [[Michael Dorn]] · [[Bill Smitrovich]]
 > **Studios** [[Smart Entertainment]] · [[Universal Pictures]] · [[Fuzzy Door Productions]] · [[Bluegrass Films]] · [[MRC]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

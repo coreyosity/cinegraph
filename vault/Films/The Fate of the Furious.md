@@ -53,6 +53,7 @@ providers:
 - YouTube TV
 - HBO Max
 - Hollywood Suite
+- Hollywood Suite Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -68,3 +69,4 @@ When a mysterious woman seduces Dom into the world of crime and a betrayal of th
 > **Cast** [[Vin Diesel]] · [[Jason Statham]] · [[Dwayne Johnson]] · [[Michelle Rodriguez]] · [[Tyrese Gibson]] · [[Ludacris]] · [[Charlize Theron]] · [[Kurt Russell]] · [[Nathalie Emmanuel]] · [[Luke Evans]]
 > **Studios** [[Original Film]] · [[One Race]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

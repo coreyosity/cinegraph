@@ -59,9 +59,10 @@ providers:
 - Amazon Prime Video
 - Channel 4 Plus
 - Amazon Prime Video with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Philo
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
+- AMC
 - MGM Plus
 - Netflix
 - Crave
@@ -77,3 +78,4 @@ To take down South Boston's Irish Mafia, the police send in one of their own to 
 > **Cast** [[Leonardo DiCaprio]] · [[Matt Damon]] · [[Jack Nicholson]] · [[Mark Wahlberg]] · [[Martin Sheen]] · [[Ray Winstone]] · [[Vera Farmiga]] · [[Anthony Anderson]] · [[Alec Baldwin]] · [[Kevin Corrigan]]
 > **Studios** [[Warner Bros. Pictures]] · [[Plan B Entertainment]] · [[Initial Entertainment Group]] · [[Vertigo Entertainment]] · [[Media Asia Films]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Crime]]
+

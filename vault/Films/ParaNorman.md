@@ -61,3 +61,4 @@ In the town of Blithe Hollow, Norman Babcock can speak to the dead, but no one o
 > **Cast** [[Kodi Smit-McPhee]] · [[Tucker Albrizzi]] · [[Anna Kendrick]] · [[Casey Affleck]] · [[Christopher Mintz-Plasse]] · [[Leslie Mann]] · [[Jeff Garlin]] · [[Elaine Stritch]] · [[Bernard Hill]] · [[Jodelle Ferland]]
 > **Studios** [[LAIKA]]
 > **Genres** [[Family]] · [[Animation]] · [[Adventure]] · [[Comedy]]
+

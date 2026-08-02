@@ -75,3 +75,4 @@ Teenagers Nancy, Quentin, Kris, Jesse and Dean are all neighborhood friends who 
 > **Cast** [[Rooney Mara]] · [[Kyle Gallner]] · [[Jackie Earle Haley]] · [[Katie Cassidy]] · [[Thomas Dekker]] · [[Kellan Lutz]] · [[Clancy Brown]] · [[Connie Britton]] · [[Lia D. Mortensen]] · [[Julianna Damm]]
 > **Studios** [[Platinum Dunes]] · [[New Line Cinema]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

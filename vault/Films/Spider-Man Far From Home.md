@@ -52,8 +52,8 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 - Netflix
-- Starz Amazon Channel
 - Netflix Standard with Ads
 - Foxtel Now
 - Stan
@@ -69,3 +69,4 @@ Peter Parker and his friends go on a summer trip to Europe. However, they will h
 > **Cast** [[Tom Holland]] · [[Jake Gyllenhaal]] · [[Samuel L. Jackson]] · [[Marisa Tomei]] · [[Jon Favreau]] · [[Zendaya]] · [[Jacob Batalon]] · [[Tony Revolori]] · [[Angourie Rice]] · [[Remy Hii]]
 > **Studios** [[Marvel Studios]] · [[Pascal Pictures]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

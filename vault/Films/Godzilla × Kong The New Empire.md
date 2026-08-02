@@ -70,3 +70,4 @@ Following their explosive showdown, Godzilla and Kong must reunite against a col
 > **Cast** [[Rebecca Hall]] · [[Brian Tyree Henry]] · [[Dan Stevens]] · [[Kaylee Hottle]] · [[Alex Ferns]] · [[Fala Chen]] · [[Rachel House]] · [[Ron Smyck]] · [[Chantelle Jamieson]] · [[Greg Hatton]]
 > **Studios** [[Legendary Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

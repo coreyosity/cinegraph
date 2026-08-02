@@ -73,3 +73,4 @@ World-famous detective Benoit Blanc heads to Greece to peel back the layers of a
 > **Cast** [[Daniel Craig]] · [[Edward Norton]] · [[Janelle Monáe]] · [[Kathryn Hahn]] · [[Leslie Odom Jr]] · [[Kate Hudson]] · [[Dave Bautista]] · [[Jessica Henwick]] · [[Madelyn Cline]] · [[Noah Segan]]
 > **Studios** [[T-Street]]
 > **Genres** [[Comedy]] · [[Crime]] · [[Mystery]]
+

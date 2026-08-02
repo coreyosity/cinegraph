@@ -56,6 +56,11 @@ letterboxd: https://boxd.it/2aYI
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Netflix
 - Crave
 - Netflix Standard with Ads
@@ -79,3 +84,4 @@ Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some
 > **Cast** [[Michael J. Fox]] · [[Christopher Lloyd]] · [[Lea Thompson]] · [[Thomas F. Wilson]] · [[Elisabeth Shue]] · [[James Tolkan]] · [[Jeffrey Weissman]] · [[Casey Siemaszko]] · [[Billy Zane]] · [[J.J. Cohen]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Science Fiction]]
+

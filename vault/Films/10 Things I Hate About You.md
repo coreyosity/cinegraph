@@ -55,8 +55,8 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - fuboTV
+- FXNow
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 - Stan
 ---
 
@@ -70,3 +70,4 @@ On the first day at his new school, Cameron instantly falls for Bianca, the gorg
 > **Cast** [[Heath Ledger]] · [[Julia Stiles]] · [[Joseph Gordon-Levitt]] · [[Larisa Oleynik]] · [[David Krumholtz]] · [[Andrew Keegan]] · [[Susan May Pratt]] · [[Gabrielle Union]] · [[Larry Miller]] · [[Daryl Mitchell]]
 > **Studios** [[Mad Chance]] · [[Jaret Entertainment]]
 > **Genres** [[Comedy]] · [[Romance]] · [[Drama]]
+

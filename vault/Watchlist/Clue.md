@@ -54,9 +54,13 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
+- fuboTV
+- MGM+ Amazon Channel
+- Paramount Plus Essential
+- Philo
+- Paramount+ Roku Premium Channel
 - Super Channel Plus
 - Super Channel Amazon Channel
-- fuboTV
 ---
 
 Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.
@@ -66,3 +70,4 @@ Clue finds six colorful dinner guests gathered at the mansion of their host, Mr.
 > **Cast** [[Tim Curry]] · [[Eileen Brennan]] · [[Madeline Kahn]] · [[Christopher Lloyd]] · [[Michael McKean]] · [[Martin Mull]] · [[Lesley Ann Warren]] · [[Colleen Camp]] · [[Lee Ving]] · [[Bill Henderson]]
 > **Studios** [[Debra Hill Productions]] · [[Paramount Pictures]] · [[PolyGram Filmed Entertainment]] · [[The Guber-Peters Company]]
 > **Genres** [[Comedy]] · [[Thriller]] · [[Crime]] · [[Mystery]]
+

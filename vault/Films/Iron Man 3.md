@@ -58,3 +58,4 @@ When Tony Stark's world is torn apart by a formidable terrorist called the Manda
 > **Cast** [[Robert Downey Jr]] · [[Gwyneth Paltrow]] · [[Don Cheadle]] · [[Guy Pearce]] · [[Rebecca Hall]] · [[Jon Favreau]] · [[Ben Kingsley]] · [[James Badge Dale]] · [[Stephanie Szostak]] · [[Paul Bettany]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

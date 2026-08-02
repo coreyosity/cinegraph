@@ -67,3 +67,4 @@ In their quest to confront the ultimate evil, Percy and his friends battle swarm
 > **Cast** [[Logan Lerman]] · [[Brandon T. Jackson]] · [[Alexandra Daddario]] · [[Douglas Smith]] · [[Leven Rambin]] · [[Jake Abel]] · [[Katelyn Mager]] · [[Grey Damon]] · [[Paloma Kwiatkowski]] · [[Anthony Stewart Head]]
 > **Studios** [[Fox 2000 Pictures]] · [[Sunswept Entertainment]] · [[1492 Pictures]] · [[TSG Entertainment]]
 > **Genres** [[Adventure]] · [[Family]] · [[Fantasy]]
+

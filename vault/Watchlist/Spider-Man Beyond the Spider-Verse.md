@@ -61,3 +61,4 @@ Hunted by Miguel O'Hara's Spider Society and betrayed by his friends, Miles find
 > **Cast** [[Shameik Moore]] · [[Hailee Steinfeld]] · [[Brian Tyree Henry]] · [[Luna Lauren Vélez]] · [[Oscar Isaac]] · [[Jake Johnson]] · [[Jason Schwartzman]] · [[Issa Rae]] · [[Daniel Kaluuya]] · [[Nicolas Cage]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[Lord Miller]] · [[Pascal Pictures]] · [[Arad Productions]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Animation]] · [[Science Fiction]]
+

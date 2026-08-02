@@ -66,3 +66,4 @@ Firefighters Chuck Ford and Larry Valentine are guy's guys, loyal to the core—
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Jessica Biel]] · [[Dan Aykroyd]] · [[Ving Rhames]] · [[Steve Buscemi]] · [[Nicholas Turturro]] · [[Allen Covert]] · [[Rachel Dratch]] · [[Richard Chamberlain]]
 > **Studios** [[Universal Pictures]] · [[Relativity Media]] · [[Happy Madison Productions]] · [[Shady Acres Entertainment]]
 > **Genres** [[Comedy]] · [[Romance]]
+

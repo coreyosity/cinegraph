@@ -53,8 +53,6 @@ providers:
 - Now TV Cinema
 - Netflix Standard with Ads
 - Hulu
-- Peacock Premium
-- Peacock Premium Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - BINGE
@@ -71,3 +69,4 @@ Five years after meeting her three fathers, Sophie Sheridan prepares to open her
 > **Cast** [[Amanda Seyfried]] · [[Lily James]] · [[Pierce Brosnan]] · [[Colin Firth]] · [[Stellan Skarsgård]] · [[Christine Baranski]] · [[Julie Walters]] · [[Alexa Davies]] · [[Jessica Keenan Wynn]] · [[Dominic Cooper]]
 > **Studios** [[Littlestar]] · [[Playtone]]
 > **Genres** [[Comedy]] · [[Romance]]
+

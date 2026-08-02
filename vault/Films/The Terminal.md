@@ -88,3 +88,4 @@ An Eastern European tourist unexpectedly finds himself stranded in JFK airport, 
 > **Cast** [[Tom Hanks]] · [[Catherine Zeta-Jones]] · [[Stanley Tucci]] · [[Chi McBride]] · [[Diego Luna]] · [[Barry Shabaka Henley]] · [[Kumar Pallana]] · [[Zoe Saldaña]] · [[Eddie Jones]] · [[Jude Ciccolella]]
 > **Studios** [[DreamWorks Pictures]] · [[Amblin Entertainment]] · [[Parkes+MacDonald Production]]
 > **Genres** [[Comedy]] · [[Drama]]
+

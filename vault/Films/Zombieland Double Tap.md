@@ -74,3 +74,4 @@ Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland a
 > **Cast** [[Jesse Eisenberg]] · [[Woody Harrelson]] · [[Emma Stone]] · [[Abigail Breslin]] · [[Zoey Deutch]] · [[Avan Jogia]] · [[Rosario Dawson]] · [[Luke Wilson]] · [[Thomas Middleditch]] · [[Victoria Hall]]
 > **Studios** [[Columbia Pictures]] · [[2.0 Entertainment]] · [[Pariah]]
 > **Genres** [[Horror]] · [[Comedy]]
+

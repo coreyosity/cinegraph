@@ -48,3 +48,4 @@ As Emperor, Paul Atreides grapples with the consequences of his rise to power as
 > **Cast** [[Timothée Chalamet]] · [[Zendaya]] · [[Jason Momoa]] · [[Florence Pugh]] · [[Rebecca Ferguson]] · [[Isaach de Bankolé]] · [[Charlotte Rampling]] · [[Anya Taylor-Joy]] · [[Robert Pattinson]] · [[Javier Bardem]]
 > **Studios** [[Legendary Pictures]]
 > **Genres** [[Science Fiction]] · [[Adventure]]
+

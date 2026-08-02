@@ -48,6 +48,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Amazon Prime Video with Ads
 - Club Illico
 - Stan
@@ -63,3 +64,4 @@ A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully�
 > **Cast** [[Tom Holland]] · [[Mark Wahlberg]] · [[Sophia Ali]] · [[Tati Gabrielle]] · [[Antonio Banderas]] · [[Steven Waddington]] · [[Rudy Pankow]] · [[Tiernan Jones]] · [[Pingi Moli]] · [[Jesús Evita]]
 > **Studios** [[Columbia Pictures]] · [[Atlas Entertainment]] · [[PlayStation Productions]] · [[Arad Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Mystery]]
+

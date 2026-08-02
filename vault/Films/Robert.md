@@ -47,3 +47,4 @@ A family is terrorized by an evil doll named Robert, which seems to come to life
 > **Cast** [[Suzie Frances Garton]] · [[Lee Bane]] · [[Flynn Allen]] · [[Judith Haley]] · [[Cyd Casados]] · [[Samuel Hutchison]] · [[Megan Lockhurst]] · [[Ryan Michaels]]
 > **Studios** [[North Bank Entertainment]]
 > **Genres** [[Horror]]
+

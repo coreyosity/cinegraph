@@ -52,3 +52,4 @@ As the Clone Wars sweep through the galaxy, Anakin Skywalker and his new Padawan
 > **Cast** [[Matt Lanter]] · [[Ashley Eckstein]] · [[James Arnold Taylor]] · [[David Acord]] · [[Dee Bradley Baker]] · [[Christopher Lee]] · [[Nika Futterman]] · [[Kevin Michael Richardson]] · [[Catherine Taber]] · [[Ian Abercrombie]]
 > **Studios** [[Lucasfilm Ltd]] · [[Lucasfilm Animation]] · [[Warner Bros. Pictures]]
 > **Genres** [[Animation]] · [[Action]] · [[Science Fiction]] · [[Adventure]]
+

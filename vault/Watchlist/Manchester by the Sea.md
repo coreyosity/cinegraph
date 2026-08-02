@@ -66,3 +66,4 @@ After his older brother passes away, Lee Chandler is forced to return home to ca
 > **Cast** [[Casey Affleck]] · [[Lucas Hedges]] · [[Michelle Williams]] · [[Kyle Chandler]] · [[C.J. Wilson]] · [[Gretchen Mol]] · [[Matthew Broderick]] · [[Anna Baryshnikov]] · [[Heather Burns]] · [[Ivy O'Brien]]
 > **Studios** [[Pearl Street Films]] · [[K Period Media]] · [[B Story]] · [[The AffleckMiddleton Project]] · [[The Media Farm]] · [[Big Indie Pictures]]
 > **Genres** [[Drama]]
+

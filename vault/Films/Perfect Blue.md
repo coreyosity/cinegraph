@@ -86,3 +86,4 @@ Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. Aft
 > **Cast** [[Junko Iwao]] · [[Rica Matsumoto]] · [[Shiho Niiyama]] · [[Masaaki Okura]] · [[Shinpachi Tsuji]] · [[Emiko Furukawa]] · [[Yosuke Akimoto]] · [[Yoku Shioya]] · [[Hideyuki Hori]] · [[Emi Shinohara]]
 > **Studios** [[Madhouse]] · [[Rex Entertainment]] · [[Kotobuki Seihan Printing]] · [[Asahi Broadcasting Corporation]] · [[Fangs]] · [[ONIRO]]
 > **Genres** [[Animation]] · [[Thriller]]
+

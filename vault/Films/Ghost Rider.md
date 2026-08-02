@@ -67,8 +67,8 @@ providers:
 - Starz Roku Premium Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
 - Crave
+- Starz Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - BINGE
@@ -85,3 +85,4 @@ In order to save his dying father, young stunt cyclist Johnny Blaze sells his so
 > **Cast** [[Nicolas Cage]] · [[Eva Mendes]] · [[Sam Elliott]] · [[Wes Bentley]] · [[Peter Fonda]] · [[Matt Long]] · [[Brett Cullen]] · [[Raquel Alessi]] · [[Donal Logue]] · [[Tony Ghosthawk]]
 > **Studios** [[Crystal Sky Pictures]] · [[Relativity Media]] · [[Columbia Pictures]] · [[Marvel Studios]] · [[Canarsie]]
 > **Genres** [[Thriller]] · [[Action]] · [[Fantasy]]
+

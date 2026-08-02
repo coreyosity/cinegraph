@@ -69,3 +69,4 @@ Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find 
 > **Cast** [[William Moseley]] · [[Anna Popplewell]] · [[Skandar Keynes]] · [[Georgie Henley]] · [[Liam Neeson]] · [[Tilda Swinton]] · [[James McAvoy]] · [[Jim Broadbent]] · [[Ray Winstone]] · [[Dawn French]]
 > **Studios** [[Walt Disney Pictures]] · [[Walden Media]] · [[C.S. Lewis Company]]
 > **Genres** [[Adventure]] · [[Family]] · [[Fantasy]]
+

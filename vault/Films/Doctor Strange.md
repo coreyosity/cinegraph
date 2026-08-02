@@ -52,6 +52,7 @@ tags:
 letterboxd: https://boxd.it/8MH8
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.
@@ -64,3 +65,4 @@ After his career is destroyed, a brilliant but arrogant surgeon gets a new lease
 > **Cast** [[Benedict Cumberbatch]] · [[Chiwetel Ejiofor]] · [[Rachel McAdams]] · [[Benedict Wong]] · [[Mads Mikkelsen]] · [[Tilda Swinton]] · [[Michael Stuhlbarg]] · [[Benjamin Bratt]] · [[Scott Adkins]] · [[Zara Phythian]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Action]]
+

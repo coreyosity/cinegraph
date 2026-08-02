@@ -69,3 +69,4 @@ The Grinch decides to rob Whoville of Christmas - but a dash of kindness from li
 > **Cast** [[Jim Carrey]] · [[Taylor Momsen]] · [[Jeffrey Tambor]] · [[Christine Baranski]] · [[Bill Irwin]] · [[Molly Shannon]] · [[Clint Howard]] · [[Josh Ryan Evans]] · [[Mindy Sterling]] · [[Bryce Dallas Howard]]
 > **Studios** [[Universal Pictures]] · [[Imagine Entertainment]] · [[LUNI Productions]]
 > **Genres** [[Family]] · [[Comedy]] · [[Fantasy]]
+

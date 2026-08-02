@@ -41,6 +41,11 @@ letterboxd: https://boxd.it/PZI
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
 - TBS
 - tru TV
 - Amazon Prime Video
@@ -58,3 +63,4 @@ The Hangover crew heads to Thailand for Stu's wedding. After the disaster of a b
 > **Cast** [[Bradley Cooper]] · [[Ed Helms]] · [[Zach Galifianakis]] · [[Justin Bartha]] · [[Mason Lee]] · [[Ken Jeong]] · [[Paul Giamatti]] · [[Jeffrey Tambor]] · [[Jamie Chung]] · [[Sasha Barrese]]
 > **Studios** [[Legendary Pictures]] · [[Green Hat Films]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]]
+

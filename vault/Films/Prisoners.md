@@ -72,3 +72,4 @@ After his six-year-old daughter is abducted, a desperate father takes justice in
 > **Cast** [[Hugh Jackman]] · [[Jake Gyllenhaal]] · [[Viola Davis]] · [[Maria Bello]] · [[Terrence Howard]] · [[Melissa Leo]] · [[Paul Dano]] · [[Dylan Minnette]] · [[Zoë Soul]] · [[Erin Gerasimovich]]
 > **Studios** [[Alcon Entertainment]] · [[838 Productions]] · [[Madhouse Entertainment]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Crime]]
+

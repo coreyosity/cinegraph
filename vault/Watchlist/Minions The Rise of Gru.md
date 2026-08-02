@@ -55,3 +55,4 @@ A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan
 > **Cast** [[Steve Carell]] · [[Pierre Coffin]] · [[Alan Arkin]] · [[Taraji P. Henson]] · [[Michelle Yeoh]] · [[Julie Andrews]] · [[Russell Brand]] · [[Jean-Claude Van Damme]] · [[Dolph Lundgren]] · [[Danny Trejo]]
 > **Studios** [[Universal Pictures]] · [[Illumination]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Science Fiction]] · [[Crime]] · [[Family]]
+

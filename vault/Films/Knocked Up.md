@@ -50,10 +50,13 @@ providers:
 - Amazon Prime Video
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
+- Philo
 - Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - BINGE
 - Foxtel Now
 ---
@@ -68,3 +71,4 @@ A slacker and a career-driven woman accidentally conceive a child after a one-ni
 > **Cast** [[Seth Rogen]] · [[Katherine Heigl]] · [[Paul Rudd]] · [[Leslie Mann]] · [[Jason Segel]] · [[Jay Baruchel]] · [[Jonah Hill]] · [[Martin Starr]] · [[Lo Mutuc]] · [[Iris Apatow]]
 > **Studios** [[Apatow Productions]] · [[Universal Pictures]]
 > **Genres** [[Comedy]] · [[Romance]] · [[Drama]]
+

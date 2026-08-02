@@ -54,10 +54,8 @@ tags:
 letterboxd: https://boxd.it/24fs
 providers:
 - fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Philo
 - Paramount+ Amazon Channel
 - MGM Plus Roku Premium Channel
 - YouTube TV
@@ -77,3 +75,4 @@ Camp counselors are stalked and murdered by an unknown assailant while trying to
 > **Cast** [[Adrienne King]] · [[Betsy Palmer]] · [[Kevin Bacon]] · [[Jeannine Taylor]] · [[Harry Crosby]] · [[Laurie Bartram]] · [[Mark Nelson]] · [[Peter Brouwer]] · [[Robbi Morgan]] · [[Rex Everhart]]
 > **Studios** [[Sean S. Cunningham Films]] · [[Georgetown Productions]]
 > **Genres** [[Horror]]
+

@@ -67,3 +67,4 @@ In 1988, Philadelphia police officer Thomas "Locke" Lockhart, hungry to become a
 > **Cast** [[Boyd Holbrook]] · [[Cleopatra Coleman]] · [[Michael C. Hall]] · [[Bokeem Woodbine]] · [[Sarah Dugdale]] · [[Rudi Dharmalingam]] · [[Rachel Keller]] · [[Quincy Kirkwood]] · [[Philippa Domville]] · [[Tony Nappo]]
 > **Studios** [[42]] · [[Automatik Entertainment]] · [[Belladonna Productions]] · [[Nightshade]]
 > **Genres** [[Science Fiction]] · [[Thriller]]
+

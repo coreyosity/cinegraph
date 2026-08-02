@@ -47,10 +47,7 @@ letterboxd: https://boxd.it/evUQ
 providers:
 - MUBI
 - MUBI Amazon Channel
-- Amazon Prime Video
 - Crave
-- Starz Amazon Channel
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 ---
 
@@ -64,3 +61,4 @@ Ingrid becomes obsessed with a social network star named Taylor Sloane who seemi
 > **Cast** [[Aubrey Plaza]] · [[Elizabeth Olsen]] · [[O'Shea Jackson Jr]] · [[Wyatt Russell]] · [[Billy Magnussen]] · [[Pom Klementieff]] · [[Hannah Pearl Utt]] · [[Joseph Breen]] · [[Angelica Amor]] · [[Meredith Hagner]]
 > **Studios** [[Star Thrower Entertainment]] · [[141 Entertainment]] · [[Mighty Engine]]
 > **Genres** [[Comedy]] · [[Drama]]
+

@@ -53,3 +53,4 @@ A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the
 > **Cast** [[D'Pharaoh Woon-A-Tai]] · [[Will Poulter]] · [[Cosmo Jarvis]] · [[Kit Connor]] · [[Finn Bennett]] · [[Taylor John Smith]] · [[Michael Gandolfini]] · [[Adain Bradley]] · [[Noah Centineo]] · [[Evan Holtzman]]
 > **Studios** [[DNA Films]] · [[A24]]
 > **Genres** [[War]] · [[Action]]
+

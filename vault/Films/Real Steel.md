@@ -57,3 +57,4 @@ Charlie Kenton is a washed-up fighter who retired from the ring when robots took
 > **Cast** [[Hugh Jackman]] · [[Dakota Goyo]] · [[Evangeline Lilly]] · [[Kevin Durand]] · [[Anthony Mackie]] · [[Hope Davis]] · [[James Rebhorn]] · [[Karl Yune]] · [[Sophie Levy]] · [[Tess Levy]]
 > **Studios** [[DreamWorks Pictures]] · [[Reliance Entertainment]] · [[21 Laps Entertainment]] · [[Montford Murphy Productions]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Drama]]
+

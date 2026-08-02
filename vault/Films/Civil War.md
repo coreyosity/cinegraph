@@ -87,3 +87,4 @@ In the near future, a group of war journalists attempt to survive while reportin
 > **Cast** [[Kirsten Dunst]] · [[Wagner Moura]] · [[Cailee Spaeny]] · [[Stephen McKinley Henderson]] · [[Nelson Lee]] · [[Nick Offerman]] · [[Jefferson White]] · [[Evan Lai]] · [[Vince Pisani]] · [[Justin James Boykin]]
 > **Studios** [[DNA Films]] · [[IPR.VC]] · [[A24]]
 > **Genres** [[War]] · [[Action]] · [[Drama]]
+

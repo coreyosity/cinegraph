@@ -65,3 +65,4 @@ A charismatic New York City jeweler always on the lookout for the next big score
 > **Cast** [[Adam Sandler]] · [[LaKeith Stanfield]] · [[Julia Fox]] · [[Kevin Garnett]] · [[Idina Menzel]] · [[Eric Bogosian]] · [[Judd Hirsch]] · [[Keith William Richards]] · [[Mike Francesa]] · [[Jonathan Aranbayev]]
 > **Studios** [[A24]] · [[Elara Pictures]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Crime]]
+

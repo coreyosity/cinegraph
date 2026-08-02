@@ -51,8 +51,6 @@ tags:
 - film
 letterboxd: https://boxd.it/bAHc
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Stan
 ---
 
@@ -66,3 +64,4 @@ Rebecca must unlock the terror behind her little brother's experiences that once
 > **Cast** [[Teresa Palmer]] · [[Maria Bello]] · [[Gabriel Bateman]] · [[Alexander DiPersia]] · [[Alicia Vela-Bailey]] · [[Billy Burke]] · [[Andi Osho]] · [[Maria Russell]] · [[Rolando Boyce]] · [[Lotta Losten]]
 > **Studios** [[New Line Cinema]] · [[Atomic Monster]] · [[Grey Matter Productions]] · [[RatPac Entertainment]]
 > **Genres** [[Horror]]
+

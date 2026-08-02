@@ -54,3 +54,4 @@ Marnie puts her magic on the line to get several Halloweentown teenagers transfe
 > **Cast** [[Kimberly J. Brown]] · [[Debbie Reynolds]] · [[Judith Hoag]] · [[Emily Roeske]] · [[Lucas Grabeel]] · [[Joey Zimmerman]] · [[Finn Wittrock]] · [[Clifton Davis]] · [[Eliana Reyes]] · [[Michael Flynn]]
 > **Studios** [[Reel FX Creative Studios]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]] · [[Fantasy]] · [[TV Movie]]
+

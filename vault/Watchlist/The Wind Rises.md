@@ -65,3 +65,4 @@ A lifelong love of flight inspires Japanese aviation engineer Jiro Horikoshi, wh
 > **Cast** [[Hideaki Anno]] · [[Hidetoshi Nishijima]] · [[Miori Takimoto]] · [[Masahiko Nishimura]] · [[Stephen Alpert]] · [[Mansai Nomura]] · [[Jun Kunimura]] · [[Mirai Shida]] · [[Shinobu Otake]] · [[Morio Kazama]]
 > **Studios** [[Studio Ghibli]] · [[Nippon Television Network Corporation]] · [[dentsu]] · [[Hakuhodo DY Media Partners]] · [[The Walt Disney Company (Japan)]] · [[d-rights]] · [[TOHO]]
 > **Genres** [[Animation]] · [[Drama]] · [[History]] · [[Romance]]
+

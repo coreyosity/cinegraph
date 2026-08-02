@@ -67,3 +67,4 @@ Curtis Pike and his family are selected to test a new home device: a digital ass
 > **Cast** [[John Cho]] · [[Katherine Waterston]] · [[Keith Carradine]] · [[Havana Rose Liu]] · [[Lukita Maxwell]] · [[Ashley Romans]] · [[David Dastmalchian]] · [[Wyatt Lindner]] · [[Isaac Bae]] · [[Bennett Curran]]
 > **Studios** [[Blumhouse Productions]] · [[Depth of Field]] · [[TSG Entertainment]] · [[Columbia Pictures]]
 > **Genres** [[Horror]] · [[Science Fiction]] · [[Thriller]]
+

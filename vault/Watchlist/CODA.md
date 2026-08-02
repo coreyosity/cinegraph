@@ -65,3 +65,4 @@ As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf fa
 > **Cast** [[Emilia Jones]] · [[Marlee Matlin]] · [[Troy Kotsur]] · [[Eugenio Derbez]] · [[Ferdia Walsh-Peelo]] · [[Daniel Durant]] · [[Amy Forsyth]] · [[Kevin Chapman]] · [[John Fiore]] · [[Lonnie Farmer]]
 > **Studios** [[Vendôme Pictures]] · [[Pathé]] · [[Picture Perfect Entertainment]]
 > **Genres** [[Drama]] · [[Music]] · [[Romance]]
+

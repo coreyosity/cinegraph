@@ -48,3 +48,4 @@ A brother-sister team who fake paranormal encounters for cash get more than they
 > **Cast** [[Florence Pugh]] · [[Ben Lloyd-Hughes]] · [[Celia Imrie]] · [[Scott Chambers]] · [[Georgina Bevan]] · [[James Cosmo]] · [[Shelley Conn]] · [[Niall Greig Fulton]] · [[Nicola Grier]] · [[Ian Lorimer Milne]]
 > **Studios** [[Catalyst Global Media]] · [[Sigma Films]] · [[Thruline Entertainment]]
 > **Genres** [[Horror]]
+

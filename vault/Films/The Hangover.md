@@ -49,6 +49,11 @@ letterboxd: https://boxd.it/1GjK
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
 - Amazon Prime Video
 - Crave
 - Starz Amazon Channel
@@ -66,3 +71,4 @@ When three friends finally come to after a raucous night of bachelor-party revel
 > **Cast** [[Bradley Cooper]] · [[Ed Helms]] · [[Zach Galifianakis]] · [[Justin Bartha]] · [[Heather Graham]] · [[Sasha Barrese]] · [[Jeffrey Tambor]] · [[Ken Jeong]] · [[Rachael Harris]] · [[Mike Tyson]]
 > **Studios** [[Legendary Pictures]] · [[Green Hat Films]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]]
+

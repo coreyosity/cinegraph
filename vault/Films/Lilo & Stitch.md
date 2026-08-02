@@ -61,3 +61,4 @@ As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on t
 > **Cast** [[Daveigh Chase]] · [[Chris Sanders]] · [[Tia Carrere]] · [[David Ogden Stiers]] · [[Kevin McDonald]] · [[Ving Rhames]] · [[Zoe Caldwell]] · [[Jason Scott Lee]] · [[Kevin Michael Richardson]] · [[Susan Hegarty]]
 > **Studios** [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Science Fiction]]
+

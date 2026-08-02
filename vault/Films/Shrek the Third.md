@@ -100,3 +100,4 @@ After the King of Far Far Away dies, Shrek and Fiona are to succede. However, Sh
 > **Cast** [[Mike Myers]] · [[Eddie Murphy]] · [[Cameron Diaz]] · [[Antonio Banderas]] · [[Julie Andrews]] · [[John Cleese]] · [[Rupert Everett]] · [[Eric Idle]] · [[Justin Timberlake]] · [[Susanne Blakeslee]]
 > **Studios** [[DreamWorks Animation]] · [[Pacific Data Images]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

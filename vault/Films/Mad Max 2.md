@@ -94,3 +94,4 @@ Max Rockatansky returns as the heroic loner who drives the dusty roads of a post
 > **Cast** [[Mel Gibson]] · [[Bruce Spence]] · [[Michael Preston]] · [[Max Phipps]] · [[Vernon Wells]] · [[Kjell Nilsson]] · [[Emil Minty]] · [[Virginia Hey]] · [[William Zappa]] · [[Arkie Whiteley]]
 > **Studios** [[Kennedy Miller Productions]]
 > **Genres** [[Action]] · [[Thriller]] · [[Science Fiction]]
+

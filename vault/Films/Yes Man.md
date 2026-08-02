@@ -73,3 +73,4 @@ Carl Allen, a guy whose life is going nowhere, signs up for a self-help program 
 > **Cast** [[Jim Carrey]] · [[Zooey Deschanel]] · [[Bradley Cooper]] · [[John Michael Higgins]] · [[Rhys Darby]] · [[Danny Masterson]] · [[Fionnula Flanagan]] · [[Terence Stamp]] · [[Sasha Alexander]] · [[Molly Sims]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[Heyday Films]] · [[The Zanuck Company]]
 > **Genres** [[Comedy]] · [[Romance]]
+

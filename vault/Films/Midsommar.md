@@ -79,3 +79,4 @@ Several friends travel to Sweden to study as anthropologists a summer festival t
 > **Cast** [[Florence Pugh]] · [[Jack Reynor]] · [[William Jackson Harper]] · [[Will Poulter]] · [[Vilhelm Blomgren]] · [[Isabelle Grill]] · [[Gunnel Fred]] · [[Ellora Torchia]] · [[Archie Madekwe]] · [[Henrik Norlén]]
 > **Studios** [[B-Reel Films]] · [[Square Peg]]
 > **Genres** [[Horror]] · [[Drama]] · [[Mystery]]
+

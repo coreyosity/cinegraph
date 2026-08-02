@@ -52,7 +52,6 @@ letterboxd: https://boxd.it/29nQ
 providers:
 - Sky Go
 - Now TV Cinema
-- fuboTV
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Starz Amazon Channel
@@ -72,3 +71,4 @@ The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a 
 > **Cast** [[Dustin Hoffman]] · [[Robin Williams]] · [[Julia Roberts]] · [[Bob Hoskins]] · [[Maggie Smith]] · [[Caroline Goodall]] · [[Charlie Korsmo]] · [[Amber Scott]] · [[Laurel Cronin]] · [[Phil Collins]]
 > **Studios** [[Amblin Entertainment]] · [[TriStar Pictures]] · [[Allied Stars]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Comedy]] · [[Family]]
+

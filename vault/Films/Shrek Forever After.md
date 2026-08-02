@@ -49,6 +49,8 @@ providers:
 - Netflix
 - Netflix Kids
 - Netflix Standard with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - BINGE
@@ -70,3 +72,4 @@ A midlife-crisis burdened Shrek, longing for the days when he felt like a real o
 > **Cast** [[Mike Myers]] · [[Eddie Murphy]] · [[Cameron Diaz]] · [[Antonio Banderas]] · [[Walt Dohrn]] · [[Julie Andrews]] · [[John Cleese]] · [[Jon Hamm]] · [[Jane Lynch]] · [[Craig Robinson]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Fantasy]] · [[Animation]] · [[Family]]
+

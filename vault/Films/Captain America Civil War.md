@@ -45,8 +45,8 @@ letterboxd: https://boxd.it/89Ja
 providers:
 - Disney Plus
 - Hulu
-- fuboTV
 - YouTube TV
+- FXNow
 ---
 
 Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.
@@ -59,3 +59,4 @@ Following the events of Age of Ultron, the collective governments of the world p
 > **Cast** [[Chris Evans]] · [[Robert Downey Jr]] · [[Scarlett Johansson]] · [[Sebastian Stan]] · [[Anthony Mackie]] · [[Don Cheadle]] · [[Jeremy Renner]] · [[Chadwick Boseman]] · [[Paul Bettany]] · [[Elizabeth Olsen]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

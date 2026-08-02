@@ -59,3 +59,4 @@ Garfield, the fat, lazy, lasagna lover, has everything a cat could want. But whe
 > **Cast** [[Bill Murray]] · [[Breckin Meyer]] · [[Jennifer Love Hewitt]] · [[Stephen Tobolowsky]] · [[Evan Arnold]] · [[Mark Christopher Lawrence]] · [[Jimmy Kimmel]] · [[Debra Messing]] · [[Nick Cannon]] · [[Alan Cumming]]
 > **Studios** [[Davis Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Comedy]] · [[Family]]
+

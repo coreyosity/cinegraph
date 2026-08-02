@@ -53,3 +53,4 @@ When a car hits young Victor's pet dog Sparky, Victor decides to bring him back 
 > **Cast** [[Catherine O'Hara]] · [[Martin Short]] · [[Martin Landau]] · [[Charlie Tahan]] · [[Atticus Shaffer]] · [[Winona Ryder]] · [[Robert Capron]] · [[James Hiroyuki Liao]] · [[Conchata Ferrell]] · [[Tom Kenny]]
 > **Studios** [[Tim Burton Productions]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

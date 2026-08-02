@@ -53,6 +53,8 @@ tags:
 letterboxd: https://boxd.it/26t2
 providers:
 - Disney Plus
+- Philo
+- AMC+ Amazon Channel
 - Crave
 - Crave Amazon Channel
 ---
@@ -67,3 +69,4 @@ A family living on a farm finds mysterious crop circles in their fields which su
 > **Cast** [[Mel Gibson]] · [[Joaquin Phoenix]] · [[Rory Culkin]] · [[Abigail Breslin]] · [[Cherry Jones]] · [[M. Night Shyamalan]] · [[Patricia Kalember]] · [[Ted Sutton]] · [[Merritt Wever]] · [[Lanny Flaherty]]
 > **Studios** [[Touchstone Pictures]] · [[Blinding Edge Pictures]] · [[The KennedyMarshall Company]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Horror]]
+

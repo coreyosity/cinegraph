@@ -43,7 +43,7 @@ providers:
 - Disney Plus
 - Amazon Prime Video with Ads
 - Hulu
-- fuboTV
+- FXNow
 ---
 
 We always knew they were coming back. Using recovered alien technology, the nations of Earth have collaborated on an immense defense program to protect the planet. But nothing can prepare us for the aliens’ advanced and unprecedented force. Only the ingenuity of a few brave men and women can bring our world back from the brink of extinction.
@@ -56,3 +56,4 @@ We always knew they were coming back. Using recovered alien technology, the nati
 > **Cast** [[Liam Hemsworth]] · [[Jeff Goldblum]] · [[Jessie T. Usher]] · [[Bill Pullman]] · [[Maika Monroe]] · [[Travis Tope]] · [[AngelaBaby]] · [[Charlotte Gainsbourg]] · [[Judd Hirsch]] · [[William Fichtner]]
 > **Studios** [[20th Century Fox]] · [[TSG Entertainment]] · [[Centropolis Entertainment]] · [[Stereo D]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

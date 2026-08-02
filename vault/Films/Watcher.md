@@ -75,3 +75,4 @@ As a serial killer stalks the city, Julia — a young actress who just moved to 
 > **Cast** [[Maika Monroe]] · [[Karl Glusman]] · [[Burn Gorman]] · [[Mãdãlina Anea]] · [[Gabriela Butuc]] · [[Cristina Deleanu]] · [[Ștefan Iancu]] · [[Florian Ghimpu]] · [[Flaviu Crisan]] · [[Ioana Abur]]
 > **Studios** [[Image Nation Abu Dhabi]] · [[Lost City]] · [[Spooky Pictures]] · [[AGC Studios]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

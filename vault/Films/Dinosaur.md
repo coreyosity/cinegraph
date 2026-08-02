@@ -66,3 +66,4 @@ An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary afte
 > **Cast** [[D. B. Sweeney]] · [[Alfre Woodard]] · [[Ossie Davis]] · [[Max Casella]] · [[Hayden Panettiere]] · [[Samuel E. Wright]] · [[Julianna Margulies]] · [[Peter Siragusa]] · [[Joan Plowright]] · [[Della Reese]]
 > **Studios** [[Walt Disney Feature Animation]] · [[The Secret Lab]] · [[Walt Disney Pictures]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Drama]] · [[Family]]
+

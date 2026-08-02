@@ -60,10 +60,12 @@ letterboxd: https://boxd.it/43aU
 providers:
 - Netflix
 - Netflix Standard with Ads
+- MGM Plus Amazon Channel
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
 - Crave
+- MGM Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -77,3 +79,4 @@ Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor
 > **Cast** [[Ian McKellen]] · [[Martin Freeman]] · [[Richard Armitage]] · [[Orlando Bloom]] · [[Evangeline Lilly]] · [[Luke Evans]] · [[Lee Pace]] · [[Benedict Cumberbatch]] · [[Ken Stott]] · [[Aidan Turner]]
 > **Studios** [[New Line Cinema]] · [[Metro-Goldwyn-Mayer]] · [[WingNut Films]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

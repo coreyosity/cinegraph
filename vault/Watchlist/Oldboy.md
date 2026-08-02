@@ -80,3 +80,4 @@ With no clue how he came to be imprisoned, drugged and tortured for 15 years, a 
 > **Cast** [[Choi Min-sik]] · [[Yoo Ji-tae]] · [[Kang Hye-jung]] · [[Kim Byeong-ok]] · [[Ji Dae-han]] · [[Oh Dal-su]] · [[Lee Seung-shin]] · [[Yoon Jin-seo]] · [[Oh Tae-kyung]] · [[Yoo Yeon-seok]]
 > **Studios** [[Show East]] · [[Egg Film]] · [[Cineclick Asia]]
 > **Genres** [[Thriller]] · [[Mystery]]
+

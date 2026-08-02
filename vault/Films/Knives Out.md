@@ -50,9 +50,7 @@ letterboxd: https://boxd.it/jWEA
 providers:
 - Netflix
 - Netflix Standard with Ads
-- Peacock Premium
 - YouTube TV
-- Peacock Premium Plus
 - Starz Amazon Channel
 - Crave Amazon Channel
 - Stan
@@ -68,3 +66,4 @@ When renowned crime novelist Harlan Thrombey is found dead at his estate just af
 > **Cast** [[Daniel Craig]] · [[Chris Evans]] · [[Ana de Armas]] · [[Jamie Lee Curtis]] · [[Michael Shannon]] · [[Don Johnson]] · [[Toni Collette]] · [[LaKeith Stanfield]] · [[Christopher Plummer]] · [[Katherine Langford]]
 > **Studios** [[MRC]] · [[T-Street]]
 > **Genres** [[Comedy]] · [[Crime]] · [[Mystery]]
+

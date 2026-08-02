@@ -54,7 +54,9 @@ tags:
 - film
 letterboxd: https://boxd.it/21E0
 providers:
+- Amazon Prime Video
 - Disney Plus
+- Amazon Prime Video with Ads
 - Stan
 ---
 
@@ -68,3 +70,4 @@ A struggling songwriter named Dave Seville finds success when he comes across a 
 > **Cast** [[Jason Lee]] · [[David Cross]] · [[Cameron Richardson]] · [[Jane Lynch]] · [[Justin Long]] · [[Matthew Gray Gubler]] · [[Jesse McCartney]] · [[Allison Karman]] · [[Tiara Parker]] · [[Kira Verrastro]]
 > **Studios** [[Fox 2000 Pictures]] · [[Regency Enterprises]] · [[Bagdasarian Productions]] · [[Dune Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]] · [[Animation]]
+

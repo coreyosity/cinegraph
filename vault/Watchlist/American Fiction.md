@@ -78,3 +78,4 @@ A novelist fed up with the establishment profiting from "Black" entertainment us
 > **Cast** [[Jeffrey Wright]] · [[John Ortiz]] · [[Erika Alexander]] · [[Leslie Uggams]] · [[Sterling K. Brown]] · [[Skyler Wright]] · [[John Ales]] · [[Patrick Fischler]] · [[Carmen Cusack]] · [[Joseph Marrella]]
 > **Studios** [[MRC]] · [[T-Street]] · [[3 Arts Entertainment]] · [[Almost Infinite]]
 > **Genres** [[Comedy]] · [[Drama]]
+

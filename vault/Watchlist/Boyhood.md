@@ -43,7 +43,6 @@ tags:
 letterboxd: https://boxd.it/3178
 providers:
 - Netflix
-- Hulu
 - Philo
 - 'AMC Plus Apple TV Channel '
 - AMC+ Amazon Channel
@@ -66,3 +65,4 @@ The film tells a story of a divorced couple trying to raise their young son. The
 > **Cast** [[Ellar Coltrane]] · [[Patricia Arquette]] · [[Ethan Hawke]] · [[Lorelei Linklater]] · [[Libby Villari]] · [[Marco Perella]] · [[Brad Hawkins]] · [[Jamie Howard]] · [[Andrew Villarreal]] · [[Jenni Tooley]]
 > **Studios** [[IFC Productions]] · [[Detour Filmproduction]]
 > **Genres** [[Drama]]
+

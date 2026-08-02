@@ -84,3 +84,4 @@ When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported
 > **Cast** [[Will Ferrell]] · [[James Caan]] · [[Bob Newhart]] · [[Ed Asner]] · [[Mary Steenburgen]] · [[Zooey Deschanel]] · [[Daniel Tay]] · [[Faizon Love]] · [[Peter Dinklage]] · [[Amy Sedaris]]
 > **Studios** [[New Line Cinema]] · [[Guy Walks into a Bar Productions]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

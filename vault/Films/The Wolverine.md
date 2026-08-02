@@ -59,3 +59,4 @@ Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and
 > **Cast** [[Hugh Jackman]] · [[Hiroyuki Sanada]] · [[Tao Okamoto]] · [[Rila Fukushima]] · [[Famke Janssen]] · [[Will Yun Lee]] · [[Svetlana Khodchenkova]] · [[Hal Yamanouchi]] · [[Brian Tee]] · [[Ken Yamamura]]
 > **Studios** [[The Donners' Company]] · [[20th Century Fox]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

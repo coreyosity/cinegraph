@@ -64,3 +64,4 @@ A man blinded in a childhood accident fights crime using his superhumanly-elevat
 > **Cast** [[Ben Affleck]] · [[Jennifer Garner]] · [[Colin Farrell]] · [[Michael Clarke Duncan]] · [[Jon Favreau]] · [[Scott Terra]] · [[Ellen Pompeo]] · [[Joe Pantoliano]] · [[Leland Orser]] · [[Lennie Loftin]]
 > **Studios** [[Marvel Enterprises]] · [[New Regency Pictures]] · [[Epsilon Motion Pictures]] · [[Regency Enterprises]] · [[20th Century Fox]]
 > **Genres** [[Fantasy]] · [[Action]]
+

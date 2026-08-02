@@ -77,3 +77,4 @@ A special bond develops between plus-sized inflatable robot Baymax, and prodigy 
 > **Cast** [[Scott Adsit]] · [[Ryan Potter]] · [[Daniel Henney]] · [[T.J. Miller]] · [[Jamie Chung]] · [[Damon Wayans Jr]] · [[Genesis Rodriguez]] · [[James Cromwell]] · [[Alan Tudyk]] · [[Maya Rudolph]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Adventure]] · [[Family]] · [[Animation]] · [[Action]] · [[Comedy]]
+

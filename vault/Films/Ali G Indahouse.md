@@ -56,3 +56,4 @@ Ali G unwittingly becomes a pawn in the evil Chancellor's plot to overthrow the 
 > **Cast** [[Sacha Baron Cohen]] · [[Michael Gambon]] · [[Charles Dance]] · [[Kellie Bright]] · [[Martin Freeman]] · [[Paul Clayton]] · [[Rhona Mitra]] · [[Tony Way]] · [[Graham McTavish]] · [[Barbara New]]
 > **Studios** [[Universal Pictures]] · [[StudioCanal]] · [[Working Title Films]] · [[WT² Productions]] · [[Talkback]] · [[Kalima Productions]]
 > **Genres** [[Comedy]]
+

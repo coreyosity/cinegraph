@@ -39,10 +39,7 @@ tags:
 - film
 letterboxd: https://boxd.it/9ghu
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Netflix
-- fuboTV
 - Netflix Standard with Ads
 - Lionsgate+ Amazon Channels
 ---
@@ -57,3 +54,4 @@ After 29-year-old Adaline recovers from a nearly lethal accident, she inexplicab
 > **Cast** [[Blake Lively]] · [[Michiel Huisman]] · [[Harrison Ford]] · [[Ellen Burstyn]] · [[Kathy Baker]] · [[Amanda Crew]] · [[Lynda Boyd]] · [[Hugh Ross]] · [[Richard Harmon]] · [[Fulvio Cecere]]
 > **Studios** [[Lakeshore Entertainment]] · [[Sidney Kimmel Entertainment]] · [[Lionsgate]]
 > **Genres** [[Romance]] · [[Fantasy]] · [[Drama]]
+

@@ -57,10 +57,14 @@ tags:
 letterboxd: https://boxd.it/1WyQ
 providers:
 - Disney Plus
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Amazon Prime Video
 - Stan
+- Amazon Prime Video with Ads
 ---
 
 The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.
@@ -73,3 +77,4 @@ The Fantastic Mr. Fox, bored with his current life, plans a heist against the th
 > **Cast** [[George Clooney]] · [[Meryl Streep]] · [[Jason Schwartzman]] · [[Eric Chase Anderson]] · [[Wallace Wolodarsky]] · [[Willem Dafoe]] · [[Michael Gambon]] · [[Robin Hurlstone]] · [[Hugo Guinness]] · [[Bill Murray]]
 > **Studios** [[Regency Enterprises]] · [[Indian Paintbrush]] · [[American Empirical Pictures]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

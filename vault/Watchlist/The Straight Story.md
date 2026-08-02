@@ -62,3 +62,4 @@ Retired farmer and widower Alvin Straight learns one day that his distant brothe
 > **Cast** [[Richard Farnsworth]] · [[Sissy Spacek]] · [[Jane Galloway Heitz]] · [[Joseph A. Carpenter]] · [[Donald Wiegert]] · [[Tracey Maloney]] · [[Dan Flannery]] · [[Jennifer Edwards]] · [[Ed Grennan]] · [[Jack Walsh]]
 > **Studios** [[Les Films Alain Sarde]] · [[Picture Factory]] · [[Le Studio Canal+]] · [[Film4 Productions]]
 > **Genres** [[Drama]]
+

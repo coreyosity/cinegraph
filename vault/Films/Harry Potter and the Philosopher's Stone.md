@@ -80,3 +80,4 @@ Harry Potter has lived under the stairs at his aunt and uncle's house his whole 
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Richard Harris]] · [[Tom Felton]] · [[Alan Rickman]] · [[Robbie Coltrane]] · [[Maggie Smith]] · [[Richard Griffiths]] · [[Ian Hart]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]] · [[1492 Pictures]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

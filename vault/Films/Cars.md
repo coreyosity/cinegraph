@@ -73,3 +73,4 @@ Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that l
 > **Cast** [[Owen Wilson]] · [[Paul Newman]] · [[Bonnie Hunt]] · [[Larry the Cable Guy]] · [[Cheech Marin]] · [[Tony Shalhoub]] · [[Guido Quaroni]] · [[Jenifer Lewis]] · [[Paul Dooley]] · [[Michael Wallis]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

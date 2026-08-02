@@ -78,3 +78,4 @@ A young boy wins a tour through the most magnificent chocolate factory in the wo
 > **Cast** [[Johnny Depp]] · [[Freddie Highmore]] · [[David Kelly]] · [[Helena Bonham Carter]] · [[Noah Taylor]] · [[Missi Pyle]] · [[James Fox]] · [[Deep Roy]] · [[Christopher Lee]] · [[Adam Godley]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[The Zanuck Company]] · [[Plan B Entertainment]] · [[Theobald Film Productions]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

@@ -76,3 +76,4 @@ Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble
 > **Cast** [[Will Ferrell]] · [[Mark Wahlberg]] · [[Eva Mendes]] · [[Michael Keaton]] · [[Steve Coogan]] · [[Ray Stevenson]] · [[Samuel L. Jackson]] · [[Dwayne Johnson]] · [[Lindsay Sloane]] · [[Natalie Zea]]
 > **Studios** [[Columbia Pictures]] · [[Gary Sanchez Productions]] · [[Mosaic Media Group]]
 > **Genres** [[Comedy]] · [[Action]]
+

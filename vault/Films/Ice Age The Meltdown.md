@@ -67,3 +67,4 @@ Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. Th
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Queen Latifah]] · [[Seann William Scott]] · [[Josh Peck]] · [[Jay Leno]] · [[Will Arnett]] · [[Chris Wedge]] · [[Peter Ackerman]]
 > **Studios** [[20th Century Fox Animation]] · [[Blue Sky Studios]] · [[20th Century Fox]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Adventure]]
+

@@ -64,3 +64,4 @@ Climbing aboard their mammoth recreational vehicle for a cross-country road trip
 > **Cast** [[Robin Williams]] · [[Cheryl Hines]] · [[JoJo]] · [[Josh Hutcherson]] · [[Jeff Daniels]] · [[Kristin Chenoweth]] · [[Hunter Parrish]] · [[Chloe Sonnenfeld]] · [[Alex Ferris]] · [[Will Arnett]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Red Wagon Entertainment]] · [[Intermedia Films]] · [[IMF Internationale Medien und Film 3 & Produktions]]
 > **Genres** [[Family]] · [[Comedy]] · [[Adventure]]
+

@@ -119,3 +119,4 @@ Caesar and his apes are forced into a deadly conflict with an army of humans led
 > **Cast** [[Andy Serkis]] · [[Woody Harrelson]] · [[Karin Konoval]] · [[Terry Notary]] · [[Steve Zahn]] · [[Amiah Miller]] · [[Ty Olsson]] · [[Michael Adamthwaite]] · [[Toby Kebbell]] · [[Gabriel Chavarria]]
 > **Studios** [[20th Century Fox]] · [[TSG Entertainment]] · [[Chernin Entertainment]]
 > **Genres** [[Drama]] · [[Science Fiction]] · [[War]]
+

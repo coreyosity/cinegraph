@@ -64,7 +64,9 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
 - Crave
+- Hollywood Suite
 - Club Illico
+- Hollywood Suite Amazon Channel
 - Crave Amazon Channel
 - BINGE
 - Paramount Plus
@@ -84,3 +86,4 @@ Twenty-two years after the events of Jurassic Park, Isla Nublar now features a f
 > **Cast** [[Chris Pratt]] · [[Bryce Dallas Howard]] · [[Irrfan Khan]] · [[Vincent D'Onofrio]] · [[Ty Simpkins]] · [[Nick Robinson]] · [[Jake Johnson]] · [[Omar Sy]] · [[BD Wong]] · [[Judy Greer]]
 > **Studios** [[Amblin Entertainment]] · [[Universal Pictures]] · [[Legendary Pictures]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Thriller]]
+

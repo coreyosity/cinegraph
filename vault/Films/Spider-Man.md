@@ -59,9 +59,11 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - BINGE
 - Foxtel Now
 ---
@@ -76,3 +78,4 @@ After being bitten by a genetically altered spider at Oscorp, nerdy but endearin
 > **Cast** [[Tobey Maguire]] · [[Willem Dafoe]] · [[Kirsten Dunst]] · [[James Franco]] · [[Cliff Robertson]] · [[Rosemary Harris]] · [[J.K. Simmons]] · [[Joe Manganiello]] · [[Gerry Becker]] · [[Bill Nunn]]
 > **Studios** [[Marvel Enterprises]] · [[Laura Ziskin Productions]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

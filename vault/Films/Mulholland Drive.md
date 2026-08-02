@@ -63,6 +63,7 @@ letterboxd: https://boxd.it/297o
 providers:
 - Sky Go
 - Now TV Cinema
+- STUDIOCANAL PRESENTS Apple TV Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Stan
@@ -86,3 +87,4 @@ Blonde Betty Elms has only just arrived in Hollywood to become a movie star when
 > **Cast** [[Naomi Watts]] · [[Laura Harring]] · [[Justin Theroux]] · [[Ann Miller]] · [[Mark Pellegrino]] · [[Robert Forster]] · [[Dan Hedaya]] · [[Angelo Badalamenti]] · [[Patrick Fischler]] · [[Brent Briscoe]]
 > **Studios** [[StudioCanal]] · [[Les Films Alain Sarde]] · [[Asymmetrical Productions]] · [[Babbo]]
 > **Genres** [[Thriller]] · [[Drama]] · [[Mystery]]
+

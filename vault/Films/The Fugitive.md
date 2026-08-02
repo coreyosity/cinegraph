@@ -62,7 +62,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Philo
-- AMC+ Amazon Channel
 - AMC
 - Amazon Prime Video
 - Crave
@@ -89,3 +88,4 @@ Wrongfully convicted of murdering his wife and sentenced to death, Richard Kimbl
 > **Cast** [[Harrison Ford]] · [[Tommy Lee Jones]] · [[Joe Pantoliano]] · [[Jeroen Krabbé]] · [[Daniel Roebuck]] · [[L. Scott Caldwell]] · [[Tom Wood]] · [[Ron Dean]] · [[Joseph F. Kosala]] · [[Andreas Katsulas]]
 > **Studios** [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Thriller]] · [[Drama]]
+

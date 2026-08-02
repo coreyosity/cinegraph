@@ -95,3 +95,4 @@ Following the latest Ghostface killings, the four survivors leave Woodsboro behi
 > **Cast** [[Melissa Barrera]] · [[Jenna Ortega]] · [[Jasmin Savoy Brown]] · [[Mason Gooding]] · [[Jack Champion]] · [[Roger L. Jackson]] · [[Liana Liberato]] · [[Dermot Mulroney]] · [[Devyn Nekoda]] · [[Josh Segarra]]
 > **Studios** [[Radio Silence]] · [[Project X Entertainment]] · [[Spyglass Media Group]] · [[Paramount Pictures]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Crime]]
+

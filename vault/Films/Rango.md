@@ -82,3 +82,4 @@ When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging
 > **Cast** [[Johnny Depp]] · [[Isla Fisher]] · [[Ned Beatty]] · [[Bill Nighy]] · [[Abigail Breslin]] · [[Alfred Molina]] · [[Stephen Root]] · [[Harry Dean Stanton]] · [[Timothy Olyphant]] · [[Ray Winstone]]
 > **Studios** [[Paramount Pictures]] · [[Blind Wink]] · [[Nickelodeon Movies]] · [[GK Films]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Western]] · [[Adventure]]
+

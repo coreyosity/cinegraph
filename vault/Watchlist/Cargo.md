@@ -51,3 +51,4 @@ After being infected in the wake of a violent pandemic and with only 48 hours to
 > **Cast** [[Martin Freeman]] · [[Simone Landers]] · [[Anthony Hayes]] · [[Susie Porter]] · [[Caren Pistorius]] · [[Kris McQuade]] · [[Natasha Wanganeen]] · [[Bruce R. Carter]] · [[David Gulpilil]] · [[Andy Rodoreda]]
 > **Studios** [[Metrol Technology]] · [[Causeway Films]] · [[Head Gear Films]] · [[Kreo Films]] · [[Addictive Pictures]] · [[White Hot Productions]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Horror]]
+

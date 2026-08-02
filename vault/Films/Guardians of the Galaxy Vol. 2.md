@@ -56,3 +56,4 @@ The Guardians must fight to keep their newfound family together as they unravel 
 > **Cast** [[Chris Pratt]] · [[Zoe Saldaña]] · [[Dave Bautista]] · [[Vin Diesel]] · [[Bradley Cooper]] · [[Kurt Russell]] · [[Michael Rooker]] · [[Karen Gillan]] · [[Pom Klementieff]] · [[Sylvester Stallone]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

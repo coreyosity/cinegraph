@@ -56,10 +56,10 @@ providers:
 - Philo
 - YouTube TV
 - AMC
-- Sony Pictures Core Amazon Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - Stan
 ---
 
@@ -73,3 +73,4 @@ The true story of Captain Richard Phillips and the 2009 hijacking by Somali pira
 > **Cast** [[Tom Hanks]] · [[Barkhad Abdi]] · [[Barkhad Abdirahman]] · [[Faysal Ahmed]] · [[Mahat M. Ali]] · [[Michael Chernus]] · [[David Warshofsky]] · [[Corey Johnson]] · [[Chris Mulkey]] · [[Yul Vazquez]]
 > **Studios** [[Columbia Pictures]] · [[Michael De Luca Productions]] · [[Scott Rudin Productions]] · [[Trigger Street Productions]]
 > **Genres** [[Action]] · [[Drama]] · [[Thriller]]
+

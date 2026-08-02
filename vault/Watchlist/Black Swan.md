@@ -69,3 +69,4 @@ A committed dancer struggles to maintain her sanity after winning the lead role 
 > **Cast** [[Natalie Portman]] · [[Mila Kunis]] · [[Vincent Cassel]] · [[Barbara Hershey]] · [[Winona Ryder]] · [[Benjamin Millepied]] · [[Ksenia Solo]] · [[Kristina Anapau]] · [[Janet Montgomery]] · [[Sebastian Stan]]
 > **Studios** [[Fox Searchlight Pictures]] · [[Cross Creek Pictures]] · [[Protozoa Pictures]] · [[Phoenix Pictures]] · [[Dune Entertainment]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Horror]]
+

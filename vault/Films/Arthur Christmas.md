@@ -74,3 +74,4 @@ For hundreds of years, the Claus family has delegated the title "Santa" to a cho
 > **Cast** [[James McAvoy]] · [[Hugh Laurie]] · [[Bill Nighy]] · [[Jim Broadbent]] · [[Imelda Staunton]] · [[Ashley Jensen]] · [[Marc Wootton]] · [[Laura Linney]] · [[Eva Longoria]] · [[Ramona Marquez]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[Aardman]]
 > **Genres** [[Drama]] · [[Animation]] · [[Family]] · [[Comedy]]
+

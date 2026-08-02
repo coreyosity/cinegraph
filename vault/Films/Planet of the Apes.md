@@ -67,3 +67,4 @@ After a spectacular crash-landing on an uncharted planet, brash astronaut Leo Da
 > **Cast** [[Mark Wahlberg]] · [[Tim Roth]] · [[Helena Bonham Carter]] · [[Michael Clarke Duncan]] · [[Paul Giamatti]] · [[Estella Warren]] · [[Cary-Hiroyuki Tagawa]] · [[David Warner]] · [[Kris Kristofferson]] · [[Erick Avari]]
 > **Studios** [[20th Century Fox]] · [[The Zanuck Company]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Action]] · [[Adventure]]
+

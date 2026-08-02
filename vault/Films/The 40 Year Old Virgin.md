@@ -42,10 +42,11 @@ tags:
 letterboxd: https://boxd.it/21hK
 providers:
 - Netflix
-- Amazon Prime Video
 - Netflix Standard with Ads
-- Amazon Prime Video with Ads
+- fuboTV
+- MGM+ Amazon Channel
 - Philo
+- MGM Plus Roku Premium Channel
 - MGM Plus
 - Stan
 ---
@@ -60,3 +61,4 @@ Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoic
 > **Cast** [[Steve Carell]] · [[Catherine Keener]] · [[Paul Rudd]] · [[Romany Malco]] · [[Seth Rogen]] · [[Elizabeth Banks]] · [[Leslie Mann]] · [[Jane Lynch]] · [[Gerry Bednob]] · [[Shelley Malil]]
 > **Studios** [[Universal Pictures]] · [[Apatow Productions]]
 > **Genres** [[Comedy]] · [[Romance]]
+

@@ -47,6 +47,7 @@ tags:
 letterboxd: https://boxd.it/2cAI
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.
@@ -59,3 +60,4 @@ Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kan
 > **Cast** [[James Franco]] · [[Mila Kunis]] · [[Rachel Weisz]] · [[Michelle Williams]] · [[Zach Braff]] · [[Bill Cobbs]] · [[Joey King]] · [[Tony Cox]] · [[Stephen R. Hart]] · [[Abigail Spencer]]
 > **Studios** [[Roth Films]] · [[Curtis-Donen Productions]] · [[Walt Disney Pictures]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Family]]
+

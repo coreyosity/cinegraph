@@ -58,7 +58,6 @@ providers:
 - Netflix
 - Crave
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Netflix Standard with Ads
 - Crave Amazon Channel
@@ -76,3 +75,4 @@ Bella Swan and Edward Cullen's honeymoon phase is abruptly disrupted by betrayal
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Michael Sheen]] · [[Elizabeth Reaser]] · [[Kellan Lutz]] · [[Nikki Reed]] · [[Jackson Rathbone]]
 > **Studios** [[Summit Entertainment]] · [[Sunswept Entertainment]] · [[TSBD Canada Productions]] · [[TSBD Louisiana]] · [[TSBD Productions]] · [[Temple Hill Entertainment]] · [[Total Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Romance]]
+

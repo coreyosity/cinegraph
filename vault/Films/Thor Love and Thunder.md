@@ -63,3 +63,4 @@ After his retirement is interrupted by Gorr the God Butcher, a galactic killer w
 > **Cast** [[Chris Hemsworth]] · [[Natalie Portman]] · [[Christian Bale]] · [[Tessa Thompson]] · [[Taika Waititi]] · [[Russell Crowe]] · [[Jaimie Alexander]] · [[Idris Elba]] · [[Chris Pratt]] · [[Dave Bautista]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Comedy]]
+

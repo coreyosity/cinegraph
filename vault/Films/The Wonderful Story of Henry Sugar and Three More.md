@@ -50,3 +50,4 @@ Four tales unfold in Wes Anderson's anthology of short films adapted from Roald 
 > **Cast** [[Benedict Cumberbatch]] · [[Dev Patel]] · [[Ben Kingsley]] · [[Richard Ayoade]] · [[Ralph Fiennes]] · [[Rupert Friend]] · [[Asa Jennings]] · [[Eliel Ford]] · [[Truman Hanks]] · [[Benoît Herlin]]
 > **Studios** [[Indian Paintbrush]] · [[American Empirical Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Fantasy]]
+

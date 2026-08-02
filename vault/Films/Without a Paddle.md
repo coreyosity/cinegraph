@@ -61,3 +61,4 @@ Three friends, whose lives have been drifting apart, reunite for the funeral of 
 > **Cast** [[Seth Green]] · [[Matthew Lillard]] · [[Dax Shepard]] · [[Ethan Suplee]] · [[Abraham Benrubi]] · [[Antony Starr]] · [[Burt Reynolds]] · [[Christina Moore]] · [[Rachel Blanchard]] · [[Bonnie Somerville]]
 > **Studios** [[De Line Pictures]] · [[Paramount Pictures]]
 > **Genres** [[Comedy]] · [[Action]] · [[Adventure]] · [[Mystery]]
+

@@ -79,3 +79,4 @@ Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized b
 > **Cast** [[Yoji Matsuda]] · [[Yuriko Ishida]] · [[Yuko Tanaka]] · [[Kaoru Kobayashi]] · [[Masahiko Nishimura]] · [[Tsunehiko Kamijô]] · [[Akihiro Miwa]] · [[Mitsuko Mori]] · [[Hisaya Morishige]] · [[Sumi Shimamoto]]
 > **Studios** [[Studio Ghibli]] · [[dentsu]] · [[Tokuma Shoten]] · [[Nippon Television Network Corporation]] · [[Nibariki]] · [[TNDG]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Animation]]
+

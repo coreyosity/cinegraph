@@ -67,3 +67,4 @@ Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achi
 > **Cast** [[Steve Carell]] · [[Kristen Wiig]] · [[Trey Parker]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Nhev Scharrel]] · [[Pierre Coffin]] · [[Steve Coogan]] · [[Julie Andrews]] · [[Jenny Slate]]
 > **Studios** [[Illumination]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Animation]] · [[Comedy]] · [[Family]] · [[Adventure]]
+

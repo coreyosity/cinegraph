@@ -58,3 +58,4 @@ After a year apart - attending different schools, meeting different people - the
 > **Cast** [[Jason Biggs]] · [[Thomas Ian Nicholas]] · [[Chris Klein]] · [[Seann William Scott]] · [[Eddie Kaye Thomas]] · [[Alyson Hannigan]] · [[Shannon Elizabeth]] · [[Tara Reid]] · [[Mena Suvari]] · [[Natasha Lyonne]]
 > **Studios** [[Universal Pictures]] · [[Zide-Perry Productions]] · [[LivePlanet]]
 > **Genres** [[Comedy]] · [[Romance]]
+

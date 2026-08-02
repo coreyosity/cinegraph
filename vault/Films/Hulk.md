@@ -85,3 +85,4 @@ Bruce Banner, a genetics researcher with a tragic past, suffers massive radiatio
 > **Cast** [[Eric Bana]] · [[Jennifer Connelly]] · [[Sam Elliott]] · [[Josh Lucas]] · [[Nick Nolte]] · [[Paul Kersey]] · [[Todd Tesen]] · [[Cara Buono]] · [[Kevin Rankin]] · [[Celia Weston]]
 > **Studios** [[Marvel Enterprises]] · [[Universal Pictures]] · [[Good Machine]] · [[Valhalla Motion Pictures]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

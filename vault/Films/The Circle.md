@@ -66,3 +66,4 @@ When an attack on the Kingsman headquarters takes place and a new villain rises,
 > **Cast** [[Taron Egerton]] · [[Colin Firth]] · [[Julianne Moore]] · [[Mark Strong]] · [[Hanna Alström]] · [[Halle Berry]] · [[Pedro Pascal]] · [[Channing Tatum]] · [[Edward Holcroft]] · [[Jeff Bridges]]
 > **Studios** [[20th Century Fox]] · [[Marv]] · [[Cloudy Productions]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Comedy]] · [[Crime]] · [[Science Fiction]]
+

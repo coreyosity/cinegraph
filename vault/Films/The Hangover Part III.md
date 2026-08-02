@@ -39,6 +39,11 @@ letterboxd: https://boxd.it/3GNY
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
 - TNT
 - TBS
 - tru TV
@@ -56,3 +61,4 @@ This time, there's no wedding. No bachelor party. What could go wrong, right? Bu
 > **Cast** [[Bradley Cooper]] · [[Ed Helms]] · [[Zach Galifianakis]] · [[Justin Bartha]] · [[Ken Jeong]] · [[John Goodman]] · [[Melissa McCarthy]] · [[Jeffrey Tambor]] · [[Heather Graham]] · [[Mike Epps]]
 > **Studios** [[Green Hat Films]] · [[Legendary Pictures]] · [[BenderSpink]]
 > **Genres** [[Comedy]]
+

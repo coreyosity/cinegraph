@@ -61,3 +61,4 @@ The story follows Carol Danvers as she becomes one of the universe’s most powe
 > **Cast** [[Brie Larson]] · [[Samuel L. Jackson]] · [[Ben Mendelsohn]] · [[Jude Law]] · [[Annette Bening]] · [[Djimon Hounsou]] · [[Lee Pace]] · [[Lashana Lynch]] · [[Gemma Chan]] · [[Clark Gregg]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

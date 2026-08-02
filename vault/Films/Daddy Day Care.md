@@ -48,7 +48,6 @@ letterboxd: https://boxd.it/1VAw
 providers:
 - Netflix
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -64,3 +63,4 @@ Two men get laid off and have to become stay-at-home dads when they can't find j
 > **Cast** [[Eddie Murphy]] · [[Jeff Garlin]] · [[Steve Zahn]] · [[Regina King]] · [[Kevin Nealon]] · [[Jonathan Katz]] · [[Siobhan Fallon Hogan]] · [[Lisa Edelstein]] · [[Lacey Chabert]] · [[Laura Kightlinger]]
 > **Studios** [[Revolution Studios]] · [[Davis Entertainment]]
 > **Genres** [[Comedy]] · [[Family]]
+

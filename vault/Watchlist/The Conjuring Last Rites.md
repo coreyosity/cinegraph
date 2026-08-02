@@ -62,3 +62,4 @@ Paranormal investigators Ed and Lorraine Warren take on one last terrifying case
 > **Cast** [[Patrick Wilson]] · [[Vera Farmiga]] · [[Mia Tomlinson]] · [[Ben Hardy]] · [[Rebecca Calder]] · [[Tilly Walker]] · [[Elliot Cowan]] · [[Shannon Kook]] · [[Steve Coulter]] · [[Kíla Lord Cassidy]]
 > **Studios** [[New Line Cinema]] · [[Domain Entertainment]] · [[The Safran Company]] · [[Atomic Monster]]
 > **Genres** [[Horror]]
+

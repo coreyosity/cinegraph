@@ -66,11 +66,14 @@ letterboxd: https://boxd.it/28pG
 providers:
 - fuboTV
 - Philo
-- Sony Pictures Core Amazon Channel
 - Netflix
 - Crave
 - Netflix Standard with Ads
 - Crave Amazon Channel
+- Paramount Plus
+- Paramount+ Amazon Channel
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 log_tags:
 - myself
 - home
@@ -88,3 +91,4 @@ Angela Bennett is a freelance computer systems analyst who tracks down software 
 > **Cast** [[Sandra Bullock]] · [[Jeremy Northam]] · [[Dennis Miller]] · [[Wendy Gazelle]] · [[Diane Baker]] · [[Ken Howard]] · [[Ray McKinnon]] · [[Daniel Schorr]] · [[L. Scott Caldwell]] · [[Robert Gossett]]
 > **Studios** [[Columbia Pictures]]
 > **Genres** [[Crime]] · [[Drama]] · [[Mystery]] · [[Thriller]] · [[Action]]
+

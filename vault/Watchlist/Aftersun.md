@@ -71,3 +71,4 @@ Sophie reflects on the shared joy and private melancholy of a holiday she took w
 > **Cast** [[Paul Mescal]] · [[Frankie Corio]] · [[Brooklyn Toulson]] · [[Celia Rowlson-Hall]] · [[Sally Messham]] · [[Ayşe Parlak]] · [[Sophia Lamanova]] · [[Spike Fearn]] · [[Harry Perdios]] · [[Frank Corio]]
 > **Studios** [[PASTEL]] · [[BBC Film]] · [[Tango Entertainment]] · [[Unified Theory]] · [[Screen Scotland]] · [[BFI]]
 > **Genres** [[Drama]]
+

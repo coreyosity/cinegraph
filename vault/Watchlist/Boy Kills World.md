@@ -67,3 +67,4 @@ When his family is murdered, a deaf-mute named Boy escapes to the jungle and is 
 > **Cast** [[Bill Skarsgård]] · [[Jessica Rothe]] · [[H. Jon Benjamin]] · [[Michelle Dockery]] · [[Brett Gelman]] · [[Sharlto Copley]] · [[Andrew Koji]] · [[Isaiah Mustafa]] · [[Famke Janssen]] · [[Quinn Copeland]]
 > **Studios** [[Vertigo Entertainment]] · [[Hammerstone Studios]] · [[Nthibah Pictures]] · [[Capstone Global]]
 > **Genres** [[Crime]] · [[Thriller]] · [[Action]]
+

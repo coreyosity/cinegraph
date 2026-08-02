@@ -58,11 +58,10 @@ tags:
 - film
 letterboxd: https://boxd.it/16gq
 providers:
+- Amazon Prime Video
 - FilmBox+
-- MGM Plus Amazon Channel
+- Amazon Prime Video with Ads
 - Starz Apple TV Channel
-- Sony Pictures Core Amazon Channel
-- MGM Amazon Channel
 ---
 
 Kindhearted Griffin Keyes is one of the best-loved caretakers at the Franklin Park Zoo, but he's more comfortable with the animals than with females of his own species as proven by his failed marriage proposal to the self-absorbed Stephanie several years ago. The animals have listened to Griffin pine over her for years and, after she reappears in his life, they decide to help Griffin rekindle the relationship and become the alpha male she wants him to be. They inadvertently reveal their secret ability to talk and, after Griffin's initial shock, teach him the rules of courtship, animal-style. Surprisingly, the animals' advice really works and Griffin is about to get everything he's ever dreamed of--or is he?
@@ -75,3 +74,4 @@ Kindhearted Griffin Keyes is one of the best-loved caretakers at the Franklin Pa
 > **Cast** [[Kevin James]] · [[Rosario Dawson]] · [[Leslie Bibb]] · [[Joe Rogan]] · [[Nat Faxon]] · [[Ken Jeong]] · [[Steffiana De La Cruz]] · [[Thomas Gottschalk]] · [[Donnie Wahlberg]] · [[Brandon Keener]]
 > **Studios** [[Broken Road Productions]] · [[Hey Eddie]] · [[Happy Madison Productions]] · [[Columbia Pictures]] · [[Metro-Goldwyn-Mayer]]
 > **Genres** [[Comedy]] · [[Romance]] · [[Family]]
+

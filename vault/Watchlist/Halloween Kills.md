@@ -59,3 +59,4 @@ Michael manages to free himself from Laurie Strode's trap to resume his ritual b
 > **Cast** [[Jamie Lee Curtis]] · [[Judy Greer]] · [[Andi Matichak]] · [[James Jude Courtney]] · [[Nick Castle]] · [[Airon Armstrong]] · [[Will Patton]] · [[Thomas Mann]] · [[Jim Cummings]] · [[Dylan Arnold]]
 > **Studios** [[Blumhouse Productions]] · [[Miramax]] · [[Rough House Pictures]] · [[Trancas International Films]]
 > **Genres** [[Horror]]
+

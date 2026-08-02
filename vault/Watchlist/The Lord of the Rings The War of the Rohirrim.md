@@ -60,3 +60,4 @@ A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance
 > **Cast** [[Brian Cox]] · [[Gaia Wise]] · [[Luke Pasqualino]] · [[Laurence Ubong Williams]] · [[Lorraine Ashbourne]] · [[Miranda Otto]] · [[Shaun Dooley]] · [[Benjamin Wainwright]] · [[Yazdan Qafouri]] · [[Michael Wildman]]
 > **Studios** [[New Line Cinema]] · [[Warner Bros. Animation]] · [[Sola Entertainment]] · [[Middle-earth Enterprises]] · [[WingNut Films]] · [[Domain Entertainment]]
 > **Genres** [[Animation]] · [[Fantasy]] · [[Adventure]] · [[Action]]
+

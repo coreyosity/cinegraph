@@ -74,7 +74,6 @@ letterboxd: https://boxd.it/2uds
 providers:
 - Disney Plus
 - Netflix
-- fuboTV
 - Netflix Standard with Ads
 - Amazon Prime Video
 - Crave
@@ -101,3 +100,4 @@ In a dystopian society where the Capitol forces each district to send two young 
 > **Cast** [[Jennifer Lawrence]] · [[Josh Hutcherson]] · [[Liam Hemsworth]] · [[Woody Harrelson]] · [[Elizabeth Banks]] · [[Lenny Kravitz]] · [[Stanley Tucci]] · [[Donald Sutherland]] · [[Wes Bentley]] · [[Toby Jones]]
 > **Studios** [[Lionsgate]] · [[Color Force]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]] · [[Thriller]]
+

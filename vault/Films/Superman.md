@@ -73,3 +73,4 @@ Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his c
 > **Cast** [[Christopher Reeve]] · [[Margot Kidder]] · [[Gene Hackman]] · [[Marlon Brando]] · [[Ned Beatty]] · [[Jackie Cooper]] · [[Glenn Ford]] · [[Trevor Howard]] · [[Jack O'Halloran]] · [[Valerie Perrine]]
 > **Studios** [[Dovemead Films]] · [[Alexander and Ilya Salkind Productions]] · [[International Film Production]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

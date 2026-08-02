@@ -60,3 +60,4 @@ On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby t
 > **Cast** [[Enzo Vogrincic]] · [[Agustín Pardella]] · [[Matías Recalt]] · [[Esteban Bigliardi]] · [[Diego Vegezzi]] · [[Fernando Contigiani García]] · [[Esteban Kukuriczka]] · [[Francisco Romero]] · [[Rafael Federman]] · [[Valentino Alonso]]
 > **Studios** [[El Arriero Films]] · [[Misión de Audaces Films]] · [[Netflix]]
 > **Genres** [[Drama]] · [[History]]
+

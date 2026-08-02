@@ -70,8 +70,8 @@ providers:
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
 - Crave
+- Starz Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -82,3 +82,4 @@ A tribute to the controversial black activist and leader of the struggle for bla
 > **Cast** [[Denzel Washington]] · [[Angela Bassett]] · [[Albert Hall]] · [[Al Freeman Jr]] · [[Delroy Lindo]] · [[Spike Lee]] · [[Theresa Randle]] · [[Kate Vernon]] · [[Lonette McKee]] · [[Tommy Hollis]]
 > **Studios** [[Warner Bros. Pictures]] · [[40 Acres and a Mule Filmworks]] · [[Marvin Worth Productions]] · [[Largo International]]
 > **Genres** [[Drama]] · [[History]]
+

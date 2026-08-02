@@ -57,7 +57,6 @@ tags:
 letterboxd: https://boxd.it/15gO
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.
@@ -70,3 +69,4 @@ Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky
 > **Cast** [[Mandy Moore]] · [[Zachary Levi]] · [[Donna Murphy]] · [[Ron Perlman]] · [[M.C. Gainey]] · [[Jeffrey Tambor]] · [[Brad Garrett]] · [[Paul F. Tompkins]] · [[Richard Kiel]] · [[Delaney Rose Stein]]
 > **Studios** [[Walt Disney Animation Studios]] · [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]]
+

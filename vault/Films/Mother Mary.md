@@ -66,3 +66,4 @@ Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites
 > **Cast** [[Anne Hathaway]] · [[Michaela Coel]] · [[Hunter Schafer]] · [[FKA twigs]] · [[Sian Clifford]] · [[Kaia Gerber]] · [[Alba Baptista]] · [[Atheena Frizzell]] · [[Jessica Brown Findlay]] · [[Isaura Barbé-Brown]]
 > **Studios** [[A24]] · [[Augenschein Filmproduktion]] · [[Topic Studios]] · [[Sailor Bear]] · [[IPR.VC]] · [[Homebird Productions]] · [[Access Entertainment]]
 > **Genres** [[Music]] · [[Drama]] · [[Thriller]]
+

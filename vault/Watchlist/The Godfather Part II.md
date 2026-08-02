@@ -62,7 +62,6 @@ providers:
 - Paramount+ Amazon Channel
 - Amazon Prime Video with Ads
 - fuboTV
-- Philo
 - YouTube TV
 - Paramount+ Roku Premium Channel
 - Crave
@@ -79,3 +78,4 @@ In the continuing saga of the Corleone crime family, a young Vito Corleone grows
 > **Cast** [[Al Pacino]] · [[Robert Duvall]] · [[Diane Keaton]] · [[Robert De Niro]] · [[John Cazale]] · [[Talia Shire]] · [[Lee Strasberg]] · [[Michael V. Gazzo]] · [[G.D. Spradlin]] · [[Richard Bright]]
 > **Studios** [[Paramount Pictures]] · [[The Coppola Company]] · [[American Zoetrope]]
 > **Genres** [[Drama]] · [[Crime]]
+

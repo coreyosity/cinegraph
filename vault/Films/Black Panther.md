@@ -54,3 +54,4 @@ King T'Challa returns home to the reclusive, technologically advanced African na
 > **Cast** [[Chadwick Boseman]] · [[Michael B. Jordan]] · [[Lupita Nyong'o]] · [[Danai Gurira]] · [[Martin Freeman]] · [[Daniel Kaluuya]] · [[Letitia Wright]] · [[Winston Duke]] · [[Sterling K. Brown]] · [[Angela Bassett]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

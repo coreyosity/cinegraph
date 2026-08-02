@@ -51,8 +51,12 @@ providers:
 - Amazon Prime Video with Ads
 - Club Illico
 - BINGE
+- Paramount Plus
+- Paramount+ Amazon Channel
 - Foxtel Now
 - Stan
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 ---
 
 The prehistoric Croods family live in a particularly dangerous moment in time. Patriarch Grug, his mate Ugga, teenage daughter Eep, son Thunk, and feisty Gran gather food by day and huddle together in a cave at night. When a more evolved caveman named Guy arrives on the scene, Grug is distrustful, but it soon becomes apparent that Guy is correct about the impending destruction of their world.
@@ -65,3 +69,4 @@ The prehistoric Croods family live in a particularly dangerous moment in time. P
 > **Cast** [[Nicolas Cage]] · [[Emma Stone]] · [[Ryan Reynolds]] · [[Catherine Keener]] · [[Cloris Leachman]] · [[Clark Duke]] · [[Chris Sanders]] · [[Randy Thom]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Animation]] · [[Adventure]] · [[Family]] · [[Comedy]]
+

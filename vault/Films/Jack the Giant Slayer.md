@@ -43,7 +43,6 @@ tags:
 - film
 letterboxd: https://boxd.it/2Pwq
 providers:
-- Sky Go
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
@@ -61,3 +60,4 @@ The story of an ancient war that is reignited when a young farmhand unwittingly 
 > **Cast** [[Nicholas Hoult]] · [[Eleanor Tomlinson]] · [[Ewan McGregor]] · [[Stanley Tucci]] · [[Ian McShane]] · [[Bill Nighy]] · [[Eddie Marsan]] · [[Ewen Bremner]] · [[Warwick Davis]] · [[Ralph Brown]]
 > **Studios** [[New Line Cinema]] · [[Legendary Pictures]] · [[Original Film]] · [[Big Kid Pictures]] · [[Bad Hat Harry Productions]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Adventure]] · [[Drama]]
+

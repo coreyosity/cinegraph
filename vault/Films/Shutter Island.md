@@ -61,11 +61,11 @@ letterboxd: https://boxd.it/1U82
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Philo
+- Starz Roku Premium Channel
 - YouTube TV
 - MGM Plus
+- Starz Amazon Channel
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Stan
@@ -83,3 +83,4 @@ World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappea
 > **Cast** [[Leonardo DiCaprio]] · [[Mark Ruffalo]] · [[Ben Kingsley]] · [[Max von Sydow]] · [[Michelle Williams]] · [[Emily Mortimer]] · [[Patricia Clarkson]] · [[Jackie Earle Haley]] · [[Ted Levine]] · [[John Carroll Lynch]]
 > **Studios** [[Paramount Pictures]] · [[Phoenix Pictures]] · [[Sikelia Productions]] · [[Appian Way]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Mystery]]
+

@@ -73,3 +73,4 @@ Madison is paralyzed by shocking visions of grisly murders, and her torment wors
 > **Cast** [[Annabelle Wallis]] · [[Maddie Hasson]] · [[George Young]] · [[Michole Briana White]] · [[Susanna Thompson]] · [[Ingrid Bisu]] · [[Jean Louisa Kelly]] · [[Jake Abel]] · [[Jacqueline McKenzie]] · [[Christian Clemenson]]
 > **Studios** [[New Line Cinema]] · [[Atomic Monster]] · [[Starlight Media]] · [[My Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]]
+

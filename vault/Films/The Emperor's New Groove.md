@@ -61,3 +61,4 @@ When the self‑absorbed Emperor Kuzco is accidentally transformed into a llama,
 > **Cast** [[David Spade]] · [[John Goodman]] · [[Eartha Kitt]] · [[Patrick Warburton]] · [[Wendie Malick]] · [[Kellyann Kelso]] · [[Eli Russell Linnetz]] · [[Stephen J. Anderson]] · [[Bob Bergen]] · [[Rodger Bumpass]]
 > **Studios** [[Walt Disney Feature Animation]] · [[Walt Disney Pictures]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

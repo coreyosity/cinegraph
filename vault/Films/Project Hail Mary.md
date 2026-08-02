@@ -87,3 +87,4 @@ Science teacher Ryland Grace wakes up on a spaceship light years from home with 
 > **Cast** [[Ryan Gosling]] · [[Sandra Hüller]] · [[James Ortiz]] · [[Lionel Boyce]] · [[Milana Vayntrub]] · [[Ken Leung]] · [[Priya Kansara]] · [[Mia Soteriou]] · [[Annelle Olaleye]] · [[Maya Eva Hosein]]
 > **Studios** [[Lord Miller]] · [[Amazon MGM Studios]] · [[Pascal Pictures]] · [[Open Invite Entertainment]] · [[Waypoint Entertainment]]
 > **Genres** [[Science Fiction]] · [[Adventure]]
+

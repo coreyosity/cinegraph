@@ -55,7 +55,6 @@ tags:
 letterboxd: https://boxd.it/2aLE
 providers:
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - BINGE
@@ -73,3 +72,4 @@ After a young man is murdered, his spirit stays behind to warn his lover of impe
 > **Cast** [[Patrick Swayze]] · [[Demi Moore]] · [[Whoopi Goldberg]] · [[Tony Goldwyn]] · [[Vincent Schiavelli]] · [[Rick Aviles]] · [[Martina Deignan]] · [[Rick Kleber]] · [[Phil Leeds]] · [[Armelia McQueen]]
 > **Studios** [[Paramount Pictures]] · [[Howard W. Koch Productions]]
 > **Genres** [[Fantasy]] · [[Romance]] · [[Thriller]]
+

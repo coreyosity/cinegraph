@@ -50,3 +50,4 @@ Six months into a solo mission, a lonely astronaut confronts the cracks in his m
 > **Cast** [[Adam Sandler]] · [[Paul Dano]] · [[Carey Mulligan]] · [[Kunal Nayyar]] · [[Isabella Rossellini]] · [[Lena Olin]] · [[Petr Papánek]] · [[Marian Roden]] · [[Zuzana Stivínová]] · [[Sinéad Phelps]]
 > **Studios** [[Free Association]] · [[Tango Entertainment]] · [[Sinestra]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Drama]]
+

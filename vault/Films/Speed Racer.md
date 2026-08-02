@@ -68,3 +68,4 @@ Speed Racer is a young and brilliant racing driver. When corruption in the racin
 > **Cast** [[Emile Hirsch]] · [[Christina Ricci]] · [[John Goodman]] · [[Susan Sarandon]] · [[Matthew Fox]] · [[Roger Allam]] · [[Paulie Litt]] · [[Benno Fürmann]] · [[Hiroyuki Sanada]] · [[Rain]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[Silver Pictures]] · [[Anarchos Productions]]
 > **Genres** [[Family]] · [[Action]] · [[Adventure]] · [[Comedy]]
+

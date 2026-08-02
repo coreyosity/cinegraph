@@ -51,12 +51,8 @@ providers:
 - Amazon Prime Video
 - Disney Plus
 - Amazon Prime Video with Ads
-- Peacock Premium
-- Peacock Premium Plus
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
-- BINGE
 - Paramount+ Amazon Channel
 - Foxtel Now
 - Paramount Plus Premium
@@ -70,3 +66,4 @@ An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornad
 > **Cast** [[Helen Hunt]] · [[Bill Paxton]] · [[Jami Gertz]] · [[Cary Elwes]] · [[Lois Smith]] · [[Philip Seymour Hoffman]] · [[Alan Ruck]] · [[Sean Whalen]] · [[Scott Thomson]] · [[Todd Field]]
 > **Studios** [[Warner Bros. Pictures]] · [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Drama]]
+

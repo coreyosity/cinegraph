@@ -65,3 +65,4 @@ Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eye
 > **Cast** [[Sean Astin]] · [[Josh Brolin]] · [[Jeff Cohen]] · [[Corey Feldman]] · [[Kerri Green]] · [[Martha Plimpton]] · [[Ke Huy Quan]] · [[John Matuszak]] · [[Robert Davi]] · [[Joe Pantoliano]]
 > **Studios** [[Amblin Entertainment]] · [[Warner Bros. Pictures]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]]
+

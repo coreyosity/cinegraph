@@ -80,3 +80,4 @@ Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer
 > **Cast** [[Mason Thames]] · [[Madeleine McGraw]] · [[Ethan Hawke]] · [[Jeremy Davies]] · [[E. Roger Mitchell]] · [[Troy Rudeseal]] · [[James Ransone]] · [[Miguel Mora]] · [[Rebecca Clarke]] · [[J. Gaven Wilde]]
 > **Studios** [[Blumhouse Productions]] · [[Crooked Highway]] · [[Universal Pictures]]
 > **Genres** [[Horror]] · [[Thriller]]
+

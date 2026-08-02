@@ -68,12 +68,14 @@ providers:
 - Paramount+ Amazon Channel
 - Netflix Standard with Ads
 - fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Essential
-- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+
 - YouTube TV
 - MGM Plus
 - Paramount+ Roku Premium Channel
+- BBC America
 - Foxtel Now
 ---
 
@@ -87,3 +89,4 @@ An ex-fighter pilot forced to take over the controls of an airliner when the fli
 > **Cast** [[Robert Hays]] · [[Julie Hagerty]] · [[Leslie Nielsen]] · [[Kareem Abdul-Jabbar]] · [[Lloyd Bridges]] · [[Peter Graves]] · [[Robert Stack]] · [[Lorna Patterson]] · [[Jill Whelan]] · [[Ann Nelson]]
 > **Studios** [[Paramount Pictures]] · [[Howard W. Koch Productions]]
 > **Genres** [[Comedy]]
+

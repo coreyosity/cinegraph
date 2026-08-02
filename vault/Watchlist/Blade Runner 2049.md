@@ -52,9 +52,13 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/b8wK
 providers:
-- Paramount Plus
-- Paramount+ Amazon Channel
+- Sky Go
+- fuboTV
 - Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
+- Paramount Plus
 - Paramount Plus Basic with Ads
 - Sony Pictures Core Amazon Channel
 ---
@@ -66,3 +70,4 @@ Thirty years after the events of the first film, a new blade runner, LAPD Office
 > **Cast** [[Ryan Gosling]] · [[Harrison Ford]] · [[Ana de Armas]] · [[Dave Bautista]] · [[Robin Wright]] · [[Sylvia Hoeks]] · [[Mackenzie Davis]] · [[Jared Leto]] · [[Carla Juri]] · [[Hiam Abbass]]
 > **Studios** [[Alcon Entertainment]] · [[Columbia Pictures]] · [[Scott Free Productions]] · [[Bud Yorkin Productions]] · [[Torridon Films]] · [[1614 Entertainment]]
 > **Genres** [[Science Fiction]] · [[Drama]]
+

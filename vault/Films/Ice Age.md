@@ -73,3 +73,4 @@ Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger g
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Goran Višnjić]] · [[Jack Black]] · [[Cedric the Entertainer]] · [[Stephen Root]] · [[Diedrich Bader]] · [[Alan Tudyk]] · [[Lorri Bagley]]
 > **Studios** [[Blue Sky Studios]] · [[20th Century Fox]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Adventure]]
+

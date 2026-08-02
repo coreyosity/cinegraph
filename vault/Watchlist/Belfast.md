@@ -47,3 +47,4 @@ Buddy is a young boy on the cusp of adolescence, whose life is filled with famil
 > **Cast** [[Jude Hill]] · [[Jamie Dornan]] · [[Caitríona Balfe]] · [[Lewis McAskie]] · [[Judi Dench]] · [[Ciarán Hinds]] · [[Lara McDonnell]] · [[Colin Morgan]] · [[Gerard Horan]] · [[Josie Walker]]
 > **Studios** [[TKBC]] · [[Northern Ireland Screen]]
 > **Genres** [[Drama]] · [[History]]
+

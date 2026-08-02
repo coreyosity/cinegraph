@@ -66,6 +66,7 @@ providers:
 - MGM Plus
 - Paramount+ Roku Premium Channel
 - Amazon Prime Video with Ads
+- Crave Amazon Channel
 - Netflix
 - Foxtel Now
 - Netflix Standard with Ads
@@ -78,3 +79,4 @@ Years after witnessing the death of the revered hero Maximus at the hands of his
 > **Cast** [[Paul Mescal]] · [[Denzel Washington]] · [[Pedro Pascal]] · [[Connie Nielsen]] · [[Joseph Quinn]] · [[Fred Hechinger]] · [[Lior Raz]] · [[Derek Jacobi]] · [[Peter Mensah]] · [[Matt Lucas]]
 > **Studios** [[Paramount Pictures]] · [[Scott Free Productions]] · [[Lucy FisherDouglas Wick Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Drama]]
+

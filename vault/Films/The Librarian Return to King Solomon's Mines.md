@@ -45,7 +45,6 @@ tags:
 letterboxd: https://boxd.it/1Oy4
 providers:
 - fuboTV
-- Philo
 - YouTube TV
 - ViX Premium Amazon Channel
 - Wonder Project Amazon Channel
@@ -63,3 +62,4 @@ After retrieving the Crystal Skull in Utah, Flynn Carsen receives a map in the m
 > **Cast** [[Noah Wyle]] · [[Gabrielle Anwar]] · [[Bob Newhart]] · [[Jane Curtin]] · [[Olympia Dukakis]] · [[Erick Avari]] · [[Hakeem Kae-Kazim]] · [[Robert Foxworth]] · [[Zahn McClarnon]] · [[Lisa Brenner]]
 > **Studios** [[Turner Network Television]] · [[Electric Entertainment]] · [[Blue Sky Films]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Adventure]]
+

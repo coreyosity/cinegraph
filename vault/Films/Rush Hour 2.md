@@ -60,3 +60,4 @@ It's vacation time for Carter as he finds himself alongside Lee in Hong Kong wis
 > **Cast** [[Jackie Chan]] · [[Chris Tucker]] · [[John Lone]] · [[Roselyn Sánchez]] · [[Zhang Ziyi]] · [[Alan King]] · [[Harris Yulin]] · [[Kenneth Tsang]] · [[Lisa LoCicero]] · [[Meiling Melançon]]
 > **Studios** [[New Line Cinema]] · [[Arthur Sarkissian Productions]] · [[Roger Birnbaum Productions]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]]
+

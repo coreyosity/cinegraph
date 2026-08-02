@@ -70,3 +70,4 @@ When a group of friends recklessly violate the sacred rule of Tarot readings, th
 > **Cast** [[Harriet Slater]] · [[Wolfgang Novogratz]] · [[Adain Bradley]] · [[Avantika]] · [[Jacob Batalon]] · [[Humberly González]] · [[Larsen Thompson]] · [[Olwen Fouéré]] · [[Sunčica Milanović]] · [[Alan Wells]]
 > **Studios** [[Screen Gems]] · [[Alloy Entertainment]] · [[Ground Control Entertainment]] · [[Capstone Pictures]] · [[TSG Entertainment]]
 > **Genres** [[Horror]]
+

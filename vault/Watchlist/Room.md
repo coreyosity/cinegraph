@@ -53,7 +53,9 @@ providers:
 - Netflix Standard with Ads
 - HBO Max Amazon Channel
 - YouTube TV
+- Cinemax Amazon Channel
 - HBO Max
+- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -69,3 +71,4 @@ Held captive for 7 years in an enclosed space, a woman and her young son finally
 > **Cast** [[Brie Larson]] · [[Jacob Tremblay]] · [[Joan Allen]] · [[Sean Bridgers]] · [[Tom McCamus]] · [[William H. Macy]] · [[Cas Anvar]] · [[Amanda Brugel]] · [[Wendy Crewson]] · [[Joe Pingue]]
 > **Studios** [[Téléfilm Canada]] · [[Element Pictures]] · [[FilmNation Entertainment]] · [[No Trace Camping]] · [[Film4 Productions]] · [[Fís ÉireannScreen Ireland]]
 > **Genres** [[Drama]] · [[Thriller]]
+

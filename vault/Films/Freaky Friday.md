@@ -66,3 +66,4 @@ Mother and daughter bicker over everything -- what Anna wears, whom she likes an
 > **Cast** [[Lindsay Lohan]] · [[Jamie Lee Curtis]] · [[Harold Gould]] · [[Chad Michael Murray]] · [[Mark Harmon]] · [[Stephen Tobolowsky]] · [[Christina Vidal Mitchell]] · [[Ryan Malgarini]] · [[Haley Hudson]] · [[Rosalind Chao]]
 > **Studios** [[Casual Friday Productions]] · [[Gunn Films]] · [[Walt Disney Pictures]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

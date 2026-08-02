@@ -75,3 +75,4 @@ Babe is a little pig who doesn't quite know his place in the world. With a bunch
 > **Cast** [[Christine Cavanaugh]] · [[Miriam Margolyes]] · [[Danny Mann]] · [[Hugo Weaving]] · [[Miriam Flynn]] · [[James Cromwell]] · [[Magda Szubanski]] · [[Russi Taylor]] · [[Roscoe Lee Browne]] · [[Evelyn Krape]]
 > **Studios** [[Universal Pictures]] · [[Kennedy Miller Productions]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Comedy]] · [[Family]]
+

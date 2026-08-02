@@ -68,3 +68,4 @@ When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, 
 > **Cast** [[Raúl Juliá]] · [[Anjelica Huston]] · [[Christopher Lloyd]] · [[Dan Hedaya]] · [[Elizabeth Wilson]] · [[Judith Malina]] · [[Carel Struycken]] · [[Dana Ivey]] · [[Paul Benedict]] · [[Christina Ricci]]
 > **Studios** [[Paramount Pictures]] · [[Orion Pictures]] · [[Scott Rudin Productions]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

@@ -74,3 +74,4 @@ Trapped in their New York brownstone's panic room, a hidden chamber built as a s
 > **Cast** [[Jodie Foster]] · [[Kristen Stewart]] · [[Forest Whitaker]] · [[Dwight Yoakam]] · [[Jared Leto]] · [[Patrick Bauchau]] · [[Ann Magnuson]] · [[Ian Buchanan]] · [[Andrew Kevin Walker]] · [[Paul Schulze]]
 > **Studios** [[Columbia Pictures]] · [[HofflundPolone]] · [[Indelible Pictures]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

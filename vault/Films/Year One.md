@@ -57,3 +57,4 @@ When a couple of lazy hunter-gatherers are banished from their primitive village
 > **Cast** [[Jack Black]] · [[Michael Cera]] · [[Oliver Platt]] · [[David Cross]] · [[Christopher Mintz-Plasse]] · [[Vinnie Jones]] · [[Hank Azaria]] · [[Juno Temple]] · [[Olivia Wilde]] · [[June Diane Raphael]]
 > **Studios** [[Columbia Pictures]] · [[Apatow Productions]] · [[Ocean Pictures]]
 > **Genres** [[Comedy]] · [[Adventure]]
+

@@ -63,3 +63,4 @@ Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it a
 > **Cast** [[John C. Reilly]] · [[Sarah Silverman]] · [[Gal Gadot]] · [[Taraji P. Henson]] · [[Jack McBrayer]] · [[Timothy Simons]] · [[Phil Johnston]] · [[Mandy Moore]] · [[Anika Noni Rose]] · [[Irene Bedard]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]] · [[Science Fiction]]
+

@@ -78,7 +78,6 @@ letterboxd: https://boxd.it/3SWS
 providers:
 - Disney Plus
 - Hulu
-- fuboTV
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Stan
@@ -100,3 +99,4 @@ Two recently laid-off men in their 40s try to make it as interns at a successful
 > **Cast** [[Vince Vaughn]] · [[Owen Wilson]] · [[Rose Byrne]] · [[Aasif Mandvi]] · [[Max Minghella]] · [[Josh Brener]] · [[Dylan O'Brien]] · [[Tiya Sircar]] · [[Tobit Raphael]] · [[Josh Gad]]
 > **Studios** [[TSG Entertainment]] · [[Regency Enterprises]] · [[Wild West Picture Show Productions]] · [[21 Laps Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Comedy]]
+

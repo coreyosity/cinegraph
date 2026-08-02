@@ -68,3 +68,4 @@ Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo
 > **Cast** [[Kevin James]] · [[Raini Rodriguez]] · [[Neal McDonough]] · [[Daniella Alonso]] · [[Eduardo Verástegui]] · [[David Henrie]] · [[Shirley Knight]] · [[Gary Valentine]] · [[Ana Gasteyer]] · [[Nicholas Turturro]]
 > **Studios** [[Columbia Pictures]] · [[Hey Eddie]] · [[LStar Capital]] · [[Happy Madison Productions]] · [[Broken Road Productions]]
 > **Genres** [[Action]] · [[Comedy]] · [[Family]]
+

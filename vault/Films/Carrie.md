@@ -61,12 +61,15 @@ tags:
 - film
 letterboxd: https://boxd.it/20ZQ
 providers:
+- MUBI
+- MUBI Amazon Channel
 - MGM Plus Amazon Channel
 - fuboTV
 - MGM+ Amazon Channel
 - Philo
 - MGM Plus Roku Premium Channel
 - YouTube TV
+- Criterion Channel
 - MGM Plus
 - Crave
 - MGM Amazon Channel
@@ -83,3 +86,4 @@ Withdrawn and sensitive teenager Carrie White faces bullying from her classmates
 > **Cast** [[Sissy Spacek]] · [[Piper Laurie]] · [[Amy Irving]] · [[William Katt]] · [[John Travolta]] · [[Nancy Allen]] · [[Betty Buckley]] · [[P. J. Soles]] · [[Priscilla Pointer]] · [[Sydney Lassick]]
 > **Studios** [[United Artists]]
 > **Genres** [[Horror]] · [[Thriller]]
+

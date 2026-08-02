@@ -64,3 +64,4 @@ The Baker family, while on vacation, find themselves in competition with a rival
 > **Cast** [[Steve Martin]] · [[Eugene Levy]] · [[Bonnie Hunt]] · [[Tom Welling]] · [[Piper Perabo]] · [[Hilary Duff]] · [[Carmen Electra]] · [[Jaime King]] · [[Taylor Lautner]] · [[Alyson Stoner]]
 > **Studios** [[20th Century Fox]] · [[21 Laps Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Adventure]]
+

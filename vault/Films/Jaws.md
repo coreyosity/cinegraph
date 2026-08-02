@@ -62,11 +62,7 @@ letterboxd: https://boxd.it/2a5e
 providers:
 - Amazon Prime Video
 - Sky Go
-- Now TV Cinema
-- Peacock Premium
-- Philo
 - YouTube TV
-- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 - BINGE
@@ -83,3 +79,4 @@ When the seaside community of Amity finds itself under attack by a dangerous gre
 > **Cast** [[Roy Scheider]] · [[Robert Shaw]] · [[Richard Dreyfuss]] · [[Lorraine Gary]] · [[Murray Hamilton]] · [[Carl Gottlieb]] · [[Jeffrey Kramer]] · [[Susan Backlinie]] · [[Jonathan Filley]] · [[Ted Grossman]]
 > **Studios** [[The ZanuckBrown Company]] · [[Universal Pictures]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Adventure]]
+

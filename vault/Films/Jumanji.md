@@ -50,7 +50,7 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Netflix
-- fuboTV
+- Philo
 - Netflix Standard with Ads
 - Crave
 - Paramount Plus
@@ -80,3 +80,4 @@ When siblings Judy and Peter discover an enchanted board game that opens the doo
 > **Cast** [[Robin Williams]] · [[Kirsten Dunst]] · [[Bradley Pierce]] · [[Bonnie Hunt]] · [[Jonathan Hyde]] · [[Bebe Neuwirth]] · [[David Alan Grier]] · [[Adam Hann-Byrd]] · [[Patricia Clarkson]] · [[Laura Bell Bundy]]
 > **Studios** [[TriStar Pictures]] · [[Interscope Communications]] · [[Teitler Film]] · [[PolyGram Filmed Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Family]]
+

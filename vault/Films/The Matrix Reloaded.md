@@ -70,12 +70,14 @@ tags:
 - film
 letterboxd: https://boxd.it/2a1c
 providers:
+- Amazon Prime Video
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video
+- Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
 ---
@@ -90,3 +92,4 @@ The Resistance builds in numbers as humans are freed from the Matrix and brought
 > **Cast** [[Keanu Reeves]] · [[Laurence Fishburne]] · [[Carrie-Anne Moss]] · [[Hugo Weaving]] · [[Jada Pinkett Smith]] · [[Gloria Foster]] · [[Harold Perrineau]] · [[Monica Bellucci]] · [[Harry Lennix]] · [[Lambert Wilson]]
 > **Studios** [[Village Roadshow Pictures]] · [[Silver Pictures]] · [[NPV Entertainment]]
 > **Genres** [[Adventure]] · [[Action]] · [[Thriller]] · [[Science Fiction]]
+

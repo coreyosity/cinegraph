@@ -60,3 +60,4 @@ In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his 
 > **Cast** [[Lucas Black]] · [[Nathalie Kelley]] · [[Sung Kang]] · [[Shad Moss]] · [[Brian Tee]] · [[Leonardo Nam]] · [[Brian Goodman]] · [[Zachery Ty Bryan]] · [[Nikki Griffin]] · [[Jason Tobin]]
 > **Studios** [[MP Munich Pape Filmproductions]] · [[Original Film]] · [[Relativity Media]] · [[Universal Pictures]] · [[Cine Bazar]]
 > **Genres** [[Action]] · [[Crime]] · [[Drama]] · [[Thriller]]
+

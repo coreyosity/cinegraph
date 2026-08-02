@@ -69,3 +69,4 @@ A tale of outsized ambition and outrageous excess, tracing the rise and fall of 
 > **Cast** [[Diego Calva]] · [[Margot Robbie]] · [[Brad Pitt]] · [[Jovan Adepo]] · [[Jean Smart]] · [[J.C. Currais]] · [[Jimmy Ortega]] · [[Marcos A. Ferraez]] · [[Shane Powers]] · [[Phoebe Tonkin]]
 > **Studios** [[Paramount Pictures]] · [[Marc Platt Productions]] · [[C2 Motion Picture Group]] · [[Organism Pictures]] · [[Wild Chickens Productions]]
 > **Genres** [[Drama]] · [[Comedy]]
+

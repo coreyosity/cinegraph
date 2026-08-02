@@ -65,7 +65,6 @@ providers:
 - YouTube TV
 - HBO Max
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 log_tags:
 - cinema
@@ -84,3 +83,4 @@ In a dystopian 1970s America, fifty teenage boys take part in a deadly annual wa
 > **Cast** [[Cooper Hoffman]] · [[David Jonsson]] · [[Ben Wang]] · [[Tut Nyuot]] · [[Charlie Plummer]] · [[Garrett Wareing]] · [[Jordan Gonzalez]] · [[Joshua Odjick]] · [[Mark Hamill]] · [[Roman Griffin Davis]]
 > **Studios** [[Lionsgate]] · [[Media Capital Technologies]] · [[Vertigo Entertainment]] · [[aboutblank]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Horror]]
+

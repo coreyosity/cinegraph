@@ -40,3 +40,4 @@ The fifth installment of the franchise. Plot TBA.
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Sigourney Weaver]] · [[Oona Chaplin]] · [[Giovanni Ribisi]] · [[CCH Pounder]] · [[Joel David Moore]] · [[Matt Gerald]] · [[Stephen Lang]] · [[Jemaine Clement]]
 > **Studios** [[Lightstorm Entertainment]] · [[20th Century Studios]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Action]]
+

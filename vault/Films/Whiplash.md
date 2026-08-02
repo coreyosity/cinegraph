@@ -84,3 +84,4 @@ Under the direction of a ruthless instructor, a talented young drummer begins to
 > **Cast** [[Miles Teller]] · [[J.K. Simmons]] · [[Paul Reiser]] · [[Melissa Benoist]] · [[Austin Stowell]] · [[Nate Lang]] · [[Chris Mulkey]] · [[Damon Gupton]] · [[Suanne Spoke]] · [[Max Kasch]]
 > **Studios** [[Bold Films]] · [[Blumhouse Productions]] · [[Right of Way Films]]
 > **Genres** [[Drama]] · [[Music]] · [[Thriller]]
+

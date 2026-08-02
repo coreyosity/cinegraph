@@ -81,3 +81,4 @@ In the aftermath of a massive earthquake in California, a rescue-chopper pilot m
 > **Cast** [[Dwayne Johnson]] · [[Alexandra Daddario]] · [[Carla Gugino]] · [[Ioan Gruffudd]] · [[Archie Panjabi]] · [[Paul Giamatti]] · [[Hugo Johnstone-Burt]] · [[Art Parkinson]] · [[Will Yun Lee]] · [[Kylie Minogue]]
 > **Studios** [[New Line Cinema]] · [[Village Roadshow Pictures]] · [[Flynn Picture Company]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Drama]] · [[Thriller]]
+

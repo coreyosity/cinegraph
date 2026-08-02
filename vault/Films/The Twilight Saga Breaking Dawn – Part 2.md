@@ -83,3 +83,4 @@ After the birth of Renesmee, the Cullens gather other vampire clans in order to 
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Peter Facinelli]] · [[Elizabeth Reaser]] · [[Ashley Greene]] · [[Jackson Rathbone]] · [[Kellan Lutz]] · [[Nikki Reed]] · [[Billy Burke]]
 > **Studios** [[Summit Entertainment]] · [[Temple Hill Entertainment]] · [[Sunswept Entertainment]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Romance]]
+

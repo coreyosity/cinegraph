@@ -74,3 +74,4 @@ A tormented jazz musician finds himself lost in an enigmatic story involving mur
 > **Cast** [[Patricia Arquette]] · [[Bill Pullman]] · [[Balthazar Getty]] · [[Robert Blake]] · [[Robert Loggia]] · [[Michael Massee]] · [[Natasha Gregson Wagner]] · [[Richard Pryor]] · [[Gary Busey]] · [[Lucy Butler]]
 > **Studios** [[CiBy 2000]] · [[Asymmetrical Productions]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Mystery]]
+

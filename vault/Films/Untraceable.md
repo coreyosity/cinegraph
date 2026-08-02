@@ -52,8 +52,6 @@ poster: https://image.tmdb.org/t/p/w500/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg
 tags:
 - film
 letterboxd: https://boxd.it/20yA
-providers:
-- Sony Pictures Core Amazon Channel
 ---
 
 Special Agent Jennifer Marsh works in an elite division of the FBI dedicated to fighting cybercrime. She thinks she has seen it all, until a particularly sadistic criminal arises on the Internet. This tech-savvy killer posts live feeds of his crimes on his website; the more hits the site gets, the faster the victim dies. Marsh and her team must find the elusive killer before time runs out.
@@ -66,3 +64,4 @@ Special Agent Jennifer Marsh works in an elite division of the FBI dedicated to 
 > **Cast** [[Diane Lane]] · [[Billy Burke]] · [[Colin Hanks]] · [[Joseph Cross]] · [[Mary Beth Hurt]] · [[Peter Gray Lewis]] · [[Perla Haney-Jardine]] · [[Christopher Cousins]] · [[Jesse Tyler Ferguson]] · [[Brynn Baron]]
 > **Studios** [[CohenPearl Productions]] · [[Screen Gems]] · [[Lakeshore Entertainment]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Mystery]] · [[Drama]] · [[Horror]]
+

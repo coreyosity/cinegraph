@@ -78,13 +78,8 @@ providers:
 - Disney Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- fuboTV
-- Philo
-- 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
-- AMC+ Roku Premium Channel
-- AMC+
 - YouTube TV
+- FXNow
 - AMC
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -101,3 +96,4 @@ After paleoclimatologist Jack Hall is largely ignored by UN officials when prese
 > **Cast** [[Dennis Quaid]] · [[Jake Gyllenhaal]] · [[Emmy Rossum]] · [[Dash Mihok]] · [[Jay O. Sanders]] · [[Sela Ward]] · [[Austin Nichols]] · [[Arjay Smith]] · [[Tamlyn Tomita]] · [[Sasha Roiz]]
 > **Studios** [[20th Century Fox]] · [[Centropolis Entertainment]] · [[Lionsgate]] · [[The Mark Gordon Company]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Adventure]]
+

@@ -93,3 +93,4 @@ In 1920s Ireland young doctor Damien O'Donovan prepares to depart for a new job 
 > **Cast** [[Cillian Murphy]] · [[Pádraic Delaney]] · [[Liam Cunningham]] · [[Orla Fitzgerald]] · [[Mary O'Riordan]] · [[Mary Murphy]] · [[Laurence Barry]] · [[Damien Kearney]] · [[Frank Bourke]] · [[Myles Horgan]]
 > **Studios** [[Sixteen Films]] · [[Matador Pictures]] · [[Regent Capital]] · [[Element Pictures]] · [[BiM Distribuzione]] · [[EMC]] · [[Tornasol Media]] · [[Fís ÉireannScreen Ireland]] · [[UK Film Council]] · [[TV3]]
 > **Genres** [[Drama]] · [[War]]
+

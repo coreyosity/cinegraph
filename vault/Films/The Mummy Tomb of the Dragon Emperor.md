@@ -75,3 +75,4 @@ Archaeologist Rick O'Connell travels to China, pitting him against an emperor fr
 > **Cast** [[Brendan Fraser]] · [[Maria Bello]] · [[John Hannah]] · [[Luke Ford]] · [[Isabella Leong Lok-Sze]] · [[Jet Li]] · [[Michelle Yeoh]] · [[Anthony Wong Chau-Sang]] · [[Russell Wong]] · [[Liam Cunningham]]
 > **Studios** [[Universal Pictures]] · [[Relativity Media]] · [[The Sommers Company]] · [[Alphaville Films]] · [[Beijing Happy Pictures]] · [[Shanghai Film Group]] · [[Internationale Filmproduktion Blackbird Erste]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

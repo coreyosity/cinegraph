@@ -91,3 +91,4 @@ Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bi
 > **Cast** [[Elijah Wood]] · [[Ian McKellen]] · [[Viggo Mortensen]] · [[Sean Astin]] · [[Ian Holm]] · [[Liv Tyler]] · [[Christopher Lee]] · [[Sean Bean]] · [[Billy Boyd]] · [[Dominic Monaghan]]
 > **Studios** [[New Line Cinema]] · [[WingNut Films]] · [[The Saul Zaentz Company]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

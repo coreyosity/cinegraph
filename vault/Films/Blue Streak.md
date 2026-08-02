@@ -58,3 +58,4 @@ Miles Logan is a jewel thief who just hit the big time by stealing a huge diamon
 > **Cast** [[Martin Lawrence]] · [[Luke Wilson]] · [[Dave Chappelle]] · [[Peter Greene]] · [[Nicole Ari Parker]] · [[William Forsythe]] · [[Graham Beckel]] · [[Robert Miranda]] · [[Olek Krupa]] · [[Saverio Guerra]]
 > **Studios** [[Columbia Pictures]] · [[IndieProd Company Productions]] · [[Neal H. Moritz Productions]] · [[Jaffe Productions]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]]
+

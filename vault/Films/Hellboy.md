@@ -57,8 +57,6 @@ tags:
 letterboxd: https://boxd.it/28HK
 providers:
 - Sony Pictures Core Amazon Channel
-- Peacock Premium
-- Peacock Premium Plus
 - Netflix
 - Crave
 - Starz Amazon Channel
@@ -77,3 +75,4 @@ In the final days of World War II, the Nazis attempt to use black magic to aid t
 > **Cast** [[Ron Perlman]] · [[Selma Blair]] · [[Doug Jones]] · [[John Hurt]] · [[Rupert Evans]] · [[Jeffrey Tambor]] · [[Ladislav Beran]] · [[Bridget Hodson]] · [[Karel Roden]] · [[Brian Steele]]
 > **Studios** [[Revolution Studios]] · [[Dark Horse Entertainment]] · [[Lawrence Gordon Productions]]
 > **Genres** [[Fantasy]] · [[Action]]
+

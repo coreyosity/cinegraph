@@ -52,3 +52,4 @@ Each year, drunk people are selected to participate in torturous games the morni
 > **Cast** [[Ben Begley]] · [[Herbert Russell]] · [[Ross Nathan]] · [[Sam Pancake]] · [[John Livingston]] · [[Rita Volk]] · [[Tara Reid]] · [[Jamie Kennedy]] · [[Carolyn Ratteray]] · [[Martin Klebba]]
 > **Studios** [[Sense and Sensibility Ventures]] · [[Silver Nitrate]]
 > **Genres** [[Comedy]]
+

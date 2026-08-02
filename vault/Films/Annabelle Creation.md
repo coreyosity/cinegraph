@@ -52,7 +52,6 @@ providers:
 - Cinemax Apple TV Channel
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -69,3 +68,4 @@ Several years after the tragic death of their little girl, a doll maker and his 
 > **Cast** [[Stephanie Sigman]] · [[Talitha Eliana Bateman]] · [[Lulu Wilson]] · [[Anthony LaPaglia]] · [[Miranda Otto]] · [[Grace Caroline Currey]] · [[Philippa Coulthard]] · [[Samara Lee]] · [[Tayler Buck]] · [[Lou Lou Safran]]
 > **Studios** [[Atomic Monster]] · [[New Line Cinema]] · [[The Safran Company]] · [[RatPac Entertainment]]
 > **Genres** [[Horror]]
+

@@ -57,3 +57,4 @@ Struggling manga author Satoru Fujinuma is beset by his fear to express himself.
 > **Cast** [[Tatsuya Fujiwara]] · [[Kasumi Arimura]] · [[Yuriko Ishida]] · [[Tetta Sugimoto]] · [[Mitsuhiro Oikawa]] · [[Seiji Fukushi]] · [[Kanna Mori]] · [[Kento Hayashi]] · [[Tamae Ando]] · [[Yasushi Fuchikami]]
 > **Studios** [[Office Crescendo]] · [[GYAO]] · [[Hakuhodo DY Media Partners]] · [[Horipro]] · [[KADOKAWA]] · [[Rakuten]] · [[Warner Bros. Japan]] · [[Q-TEC]] · [[Universal Music Group]] · [[Kansai Television]] · [[The Asahi Shimbun]]
 > **Genres** [[Thriller]] · [[Fantasy]]
+

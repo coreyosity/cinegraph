@@ -45,7 +45,6 @@ runtime: null
 letterboxd: https://boxd.it/sbH6
 providers:
 - Disney Plus
-- Sky Go
 ---
 
 Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.
@@ -58,3 +57,4 @@ Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the 
 > **Cast** [[Anthony Mackie]] · [[Sebastian Stan]] · [[Wyatt Russell]] · [[Erin Kellyman]] · [[Daniel Brühl]] · [[Emily VanCamp]] · [[Danny Ramirez]] · [[Adepero Oduye]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action & Adventure]] · [[Sci-Fi & Fantasy]]
+

@@ -45,7 +45,9 @@ tags:
 - film
 letterboxd: https://boxd.it/1zgk
 providers:
+- Amazon Prime Video
 - Disney Plus
+- Amazon Prime Video with Ads
 ---
 
 Pop sensations Alvin, Simon and Theodore end up in the care of Dave Seville's twenty-something nephew Toby. The boys must put aside music super stardom to return to school, and are tasked with saving the school's music program by winning the $25,000 prize in a battle of the bands. But the Chipmunks unexpectedly meet their match in three singing chipmunks known as The Chipettes - Brittany, Eleanor and Jeanette. Romantic and musical sparks are ignited when the Chipmunks and Chipettes square off.
@@ -58,3 +60,4 @@ Pop sensations Alvin, Simon and Theodore end up in the care of Dave Seville's tw
 > **Cast** [[Zachary Levi]] · [[David Cross]] · [[Jason Lee]] · [[Justin Long]] · [[Matthew Gray Gubler]] · [[Jesse McCartney]] · [[Amy Poehler]] · [[Anna Faris]] · [[Christina Applegate]] · [[Wendie Malick]]
 > **Studios** [[Fox 2000 Pictures]] · [[Bagdasarian Productions]] · [[Regency Enterprises]] · [[20th Century Fox]] · [[Dune Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Animation]] · [[Fantasy]] · [[Music]]
+

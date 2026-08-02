@@ -63,3 +63,4 @@ From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervi
 > **Cast** [[Will Smith]] · [[Jared Leto]] · [[Margot Robbie]] · [[Joel Kinnaman]] · [[Viola Davis]] · [[Jai Courtney]] · [[Jay Hernandez]] · [[Adewale Akinnuoye-Agbaje]] · [[Cara Delevingne]] · [[Ike Barinholtz]]
 > **Studios** [[Warner Bros. Pictures]] · [[RatPac Entertainment]] · [[DC Films]] · [[Atlas Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

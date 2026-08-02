@@ -54,14 +54,14 @@ tags:
 - film
 letterboxd: https://boxd.it/2ahY
 providers:
-- Amazon Prime Video
 - Paramount+ Amazon Channel
 - Paramount Plus
-- Amazon Prime Video with Ads
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount Plus Essential
+- Peacock Premium
 - Paramount+ Roku Premium Channel
+- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Crave Amazon Channel
@@ -78,3 +78,4 @@ Will Hunting is a headstrong, working-class genius who is failing the lessons of
 > **Cast** [[Matt Damon]] · [[Robin Williams]] · [[Ben Affleck]] · [[Stellan Skarsgård]] · [[Minnie Driver]] · [[Casey Affleck]] · [[Cole Hauser]] · [[Vik Sahay]] · [[John Mighton]] · [[Rachel Majorowski]]
 > **Studios** [[Lawrence Bender Productions]] · [[Be Gentlemen Limited Partnership]] · [[Miramax]]
 > **Genres** [[Drama]]
+

@@ -56,3 +56,4 @@ It is the story of an average, popular American teenager named Wendy Wu who disc
 > **Cast** [[Brenda Song]] · [[Shin Koyamada]] · [[Susan Chuang]] · [[Justin Chon]] · [[Michael David Cheng]] · [[Andy Fischer-Price]] · [[Ellen Woglom]] · [[Tsai Chin]] · [[James Gaylyn]] · [[Michael Saccente]]
 > **Studios** [[Disney Channel]] · [[Rubicon Films]] · [[Regan Jon Productions]] · [[Walt Disney Television]]
 > **Genres** [[Family]] · [[Action]] · [[Adventure]] · [[TV Movie]] · [[Comedy]]
+

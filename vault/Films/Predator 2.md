@@ -46,6 +46,7 @@ tags:
 letterboxd: https://boxd.it/2aY4
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 A police chief in the war-torn streets of Los Angeles discovers that an extraterrestrial creature is hunting down residents - and that he is the next target.
@@ -58,3 +59,4 @@ A police chief in the war-torn streets of Los Angeles discovers that an extrater
 > **Cast** [[Danny Glover]] · [[Gary Busey]] · [[Rubén Blades]] · [[María Conchita Alonso]] · [[Bill Paxton]] · [[Robert Davi]] · [[Adam Baldwin]] · [[Kevin Peter Hall]] · [[Kent McCord]] · [[Morton Downey, Jr]]
 > **Studios** [[Davis Entertainment]] · [[Lawrence Gordon Productions]] · [[Silver Pictures]] · [[20th Century Fox]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Thriller]]
+

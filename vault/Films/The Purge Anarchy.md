@@ -69,3 +69,4 @@ One night per year, the government sanctions a 12-hour period in which citizens 
 > **Cast** [[Frank Grillo]] · [[Carmen Ejogo]] · [[Zach Gilford]] · [[Michael Kenneth Williams]] · [[Kiele Sanchez]] · [[Zoë Soul]] · [[Edwin Hodge]] · [[Justina Machado]] · [[John Beasley]] · [[Jack Conley]]
 > **Studios** [[Why Not Productions]] · [[Platinum Dunes]] · [[Blumhouse Productions]] · [[5150 Action]]
 > **Genres** [[Horror]] · [[Thriller]]
+

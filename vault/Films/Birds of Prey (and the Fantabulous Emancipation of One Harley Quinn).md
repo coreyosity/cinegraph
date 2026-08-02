@@ -89,3 +89,4 @@ Harley Quinn joins forces with a singer, an assassin and a police detective to h
 > **Cast** [[Margot Robbie]] · [[Rosie Perez]] · [[Mary Elizabeth Winstead]] · [[Jurnee Smollett]] · [[Ewan McGregor]] · [[Ella Jay Basco]] · [[Chris Messina]] · [[Ali Wong]] · [[David Ury]] · [[Sara Montez]]
 > **Studios** [[Warner Bros. Pictures]] · [[DC Films]] · [[LuckyChap Entertainment]] · [[Clubhouse Pictures]] · [[Kroll & Co Entertainment]]
 > **Genres** [[Action]] · [[Crime]]
+

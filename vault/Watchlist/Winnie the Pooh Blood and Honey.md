@@ -50,10 +50,10 @@ providers:
 - AMC+ Amazon Channel
 - AMC+
 - Peacock Premium Plus
-- Shudder Amazon Channel
-- Shudder Apple TV Channel
 - Foxtel Now
 - Shudder
+- Shudder Amazon Channel
+- Shudder Apple TV Channel
 ---
 
 After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food.
@@ -63,3 +63,4 @@ After Christopher Robin abandons them for college, Pooh and Piglet embark on a b
 > **Cast** [[Nikolai Leon]] · [[Craig David Dowsett]] · [[Chris Cordell]] · [[Maria Taylor]] · [[Natasha Rose Mills]] · [[Amber Doig-Thorne]] · [[Danielle Ronald]] · [[Natasha Tosini]] · [[May Kelly]] · [[Danielle Scott]]
 > **Studios** [[Jagged Edge Productions]] · [[ITN Distribution]]
 > **Genres** [[Horror]]
+

@@ -55,3 +55,4 @@ When minor-league hockey player Derek Thompson -- who has a penchant for knockin
 > **Cast** [[Dwayne Johnson]] · [[Stephen Merchant]] · [[Ashley Judd]] · [[Julie Andrews]] · [[Ryan Sheckler]] · [[Seth MacFarlane]] · [[Destiny Whitlock]] · [[Chase Ellison]] · [[Darien Provost]] · [[Alex Ferris]]
 > **Studios** [[Dune Entertainment]] · [[Dune Entertainment III]] · [[Walden Media]] · [[Mayhem Pictures]] · [[20th Century Fox]] · [[Blumhouse Productions]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

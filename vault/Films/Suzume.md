@@ -83,3 +83,4 @@ Suzume, 17, lost her mother as a little girl. On her way to school, she meets a 
 > **Cast** [[Nanoka Hara]] · [[Hokuto Matsumura]] · [[Eri Fukatsu]] · [[Shota Sometani]] · [[Sairi Ito]] · [[Kotone Hanase]] · [[Kana Hanazawa]] · [[Matsumoto Hakuō II]] · [[Ryunosuke Kamiki]] · [[Ann Yamane]]
 > **Studios** [[CoMix Wave Films]] · [[Story]] · [[Lawson Entertainment]] · [[jeki]] · [[voque ting]] · [[KADOKAWA]] · [[Aniplex]] · [[TOHO]]
 > **Genres** [[Animation]] · [[Drama]] · [[Adventure]] · [[Fantasy]]
+

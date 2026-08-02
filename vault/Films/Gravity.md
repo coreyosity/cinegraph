@@ -44,6 +44,11 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
+- Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- Paramount+ Roku Premium Channel
 - Starz Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
@@ -59,3 +64,4 @@ Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an ast
 > **Cast** [[Sandra Bullock]] · [[George Clooney]] · [[Ed Harris]] · [[Orto Ignatiussen]] · [[Phaldut Sharma]] · [[Amy Warren]] · [[Basher Savage]]
 > **Studios** [[Esperanto Filmoj]] · [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Drama]]
+

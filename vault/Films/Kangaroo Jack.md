@@ -56,3 +56,4 @@ Two childhood friends — a New York hairstylist and a wanna-be musician — get
 > **Cast** [[Jerry O'Connell]] · [[Anthony Anderson]] · [[Estella Warren]] · [[Christopher Walken]] · [[Michael Shannon]] · [[Marton Csokas]] · [[Dyan Cannon]] · [[Frank Welker]] · [[John McNeill]] · [[Bill Hunter]]
 > **Studios** [[Castle Rock Entertainment]] · [[Jerry Bruckheimer Films]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Crime]] · [[Family]]
+

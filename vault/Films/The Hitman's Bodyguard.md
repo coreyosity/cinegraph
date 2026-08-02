@@ -57,14 +57,10 @@ tags:
 - film
 letterboxd: https://boxd.it/dCmO
 providers:
-- HBO Max Amazon Channel
-- YouTube TV
-- Cinemax Amazon Channel
-- HBO Max
-- Cinemax Apple TV Channel
 - Netflix
-- Starz Amazon Channel
+- YouTube TV
 - Netflix Standard with Ads
+- Starz Amazon Channel
 - Amazon Prime Video
 - Stan
 - Amazon Prime Video with Ads
@@ -80,3 +76,4 @@ The world’s top bodyguard gets a new client, a hitman who must testify at the 
 > **Cast** [[Ryan Reynolds]] · [[Samuel L. Jackson]] · [[Gary Oldman]] · [[Salma Hayek Pinault]] · [[Élodie Yung]] · [[Richard E. Grant]] · [[Joaquim de Almeida]] · [[Kirsty Mitchell]] · [[Yuri Kolokolnikov]] · [[Sam Hazeldine]]
 > **Studios** [[Campbell Grobman Films]] · [[East Light Media]] · [[Nu Boyana Film Studios]] · [[Tom de Mol Productions]] · [[Summit Entertainment]] · [[Millennium Media]] · [[Davis Films]] · [[Cristal Pictures]] · [[Lionsgate]] · [[TIK Films]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]] · [[Thriller]]
+

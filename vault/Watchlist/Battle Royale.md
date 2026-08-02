@@ -67,8 +67,6 @@ providers:
 - YouTube TV
 - BFI Player Amazon Channel
 - MovieSphere+ Amazon Channel
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - MUBI
 - MUBI Amazon Channel
 ---
@@ -80,3 +78,4 @@ In the future, the Japanese government captures a class of ninth-grade students 
 > **Cast** [[Tatsuya Fujiwara]] · [[Aki Maeda]] · [[Takeshi Kitano]] · [[Taro Yamamoto]] · [[Masanobu Ando]] · [[Ko Shibasaki]] · [[Chiaki Kuriyama]] · [[Takashi Tsukamoto]] · [[Sousuke Takaoka]] · [[Yukihiro Kotani]]
 > **Studios** [[Toei Company]] · [[WOWOW]] · [[AM Associates]] · [[Kobi]] · [[Nippan Group Holdings]] · [[MF Pictures]] · [[GAGA Communications]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Action]]
+

@@ -67,6 +67,8 @@ tags:
 - film
 letterboxd: https://boxd.it/2Pa
 providers:
+- Peacock Premium
+- Peacock Premium Plus
 - Netflix
 - Crave
 - Netflix Standard with Ads
@@ -91,3 +93,4 @@ Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary 
 > **Cast** [[Daniel Craig]] · [[Rooney Mara]] · [[Christopher Plummer]] · [[Stellan Skarsgård]] · [[Robin Wright]] · [[Yorick van Wageningen]] · [[Steven Berkoff]] · [[Joely Richardson]] · [[Geraldine James]] · [[Goran Višnjić]]
 > **Studios** [[Columbia Pictures]] · [[Metro-Goldwyn-Mayer]] · [[Scott Rudin Productions]] · [[Yellow Bird]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Mystery]]
+

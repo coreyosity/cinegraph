@@ -85,3 +85,4 @@ On an isolated island in Brittany at the end of the eighteenth century, a female
 > **Cast** [[Noémie Merlant]] · [[Adèle Haenel]] · [[Luàna Bajrami]] · [[Valeria Golino]] · [[Christel Baras]] · [[Armande Boulanger]] · [[Guy Delamarche]] · [[Clément Bouyssou]]
 > **Studios** [[Lilies Films]] · [[ARTE France Cinéma]] · [[Hold Up Films]]
 > **Genres** [[Drama]] · [[Romance]]
+

@@ -54,6 +54,7 @@ letterboxd: https://boxd.it/2ans
 providers:
 - Disney Plus
 - fuboTV
+- FXNow
 ---
 
 After a horrifying PredAlien crash-lands near a small Colorado town, killing everyone it encounters and producing countless Alien offspring, a lone Predator arrives to "clean up" the infestation.
@@ -66,3 +67,4 @@ After a horrifying PredAlien crash-lands near a small Colorado town, killing eve
 > **Cast** [[David Paetkau]] · [[Sam Trammell]] · [[Steven Pasquale]] · [[Reiko Aylesworth]] · [[John Ortiz]] · [[Johnny Lewis]] · [[Ariel Gade]] · [[Kristen Hager]] · [[Robert Joy]] · [[Ian Whyte]]
 > **Studios** [[Dune Entertainment]] · [[Davis Entertainment]] · [[20th Century Fox]] · [[Brandywine Productions]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Thriller]] · [[Horror]]
+

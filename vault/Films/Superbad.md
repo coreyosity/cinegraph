@@ -51,10 +51,10 @@ providers:
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
+- Starz Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Amazon Prime Video
@@ -72,3 +72,4 @@ Two co-dependent high school seniors are forced to deal with separation anxiety 
 > **Cast** [[Jonah Hill]] · [[Michael Cera]] · [[Christopher Mintz-Plasse]] · [[Bill Hader]] · [[Seth Rogen]] · [[Martha MacIsaac]] · [[Emma Stone]] · [[Aviva Baumann]] · [[Joe Lo Truglio]] · [[Kevin Corrigan]]
 > **Studios** [[Columbia Pictures]] · [[Apatow Productions]]
 > **Genres** [[Comedy]]
+

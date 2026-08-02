@@ -65,3 +65,4 @@ Cast out from his clan, a young Predator finds an unlikely ally in a damaged and
 > **Cast** [[Elle Fanning]] · [[Dimitrius Schuster-Koloamatangi]] · [[Ravi Narayan]] · [[Michael Homick]] · [[Stefan Grube]] · [[Reuben De Jong]] · [[Cameron Brown]] · [[Alison Wright]] · [[Matt Duffer]] · [[Ross Duffer]]
 > **Studios** [[20th Century Studios]] · [[Lawrence Gordon Productions]] · [[Davis Entertainment]] · [[Toberoff Productions]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

@@ -67,3 +67,4 @@ European mercenaries searching for black powder become embroiled in the defense 
 > **Cast** [[Matt Damon]] · [[Jing Tian]] · [[Willem Dafoe]] · [[Andy Lau]] · [[Pedro Pascal]] · [[Zhang Hanyu]] · [[Lu Han]] · [[Lin Gengxin]] · [[Eddie Peng Yu-Yan]] · [[Huang Xuan]]
 > **Studios** [[Universal Pictures]] · [[Atlas Entertainment]] · [[Le Vision Pictures]] · [[Legendary Pictures]] · [[Legendary East]] · [[China Film Group Corporation]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

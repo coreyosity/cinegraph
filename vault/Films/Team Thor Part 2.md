@@ -42,3 +42,4 @@ A continuation of the documentary spoof of what Thor and his roommate Darryl wer
 > **Cast** [[Chris Hemsworth]] · [[Daley Pearson]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Science Fiction]] · [[Comedy]] · [[Fantasy]]
+

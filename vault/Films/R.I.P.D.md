@@ -67,3 +67,4 @@ A recently slain cop joins a team of undead police officers working for the Rest
 > **Cast** [[Jeff Bridges]] · [[Ryan Reynolds]] · [[Kevin Bacon]] · [[Mary-Louise Parker]] · [[Stephanie Szostak]] · [[Robert Knepper]] · [[James Hong]] · [[Marisa Miller]] · [[Mike O'Malley]] · [[Devin Ratray]]
 > **Studios** [[Universal Pictures]] · [[Dark Horse Entertainment]] · [[Original Film]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Comedy]]
+

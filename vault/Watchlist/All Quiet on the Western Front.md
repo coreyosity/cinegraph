@@ -56,3 +56,4 @@ Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of he
 > **Cast** [[Felix Kammerer]] · [[Albrecht Schuch]] · [[Aaron Hilmer]] · [[Moritz Klaus]] · [[Adrian Grünewald]] · [[Edin Hasanović]] · [[Daniel Brühl]] · [[Thibault de Montalembert]] · [[Devid Striesow]] · [[Andreas Döhler]]
 > **Studios** [[Amusement Park Films]] · [[Gunpowder Films]]
 > **Genres** [[War]] · [[Drama]]
+

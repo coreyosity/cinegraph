@@ -67,3 +67,4 @@ Oscar is a small fish whose big aspirations often get him into trouble. Meanwhil
 > **Cast** [[Will Smith]] · [[Robert De Niro]] · [[Renée Zellweger]] · [[Jack Black]] · [[Angelina Jolie]] · [[Ziggy Marley]] · [[Martin Scorsese]] · [[David P. Smith]] · [[Doug E. Doug]] · [[Michael Imperioli]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Animation]] · [[Action]] · [[Comedy]] · [[Family]]
+

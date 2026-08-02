@@ -49,13 +49,9 @@ tags:
 - film
 letterboxd: https://boxd.it/1YrC
 providers:
-- Amazon Prime Video
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video with Ads
 - YouTube TV
-- Cinemax Amazon Channel
-- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -78,3 +74,4 @@ After a teenager has a terrifying vision of him and his friends dying in a plane
 > **Cast** [[Devon Sawa]] · [[Ali Larter]] · [[Kerr Smith]] · [[Kristen Cloke]] · [[Daniel Roebuck]] · [[Roger Guenveur Smith]] · [[Chad Donella]] · [[Seann William Scott]] · [[Tony Todd]] · [[Amanda Detmer]]
 > **Studios** [[Zide-Perry Productions]] · [[New Line Cinema]] · [[Hard Eight Pictures]]
 > **Genres** [[Horror]]
+

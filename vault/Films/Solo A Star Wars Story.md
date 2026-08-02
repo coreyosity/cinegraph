@@ -51,3 +51,4 @@ Through a series of daring escapades deep within a dark and dangerous criminal u
 > **Cast** [[Alden Ehrenreich]] · [[Joonas Suotamo]] · [[Woody Harrelson]] · [[Emilia Clarke]] · [[Donald Glover]] · [[Thandiwe Newton]] · [[Phoebe Waller-Bridge]] · [[Paul Bettany]] · [[Jon Favreau]] · [[Erin Kellyman]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

@@ -63,3 +63,4 @@ Desperate to fit in at school, Sam rejects her Indian culture and family to be l
 > **Cast** [[Megan Suri]] · [[Neeru Bajwa]] · [[Mohana Krishnan]] · [[Betty Gabriel]] · [[Vik Sahay]] · [[Gage Marsh]] · [[Beatrice Kitsos]] · [[Jamie Ives]] · [[Siddhartha Minhas]] · [[Saisha Ram Muni]]
 > **Studios** [[NEON]] · [[QC Entertainment]] · [[Brightlight Pictures]]
 > **Genres** [[Horror]] · [[Mystery]]
+

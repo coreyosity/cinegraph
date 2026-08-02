@@ -51,7 +51,6 @@ tags:
 letterboxd: https://boxd.it/1SDW
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus. Along with his friends Pegasus, a flying horse, and Phil, a personal trainer, Hercules is tricked by the hilarious, hotheaded villain Hades, who's plotting to take over Mount Olympus!
@@ -64,3 +63,4 @@ Bestowed with superhuman strength, a young mortal named Hercules sets out to pro
 > **Cast** [[Tate Donovan]] · [[Josh Keaton]] · [[Roger Bart]] · [[Danny DeVito]] · [[James Woods]] · [[Susan Egan]] · [[Bobcat Goldthwait]] · [[Matt Frewer]] · [[Rip Torn]] · [[Samantha Eggar]]
 > **Studios** [[Walt Disney Feature Animation]] · [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]] · [[Adventure]] · [[Comedy]] · [[Romance]]
+

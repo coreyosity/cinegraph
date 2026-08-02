@@ -78,3 +78,4 @@ Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon an
 > **Cast** [[Christian Bale]] · [[Heath Ledger]] · [[Aaron Eckhart]] · [[Michael Caine]] · [[Maggie Gyllenhaal]] · [[Gary Oldman]] · [[Morgan Freeman]] · [[Monique Gabriela Curnen]] · [[Ron Dean]] · [[Cillian Murphy]]
 > **Studios** [[Warner Bros. Pictures]] · [[Legendary Pictures]] · [[Syncopy]] · [[DC]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

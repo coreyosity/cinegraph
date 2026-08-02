@@ -93,3 +93,4 @@ Over the course of a decade, editors of the San Francisco Chronicle entice thems
 > **Cast** [[Jake Gyllenhaal]] · [[Mark Ruffalo]] · [[Anthony Edwards]] · [[Robert Downey Jr]] · [[Chloë Sevigny]] · [[Elias Koteas]] · [[John Carroll Lynch]] · [[Brian Cox]] · [[Dermot Mulroney]] · [[Charles Fleischer]]
 > **Studios** [[Paramount Pictures]] · [[Warner Bros. Pictures]] · [[Phoenix Pictures]]
 > **Genres** [[Crime]] · [[Mystery]] · [[Thriller]]
+

@@ -50,7 +50,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Netflix
-- Philo
 - YouTube TV
 - Netflix Standard with Ads
 - Crave Amazon Channel
@@ -68,3 +67,4 @@ Five high school students from different walks of life endure a Saturday detenti
 > **Cast** [[Emilio Estevez]] · [[Judd Nelson]] · [[Molly Ringwald]] · [[Anthony Michael Hall]] · [[Ally Sheedy]] · [[Paul Gleason]] · [[John Kapelos]] · [[Perry Crawford]] · [[Mary Christian]] · [[Ron Dean]]
 > **Studios** [[Universal Pictures]] · [[A&M Films]] · [[Channel Productions]]
 > **Genres** [[Comedy]] · [[Drama]]
+

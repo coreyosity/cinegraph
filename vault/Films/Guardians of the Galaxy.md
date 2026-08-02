@@ -55,3 +55,4 @@ Light years from Earth, 26 years after being abducted, Peter Quill finds himself
 > **Cast** [[Chris Pratt]] · [[Zoe Saldaña]] · [[Dave Bautista]] · [[Vin Diesel]] · [[Bradley Cooper]] · [[Lee Pace]] · [[Michael Rooker]] · [[Karen Gillan]] · [[Djimon Hounsou]] · [[John C. Reilly]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

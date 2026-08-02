@@ -53,12 +53,8 @@ letterboxd: https://boxd.it/4sr2
 providers:
 - HBO Max
 - YouTube TV
-- Amazon Prime Video
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
-- Starz Amazon Channel
-- Amazon Prime Video with Ads
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -74,3 +70,4 @@ Paranormal investigators Ed and Lorraine Warren work to help a family terrorized
 > **Cast** [[Vera Farmiga]] · [[Patrick Wilson]] · [[Lili Taylor]] · [[Ron Livingston]] · [[Hayley McFarland]] · [[Sterling Jerins]] · [[Shanley Caswell]] · [[Mackenzie Foy]] · [[Joey King]] · [[Kyla Deaver]]
 > **Studios** [[Evergreen Media Group]] · [[The Safran Company]] · [[New Line Cinema]]
 > **Genres** [[Horror]] · [[Thriller]]
+

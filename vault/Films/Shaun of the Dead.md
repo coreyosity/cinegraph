@@ -66,3 +66,4 @@ Shaun lives a supremely uneventful life, which revolves around his girlfriend, h
 > **Cast** [[Simon Pegg]] · [[Nick Frost]] · [[Kate Ashfield]] · [[Lucy Davis]] · [[Dylan Moran]] · [[Jessica Hynes]] · [[Penelope Wilton]] · [[Bill Nighy]] · [[Martin Freeman]] · [[Matt Lucas]]
 > **Studios** [[WT² Productions]] · [[Big Talk Studios]]
 > **Genres** [[Horror]] · [[Comedy]]
+

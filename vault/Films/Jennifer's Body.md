@@ -72,3 +72,4 @@ Jennifer, a gorgeous, seductive cheerleader takes evil to a whole new level afte
 > **Cast** [[Megan Fox]] · [[Amanda Seyfried]] · [[Johnny Simmons]] · [[Adam Brody]] · [[Sal Cortez]] · [[Ryan Levine]] · [[Juan Riedinger]] · [[Colin Askey]] · [[Chris Pratt]] · [[Juno Rinaldi]]
 > **Studios** [[Fox Atomic]] · [[DubieckiNovickReitman Productions]] · [[Dune Entertainment]]
 > **Genres** [[Horror]] · [[Comedy]]
+

@@ -48,13 +48,9 @@ tags:
 - film
 letterboxd: https://boxd.it/1EmW
 providers:
-- Amazon Prime Video
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video with Ads
 - YouTube TV
-- Cinemax Amazon Channel
-- Cinemax Apple TV Channel
 - Crave
 - Crave Amazon Channel
 ---
@@ -69,3 +65,4 @@ A horrifying premonition saves a young man and his friends from death during a r
 > **Cast** [[Bobby Campo]] · [[Shantel VanSanten]] · [[Nick Zano]] · [[Haley Webb]] · [[Mykelti Williamson]] · [[Krista Allen]] · [[Andrew Fiscella]] · [[Justin Welborn]] · [[Stephanie Honoré]] · [[Lara Grice]]
 > **Studios** [[Parallel Zide]] · [[New Line Cinema]] · [[Practical Pictures]] · [[FlipZide]]
 > **Genres** [[Horror]] · [[Mystery]]
+

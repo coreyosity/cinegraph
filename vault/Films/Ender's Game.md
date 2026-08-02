@@ -75,3 +75,4 @@ Based on the classic novel by Orson Scott Card, Ender's Game is the story of the
 > **Cast** [[Asa Butterfield]] · [[Hailee Steinfeld]] · [[Harrison Ford]] · [[Viola Davis]] · [[Ben Kingsley]] · [[Abigail Breslin]] · [[Aramis Knight]] · [[Moisés Arias]] · [[Nonso Anozie]] · [[Suraj Partha]]
 > **Studios** [[Digital Domain]] · [[Chartoff Productions]] · [[Taleswapper]] · [[KO Paper Products]] · [[OddLot Entertainment]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

@@ -77,8 +77,6 @@ providers:
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Paramount+ Amazon Channel
-- Paramount+ Roku Premium Channel
 - Angel Studios
 - Wonder Project Amazon Channel
 - Stan
@@ -94,3 +92,4 @@ WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinaw
 > **Cast** [[Andrew Garfield]] · [[Sam Worthington]] · [[Vince Vaughn]] · [[Teresa Palmer]] · [[Luke Bracey]] · [[Hugo Weaving]] · [[Rachel Griffiths]] · [[Ryan Corr]] · [[Richard Roxburgh]] · [[Goran D. Kleut]]
 > **Studios** [[Summit Entertainment]] · [[Pandemonium]] · [[Cross Creek Pictures]] · [[Permut Presentations]] · [[Vendian Entertainment]] · [[Argent Pictures]] · [[IM Global]] · [[AI Film]] · [[Bliss Media]] · [[Kylin Pictures]] · [[Cosmos Filmed Entertainment]] · [[Icon Productions]] · [[Lionsgate]]
 > **Genres** [[Drama]] · [[History]] · [[War]]
+

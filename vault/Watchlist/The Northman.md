@@ -73,3 +73,4 @@ Prince Amleth is on the verge of becoming a man when his father is brutally murd
 > **Cast** [[Alexander Skarsgård]] · [[Nicole Kidman]] · [[Claes Bang]] · [[Ethan Hawke]] · [[Anya Taylor-Joy]] · [[Gustav Lindh]] · [[Elliott Rose]] · [[Willem Dafoe]] · [[Phill Martin]] · [[Eldar Skar]]
 > **Studios** [[Regency Enterprises]] · [[New Regency Pictures]] · [[Square Peg]] · [[Focus Features]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

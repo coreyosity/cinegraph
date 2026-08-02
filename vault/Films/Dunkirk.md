@@ -88,3 +88,4 @@ The story of the miraculous evacuation of Allied soldiers from Belgium, Britain,
 > **Cast** [[Fionn Whitehead]] · [[Tom Hardy]] · [[Mark Rylance]] · [[Kenneth Branagh]] · [[Cillian Murphy]] · [[Barry Keoghan]] · [[Harry Styles]] · [[Aneurin Barnard]] · [[Damien Bonnard]] · [[Lee Armstrong]]
 > **Studios** [[Warner Bros. Pictures]] · [[Syncopy]] · [[RatPac Entertainment]]
 > **Genres** [[War]] · [[Action]] · [[Drama]]
+

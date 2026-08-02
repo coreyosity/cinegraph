@@ -49,9 +49,10 @@ tags:
 letterboxd: https://boxd.it/2bew
 providers:
 - Crave
+- Hollywood Suite
 - Club Illico
+- Hollywood Suite Amazon Channel
 - Crave Amazon Channel
-- Paramount+ Amazon Channel
 - Foxtel Now
 ---
 
@@ -65,3 +66,4 @@ For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his
 > **Cast** [[Eminem]] · [[Kim Basinger]] · [[Mekhi Phifer]] · [[Brittany Murphy]] · [[Evan Jones]] · [[Omar Benson Miller]] · [[De'Angelo Wilson]] · [[Eugene Byrd]] · [[Taryn Manning]] · [[Larry Hudson]]
 > **Studios** [[Mikona Productions]] · [[Imagine Entertainment]]
 > **Genres** [[Drama]] · [[Music]]
+

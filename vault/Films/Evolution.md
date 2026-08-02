@@ -63,3 +63,4 @@ A comedy that follows the chaos that ensues when a meteor hits the Earth carryin
 > **Cast** [[David Duchovny]] · [[Julianne Moore]] · [[Orlando Jones]] · [[Seann William Scott]] · [[Ted Levine]] · [[Ty Burrell]] · [[Ethan Suplee]] · [[Michael Bower]] · [[Dan Aykroyd]] · [[Gregory Itzin]]
 > **Studios** [[DreamWorks Pictures]] · [[Columbia Pictures]] · [[The Montecito Picture Company]]
 > **Genres** [[Comedy]] · [[Science Fiction]] · [[Action]]
+

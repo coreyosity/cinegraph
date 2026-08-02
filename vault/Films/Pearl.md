@@ -85,3 +85,4 @@ Trapped on her family’s isolated farm, Pearl must tend to her ailing father un
 > **Cast** [[Mia Goth]] · [[David Corenswet]] · [[Tandi Wright]] · [[Matthew Sunderland]] · [[Emma Jenkins-Purro]] · [[Alistair Sewell]] · [[Amelia Reid]] · [[Gabe McDonnell]] · [[Lauren Stewart]] · [[Todd Rippon]]
 > **Studios** [[A24]] · [[Little Lamb Productions]]
 > **Genres** [[Horror]]
+

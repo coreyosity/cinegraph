@@ -52,10 +52,10 @@ tags:
 - film
 letterboxd: https://boxd.it/1zaQ
 providers:
-- Peacock Premium
+- Amazon Prime Video
 - Philo
 - YouTube TV
-- Peacock Premium Plus
+- Amazon Prime Video with Ads
 - MovieSphere+ Amazon Channel
 - Crave
 - Crave Amazon Channel
@@ -71,3 +71,4 @@ Dave Lizewski is an unnoticed high school student and comic book fan who one day
 > **Cast** [[Aaron Taylor-Johnson]] · [[Chloë Grace Moretz]] · [[Nicolas Cage]] · [[Lyndsy Fonseca]] · [[Mark Strong]] · [[Deborah Twiss]] · [[Christopher Mintz-Plasse]] · [[Elizabeth McGovern]] · [[Omari Hardwick]] · [[Xander Berkeley]]
 > **Studios** [[Plan B Entertainment]] · [[Marv]]
 > **Genres** [[Action]] · [[Crime]]
+

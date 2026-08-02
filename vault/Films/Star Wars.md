@@ -66,3 +66,4 @@ Princess Leia is captured and held hostage by the evil Imperial forces in their 
 > **Cast** [[Mark Hamill]] · [[Harrison Ford]] · [[Carrie Fisher]] · [[Peter Cushing]] · [[Alec Guinness]] · [[Anthony Daniels]] · [[Kenny Baker]] · [[Peter Mayhew]] · [[David Prowse]] · [[James Earl Jones]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

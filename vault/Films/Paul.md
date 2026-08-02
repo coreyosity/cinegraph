@@ -62,3 +62,4 @@ For the past 60 years, a space-traveling smart-ass named Paul has been locked up
 > **Cast** [[Simon Pegg]] · [[Nick Frost]] · [[Seth Rogen]] · [[Jason Bateman]] · [[Kristen Wiig]] · [[Bill Hader]] · [[Blythe Danner]] · [[Joe Lo Truglio]] · [[John Carroll Lynch]] · [[Jane Lynch]]
 > **Studios** [[Relativity Media]] · [[Working Title Films]] · [[Big Talk Studios]] · [[Universal Pictures]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Science Fiction]]
+

@@ -47,3 +47,4 @@ Lizzie McGuire has graduated from middle school and takes a trip to Rome, Italy 
 > **Cast** [[Hilary Duff]] · [[Adam Lamberg]] · [[Yani Gellman]] · [[Alex Borstein]] · [[Brendan Kelly]] · [[Ashlie Brillault]] · [[Clayton Snyder]] · [[Jake Thomas]] · [[Jody Racicot]] · [[Hallie Todd]]
 > **Studios** [[Teen Life Productions]] · [[Walt Disney Pictures]]
 > **Genres** [[Family]] · [[Comedy]]
+

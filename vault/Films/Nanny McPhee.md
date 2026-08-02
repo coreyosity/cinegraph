@@ -67,3 +67,4 @@ Widower Cedric Brown hires Nanny McPhee to care for his seven rambunctious child
 > **Cast** [[Emma Thompson]] · [[Colin Firth]] · [[Kelly Macdonald]] · [[Thomas Brodie-Sangster]] · [[Eliza Bennett]] · [[Jennifer Rae Daykin]] · [[Raphaël Coleman]] · [[Samuel Honywood]] · [[Holly Gibbs]] · [[Hebe Barnes]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[Three Strange Angels]] · [[Nanny McPhee Productions]] · [[Working Title Films]] · [[StudioCanal]] · [[Universal Pictures]]
 > **Genres** [[Fantasy]] · [[Comedy]] · [[Family]]
+

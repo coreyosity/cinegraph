@@ -71,3 +71,4 @@ Mia, a drug addict, is determined to kick the habit. To that end, she asks her b
 > **Cast** [[Jane Levy]] · [[Shiloh Fernandez]] · [[Lou Taylor Pucci]] · [[Jessica Lucas]] · [[Elizabeth Blackmore]] · [[Phoenix Connolly]] · [[Jim McLarty]] · [[Sian Davis]] · [[Stephen Butterworth]] · [[Karl Willetts]]
 > **Studios** [[TriStar Pictures]] · [[FilmDistrict]] · [[Ghost House Pictures]]
 > **Genres** [[Horror]]
+

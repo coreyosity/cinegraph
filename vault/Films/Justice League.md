@@ -49,8 +49,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
-- Cinemax Amazon Channel
-- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -68,3 +66,4 @@ Fuelled by his restored faith in humanity and inspired by Superman's selfless ac
 > **Cast** [[Ben Affleck]] · [[Henry Cavill]] · [[Amy Adams]] · [[Gal Gadot]] · [[Ezra Miller]] · [[Jason Momoa]] · [[Ray Fisher]] · [[Jeremy Irons]] · [[Diane Lane]] · [[Connie Nielsen]]
 > **Studios** [[Cruel & Unusual Films]] · [[Atlas Entertainment]] · [[Warner Bros. Pictures]] · [[RatPac Entertainment]] · [[DC Films]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

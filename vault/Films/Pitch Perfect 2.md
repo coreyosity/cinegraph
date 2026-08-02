@@ -47,7 +47,7 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
-- ITVX Premium
+- fuboTV
 - YouTube TV
 - Netflix
 - Netflix Standard with Ads
@@ -66,3 +66,4 @@ The Bellas are back, and they are better than ever. After being humiliated in fr
 > **Cast** [[Anna Kendrick]] · [[Brittany Snow]] · [[Hailee Steinfeld]] · [[Rebel Wilson]] · [[Ester Dean]] · [[Adam Devine]] · [[Skylar Astin]] · [[Hana Mae Lee]] · [[Elizabeth Banks]] · [[Ben Platt]]
 > **Studios** [[Brownstone Productions]] · [[Gold Circle Films]] · [[Universal Pictures]]
 > **Genres** [[Comedy]] · [[Music]]
+

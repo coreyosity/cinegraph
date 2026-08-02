@@ -60,10 +60,10 @@ letterboxd: https://boxd.it/SVO
 providers:
 - Disney Plus
 - Philo
+- AMC+ Amazon Channel
 - YouTube TV
-- Starz Amazon Channel
+- AMC
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 ---
 
 When a massive, unmanned locomotive roars out of control, the threat is more ominous than just a derailment. The train is laden with toxic chemicals, and an accident would decimate human life and cause an environmental disaster. The only hope of bringing the train to a safe stop is in the hands of veteran engineer Frank Barnes, and young conductor Will Colson, who must risk their lives to save those in the runaway's path. Inspired by true events.
@@ -76,3 +76,4 @@ When a massive, unmanned locomotive roars out of control, the threat is more omi
 > **Cast** [[Denzel Washington]] · [[Chris Pine]] · [[Rosario Dawson]] · [[Kevin Dunn]] · [[Kevin Corrigan]] · [[Lew Temple]] · [[Kevin Chapman]] · [[Ethan Suplee]] · [[T.J. Miller]] · [[Jessy Schram]]
 > **Studios** [[20th Century Fox]] · [[Dune Entertainment]] · [[Prospect Park]] · [[Ingenious Media]] · [[Scott Free Productions]] · [[Big Screen Entertainment Group]]
 > **Genres** [[Action]] · [[Thriller]]
+

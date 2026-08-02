@@ -67,3 +67,4 @@ Humanity finds a mysterious object buried beneath the lunar surface and sets off
 > **Cast** [[Keir Dullea]] · [[Gary Lockwood]] · [[William Sylvester]] · [[Douglas Rain]] · [[Daniel Richter]] · [[Leonard Rossiter]] · [[Margaret Tyzack]] · [[Robert Beatty]] · [[Sean Sullivan]] · [[Frank W. Miller]]
 > **Studios** [[Stanley Kubrick Productions]] · [[Metro-Goldwyn-Mayer]]
 > **Genres** [[Science Fiction]] · [[Mystery]] · [[Adventure]]
+

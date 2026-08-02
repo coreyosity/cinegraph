@@ -55,14 +55,14 @@ providers:
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - Amazon Prime Video with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Essential
 - Philo
 - MGM Plus Roku Premium Channel
 - YouTube TV
+- Starz
 - MGM Plus
 - Paramount+ Roku Premium Channel
+- Starz Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -78,3 +78,4 @@ It's the 1970s and San Diego anchorman Ron Burgundy is the top dog in local TV, 
 > **Cast** [[Will Ferrell]] · [[Christina Applegate]] · [[Paul Rudd]] · [[Steve Carell]] · [[David Koechner]] · [[Fred Willard]] · [[Chris Parnell]] · [[Kathryn Hahn]] · [[Fred Armisen]] · [[Seth Rogen]]
 > **Studios** [[DreamWorks Pictures]] · [[Apatow Productions]]
 > **Genres** [[Comedy]]
+

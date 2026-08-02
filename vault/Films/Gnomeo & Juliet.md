@@ -57,3 +57,4 @@ A version of Shakespeare's play, set in the world of warring indoor and outdoor 
 > **Cast** [[James McAvoy]] · [[Emily Blunt]] · [[Michael Caine]] · [[Maggie Smith]] · [[Julie Walters]] · [[Jim Cummings]] · [[Jason Statham]] · [[Ashley Jensen]] · [[Matt Lucas]] · [[Ozzy Osbourne]]
 > **Studios** [[Touchstone Pictures]] · [[Starz Animation]] · [[Rocket Pictures]]
 > **Genres** [[Animation]] · [[Family]]
+

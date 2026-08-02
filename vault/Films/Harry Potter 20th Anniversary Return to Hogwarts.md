@@ -54,3 +54,4 @@ An enchanting making-of story told through all-new in-depth interviews and cast 
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Bonnie Wright]] · [[Matthew Lewis]] · [[Tom Felton]] · [[James Phelps]] · [[Oliver Phelps]] · [[Evanna Lynch]] · [[Helena Bonham Carter]]
 > **Studios** [[Pulse Films]] · [[Warner Horizon Unscripted Television]] · [[Casey Patterson Entertainment]]
 > **Genres** [[Documentary]]
+

@@ -84,3 +84,4 @@ In the 1930s, three friends—a doctor, a nurse, and an attorney—witness a mur
 > **Cast** [[Christian Bale]] · [[Margot Robbie]] · [[John David Washington]] · [[Alessandro Nivola]] · [[Andrea Riseborough]] · [[Anya Taylor-Joy]] · [[Chris Rock]] · [[Matthias Schoenaerts]] · [[Michael Shannon]] · [[Mike Myers]]
 > **Studios** [[DreamCrew]] · [[Keep Your Head Productions]] · [[Corazon Camera]] · [[New Regency Productions]] · [[Regency Enterprises]]
 > **Genres** [[Mystery]] · [[Comedy]] · [[Drama]]
+

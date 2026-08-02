@@ -70,3 +70,4 @@ As the war between the Capitol and the districts reaches its peak, Katniss Everd
 > **Cast** [[Jennifer Lawrence]] · [[Josh Hutcherson]] · [[Liam Hemsworth]] · [[Woody Harrelson]] · [[Elizabeth Banks]] · [[Julianne Moore]] · [[Philip Seymour Hoffman]] · [[Jeffrey Wright]] · [[Stanley Tucci]] · [[Donald Sutherland]]
 > **Studios** [[Lionsgate]] · [[Color Force]] · [[Studio Babelsberg]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

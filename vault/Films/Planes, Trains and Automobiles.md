@@ -58,11 +58,12 @@ tags:
 letterboxd: https://boxd.it/26zE
 providers:
 - Paramount Plus
-- Sky Go
 - Now TV Cinema
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
+- Philo
+- AMC+ Amazon Channel
 - Super Channel Plus
 - Super Channel Amazon Channel
 - fuboTV
@@ -80,3 +81,4 @@ An irritable marketing executive, Neal Page, is heading home to Chicago for Than
 > **Cast** [[Steve Martin]] · [[John Candy]] · [[Laila Robins]] · [[Michael McKean]] · [[Dylan Baker]] · [[Kevin Bacon]] · [[Olivia Burnette]] · [[Carol Bruce]] · [[Diana Douglas]] · [[Martin Ferrero]]
 > **Studios** [[Paramount Pictures]] · [[Hughes Entertainment]]
 > **Genres** [[Comedy]]
+

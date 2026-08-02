@@ -63,8 +63,8 @@ tags:
 letterboxd: https://boxd.it/3GB4
 providers:
 - Sony Pictures Core Amazon Channel
+- Philo
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -78,3 +78,4 @@ While attending a party at James Franco's house, Seth Rogen, Jay Baruchel and ma
 > **Cast** [[James Franco]] · [[Jonah Hill]] · [[Seth Rogen]] · [[Jay Baruchel]] · [[Danny McBride]] · [[Craig Robinson]] · [[Michael Cera]] · [[Emma Watson]] · [[Mindy Kaling]] · [[David Krumholtz]]
 > **Studios** [[Columbia Pictures]] · [[Mandate Pictures]] · [[Point Grey Pictures]]
 > **Genres** [[Action]] · [[Comedy]]
+

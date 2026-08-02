@@ -71,3 +71,4 @@ A former U.S. soldier returns to his hometown to find it overrun by crime and co
 > **Cast** [[Dwayne Johnson]] · [[Johnny Knoxville]] · [[Neal McDonough]] · [[Kristen Wilson]] · [[Ashley Scott]] · [[Khleo Thomas]] · [[John Beasley]] · [[Barbara Tarbuck]] · [[Michael Bowen]] · [[Kevin Durand]]
 > **Studios** [[Mandeville Films]] · [[BurkeSamplesFoster Productions]] · [[WWE Studios]] · [[Cub Eight Productions]] · [[Metro-Goldwyn-Mayer]] · [[Hyde Park Entertainment]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Action]] · [[Thriller]]
+

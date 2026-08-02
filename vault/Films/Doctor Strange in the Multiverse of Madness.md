@@ -43,6 +43,7 @@ tags:
 letterboxd: https://boxd.it/gaTc
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.
@@ -55,3 +56,4 @@ Doctor Strange, with the help of mystical allies both old and new, traverses the
 > **Cast** [[Benedict Cumberbatch]] · [[Xochitl Gomez]] · [[Elizabeth Olsen]] · [[Chiwetel Ejiofor]] · [[Benedict Wong]] · [[Rachel McAdams]] · [[Jett Klyne]] · [[Julian Hilliard]] · [[Michael Stuhlbarg]] · [[Hayley Atwell]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Adventure]]
+

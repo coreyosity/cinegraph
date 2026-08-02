@@ -61,7 +61,9 @@ providers:
 - Netflix Standard with Ads
 - HBO Max Amazon Channel
 - YouTube TV
+- Cinemax Amazon Channel
 - HBO Max
+- Cinemax Apple TV Channel
 ---
 
 A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.
@@ -74,3 +76,4 @@ A team of explorers discover a clue to the origins of mankind on Earth, leading 
 > **Cast** [[Noomi Rapace]] · [[Michael Fassbender]] · [[Charlize Theron]] · [[Idris Elba]] · [[Guy Pearce]] · [[Logan Marshall-Green]] · [[Sean Harris]] · [[Rafe Spall]] · [[Emun Elliott]] · [[Benedict Wong]]
 > **Studios** [[Dune Entertainment]] · [[20th Century Fox]] · [[Brandywine Productions]] · [[Scott Free Productions]]
 > **Genres** [[Science Fiction]] · [[Mystery]] · [[Horror]]
+

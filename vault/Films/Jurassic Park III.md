@@ -82,3 +82,4 @@ In need of funds for research, Dr. Alan Grant accepts a large sum of money to ac
 > **Cast** [[Sam Neill]] · [[William H. Macy]] · [[Téa Leoni]] · [[Alessandro Nivola]] · [[Trevor Morgan]] · [[Michael Jeter]] · [[John Diehl]] · [[Bruce A. Young]] · [[Laura Dern]] · [[Taylor Nichols]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Thriller]] · [[Science Fiction]]
+

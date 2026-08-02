@@ -81,10 +81,12 @@ providers:
 - Disney Plus
 - fuboTV
 - HBO Max Amazon Channel
+- FXNow
 - HBO Max
 - Netflix
 - Club Illico
 - Netflix Standard with Ads
+- BINGE
 - Stan
 log_tags:
 - myself
@@ -103,3 +105,4 @@ After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood S
 > **Cast** [[Shameik Moore]] · [[Hailee Steinfeld]] · [[Brian Tyree Henry]] · [[Luna Lauren Vélez]] · [[Jake Johnson]] · [[Oscar Isaac]] · [[Jason Schwartzman]] · [[Issa Rae]] · [[Daniel Kaluuya]] · [[Karan Soni]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[Lord Miller]] · [[Pascal Pictures]] · [[Arad Productions]] · [[Marvel Entertainment]]
 > **Genres** [[Animation]] · [[Action]] · [[Adventure]] · [[Science Fiction]]
+

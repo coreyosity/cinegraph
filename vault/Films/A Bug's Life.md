@@ -63,3 +63,4 @@ On behalf of "oppressed bugs everywhere," an inventive ant named Flik hires a tr
 > **Cast** [[Dave Foley]] · [[Kevin Spacey]] · [[Julia Louis-Dreyfus]] · [[Hayden Panettiere]] · [[Phyllis Diller]] · [[Richard Kind]] · [[David Hyde Pierce]] · [[Joe Ranft]] · [[Denis Leary]] · [[Jonathan Harris]]
 > **Studios** [[Pixar]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

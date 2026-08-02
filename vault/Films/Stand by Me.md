@@ -54,18 +54,19 @@ tags:
 letterboxd: https://boxd.it/2aOe
 providers:
 - Paramount Plus
+- Sky Go
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - fuboTV
-- MGM+ Amazon Channel
+- HBO Max Amazon Channel
 - Philo
 - MGM Plus Roku Premium Channel
 - YouTube TV
 - AMC
 - MGM Plus
+- HBO Max
 - Sony Pictures Core Amazon Channel
-- Starz Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -81,3 +82,4 @@ After learning that a boy their age has been accidentally killed near their rura
 > **Cast** [[Wil Wheaton]] · [[River Phoenix]] · [[Corey Feldman]] · [[Jerry O'Connell]] · [[Kiefer Sutherland]] · [[Casey Siemaszko]] · [[Gary Riley]] · [[Bradley Gregg]] · [[Jason Oliver]] · [[Marshall Bell]]
 > **Studios** [[Act III Productions]]
 > **Genres** [[Crime]] · [[Drama]]
+

@@ -58,3 +58,4 @@ Natasha Romanoff, also known as Black Widow, confronts the darker parts of her l
 > **Cast** [[Scarlett Johansson]] · [[Florence Pugh]] · [[Rachel Weisz]] · [[David Harbour]] · [[Ray Winstone]] · [[Ever Anderson]] · [[Violet McGraw]] · [[O-T Fagbenle]] · [[William Hurt]] · [[Olga Kurylenko]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

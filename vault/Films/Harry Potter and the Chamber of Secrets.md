@@ -79,3 +79,4 @@ Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potte
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Kenneth Branagh]] · [[Toby Jones]] · [[Robbie Coltrane]] · [[Richard Harris]] · [[Alan Rickman]] · [[Tom Felton]] · [[Jason Isaacs]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]] · [[1492 Pictures]] · [[MIRACLE Productions]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

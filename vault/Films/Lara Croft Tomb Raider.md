@@ -74,3 +74,4 @@ Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, emb
 > **Cast** [[Angelina Jolie]] · [[Iain Glen]] · [[Daniel Craig]] · [[Noah Taylor]] · [[Chris Barrie]] · [[Jon Voight]] · [[Julian Rhind-Tutt]] · [[Leslie Phillips]] · [[Richard Johnson]] · [[Robert Phillips]]
 > **Studios** [[Paramount Pictures]] · [[Mutual Film Company]] · [[Lawrence Gordon Productions]] · [[Eidos Films]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

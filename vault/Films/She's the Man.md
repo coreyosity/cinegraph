@@ -54,10 +54,13 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - ITVX Premium
-- YouTube TV
-- Paramount Plus
-- Paramount+ Amazon Channel
+- fuboTV
 - Paramount Plus Premium
+- Paramount Plus Essential
+- Paramount+ Amazon Channel
+- YouTube TV
+- Paramount+ Roku Premium Channel
+- Paramount Plus
 - Paramount Plus Basic with Ads
 - Stan
 ---
@@ -72,3 +75,4 @@ Viola Hastings is in a real jam. Complications threaten her scheme to pose as he
 > **Cast** [[Amanda Bynes]] · [[Channing Tatum]] · [[Laura Ramsey]] · [[Vinnie Jones]] · [[David Cross]] · [[Julie Hagerty]] · [[Robert Hoffman]] · [[Alexandra Breckenridge]] · [[Jonathan Sadowski]] · [[Amanda Crew]]
 > **Studios** [[Lakeshore Entertainment]] · [[DreamWorks Pictures]] · [[The Donners' Company]]
 > **Genres** [[Comedy]] · [[Romance]]
+

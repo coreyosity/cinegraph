@@ -99,3 +99,4 @@ Trying to leave their troubled lives behind, twin brothers return to their homet
 > **Cast** [[Michael B. Jordan]] · [[Hailee Steinfeld]] · [[Miles Caton]] · [[Jack O'Connell]] · [[Wunmi Mosaku]] · [[Jayme Lawson]] · [[Omar Benson Miller]] · [[Delroy Lindo]] · [[Li Jun Li]] · [[Yao]]
 > **Studios** [[Warner Bros. Pictures]] · [[Proximity Media]] · [[Domain Entertainment]]
 > **Genres** [[Horror]] · [[Action]] · [[Thriller]]
+

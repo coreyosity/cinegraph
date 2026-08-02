@@ -97,3 +97,4 @@ In a time of superstition and magic, when wolves are seen as demonic and nature 
 > **Cast** [[Honor Kneafsey]] · [[Eva Whittaker]] · [[Sean Bean]] · [[Simon McBurney]] · [[Tommy Tiernan]] · [[Maria Doyle Kennedy]] · [[Jon Kenny]] · [[John Morton]] · [[Nora Twomey]] · [[Oliver McGrath]]
 > **Studios** [[Cartoon Saloon]] · [[Melusine Productions]] · [[Haut et Court]] · [[Canal+]] · [[RTÉ]] · [[OCS]] · [[Folivari]] · [[GKIDS]] · [[Value & Power Culture Communications]] · [[Fís ÉireannScreen Ireland]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Fantasy]]
+

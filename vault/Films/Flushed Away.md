@@ -51,6 +51,8 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
@@ -67,3 +69,4 @@ London high-society mouse, Roddy is flushed down the toilet by Sid, a common sew
 > **Cast** [[Hugh Jackman]] · [[Kate Winslet]] · [[Ian McKellen]] · [[Jean Reno]] · [[Bill Nighy]] · [[Andy Serkis]] · [[Shane Richie]] · [[Kathy Burke]] · [[David Suchet]] · [[Miriam Margolyes]]
 > **Studios** [[DreamWorks Animation]] · [[Aardman]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

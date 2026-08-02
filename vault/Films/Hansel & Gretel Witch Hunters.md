@@ -52,8 +52,8 @@ tags:
 - film
 letterboxd: https://boxd.it/gmw
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- MGM Plus Amazon Channel
+- MGM Amazon Channel
 - HBO Max
 - HBO Max Amazon Channel
 ---
@@ -68,3 +68,4 @@ After getting a taste for blood as children, Hansel and Gretel have become the u
 > **Cast** [[Jeremy Renner]] · [[Gemma Arterton]] · [[Famke Janssen]] · [[Pihla Viitala]] · [[Derek Mears]] · [[Robin Atkin Downes]] · [[Ingrid Bolsø Berdal]] · [[Joanna Kulig]] · [[Thomas Mann]] · [[Peter Stormare]]
 > **Studios** [[Paramount Pictures]] · [[MTV Films]] · [[Gary Sanchez Productions]] · [[Studio Babelsberg]] · [[Metro-Goldwyn-Mayer]]
 > **Genres** [[Fantasy]] · [[Horror]] · [[Action]]
+

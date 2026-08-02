@@ -57,7 +57,6 @@ providers:
 - Amazon Prime Video with Ads
 - Philo
 - 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
 - AMC+ Roku Premium Channel
 - AMC+
 - YouTube TV
@@ -73,3 +72,4 @@ While the Civil War rages on between the Union and the Confederacy, three men �
 > **Cast** [[Clint Eastwood]] · [[Eli Wallach]] · [[Lee Van Cleef]] · [[Aldo Giuffrè]] · [[Luigi Pistilli]] · [[Rada Rassimov]] · [[Enzo Petito]] · [[Claudio Scarchilli]] · [[Antonio Casale]] · [[Livio Lorenzon]]
 > **Studios** [[United Artists]] · [[PEA]] · [[Arturo González PC]] · [[Constantin Film]]
 > **Genres** [[Western]]
+

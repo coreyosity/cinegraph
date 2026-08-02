@@ -66,6 +66,7 @@ providers:
 - Starz Apple TV Channel
 - YouTube TV
 - Amazon Prime Video with Ads
+- BINGE
 ---
 
 Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investigate the recent rumblings of the dormant volcano the burg is named for. Before long, his worst fears are realized when a massive eruption hits, and immediately, Harry, the mayor and the townspeople find themselves fighting for their lives amid a catastrophic nightmare.
@@ -78,3 +79,4 @@ Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investiga
 > **Cast** [[Pierce Brosnan]] · [[Linda Hamilton]] · [[Arabella Field]] · [[Jamie Renée Smith]] · [[Jeremy Foley]] · [[Elizabeth Hoffman]] · [[Charles Hallahan]] · [[Grant Heslov]] · [[Kirk Trutner]] · [[Tzi Ma]]
 > **Studios** [[Pacific Western]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Drama]] · [[Thriller]]
+

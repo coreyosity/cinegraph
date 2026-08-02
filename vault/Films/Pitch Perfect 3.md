@@ -50,7 +50,6 @@ providers:
 - HBO Max
 - Cinemax Apple TV Channel
 - BINGE
-- Paramount+ Amazon Channel
 - Foxtel Now
 - Stan
 ---
@@ -65,3 +64,4 @@ After the highs of winning the world championships, the Bellas find themselves s
 > **Cast** [[Anna Kendrick]] · [[Rebel Wilson]] · [[Brittany Snow]] · [[Hailee Steinfeld]] · [[Elizabeth Banks]] · [[Anna Camp]] · [[Alexis Knapp]] · [[Ruby Rose]] · [[Ester Dean]] · [[Hana Mae Lee]]
 > **Studios** [[Gold Circle Films]] · [[Brownstone Productions]]
 > **Genres** [[Music]] · [[Comedy]]
+

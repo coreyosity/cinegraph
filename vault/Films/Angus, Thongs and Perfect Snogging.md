@@ -66,3 +66,4 @@ Georgia Nicolson is fourteen, lives with nosey parents who don't understand her,
 > **Cast** [[Georgia Groome]] · [[Eleanor Tomlinson]] · [[Aaron Taylor-Johnson]] · [[Tommy Bastow]] · [[Alan Davies]] · [[Karen Taylor]] · [[Liam Hess]] · [[Georgia Henshaw]] · [[Manjeeven Grewal]] · [[Kimberley Nixon]]
 > **Studios** [[Stella-del-Süd]] · [[Nickelodeon Movies]] · [[Paramount Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Family]] · [[Romance]]
+

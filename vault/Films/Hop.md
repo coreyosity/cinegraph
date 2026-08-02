@@ -66,3 +66,4 @@ E.B., the Easter Bunny's teenage son, heads to Hollywood, determined to become a
 > **Cast** [[Russell Brand]] · [[James Marsden]] · [[Kaley Cuoco]] · [[Hank Azaria]] · [[Elizabeth Perkins]] · [[Gary Cole]] · [[Hugh Laurie]] · [[David Hasselhoff]] · [[Chelsea Handler]] · [[Dustin Ybarra]]
 > **Studios** [[Universal Pictures]] · [[Illumination]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

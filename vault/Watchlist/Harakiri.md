@@ -60,3 +60,4 @@ Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperou
 > **Cast** [[Tatsuya Nakadai]] · [[Akira Ishihama]] · [[Shima Iwashita]] · [[Tetsuro Tamba]] · [[Masao Mishima]] · [[Ichirō Nakatani]] · [[Kei Satō]] · [[Yoshio Inaba]] · [[Hisashi Igawa]] · [[Toru Takeuchi]]
 > **Studios** [[Shochiku]]
 > **Genres** [[Action]] · [[Drama]] · [[History]]
+

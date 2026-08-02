@@ -45,7 +45,6 @@ tags:
 letterboxd: https://boxd.it/1Wv8
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.
@@ -58,3 +57,4 @@ Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the
 > **Cast** [[Barbara Luddy]] · [[Larry Roberts]] · [[Peggy Lee]] · [[Bill Thompson]] · [[Bill Baucom]] · [[Stan Freberg]] · [[Verna Felton]] · [[Alan Reed]] · [[George Givot]] · [[Dal McKennon]]
 > **Studios** [[Walt Disney Productions]]
 > **Genres** [[Animation]] · [[Family]] · [[Romance]] · [[Adventure]] · [[Comedy]]
+

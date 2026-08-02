@@ -80,3 +80,4 @@ When 17-year-old Makoto Konno gains the ability to 'leap' backwards through time
 > **Cast** [[Riisa Naka]] · [[Takuya Ishida]] · [[Mitsutaka Itakura]] · [[Ayami Kakiuchi]] · [[Mitsuki Tanimura]] · [[Yuki Sekido]] · [[Utawaka Katsura]] · [[Midori Ando]] · [[Fumihiko Tachiki]] · [[Keiko Yamamoto]]
 > **Studios** [[Madhouse]] · [[Happinet Pictures]] · [[KADOKAWA]] · [[KADOKAWA Shoten]] · [[Q-TEC]] · [[Memory-Tech]] · [[Studio Chizu]]
 > **Genres** [[Fantasy]] · [[Animation]] · [[Drama]] · [[Science Fiction]]
+

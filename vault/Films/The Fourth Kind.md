@@ -76,3 +76,4 @@ Since the 1960s, a disproportionate number of the population in and around Nome,
 > **Cast** [[Milla Jovovich]] · [[Elias Koteas]] · [[Will Patton]] · [[Hakeem Kae-Kazim]] · [[Corey Johnson]] · [[Enzo Cilenti]] · [[Eric Loren]] · [[Mia McKenna-Bruce]] · [[Raphaël Coleman]] · [[Daphne Alexander]]
 > **Studios** [[Universal Pictures]] · [[Gold Circle Films]] · [[Chambara Pictures]] · [[Dead Crow Productions]] · [[Saga Film]] · [[Mandate International]]
 > **Genres** [[Mystery]] · [[Science Fiction]] · [[Thriller]]
+

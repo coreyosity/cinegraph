@@ -47,8 +47,6 @@ tags:
 letterboxd: https://boxd.it/1YEQ
 providers:
 - Channel 4 Plus
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - BINGE
 - Foxtel Now
 ---
@@ -63,3 +61,4 @@ Babe, fresh from his victory in the sheepherding contest, returns to Farmer Hogg
 > **Cast** [[E. G. Daily]] · [[Magda Szubanski]] · [[James Cromwell]] · [[Mickey Rooney]] · [[Mary Stein]] · [[Danny Mann]] · [[Glenne Headly]] · [[Steven Wright]] · [[James Cosmo]] · [[Nathan Kress]]
 > **Studios** [[Kennedy Miller Productions]] · [[Universal Pictures]]
 > **Genres** [[Family]] · [[Adventure]] · [[Comedy]] · [[Drama]]
+

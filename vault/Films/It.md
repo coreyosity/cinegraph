@@ -88,3 +88,4 @@ In a small town in Maine, seven children known as The Losers Club come face to f
 > **Cast** [[Jaeden Martell]] · [[Jeremy Ray Taylor]] · [[Sophia Lillis]] · [[Finn Wolfhard]] · [[Chosen Jacobs]] · [[Jack Dylan Grazer]] · [[Wyatt Oleff]] · [[Bill Skarsgård]] · [[Nicholas Hamilton]] · [[Jake Sim]]
 > **Studios** [[New Line Cinema]] · [[Vertigo Entertainment]] · [[Lin Pictures]] · [[KatzSmith Productions]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Drama]]
+

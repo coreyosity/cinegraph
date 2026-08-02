@@ -58,3 +58,4 @@ For ten years, the tortured soul of serial killer Charles Lee Ray has been impri
 > **Cast** [[Brad Dourif]] · [[Jennifer Tilly]] · [[Katherine Heigl]] · [[Nick Stabile]] · [[Alexis Arquette]] · [[Gordon Michael Woolvett]] · [[John Ritter]] · [[Lawrence Dane]] · [[Michael Louis Johnson]] · [[James Gallanders]]
 > **Studios** [[Universal Pictures]] · [[Midwinter Productions Inc]] · [[David Kirschner Productions]]
 > **Genres** [[Horror]] · [[Comedy]]
+

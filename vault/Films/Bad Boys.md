@@ -66,10 +66,10 @@ providers:
 - ITVX Premium
 - Hulu
 - fuboTV
+- Philo
 - YouTube TV
 - Crave
 - Club Illico
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Disney Plus
@@ -88,3 +88,4 @@ Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy f
 > **Cast** [[Will Smith]] · [[Martin Lawrence]] · [[Téa Leoni]] · [[Tchéky Karyo]] · [[Joe Pantoliano]] · [[Theresa Randle]] · [[Marg Helgenberger]] · [[Nestor Serrano]] · [[Julio Oscar Mechoso]] · [[Saverio Guerra]]
 > **Studios** [[Columbia Pictures]] · [[Don SimpsonJerry Bruckheimer Films]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]] · [[Thriller]]
+

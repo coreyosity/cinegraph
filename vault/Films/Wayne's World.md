@@ -65,3 +65,4 @@ The adventures of two amiably aimless metal-head friends, Wayne and Garth. From 
 > **Cast** [[Mike Myers]] · [[Dana Carvey]] · [[Rob Lowe]] · [[Tia Carrere]] · [[Lara Flynn Boyle]] · [[Donna Dixon]] · [[Chris Farley]] · [[Brian Doyle-Murray]] · [[Michael DeLuise]] · [[Meat Loaf]]
 > **Studios** [[Paramount Pictures]]
 > **Genres** [[Comedy]] · [[Music]]
+

@@ -66,3 +66,4 @@ Intrepid teenage private eye Nancy Drew heads to Tinseltown with her father to i
 > **Cast** [[Emma Roberts]] · [[Max Thieriot]] · [[Josh Flitter]] · [[Rachael Leigh Cook]] · [[Kay Panabaker]] · [[Tate Donovan]] · [[Marshall Bell]] · [[Daniella Monet]] · [[Kelly Vitz]] · [[Bruce Willis]]
 > **Studios** [[Jerry Weintraub Productions]] · [[Virtual Studios]] · [[Warner Bros. Pictures]]
 > **Genres** [[Family]] · [[Adventure]] · [[Crime]] · [[Mystery]] · [[Comedy]]
+

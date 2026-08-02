@@ -51,3 +51,4 @@ Hansel and Gretel is a 2002 film adaptation of the Brothers Grimm children's sto
 > **Cast** [[Howie Mandel]] · [[Taylor Momsen]] · [[Jacob Smith]] · [[Delta Burke]] · [[Alana Austin]] · [[Gerald McRaney]] · [[Lynn Redgrave]] · [[Dakota Fanning]] · [[Bobcat Goldthwait]] · [[Sinbad]]
 > **Studios** [[Broomstick Entertainment]] · [[Majestic Film Partners]] · [[Tag Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

@@ -50,9 +50,7 @@ tags:
 - film
 letterboxd: https://boxd.it/cPX2
 providers:
-- MGM Plus Amazon Channel
 - Crave
-- MGM Amazon Channel
 - Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
@@ -68,3 +66,4 @@ Bond has left active service and is enjoying a tranquil life in Jamaica. His pea
 > **Cast** [[Daniel Craig]] · [[Léa Seydoux]] · [[Rami Malek]] · [[Lashana Lynch]] · [[Ralph Fiennes]] · [[Ben Whishaw]] · [[Naomie Harris]] · [[Rory Kinnear]] · [[Jeffrey Wright]] · [[Billy Magnussen]]
 > **Studios** [[EON Productions]] · [[Metro-Goldwyn-Mayer]]
 > **Genres** [[Action]] · [[Thriller]] · [[Adventure]]
+

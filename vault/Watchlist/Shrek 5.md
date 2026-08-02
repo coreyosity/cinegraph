@@ -42,3 +42,4 @@ Shrek and Donkey team up for another whirlwind, big-city adventure.
 > **Cast** [[Mike Myers]] · [[Eddie Murphy]] · [[Cameron Diaz]] · [[Zendaya]] · [[Marcello Hernández]] · [[Skyler Gisondo]] · [[Chris Miller]] · [[Cody Cameron]] · [[Conrad Vernon]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Fantasy]] · [[Adventure]] · [[Family]]
+

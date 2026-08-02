@@ -68,3 +68,4 @@ On his latest expedition, has-been scientist Dr. Rick Marshall is sucked into a 
 > **Cast** [[Will Ferrell]] · [[Anna Friel]] · [[Danny McBride]] · [[Jorma Taccone]] · [[John Boylan]] · [[Matt Lauer]] · [[Bobb'e J. Thompson]] · [[Sierra McCormick]] · [[Shannon Lemke]] · [[Steven Wash Jr]]
 > **Studios** [[Universal Pictures]] · [[Relativity Media]] · [[Sid & Marty Krofft Pictures]] · [[Mosaic Media Group]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Comedy]] · [[Action]]
+

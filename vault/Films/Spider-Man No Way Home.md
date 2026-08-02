@@ -68,6 +68,7 @@ providers:
 - fuboTV
 - Starz Apple TV Channel
 - YouTube TV
+- FXNow
 - Crave
 - Club Illico
 - Crave Amazon Channel
@@ -85,3 +86,4 @@ Peter Parker is unmasked and no longer able to separate his normal life from the
 > **Cast** [[Tom Holland]] · [[Zendaya]] · [[Benedict Cumberbatch]] · [[Jacob Batalon]] · [[Jon Favreau]] · [[Jamie Foxx]] · [[Willem Dafoe]] · [[Alfred Molina]] · [[Benedict Wong]] · [[Tony Revolori]]
 > **Studios** [[Marvel Studios]] · [[Pascal Pictures]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

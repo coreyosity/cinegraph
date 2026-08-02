@@ -59,3 +59,4 @@ After Kick-Ass’ insane bravery inspires a new wave of self-made masked crusade
 > **Cast** [[Aaron Taylor-Johnson]] · [[Chloë Grace Moretz]] · [[Christopher Mintz-Plasse]] · [[Lyndsy Fonseca]] · [[Jim Carrey]] · [[Iain Glen]] · [[Clark Duke]] · [[Lindy Booth]] · [[Garrett M. Brown]] · [[Morris Chestnut]]
 > **Studios** [[Marv]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Crime]]
+

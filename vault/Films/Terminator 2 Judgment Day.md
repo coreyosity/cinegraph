@@ -60,18 +60,17 @@ tags:
 letterboxd: https://boxd.it/2aGY
 providers:
 - Paramount Plus
+- Sky Go
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - STUDIOCANAL PRESENTS Apple TV Channel
 - Studiocanal Presents Amazon Channel
-- ITVX Premium
 - fuboTV
 - Paramount Plus Essential
 - Philo
 - YouTube TV
 - Paramount+ Roku Premium Channel
-- Starz Amazon Channel
 - Crave
 - Crave Amazon Channel
 - Stan
@@ -87,3 +86,4 @@ Ten years after the events of the original, a reprogrammed T-800 is sent back in
 > **Cast** [[Arnold Schwarzenegger]] · [[Linda Hamilton]] · [[Edward Furlong]] · [[Robert Patrick]] · [[Earl Boen]] · [[Joe Morton]] · [[S. Epatha Merkerson]] · [[Castulo Guerra]] · [[Danny Cooksey]] · [[Jenette Goldstein]]
 > **Studios** [[Carolco Pictures]] · [[Pacific Western]] · [[Lightstorm Entertainment]] · [[Le Studio Canal+]]
 > **Genres** [[Action]] · [[Thriller]] · [[Science Fiction]]
+

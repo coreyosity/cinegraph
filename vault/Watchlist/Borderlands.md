@@ -63,3 +63,4 @@ Returning to her home planet, an infamous bounty hunter forms an unexpected alli
 > **Cast** [[Cate Blanchett]] · [[Kevin Hart]] · [[Edgar Ramírez]] · [[Jamie Lee Curtis]] · [[Ariana Greenblatt]] · [[Florian Munteanu]] · [[Janina Gavankar]] · [[Jack Black]] · [[Benjamin Byron Davis]] · [[Olivier Richters]]
 > **Studios** [[Lionsgate]] · [[Arad Productions]] · [[Picturestart]] · [[Gearbox Studios]] · [[2K]] · [[Hercules Film Fund]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Comedy]]
+

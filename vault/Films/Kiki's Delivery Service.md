@@ -84,3 +84,4 @@ A young witch, on her mandatory year of independent life, finds fitting into a n
 > **Cast** [[Minami Takayama]] · [[Rei Sakuma]] · [[Kappei Yamaguchi]] · [[Keiko Toda]] · [[Mieko Nobusawa]] · [[Koichi Miura]] · [[Haruko Katō]] · [[Hiroko Seki]] · [[Yuriko Fuchizaki]] · [[Koichi Yamadera]]
 > **Studios** [[Studio Ghibli]] · [[Nibariki]] · [[Tokuma Shoten]] · [[Nippon Television Network Corporation]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]]
+

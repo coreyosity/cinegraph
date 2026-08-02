@@ -74,3 +74,4 @@ Young princess Anna of Arendelle dreams about finding true love at her sister El
 > **Cast** [[Idina Menzel]] · [[Kristen Bell]] · [[Jonathan Groff]] · [[Josh Gad]] · [[Livvy Stubenrauch]] · [[Santino Fontana]] · [[Eva Bella]] · [[Alan Tudyk]] · [[Maia Wilson]] · [[Ciarán Hinds]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Fantasy]]
+

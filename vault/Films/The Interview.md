@@ -63,3 +63,4 @@ Dave Skylark and his producer Aaron Rapaport run the celebrity tabloid show "Sky
 > **Cast** [[James Franco]] · [[Seth Rogen]] · [[Lizzy Caplan]] · [[Randall Park]] · [[Diana Bang]] · [[Timothy Simons]] · [[Reese Alexander]] · [[James Yi]] · [[Paul Bae]] · [[Geoff Gustafson]]
 > **Studios** [[Point Grey Pictures]] · [[Columbia Pictures]] · [[LStar Capital]]
 > **Genres** [[Action]] · [[Comedy]]
+

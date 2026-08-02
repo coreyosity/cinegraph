@@ -54,7 +54,6 @@ tags:
 letterboxd: https://boxd.it/29qq
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.
@@ -67,3 +66,4 @@ Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shi
 > **Cast** [[Tom Hanks]] · [[Tim Allen]] · [[Joan Cusack]] · [[Kelsey Grammer]] · [[Don Rickles]] · [[Jim Varney]] · [[Wallace Shawn]] · [[John Ratzenberger]] · [[Annie Potts]] · [[Wayne Knight]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

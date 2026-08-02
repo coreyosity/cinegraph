@@ -69,3 +69,4 @@ A man trapped in an endless sterile subway passageway sets out to find Exit 8. T
 > **Cast** [[Kazunari Ninomiya]] · [[Yamato Kochi]] · [[Naru Asanuma]] · [[Kotone Hanase]] · [[Nana Komatsu]] · [[Hirota Otsuka]] · [[Tara Nakashima]] · [[Reo Soda]] · [[Mikio Ueda]] · [[HIKAKIN]]
 > **Studios** [[TOHO]] · [[AOI Pro]] · [[Story]] · [[Lawson]] · [[Suirinsha]] · [[Tohan]] · [[Office Nino]] · [[Metro Ad Agency]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

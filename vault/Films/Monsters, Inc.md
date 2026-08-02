@@ -73,3 +73,4 @@ Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare tea
 > **Cast** [[John Goodman]] · [[Billy Crystal]] · [[Mary Gibbs]] · [[Steve Buscemi]] · [[James Coburn]] · [[Jennifer Tilly]] · [[Bob Peterson]] · [[John Ratzenberger]] · [[Frank Oz]] · [[Daniel Gerson]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

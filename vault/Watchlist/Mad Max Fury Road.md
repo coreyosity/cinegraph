@@ -71,3 +71,4 @@ An apocalyptic story set in the furthest reaches of our planet, in a stark deser
 > **Cast** [[Tom Hardy]] · [[Charlize Theron]] · [[Nicholas Hoult]] · [[Hugh Keays-Byrne]] · [[Josh Helman]] · [[Nathan Jones]] · [[Zoë Kravitz]] · [[Rosie Huntington-Whiteley]] · [[Riley Keough]] · [[Abbey Lee]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[Kennedy Miller Mitchell]] · [[RatPac Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

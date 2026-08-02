@@ -54,10 +54,8 @@ tags:
 letterboxd: https://boxd.it/1XX8
 providers:
 - fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Philo
 - Paramount+ Amazon Channel
 - YouTube TV
 - MGM Plus
@@ -75,3 +73,4 @@ An idyllic summer turns into a nightmare of unspeakable terror for yet another g
 > **Cast** [[Dana Kimmell]] · [[Paul Kratka]] · [[Richard Brooker]] · [[Catherine Parks]] · [[Tracie Savage]] · [[David Wiley]] · [[Rachel Howard]] · [[Anne Gaybis]] · [[Larry Zerner]] · [[Jeffrey Rogers]]
 > **Studios** [[Jason Productions]] · [[Georgetown Productions]] · [[Paramount Pictures]] · [[Sean S. Cunningham Films]] · [[Frank Mancuso Jr. Productions]]
 > **Genres** [[Horror]] · [[Thriller]]
+

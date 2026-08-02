@@ -62,3 +62,4 @@ From the producers of Paranormal Activity, Insidious, and Sinister comes Dark Sk
 > **Cast** [[Keri Russell]] · [[Josh Hamilton]] · [[Dakota Goyo]] · [[J.K. Simmons]] · [[Trevor St. John]] · [[Annie Thurman]] · [[Myndy Crist]] · [[Josh Wingate]] · [[Ron Ostrow]] · [[Alyvia Alyn Lind]]
 > **Studios** [[Cinema Vehicle Services]] · [[Alliance Films]] · [[Automatik Entertainment]] · [[Blumhouse Productions]]
 > **Genres** [[Science Fiction]] · [[Thriller]] · [[Horror]]
+

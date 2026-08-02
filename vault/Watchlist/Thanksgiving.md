@@ -68,3 +68,4 @@ After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired ki
 > **Cast** [[Patrick Dempsey]] · [[Nell Verlaque]] · [[Addison Rae]] · [[Milo Manheim]] · [[Jalen Thomas Brooks]] · [[Tomaso Sanelli]] · [[Jenna Warren]] · [[Gabriel Davenport]] · [[Ty Olsson]] · [[Gina Gershon]]
 > **Studios** [[Electromagnetic Productions]] · [[Dragonfly Entertainment]] · [[Spyglass Media Group]]
 > **Genres** [[Horror]] · [[Mystery]]
+

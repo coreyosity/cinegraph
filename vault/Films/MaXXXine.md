@@ -88,3 +88,4 @@ In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally get
 > **Cast** [[Mia Goth]] · [[Elizabeth Debicki]] · [[Moses Sumney]] · [[Michelle Monaghan]] · [[Bobby Cannavale]] · [[Halsey]] · [[Lily Collins]] · [[Giancarlo Esposito]] · [[Kevin Bacon]] · [[Charley Rowan McCain]]
 > **Studios** [[A24]] · [[Motel Mojave]] · [[Access Entertainment]]
 > **Genres** [[Horror]]
+

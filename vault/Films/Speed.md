@@ -55,7 +55,9 @@ tags:
 letterboxd: https://boxd.it/28qk
 providers:
 - Disney Plus
+- Netflix
 - YouTube TV
+- Netflix Standard with Ads
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -73,3 +75,4 @@ Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that
 > **Cast** [[Keanu Reeves]] · [[Dennis Hopper]] · [[Sandra Bullock]] · [[Joe Morton]] · [[Jeff Daniels]] · [[Alan Ruck]] · [[Glenn Plummer]] · [[Richard Lineback]] · [[Beth Grant]] · [[Hawthorne James]]
 > **Studios** [[20th Century Fox]] · [[The Mark Gordon Company]]
 > **Genres** [[Action]] · [[Thriller]]
+

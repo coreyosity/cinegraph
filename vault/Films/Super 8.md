@@ -51,8 +51,11 @@ letterboxd: https://boxd.it/dVI
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- fuboTV
+- MGM+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Essential
+- Philo
 - Paramount+ Amazon Channel
 - MGM Plus
 - Paramount+ Roku Premium Channel
@@ -68,3 +71,4 @@ In late 1970s Ohio, a group of friends filming a homemade zombie movie witness a
 > **Cast** [[Joel Courtney]] · [[Elle Fanning]] · [[Riley Griffiths]] · [[Kyle Chandler]] · [[Noah Emmerich]] · [[AJ Michalka]] · [[Ryan Lee]] · [[Ron Eldard]] · [[Gabriel Basso]] · [[Bruce Greenwood]]
 > **Studios** [[Paramount Pictures]] · [[Amblin Entertainment]] · [[Bad Robot]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Mystery]]
+

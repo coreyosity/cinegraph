@@ -46,6 +46,7 @@ tags:
 letterboxd: https://boxd.it/25RM
 providers:
 - Disney Plus
+- fuboTV
 ---
 
 A successful physician and devoted family man, John Dolittle seems to have the world by the tail, until a long suppressed talent he possessed as a child, the ability to communicate with animals is suddenly reawakened with a vengeance! Now every creature within squawking distance wants the good doctor's advice, unleashing an outrageous chain of events that turns his world upside down!
@@ -58,3 +59,4 @@ A successful physician and devoted family man, John Dolittle seems to have the w
 > **Cast** [[Eddie Murphy]] · [[Ossie Davis]] · [[Oliver Platt]] · [[Peter Boyle]] · [[Richard Schiff]] · [[Kristen Wilson]] · [[Jeffrey Tambor]] · [[Kyla Pratt]] · [[Raven-Symoné]] · [[Steven Gilborn]]
 > **Studios** [[20th Century Fox]] · [[Davis Entertainment]] · [[Joseph M. Singer Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

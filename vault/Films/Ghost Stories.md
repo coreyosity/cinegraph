@@ -32,3 +32,4 @@ Compilation of the popular psychic ghost story series "Million Scariest Videos -
 > **Director** [[Kaosu Sumikura]]
 > **Cast** [[Kaosu Sumikura]] · [[Kazuya Nishiura]]
 > **Genres** [[Horror]]
+

@@ -48,13 +48,14 @@ letterboxd: https://boxd.it/5Txe
 providers:
 - Netflix
 - Netflix Standard with Ads
-- Philo
+- Peacock Premium
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
+- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
+- Starz Amazon Channel
 ---
 
 A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.
@@ -67,3 +68,4 @@ A couple with a newborn baby face unexpected difficulties after they are forced 
 > **Cast** [[Seth Rogen]] · [[Zac Efron]] · [[Rose Byrne]] · [[Dave Franco]] · [[Christopher Mintz-Plasse]] · [[Jerrod Carmichael]] · [[Ike Barinholtz]] · [[Carla Gallo]] · [[Halston Sage]] · [[Craig Roberts]]
 > **Studios** [[Good Universe]] · [[Universal Pictures]] · [[Point Grey Pictures]]
 > **Genres** [[Comedy]]
+

@@ -37,7 +37,9 @@ tags:
 - film
 letterboxd: https://boxd.it/wEeK
 providers:
+- Amazon Prime Video
 - Hulu
+- Amazon Prime Video with Ads
 log_tags:
 - myself
 - cinema
@@ -55,3 +57,4 @@ When Audrey's business trip to Asia goes sideways, she enlists the aid of Lolo, 
 > **Cast** [[Ashley Park]] · [[Sherry Cola]] · [[Stephanie Hsu]] · [[Sabrina Wu]] · [[Ronny Chieng]] · [[Lori Tan Chinn]] · [[David Denman]] · [[Annie Mumolo]] · [[Desmond Chiam]] · [[Alexander Hodge]]
 > **Studios** [[Lionsgate]] · [[Point Grey Pictures]] · [[Red Mysterious Hippo]]
 > **Genres** [[Comedy]]
+

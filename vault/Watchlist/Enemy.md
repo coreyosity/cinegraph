@@ -38,3 +38,4 @@ Relations between the students and the new teacher of German are extremely tense
 > **Cast** [[Igor Samobor]] · [[Nataša Barbara Gračner]] · [[Tjaša Železnik]] · [[Maša Derganc]] · [[Robert Prebil]] · [[Voranc Boh]] · [[Jana Zupančič]] · [[Daša Cupevski]] · [[Doroteja Nadrah]] · [[Špela Novak]]
 > **Studios** [[Triglav film]]
 > **Genres** [[Drama]]
+

@@ -70,3 +70,4 @@ After the Evil Queen marries the King, she performs a violent coup in which the 
 > **Cast** [[Kristen Stewart]] · [[Chris Hemsworth]] · [[Charlize Theron]] · [[Sam Claflin]] · [[Ian McShane]] · [[Ray Winstone]] · [[Nick Frost]] · [[Noah Huntley]] · [[Toby Jones]] · [[Eddie Marsan]]
 > **Studios** [[Universal Pictures]] · [[Roth Films]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Drama]]
+

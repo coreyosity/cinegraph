@@ -53,9 +53,7 @@ providers:
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
 - fuboTV
-- MGM+ Amazon Channel
 - Paramount Plus Essential
-- Philo
 - YouTube TV
 - MGM Plus
 - Paramount+ Roku Premium Channel
@@ -72,3 +70,4 @@ Five years after the horrible bloodbath at Camp Crystal Lake, new counselors roa
 > **Cast** [[Russell Todd]] · [[Amy Steel]] · [[John Furey]] · [[Adrienne King]] · [[Kirsten Baker]] · [[Stuart Charno]] · [[Warrington Gillette]] · [[Walt Gorney]] · [[Marta Kober]] · [[Tom McBride]]
 > **Studios** [[Georgetown Productions]] · [[Paramount Pictures]]
 > **Genres** [[Horror]] · [[Thriller]]
+

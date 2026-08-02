@@ -86,3 +86,4 @@ In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is c
 > **Cast** [[Harrison Ford]] · [[Rutger Hauer]] · [[Sean Young]] · [[Edward James Olmos]] · [[M. Emmet Walsh]] · [[Daryl Hannah]] · [[William Sanderson]] · [[Brion James]] · [[Joe Turkel]] · [[Joanna Cassidy]]
 > **Studios** [[Shaw Brothers]] · [[The Ladd Company]] · [[Warner Bros. Pictures]]
 > **Genres** [[Science Fiction]] · [[Drama]] · [[Thriller]]
+

@@ -72,3 +72,4 @@ After his revival in a hospital morgue, Jason fixes his vengeful attention on th
 > **Cast** [[Judie Aronson]] · [[Kimberly Beck]] · [[Joan Freeman]] · [[Barbara Howard]] · [[Corey Feldman]] · [[Erich Anderson]] · [[Peter Barton]] · [[Crispin Glover]] · [[Clyde Hayes]] · [[Lawrence Monoson]]
 > **Studios** [[Friday Four, Inc]] · [[Georgetown Productions]] · [[Paramount Pictures]] · [[Sean S. Cunningham Films]]
 > **Genres** [[Horror]]
+

@@ -53,7 +53,6 @@ tags:
 letterboxd: https://boxd.it/201Q
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.
@@ -66,3 +65,4 @@ Young lion prince Simba, eager to one day become king of the Pride Lands, grows 
 > **Cast** [[Matthew Broderick]] · [[Moira Kelly]] · [[Jeremy Irons]] · [[Nathan Lane]] · [[Ernie Sabella]] · [[James Earl Jones]] · [[Robert Guillaume]] · [[Rowan Atkinson]] · [[Jim Cummings]] · [[Whoopi Goldberg]]
 > **Studios** [[Walt Disney Pictures]] · [[Walt Disney Feature Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Drama]]
+

@@ -57,3 +57,4 @@ Pop star Christopher Wilde has fame, fortune and a big-budget Hollywood movie aw
 > **Cast** [[Sterling Knight]] · [[Danielle Campbell]] · [[Maggie Castle]] · [[Brandon Mychal Smith]] · [[Chelsea Kane]] · [[Matt Winston]] · [[Toni Trucks]] · [[Abbie Cobb]] · [[Beth Littleford]] · [[Dan O'Connor]]
 > **Studios** [[Disney Channel]]
 > **Genres** [[Romance]] · [[Comedy]] · [[TV Movie]] · [[Music]]
+

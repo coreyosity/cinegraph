@@ -62,6 +62,8 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- Peacock Premium
+- Peacock Premium Plus
 - Amazon Prime Video
 - Crave
 - Starz Amazon Channel
@@ -80,3 +82,4 @@ After receiving an exotic small animal as a Christmas gift, a young man inadvert
 > **Cast** [[Zach Galligan]] · [[Phoebe Cates]] · [[Hoyt Axton]] · [[Frances Lee McCain]] · [[Corey Feldman]] · [[Keye Luke]] · [[John Louie]] · [[Dick Miller]] · [[Jackie Joseph]] · [[Polly Holliday]]
 > **Studios** [[Amblin Entertainment]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Horror]] · [[Comedy]]
+

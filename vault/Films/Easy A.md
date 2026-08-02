@@ -51,6 +51,7 @@ tags:
 letterboxd: https://boxd.it/17DK
 providers:
 - Sony Pictures Core Amazon Channel
+- fuboTV
 - YouTube TV
 - Netflix
 - Netflix Standard with Ads
@@ -66,3 +67,4 @@ Olive, an average high school student, sees her below-the-radar existence turn a
 > **Cast** [[Emma Stone]] · [[Penn Badgley]] · [[Amanda Bynes]] · [[Dan Byrd]] · [[Thomas Haden Church]] · [[Patricia Clarkson]] · [[Cam Gigandet]] · [[Lisa Kudrow]] · [[Malcolm McDowell]] · [[Aly Michalka]]
 > **Studios** [[Screen Gems]] · [[Olive Bridge Entertainment]]
 > **Genres** [[Comedy]]
+

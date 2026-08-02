@@ -61,3 +61,4 @@ Still reeling from the tragic death of their mother, a teenage girl and her youn
 > **Cast** [[Sophie Thatcher]] · [[Vivien Lyra Blair]] · [[Chris Messina]] · [[David Dastmalchian]] · [[Marin Ireland]] · [[Madison Hu]] · [[Maddie Nichols]] · [[Mabel Tyler]] · [[Leeann Ross]] · [[Shauna Rappold]]
 > **Studios** [[21 Laps Entertainment]] · [[20th Century Studios]]
 > **Genres** [[Horror]]
+

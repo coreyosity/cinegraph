@@ -71,3 +71,4 @@ Peter Quill, still reeling from the loss of Gamora, must rally his team around h
 > **Cast** [[Chris Pratt]] · [[Zoe Saldaña]] · [[Dave Bautista]] · [[Karen Gillan]] · [[Pom Klementieff]] · [[Vin Diesel]] · [[Bradley Cooper]] · [[Sean Gunn]] · [[Chukwudi Iwuji]] · [[Will Poulter]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

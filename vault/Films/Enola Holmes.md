@@ -66,3 +66,4 @@ While searching for her missing mother, intrepid teen Enola Holmes uses her sleu
 > **Cast** [[Millie Bobby Brown]] · [[Henry Cavill]] · [[Sam Claflin]] · [[Helena Bonham Carter]] · [[Louis Partridge]] · [[Adeel Akhtar]] · [[Fiona Shaw]] · [[Frances de la Tour]] · [[Burn Gorman]] · [[Susan Wokoma]]
 > **Studios** [[PCMA Productions]] · [[Legendary Pictures]]
 > **Genres** [[Adventure]] · [[Mystery]] · [[Crime]]
+

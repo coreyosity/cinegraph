@@ -72,3 +72,4 @@ The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – b
 > **Cast** [[Taraji P. Henson]] · [[Octavia Spencer]] · [[Janelle Monáe]] · [[Kevin Costner]] · [[Kirsten Dunst]] · [[Jim Parsons]] · [[Mahershala Ali]] · [[Glen Powell]] · [[Ariana Neal]] · [[Saniyya Sidney]]
 > **Studios** [[Fox 2000 Pictures]] · [[Levantine Films]] · [[Chernin Entertainment]]
 > **Genres** [[Drama]] · [[History]]
+

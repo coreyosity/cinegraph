@@ -79,3 +79,4 @@ After a chaotic night of rioting in a marginal suburb of Paris, three young frie
 > **Cast** [[Vincent Cassel]] · [[Hubert Koundé]] · [[Saïd Taghmaoui]] · [[Abdel Ahmed Ghili]] · [[Solo]] · [[Joseph Momo]] · [[Héloïse Rauth]] · [[Rywka Wajsbrot]] · [[Olga Abrego]] · [[Laurent Labasse]]
 > **Studios** [[Kasso Productions]] · [[La Sept Cinéma]] · [[Les Productions Lazennec]] · [[Canal+]] · [[StudioCanal]]
 > **Genres** [[Drama]]
+

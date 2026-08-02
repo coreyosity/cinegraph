@@ -69,3 +69,4 @@ After waking up in a hospital with amnesia, professor Robert Langdon and a docto
 > **Cast** [[Tom Hanks]] · [[Felicity Jones]] · [[Omar Sy]] · [[Irrfan Khan]] · [[Sidse Babett Knudsen]] · [[Ben Foster]] · [[Ana Ularu]] · [[Ida Darvish]] · [[Paolo Antonio Simioni]] · [[Alessandro Grimaldi]]
 > **Studios** [[Columbia Pictures]] · [[Imagine Entertainment]]
 > **Genres** [[Mystery]] · [[Thriller]] · [[Action]]
+

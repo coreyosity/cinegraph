@@ -59,3 +59,4 @@ Dory is reunited with her friends Nemo and Marlin in the search for answers abou
 > **Cast** [[Ellen DeGeneres]] · [[Albert Brooks]] · [[Ed O'Neill]] · [[Hayden Rolence]] · [[Diane Keaton]] · [[Eugene Levy]] · [[Ty Burrell]] · [[Kaitlin Olson]] · [[Idris Elba]] · [[Dominic West]]
 > **Studios** [[Pixar]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]]
+

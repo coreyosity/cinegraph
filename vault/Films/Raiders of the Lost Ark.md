@@ -65,6 +65,7 @@ providers:
 - Paramount Plus Essential
 - Paramount+ Amazon Channel
 - YouTube TV
+- FXNow
 - Freeform
 - Paramount+ Roku Premium Channel
 - Crave
@@ -85,3 +86,4 @@ When Dr. Indiana Jones – the tweed-suited professor who just happens to be a c
 > **Cast** [[Harrison Ford]] · [[Karen Allen]] · [[Paul Freeman]] · [[John Rhys-Davies]] · [[Ronald Lacey]] · [[Wolf Kahler]] · [[Anthony Higgins]] · [[Denholm Elliott]] · [[Alfred Molina]] · [[Vic Tablian]]
 > **Studios** [[Paramount Pictures]] · [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]]
+

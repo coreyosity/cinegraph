@@ -77,3 +77,4 @@ Wandering her rambling old house in her boring new town, 11-year-old Coraline di
 > **Cast** [[Dakota Fanning]] · [[Teri Hatcher]] · [[Jennifer Saunders]] · [[Dawn French]] · [[Keith David]] · [[John Hodgman]] · [[Robert Bailey Jr]] · [[Ian McShane]] · [[Aankha Neal]] · [[George Selick]]
 > **Studios** [[LAIKA]] · [[Pandemonium]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]]
+

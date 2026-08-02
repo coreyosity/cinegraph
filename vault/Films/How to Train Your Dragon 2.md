@@ -78,6 +78,7 @@ tags:
 - film
 letterboxd: https://boxd.it/2TRW
 providers:
+- Sky Go
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Crave
@@ -100,3 +101,4 @@ Five years after uniting the dragons and Vikings of Berk, Hiccup and Toothless s
 > **Cast** [[Jay Baruchel]] · [[Cate Blanchett]] · [[Gerard Butler]] · [[Craig Ferguson]] · [[America Ferrera]] · [[Jonah Hill]] · [[Christopher Mintz-Plasse]] · [[T.J. Miller]] · [[Kristen Wiig]] · [[Djimon Hounsou]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Adventure]] · [[Animation]] · [[Family]]
+

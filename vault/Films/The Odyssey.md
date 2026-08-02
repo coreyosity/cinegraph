@@ -69,3 +69,4 @@ Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey h
 > **Cast** [[Matt Damon]] · [[Tom Holland]] · [[Anne Hathaway]] · [[Robert Pattinson]] · [[Himesh Patel]] · [[John Leguizamo]] · [[Charlize Theron]] · [[Travis Scott]] · [[Corey Hawkins]] · [[Jarreth J. Merz]]
 > **Studios** [[Universal Pictures]] · [[Syncopy]]
 > **Genres** [[Adventure]] · [[Action]] · [[Fantasy]]
+

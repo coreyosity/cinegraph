@@ -55,9 +55,9 @@ providers:
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
+- Crave Amazon Channel
 - Netflix
 - Netflix Standard with Ads
-- Crave Amazon Channel
 log_tags:
 - netflix
 - dad
@@ -75,3 +75,4 @@ A father and teen daughter attend a pop concert, where they realize they're at t
 > **Cast** [[Josh Hartnett]] · [[Ariel Donoghue]] · [[Saleka Night Shyamalan]] · [[Hayley Mills]] · [[Jonathan Langdon]] · [[Alison Pill]] · [[Mark Bacolcol]] · [[Marnie McPhail]] · [[Kid Cudi]] · [[Russ]]
 > **Studios** [[Blinding Edge Pictures]]
 > **Genres** [[Crime]] · [[Horror]] · [[Thriller]]
+

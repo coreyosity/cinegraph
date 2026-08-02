@@ -60,3 +60,4 @@ Professor Barbenfouillis and five of his colleagues from the Academy of Astronom
 > **Cast** [[Georges Méliès]] · [[Bleuette Bernon]] · [[François Lallement]] · [[Jehanne d'Alcy]] · [[Henri Delannoy]] · [[Victor André]] · [[Brunnet]] · [[Depierre]] · [[Farjaut]] · [[Kelm]]
 > **Studios** [[Star Film]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Comedy]]
+

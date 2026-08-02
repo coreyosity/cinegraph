@@ -56,3 +56,4 @@ Rey develops her newly discovered abilities with the guidance of Luke Skywalker,
 > **Cast** [[Mark Hamill]] · [[Carrie Fisher]] · [[Adam Driver]] · [[Daisy Ridley]] · [[John Boyega]] · [[Oscar Isaac]] · [[Andy Serkis]] · [[Lupita Nyong'o]] · [[Domhnall Gleeson]] · [[Anthony Daniels]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

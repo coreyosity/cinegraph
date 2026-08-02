@@ -60,6 +60,11 @@ letterboxd: https://boxd.it/2aTS
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Netflix
 - Crave
 - Netflix Standard with Ads
@@ -82,3 +87,4 @@ The final installment finds Marty digging the trusty DeLorean out of a mineshaft
 > **Cast** [[Michael J. Fox]] · [[Christopher Lloyd]] · [[Mary Steenburgen]] · [[Thomas F. Wilson]] · [[Lea Thompson]] · [[Elisabeth Shue]] · [[Matt Clark]] · [[Richard Dysart]] · [[Pat Buttram]] · [[Harry Carey, Jr]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Science Fiction]]
+

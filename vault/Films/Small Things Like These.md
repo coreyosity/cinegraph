@@ -58,7 +58,6 @@ providers:
 - Netflix Standard with Ads
 - Hulu
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
@@ -79,3 +78,4 @@ In 1985, while working as a coal merchant to support his family, Bill Furlong di
 > **Cast** [[Cillian Murphy]] · [[Emily Watson]] · [[Michelle Fairley]] · [[Eileen Walsh]] · [[Zara Devlin]] · [[Clare Dunne]] · [[Helen Behan]] · [[Ella Cannon]] · [[Patrick Ryan]] · [[Peter Claffey]]
 > **Studios** [[Artists Equity]] · [[Big Things Films]] · [[Wilder Content]] · [[Fís ÉireannScreen Ireland]]
 > **Genres** [[Drama]]
+

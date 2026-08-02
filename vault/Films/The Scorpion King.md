@@ -55,6 +55,11 @@ letterboxd: https://boxd.it/1YWA
 providers:
 - Sky Go
 - Now TV Cinema
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
@@ -71,3 +76,4 @@ In ancient Egypt, peasant Mathayus is hired to exact revenge on the powerful Mem
 > **Cast** [[Dwayne Johnson]] · [[Steven Brand]] · [[Michael Clarke Duncan]] · [[Kelly Hu]] · [[Bernard Hill]] · [[Grant Heslov]] · [[Peter Facinelli]] · [[Ralf Moeller]] · [[Branscombe Richmond]] · [[Roger Rees]]
 > **Studios** [[Universal Pictures]] · [[Alphaville Films]] · [[Kalima Productions]] · [[WWE Studios]] · [[Alliance Films]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

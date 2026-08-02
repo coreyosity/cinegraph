@@ -62,3 +62,4 @@ Over many missions and against impossible odds, Dom Toretto and his family have 
 > **Cast** [[Vin Diesel]] · [[Michelle Rodriguez]] · [[Tyrese Gibson]] · [[Ludacris]] · [[John Cena]] · [[Nathalie Emmanuel]] · [[Jordana Brewster]] · [[Sung Kang]] · [[Jason Momoa]] · [[Scott Eastwood]]
 > **Studios** [[Universal Pictures]] · [[Original Film]] · [[One Race]] · [[Perfect Storm Entertainment]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

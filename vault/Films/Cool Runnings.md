@@ -62,3 +62,4 @@ When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the 
 > **Cast** [[Leon]] · [[Doug E. Doug]] · [[Rawle D. Lewis]] · [[Malik Yoba]] · [[John Candy]] · [[Raymond J. Barry]] · [[Peter Outerbridge]] · [[Paul Cœur]] · [[Larry Gilman]] · [[Charles Hyatt]]
 > **Studios** [[Walt Disney Pictures]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Drama]]
+

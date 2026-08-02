@@ -65,3 +65,4 @@ A neurotic worker ant in love with a rebellious princess rises to unlikely stard
 > **Cast** [[Woody Allen]] · [[Sharon Stone]] · [[Dan Aykroyd]] · [[Anne Bancroft]] · [[Danny Glover]] · [[Gene Hackman]] · [[Jane Curtin]] · [[Sylvester Stallone]] · [[Jennifer Lopez]] · [[Christopher Walken]]
 > **Studios** [[Pacific Data Images]] · [[DreamWorks Animation]] · [[DreamWorks Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

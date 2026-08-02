@@ -49,3 +49,4 @@ The surviving Resistance faces the First Order once again as the journey of Rey,
 > **Cast** [[Carrie Fisher]] · [[Mark Hamill]] · [[Daisy Ridley]] · [[Adam Driver]] · [[John Boyega]] · [[Oscar Isaac]] · [[Anthony Daniels]] · [[Naomi Ackie]] · [[Domhnall Gleeson]] · [[Richard E. Grant]]
 > **Studios** [[Lucasfilm Ltd]] · [[Bad Robot]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

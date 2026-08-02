@@ -74,3 +74,4 @@ Dumbledore tries to prepare Harry for the final battle with Voldemort while Deat
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Jim Broadbent]] · [[Michael Gambon]] · [[Tom Felton]] · [[Alan Rickman]] · [[Bonnie Wright]] · [[Jessie Cave]] · [[Evanna Lynch]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

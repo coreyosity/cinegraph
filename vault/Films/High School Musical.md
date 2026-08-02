@@ -65,3 +65,4 @@ A popular high school athlete and an academically gifted girl get roles in the s
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Monique Coleman]] · [[Bart Johnson]] · [[Alyson Reed]] · [[Chris Warren]] · [[Olesya Rulin]]
 > **Studios** [[Salty Pictures]] · [[First Street Films]]
 > **Genres** [[Comedy]] · [[Family]] · [[TV Movie]] · [[Music]] · [[Romance]]
+

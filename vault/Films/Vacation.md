@@ -68,3 +68,4 @@ Hoping to bring his family closer together and to recreate his childhood vacatio
 > **Cast** [[Ed Helms]] · [[Christina Applegate]] · [[Skyler Gisondo]] · [[Steele Stebbins]] · [[Chris Hemsworth]] · [[Leslie Mann]] · [[Chevy Chase]] · [[Beverly D'Angelo]] · [[Charlie Day]] · [[Catherine Missal]]
 > **Studios** [[BenderSpink]] · [[David Dobkin Productions]]
 > **Genres** [[Comedy]] · [[Adventure]]
+

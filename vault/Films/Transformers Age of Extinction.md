@@ -75,3 +75,4 @@ As humanity picks up the pieces after the battle of Chicago, a shadowy group rev
 > **Cast** [[Mark Wahlberg]] · [[Peter Cullen]] · [[Stanley Tucci]] · [[Kelsey Grammer]] · [[Nicola Peltz]] · [[Jack Reynor]] · [[Frank Welker]] · [[Sophia Myles]] · [[Li Bingbing]] · [[Titus Welliver]]
 > **Studios** [[di Bonaventura Pictures]] · [[DeSantoMurphy Productions]] · [[Ian Bryce Productions]] · [[Paramount Pictures]] · [[Hasbro]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

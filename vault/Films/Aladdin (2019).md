@@ -68,3 +68,4 @@ A kindhearted street urchin named Aladdin embarks on a magical adventure after f
 > **Cast** [[Will Smith]] · [[Mena Massoud]] · [[Naomi Scott]] · [[Marwan Kenzari]] · [[Navid Negahban]] · [[Nasim Pedrad]] · [[Billy Magnussen]] · [[Numan Acar]] · [[Jordan A. Nash]] · [[Taliyah Blair]]
 > **Studios** [[Walt Disney Pictures]] · [[Rideback]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Romance]] · [[Family]]
+

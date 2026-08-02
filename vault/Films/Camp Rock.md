@@ -60,3 +60,4 @@ When Mitchie gets a chance to attend Camp Rock, her life takes an unpredictable 
 > **Cast** [[Demi Lovato]] · [[Joe Jonas]] · [[Meaghan Jette Martin]] · [[Maria Canals-Barrera]] · [[Alyson Stoner]] · [[Julie Brown]] · [[Daniel Fathers]] · [[Anna Maria Perez De Taglé]] · [[Jasmine Richards]] · [[Jordan Francis]]
 > **Studios** [[Alan Sacks Productions]] · [[Walt Disney Television]] · [[Sudden Motion Productions]] · [[Disney Channel]]
 > **Genres** [[Music]] · [[Family]] · [[TV Movie]]
+

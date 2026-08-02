@@ -56,6 +56,7 @@ tags:
 letterboxd: https://boxd.it/27yW
 providers:
 - Paramount Plus
+- Sky Go
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
@@ -63,7 +64,6 @@ providers:
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
 ---
 
 After the harrowing death of his partner, forensic psychologist and best-selling author Alex Cross cannot forgive himself and has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, he is lured back into action as the kidnapper wants to deal with Alex personally. Teamed with Jezzie Flanigan, the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.
@@ -76,3 +76,4 @@ After the harrowing death of his partner, forensic psychologist and best-selling
 > **Cast** [[Morgan Freeman]] · [[Monica Potter]] · [[Michael Wincott]] · [[Dylan Baker]] · [[Mika Boorem]] · [[Anton Yelchin]] · [[Kim Hawthorne]] · [[Jay O. Sanders]] · [[Billy Burke]] · [[Michael Moriarty]]
 > **Studios** [[Paramount Pictures]] · [[David Brown Productions]] · [[Phase 1 Productions]] · [[Revelations Entertainment]]
 > **Genres** [[Crime]] · [[Mystery]] · [[Thriller]] · [[Action]]
+

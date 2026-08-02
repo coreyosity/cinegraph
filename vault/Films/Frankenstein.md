@@ -71,3 +71,4 @@ Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creatur
 > **Cast** [[Oscar Isaac]] · [[Jacob Elordi]] · [[Christoph Waltz]] · [[Mia Goth]] · [[Felix Kammerer]] · [[Charles Dance]] · [[David Bradley]] · [[Lars Mikkelsen]] · [[Christian Convery]] · [[Nikolaj Lie Kaas]]
 > **Studios** [[Double Dare You]] · [[Demilo Films]] · [[Bluegrass 7]]
 > **Genres** [[Drama]] · [[Fantasy]] · [[Horror]]
+

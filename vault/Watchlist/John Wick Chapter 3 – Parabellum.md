@@ -50,9 +50,9 @@ tags:
 letterboxd: https://boxd.it/gmFw
 providers:
 - Lionsgate+ Amazon Channels
-- HBO Max Amazon Channel
+- Philo
+- AMC+ Amazon Channel
 - YouTube TV
-- HBO Max
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Stan
@@ -65,3 +65,4 @@ Super-assassin John Wick returns with a $14 million price tag on his head and an
 > **Cast** [[Keanu Reeves]] · [[Halle Berry]] · [[Ian McShane]] · [[Laurence Fishburne]] · [[Mark Dacascos]] · [[Asia Kate Dillon]] · [[Lance Reddick]] · [[Anjelica Huston]] · [[Saïd Taghmaoui]] · [[Jerome Flynn]]
 > **Studios** [[Thunder Road]] · [[Lionsgate]] · [[87Eleven]]
 > **Genres** [[Action]] · [[Thriller]] · [[Crime]]
+

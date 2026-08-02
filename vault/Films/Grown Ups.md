@@ -49,13 +49,15 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Sony Pictures Core Amazon Channel
+- Peacock Premium
 - Philo
 - Starz Apple TV Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
+- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
+- Starz Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -71,3 +73,4 @@ After their high school basketball coach passes away, five good friends and form
 > **Cast** [[Adam Sandler]] · [[Kevin James]] · [[Chris Rock]] · [[David Spade]] · [[Rob Schneider]] · [[Salma Hayek Pinault]] · [[Maria Bello]] · [[Maya Rudolph]] · [[Joyce Van Patten]] · [[Ebony Jo-Ann]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Happy Madison Productions]]
 > **Genres** [[Comedy]]
+

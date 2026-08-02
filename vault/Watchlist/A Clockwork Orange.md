@@ -73,3 +73,4 @@ In a near-future Britain, young Alexander DeLarge and his pals get their kicks b
 > **Cast** [[Malcolm McDowell]] · [[Patrick Magee]] · [[Carl Duering]] · [[Michael Bates]] · [[Warren Clarke]] · [[James Marcus]] · [[Michael Tarn]] · [[Miriam Karlin]] · [[Adrienne Corri]] · [[Sheila Raynor]]
 > **Studios** [[Polaris Productions Limited]] · [[Warner Bros. Pictures]] · [[Hawk Films]]
 > **Genres** [[Science Fiction]] · [[Crime]]
+

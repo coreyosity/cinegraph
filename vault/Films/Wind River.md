@@ -63,13 +63,10 @@ tags:
 - film
 letterboxd: https://boxd.it/dR3i
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- MGM Plus Amazon Channel
 - Netflix
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
-- Starz Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -91,3 +88,4 @@ An FBI agent teams with the town's veteran game tracker to investigate a murder 
 > **Cast** [[Jeremy Renner]] · [[Elizabeth Olsen]] · [[Gil Birmingham]] · [[Graham Greene]] · [[Jon Bernthal]] · [[Kelsey Asbille]] · [[Teo Briones]] · [[Tantoo Cardinal]] · [[Matthew Del Negro]] · [[Hugh Dillon]]
 > **Studios** [[Savvy Media Holdings]] · [[Thunder Road]] · [[Film 44]] · [[Acacia Filmed Entertainment]] · [[Riverstone Pictures]] · [[Voltage Pictures]] · [[Synergics Films]] · [[Star Thrower Entertainment]] · [[Tunica-Biloxi Tribe of Louisiana]] · [[The Fyzz]] · [[Wild Bunch]]
 > **Genres** [[Crime]] · [[Mystery]] · [[Thriller]]
+

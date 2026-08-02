@@ -81,3 +81,4 @@ In the winter of 1820, the New England whaling ship Essex is assaulted by someth
 > **Cast** [[Chris Hemsworth]] · [[Benjamin Walker]] · [[Cillian Murphy]] · [[Brendan Gleeson]] · [[Ben Whishaw]] · [[Michelle Fairley]] · [[Tom Holland]] · [[Paul Anderson]] · [[Frank Dillane]] · [[Joseph Mawle]]
 > **Studios** [[Imagine Entertainment]] · [[Spring Creek Pictures]] · [[Roth Films]] · [[Kjam Media]] · [[Cott Productions]] · [[Surf Film]] · [[Enelmar Productions, A.I.E]] · [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]]
 > **Genres** [[Thriller]] · [[Drama]] · [[Adventure]] · [[Action]] · [[History]]
+

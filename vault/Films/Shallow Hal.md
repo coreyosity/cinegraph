@@ -72,3 +72,4 @@ After taking his dying father's advice, Hal dates only the embodiments of female
 > **Cast** [[Jack Black]] · [[Gwyneth Paltrow]] · [[Jason Alexander]] · [[Joe Viterelli]] · [[Rene Kirby]] · [[Bruce McGill]] · [[Tony Robbins]] · [[Susan Ward]] · [[Zen Gesner]] · [[Brooke Burns]]
 > **Studios** [[20th Century Fox]] · [[Conundrum Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Fantasy]] · [[Romance]]
+

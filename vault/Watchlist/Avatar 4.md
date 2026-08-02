@@ -40,3 +40,4 @@ The fourth installment of the franchise. Plot TBA.
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Stephen Lang]] · [[Sigourney Weaver]] · [[Oona Chaplin]] · [[Giovanni Ribisi]] · [[Joel David Moore]] · [[CCH Pounder]] · [[Matt Gerald]] · [[Jemaine Clement]]
 > **Studios** [[20th Century Studios]] · [[Lightstorm Entertainment]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

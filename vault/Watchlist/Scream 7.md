@@ -69,3 +69,4 @@ When a new Ghostface killer emerges in the quiet town where Sidney Prescott has 
 > **Cast** [[Neve Campbell]] · [[Courteney Cox]] · [[Isabel May]] · [[Jasmin Savoy Brown]] · [[Mason Gooding]] · [[Roger L. Jackson]] · [[Anna Camp]] · [[Joel McHale]] · [[Celeste O'Connor]] · [[Sam Rechner]]
 > **Studios** [[Paramount Pictures]] · [[Spyglass Media Group]] · [[Project X Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Crime]]
+

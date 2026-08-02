@@ -70,3 +70,4 @@ Marty Mauser, a young man with a dream no one respects, goes to hell and back in
 > **Cast** [[Timothée Chalamet]] · [[Gwyneth Paltrow]] · [[Odessa A'zion]] · [[Kevin O'Leary]] · [[Tyler, The Creator]] · [[Fran Drescher]] · [[Abel Ferrara]] · [[Emory Cohen]] · [[Géza Röhrig]] · [[Koto Kawaguchi]]
 > **Studios** [[A24]] · [[Central Pictures]]
 > **Genres** [[Drama]] · [[Thriller]]
+

@@ -67,7 +67,6 @@ providers:
 - Disney Plus
 - YouTube TV
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 ---
 
 A small suburban town receives a visit from a castaway unfinished science experiment named Edward.
@@ -80,3 +79,4 @@ A small suburban town receives a visit from a castaway unfinished science experi
 > **Cast** [[Johnny Depp]] · [[Winona Ryder]] · [[Dianne Wiest]] · [[Anthony Michael Hall]] · [[Kathy Baker]] · [[Robert Oliveri]] · [[Conchata Ferrell]] · [[Caroline Aaron]] · [[Dick Anthony Williams]] · [[O-Lan Jones]]
 > **Studios** [[20th Century Fox]] · [[Tim Burton Productions]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Romance]]
+

@@ -84,3 +84,4 @@ When Bella Swan moves to a small town in the Pacific Northwest, she falls in lov
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Ashley Greene]] · [[Jackson Rathbone]] · [[Nikki Reed]] · [[Kellan Lutz]] · [[Elizabeth Reaser]] · [[Taylor Lautner]]
 > **Studios** [[Summit Entertainment]] · [[Temple Hill Entertainment]] · [[Maverick Films]] · [[Imprint Entertainment]] · [[Goldcrest]] · [[Aura Films]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Romance]]
+

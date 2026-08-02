@@ -56,13 +56,16 @@ providers:
 - Channel 4 Plus
 - Paramount+ Amazon Channel
 - Netflix Standard with Ads
+- fuboTV
 - Paramount Plus Essential
+- Peacock Premium
 - Philo
 - Starz Apple TV Channel
 - YouTube TV
 - Starz
 - Paramount+ Roku Premium Channel
-- Starz Amazon Channel
+- Peacock Premium Plus
+- Crave Amazon Channel
 - BINGE
 - Foxtel Now
 - Stan
@@ -78,3 +81,4 @@ Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn fina
 > **Cast** [[Jack Black]] · [[Joan Cusack]] · [[Mike White]] · [[Sarah Silverman]] · [[Miranda Cosgrove]] · [[Joey Gaydos Jr]] · [[Kevin Alexander Clark]] · [[Rivkah Reyes]] · [[Robert Tsai]] · [[Maryam Hassan]]
 > **Studios** [[Paramount Pictures]] · [[Scott Rudin Productions]]
 > **Genres** [[Comedy]] · [[Family]] · [[Music]]
+

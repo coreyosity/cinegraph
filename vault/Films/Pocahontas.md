@@ -67,3 +67,4 @@ Pocahontas, daughter of a Native American tribe chief, falls in love with an Eng
 > **Cast** [[Irene Bedard]] · [[Mel Gibson]] · [[David Ogden Stiers]] · [[John Kassir]] · [[Christian Bale]] · [[Judy Kuhn]] · [[Billy Connolly]] · [[Frank Welker]] · [[Russell Means]] · [[Linda Hunt]]
 > **Studios** [[Walt Disney Feature Animation]] · [[Walt Disney Pictures]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]] · [[Romance]]
+

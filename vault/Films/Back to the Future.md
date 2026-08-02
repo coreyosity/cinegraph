@@ -63,6 +63,11 @@ letterboxd: https://boxd.it/2b8e
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Philo
+- Starz Apple TV Channel
+- Starz Roku Premium Channel
+- Starz
+- Starz Amazon Channel
 - Netflix
 - Crave
 - Netflix Standard with Ads
@@ -87,3 +92,4 @@ Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadver
 > **Cast** [[Michael J. Fox]] · [[Christopher Lloyd]] · [[Crispin Glover]] · [[Lea Thompson]] · [[Claudia Wells]] · [[Thomas F. Wilson]] · [[Marc McClure]] · [[Wendie Jo Sperber]] · [[George DiCenzo]] · [[Frances Lee McCain]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Science Fiction]]
+

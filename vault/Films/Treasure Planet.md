@@ -67,3 +67,4 @@ When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic "lo
 > **Cast** [[Joseph Gordon-Levitt]] · [[Brian Murray]] · [[Emma Thompson]] · [[David Hyde Pierce]] · [[Martin Short]] · [[Dane A. Davis]] · [[Michael Wincott]] · [[Laurie Metcalf]] · [[Roscoe Lee Browne]] · [[Patrick McGoohan]]
 > **Studios** [[Walt Disney Pictures]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Animation]] · [[Family]] · [[Fantasy]]
+

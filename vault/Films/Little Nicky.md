@@ -58,3 +58,4 @@ After the lord of darkness decides he will not cede his throne to any of his thr
 > **Cast** [[Adam Sandler]] · [[Patricia Arquette]] · [[Harvey Keitel]] · [[Rhys Ifans]] · [[Tommy Lister Jr]] · [[Rodney Dangerfield]] · [[Allen Covert]] · [[Peter Dante]] · [[Jonathan Loughran]] · [[Robert Smigel]]
 > **Studios** [[New Line Cinema]] · [[Happy Madison Productions]] · [[Robert Simonds Productions]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

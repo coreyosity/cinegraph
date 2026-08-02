@@ -54,15 +54,13 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - ITVX Premium
-- Philo
 - YouTube TV
-- Amazon Prime Video
 - Super Channel Plus
-- Super Channel Amazon Channel
 - fuboTV
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
+- Amazon Prime Video
 - Stan
+- Amazon Prime Video with Ads
 - Lionsgate+ Amazon Channels
 ---
 
@@ -73,3 +71,4 @@ The Bride unwaveringly continues on her roaring rampage of revenge against the b
 > **Cast** [[Uma Thurman]] · [[David Carradine]] · [[Daryl Hannah]] · [[Michael Madsen]] · [[Gordon Liu Chia-Hui]] · [[Michael Parks]] · [[Perla Haney-Jardine]] · [[Vivica A. Fox]] · [[Ambrosia Kelley]] · [[James Parks]]
 > **Studios** [[Super Cool ManChu]] · [[Miramax]] · [[A Band Apart]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

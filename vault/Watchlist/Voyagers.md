@@ -35,8 +35,9 @@ letterboxd: https://boxd.it/WuTA
 providers:
 - Sky Go
 - Now TV Cinema
-- fuboTV
+- Amazon Prime Video
 - YouTube TV
+- Amazon Prime Video with Ads
 - MovieSphere+ Amazon Channel
 - Crave
 - Crave Amazon Channel
@@ -49,3 +50,4 @@ With the future of the human race at stake, a group of young men and women -- br
 > **Cast** [[Tye Sheridan]] · [[Lily-Rose Depp]] · [[Fionn Whitehead]] · [[Colin Farrell]] · [[Chanté Adams]] · [[Viveik Kalra]] · [[Archie Madekwe]] · [[Quintessa Swindell]] · [[Isaac Hempstead Wright]] · [[Madison Hu]]
 > **Studios** [[Nota Bene Film Group]] · [[Thunder Road]]
 > **Genres** [[Science Fiction]] · [[Thriller]]
+

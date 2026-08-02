@@ -67,6 +67,7 @@ providers:
 - Netflix Standard with Ads
 - fuboTV
 - YouTube TV
+- FXNow
 log_tags:
 - dad
 - netflix
@@ -84,3 +85,4 @@ The staff of an American magazine based in France puts out its last issue, with 
 > **Cast** [[Benicio del Toro]] · [[Adrien Brody]] · [[Tilda Swinton]] · [[Léa Seydoux]] · [[Frances McDormand]] · [[Timothée Chalamet]] · [[Lyna Khoudri]] · [[Jeffrey Wright]] · [[Mathieu Amalric]] · [[Steve Park]]
 > **Studios** [[Indian Paintbrush]] · [[American Empirical Pictures]] · [[Studio Babelsberg]]
 > **Genres** [[Drama]] · [[Comedy]]
+

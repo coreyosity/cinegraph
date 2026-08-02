@@ -61,6 +61,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
+- Cinemax Amazon Channel
+- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -76,3 +78,4 @@ Batman faces off against two foes: the schizophrenic, horribly scarred former Di
 > **Cast** [[Val Kilmer]] · [[Tommy Lee Jones]] · [[Jim Carrey]] · [[Nicole Kidman]] · [[Chris O'Donnell]] · [[Michael Gough]] · [[Pat Hingle]] · [[Drew Barrymore]] · [[Debi Mazar]] · [[Joe Grifasi]]
 > **Studios** [[Warner Bros. Pictures]] · [[Tim Burton Productions]] · [[Polygram Pictures]]
 > **Genres** [[Action]] · [[Crime]] · [[Fantasy]]
+

@@ -108,3 +108,4 @@ Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along wit
 > **Cast** [[Jack Nicholson]] · [[Shelley Duvall]] · [[Danny Lloyd]] · [[Scatman Crothers]] · [[Barry Nelson]] · [[Philip Stone]] · [[Joe Turkel]] · [[Anne Jackson]] · [[Tony Burton]] · [[Lia Beldam]]
 > **Studios** [[Warner Bros. Pictures]] · [[Peregrine]] · [[Hawk Films]] · [[The Producer Circle Co]]
 > **Genres** [[Horror]] · [[Thriller]]
+

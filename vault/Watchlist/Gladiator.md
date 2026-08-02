@@ -62,7 +62,6 @@ providers:
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Philo
 - Paramount+ Amazon Channel
 - Kanopy
 - YouTube TV
@@ -79,3 +78,4 @@ After the death of Emperor Marcus Aurelius, his devious son takes power and demo
 > **Cast** [[Russell Crowe]] · [[Joaquin Phoenix]] · [[Connie Nielsen]] · [[Oliver Reed]] · [[Richard Harris]] · [[Derek Jacobi]] · [[Djimon Hounsou]] · [[David Schofield]] · [[John Shrapnel]] · [[Tomas Arana]]
 > **Studios** [[Universal Pictures]] · [[Scott Free Productions]] · [[Red Wagon Entertainment]] · [[Mill Film]] · [[DreamWorks Pictures]]
 > **Genres** [[Action]] · [[Drama]] · [[Adventure]]
+

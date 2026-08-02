@@ -56,3 +56,4 @@ On a dark and somber night, a secret cabal of monster hunters emerge from the sh
 > **Cast** [[Gael García Bernal]] · [[Laura Donnelly]] · [[Harriet Sansom Harris]] · [[Kirk R. Thatcher]] · [[Eugenie Bondurant]] · [[Leonardo Nam]] · [[Daniel J. Watts]] · [[Al Hamacher]] · [[Carey Jones]] · [[David Silverman]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Action]] · [[Fantasy]] · [[Horror]]
+

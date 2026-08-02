@@ -56,3 +56,4 @@ Author Ben Mears returns to his childhood home of Jerusalem's Lot only to discov
 > **Cast** [[Lewis Pullman]] · [[Makenzie Leigh]] · [[Jordan Preston Carter]] · [[Alfre Woodard]] · [[Bill Camp]] · [[John Benjamin Hickey]] · [[Nicholas Crovetti]] · [[Spencer Treat Clark]] · [[Pilou Asbæk]] · [[Alexander Ward]]
 > **Studios** [[New Line Cinema]] · [[Atomic Monster]] · [[Vertigo Entertainment]] · [[Wolper Organization]]
 > **Genres** [[Horror]]
+

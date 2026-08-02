@@ -65,3 +65,4 @@ Retired military commander Colonel Dale Murphy hosts the simulated post-apocalyp
 > **Cast** [[Erica Leerhsen]] · [[Henry Rollins]] · [[Texas Battle]] · [[Aleksa Palladino]] · [[Daniella Alonso]] · [[Steve Braun]] · [[Yan-Kay Crystal Lowe]] · [[Kimberly Caldwell]] · [[Matthew Currie Holmes]] · [[Wayne Robson]]
 > **Studios** [[20th Century Fox]] · [[Summit Entertainment]] · [[Constantin Film]]
 > **Genres** [[Horror]] · [[Thriller]]
+

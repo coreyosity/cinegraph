@@ -75,3 +75,4 @@ Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business
 > **Cast** [[Peter Sallis]] · [[Ralph Fiennes]] · [[Helena Bonham Carter]] · [[Peter Kay]] · [[Nicholas Smith]] · [[Liz Smith]] · [[John Thomson]] · [[Mark Gatiss]] · [[Vincent Ebrahim]] · [[Geraldine McEwan]]
 > **Studios** [[Aardman]] · [[DreamWorks Animation]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

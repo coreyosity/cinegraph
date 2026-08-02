@@ -48,6 +48,8 @@ tags:
 letterboxd: https://boxd.it/jIBM
 providers:
 - Hulu
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Amazon Prime Video
 - Stan
@@ -64,3 +66,4 @@ A crew of savvy former strip club employees band together to turn the tables on 
 > **Cast** [[Constance Wu]] · [[Jennifer Lopez]] · [[Julia Stiles]] · [[Keke Palmer]] · [[Lili Reinhart]] · [[Mercedes Ruehl]] · [[Cardi B]] · [[Lizzo]] · [[Mette]] · [[Madeline Brewer]]
 > **Studios** [[Gloria Sanchez Productions]] · [[Nuyorican Productions]] · [[Annapurna Pictures]] · [[STXfilms]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Crime]]
+

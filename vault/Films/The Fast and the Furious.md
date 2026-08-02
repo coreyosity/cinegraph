@@ -57,8 +57,6 @@ providers:
 - Amazon Prime Video
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
-- fuboTV
-- MGM+ Amazon Channel
 - Philo
 - MGM Plus Roku Premium Channel
 - YouTube TV
@@ -78,3 +76,4 @@ Dominic Toretto is a Los Angeles street racer suspected of masterminding a serie
 > **Cast** [[Paul Walker]] · [[Vin Diesel]] · [[Michelle Rodriguez]] · [[Jordana Brewster]] · [[Rick Yune]] · [[Chad Lindberg]] · [[Johnny Strong]] · [[Matt Schulze]] · [[Ja Rule]] · [[Ted Levine]]
 > **Studios** [[Ardustry Entertainment]] · [[Universal Pictures]] · [[Original Film]] · [[Mediastream Film]]
 > **Genres** [[Action]] · [[Crime]] · [[Thriller]]
+

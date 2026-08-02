@@ -57,3 +57,4 @@ Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine
 > **Cast** [[Liam Neeson]] · [[Ewan McGregor]] · [[Natalie Portman]] · [[Jake Lloyd]] · [[Ian McDiarmid]] · [[Pernilla August]] · [[Oliver Ford Davies]] · [[Hugh Quarshie]] · [[Ahmed Best]] · [[Anthony Daniels]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

@@ -44,6 +44,9 @@ poster: https://image.tmdb.org/t/p/w500/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg
 tags:
 - film
 letterboxd: https://boxd.it/fxEW
+providers:
+- HBO Max Amazon Channel
+- HBO Max
 ---
 
 When three parents discover that each of their daughters have a pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.
@@ -56,3 +59,4 @@ When three parents discover that each of their daughters have a pact to lose the
 > **Cast** [[Leslie Mann]] · [[John Cena]] · [[Ike Barinholtz]] · [[Kathryn Newton]] · [[Geraldine Viswanathan]] · [[Gideon Adlon]] · [[Ramona Young]] · [[Graham Phillips]] · [[Miles Robbins]] · [[Jimmy Bellinger]]
 > **Studios** [[Hurwitz & Schlossberg Productions]] · [[Good Universe]] · [[DMG Entertainment]] · [[Point Grey Pictures]]
 > **Genres** [[Comedy]]
+

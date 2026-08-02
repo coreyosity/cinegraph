@@ -84,3 +84,4 @@ Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's p
 > **Cast** [[Ginnifer Goodwin]] · [[Jason Bateman]] · [[Idris Elba]] · [[Jenny Slate]] · [[Nate Torrence]] · [[Bonnie Hunt]] · [[Don Lake]] · [[Tommy Chong]] · [[J.K. Simmons]] · [[Octavia Spencer]]
 > **Studios** [[Walt Disney Animation Studios]]
 > **Genres** [[Animation]] · [[Adventure]] · [[Family]] · [[Comedy]]
+

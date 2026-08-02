@@ -62,3 +62,4 @@ After seeking to live a normal life after 200 years, Logan sets out to avenge a 
 > **Cast** [[Hugh Jackman]] · [[Liev Schreiber]] · [[Danny Huston]] · [[Lynn Collins]] · [[Kevin Durand]] · [[Dominic Monaghan]] · [[Taylor Kitsch]] · [[Daniel Henney]] · [[Ryan Reynolds]] · [[will.i.am]]
 > **Studios** [[The Donners' Company]] · [[Seed Productions]] · [[20th Century Fox]] · [[Marvel Entertainment]] · [[Dune Entertainment]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

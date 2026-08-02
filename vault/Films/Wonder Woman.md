@@ -76,3 +76,4 @@ An Amazon princess comes to the world of Man in the grips of the First World War
 > **Cast** [[Gal Gadot]] · [[Chris Pine]] · [[Connie Nielsen]] · [[Robin Wright]] · [[Danny Huston]] · [[David Thewlis]] · [[Saïd Taghmaoui]] · [[Ewen Bremner]] · [[Eugene Brave Rock]] · [[Lucy Davis]]
 > **Studios** [[Atlas Entertainment]] · [[Cruel & Unusual Films]] · [[DC Films]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

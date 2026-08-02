@@ -62,9 +62,11 @@ providers:
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
+- Peacock Premium
 - Paramount+ Amazon Channel
 - YouTube TV
 - Paramount+ Roku Premium Channel
+- Peacock Premium Plus
 - Super Channel Plus
 - Super Channel Amazon Channel
 - Sony Pictures Core Amazon Channel
@@ -85,3 +87,4 @@ In 1973, a precocious 15-year-old aspiring rock journalist lands a dream assignm
 > **Cast** [[Billy Crudup]] · [[Frances McDormand]] · [[Kate Hudson]] · [[Jason Lee]] · [[Patrick Fugit]] · [[Zooey Deschanel]] · [[Michael Angarano]] · [[Anna Paquin]] · [[Fairuza Balk]] · [[Noah Taylor]]
 > **Studios** [[DreamWorks Pictures]] · [[Columbia Pictures]] · [[Vinyl Films]]
 > **Genres** [[Drama]] · [[Music]]
+

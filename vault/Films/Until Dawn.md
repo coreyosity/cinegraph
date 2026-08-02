@@ -77,3 +77,4 @@ One year after her sister Melanie mysteriously disappeared, Clover and her frien
 > **Cast** [[Ella Rubin]] · [[Michael Cimino]] · [[Belmont Cameli]] · [[Maia Mitchell]] · [[Peter Stormare]] · [[Odessa A'zion]] · [[Ji-young Yoo]] · [[Zsófia Temesvári]] · [[Tibor Szauerwein]] · [[Lotta Losten]]
 > **Studios** [[PlayStation Productions]] · [[Coin Operated]] · [[Mångata]] · [[Vertigo Entertainment]] · [[Screen Gems]] · [[TSG Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]]
+

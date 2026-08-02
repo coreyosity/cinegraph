@@ -57,3 +57,4 @@ A lonely boy discovers a mysterious egg that hatches a sea creature of Scottish 
 > **Cast** [[Alex Etel]] · [[Emily Watson]] · [[Ben Chaplin]] · [[David Morrissey]] · [[Priyanka Xi]] · [[Craig Hall]] · [[Brian Cox]] · [[Erroll Shand]] · [[Joel Tobeck]] · [[Bruce Allpress]]
 > **Studios** [[Revolution Studios]] · [[Walden Media]] · [[Beacon Pictures]] · [[Ecosse Films]]
 > **Genres** [[Family]] · [[Adventure]] · [[Fantasy]]
+

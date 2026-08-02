@@ -61,3 +61,4 @@ Wisecracking mercenary Deadpool battles the evil and powerful Cable and other ba
 > **Cast** [[Ryan Reynolds]] · [[Josh Brolin]] · [[Morena Baccarin]] · [[Julian Dennison]] · [[Zazie Beetz]] · [[T.J. Miller]] · [[Leslie Uggams]] · [[Karan Soni]] · [[Brianna Hildebrand]] · [[Jack Kesy]]
 > **Studios** [[Maximum Effort]] · [[Genre Films]] · [[20th Century Fox]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Comedy]] · [[Adventure]]
+

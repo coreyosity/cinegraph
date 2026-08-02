@@ -65,3 +65,4 @@ When the ongoing rivalry between farmers Michael and Jack suddenly escalates, it
 > **Cast** [[Christopher Abbott]] · [[Barry Keoghan]] · [[Colm Meaney]] · [[Susan Lynch]] · [[Nora-Jane Noone]] · [[Paul Ready]] · [[Aaron Heffernan]] · [[Conor MacNeill]] · [[Diarmuid de Faoite]] · [[Grace Daly]]
 > **Studios** [[MUBI]] · [[Fís ÉireannScreen Ireland]] · [[Tailored Films]] · [[Wild Swim Films]] · [[Frakas Productions]] · [[Shelter Prod]] · [[VOO & Be tv]] · [[UK Global Screen Fund]] · [[Coimisiún na Meán]] · [[RTÉ]]
 > **Genres** [[Drama]] · [[Thriller]]
+

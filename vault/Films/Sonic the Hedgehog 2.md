@@ -74,3 +74,4 @@ After settling in Green Hills, Sonic is eager to prove he has what it takes to b
 > **Cast** [[Ben Schwartz]] · [[James Marsden]] · [[Tika Sumpter]] · [[Colleen O'Shaughnessey]] · [[Idris Elba]] · [[Jim Carrey]] · [[Natasha Rothwell]] · [[Adam Pally]] · [[Shemar Moore]] · [[Lee Majdoub]]
 > **Studios** [[Original Film]] · [[Blur Studio]] · [[Marza Animation Planet]] · [[Paramount Pictures]] · [[SEGA]] · [[SEGA of America]]
 > **Genres** [[Action]] · [[Adventure]] · [[Family]] · [[Comedy]]
+

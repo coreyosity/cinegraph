@@ -70,3 +70,4 @@ Willy Wonka – chock-full of ideas and determined to change the world one delec
 > **Cast** [[Timothée Chalamet]] · [[Calah Lane]] · [[Keegan-Michael Key]] · [[Hugh Grant]] · [[Paterson Joseph]] · [[Olivia Colman]] · [[Tom Davis]] · [[Jim Carter]] · [[Rowan Atkinson]] · [[Matt Lucas]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[The Roald Dahl Story Company]] · [[Heyday Films]] · [[Domain Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Fantasy]]
+

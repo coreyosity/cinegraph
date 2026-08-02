@@ -52,7 +52,9 @@ providers:
 - Amazon Prime Video with Ads
 - YouTube TV
 - Crave
+- Hollywood Suite
 - Club Illico
+- Hollywood Suite Amazon Channel
 - Crave Amazon Channel
 - BINGE
 - Paramount Plus
@@ -72,3 +74,4 @@ Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. 
 > **Cast** [[Chris Pratt]] · [[Bryce Dallas Howard]] · [[Rafe Spall]] · [[Justice Smith]] · [[Daniella Pineda]] · [[James Cromwell]] · [[Toby Jones]] · [[Ted Levine]] · [[Jeff Goldblum]] · [[BD Wong]]
 > **Studios** [[Amblin Entertainment]] · [[Universal Pictures]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Thriller]]
+

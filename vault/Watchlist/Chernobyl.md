@@ -38,3 +38,4 @@ Eight months after the Chernobyl disaster, a Chernobylite woman that stayed behi
 > **Cast** [[Alyona Khmara]] · [[Pasha Sol]] · [[Natasha Goubskaya]] · [[Polina Sokolskiy]]
 > **Studios** [[GreenScreen]]
 > **Genres** [[Drama]]
+

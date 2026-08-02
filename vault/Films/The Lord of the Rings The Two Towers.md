@@ -69,7 +69,6 @@ providers:
 - HBO Max
 - YouTube TV
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Netflix
 - Stan
@@ -86,3 +85,4 @@ Frodo Baggins and the other members of the Fellowship continue on their sacred q
 > **Cast** [[Elijah Wood]] · [[Ian McKellen]] · [[Viggo Mortensen]] · [[Sean Astin]] · [[Andy Serkis]] · [[John Rhys-Davies]] · [[Orlando Bloom]] · [[Bernard Hill]] · [[Miranda Otto]] · [[Dominic Monaghan]]
 > **Studios** [[New Line Cinema]] · [[WingNut Films]] · [[The Saul Zaentz Company]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

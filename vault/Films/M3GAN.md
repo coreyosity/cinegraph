@@ -58,6 +58,8 @@ tags:
 - film
 letterboxd: https://boxd.it/jxmG
 providers:
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 log_tags:
@@ -77,3 +79,4 @@ A brilliant toy company roboticist uses artificial intelligence to develop M3GAN
 > **Cast** [[Allison Williams]] · [[Violet McGraw]] · [[Amie Donald]] · [[Jenna Davis]] · [[Ronny Chieng]] · [[Brian Jordan Alvarez]] · [[Jen Van Epps]] · [[Stephane Garneau-Monten]] · [[Lori Dungey]] · [[Amy Usherwood]]
 > **Studios** [[Atomic Monster]] · [[Blumhouse Productions]] · [[Divide Conquer]]
 > **Genres** [[Science Fiction]] · [[Horror]]
+

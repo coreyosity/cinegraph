@@ -66,3 +66,4 @@ Despite his family’s baffling generations-old ban on music, Miguel dreams of b
 > **Cast** [[Anthony Gonzalez]] · [[Gael García Bernal]] · [[Benjamin Bratt]] · [[Alanna Ubach]] · [[Renée Victor]] · [[Jaime Camil]] · [[Alfonso Arau]] · [[Herbert Siguenza]] · [[Gabriel Iglesias]] · [[Lombardo Boyar]]
 > **Studios** [[Pixar]]
 > **Genres** [[Family]] · [[Animation]] · [[Music]] · [[Adventure]]
+

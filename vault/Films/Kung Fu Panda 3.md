@@ -60,8 +60,11 @@ letterboxd: https://boxd.it/4uRQ
 providers:
 - Netflix
 - Amazon Prime Video
+- Sky Go
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -81,3 +84,4 @@ While Po and his father are visiting a secret panda village, an evil spirit thre
 > **Cast** [[Jack Black]] · [[Bryan Cranston]] · [[Dustin Hoffman]] · [[Angelina Jolie]] · [[J.K. Simmons]] · [[Jackie Chan]] · [[Seth Rogen]] · [[Lucy Liu]] · [[David Cross]] · [[Kate Hudson]]
 > **Studios** [[DreamWorks Animation]] · [[Oriental DreamWorks]] · [[Zhong Ming You Ying Film]] · [[China Film Group Corporation]]
 > **Genres** [[Animation]] · [[Action]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

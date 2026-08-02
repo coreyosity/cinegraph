@@ -56,6 +56,7 @@ letterboxd: https://boxd.it/ohEE
 providers:
 - Disney Plus
 - Hulu
+- fuboTV
 - YouTube TV
 - Crave
 - Crave Amazon Channel
@@ -76,3 +77,4 @@ Several generations following Caesar's reign, apes – now the dominant species 
 > **Cast** [[Owen Teague]] · [[Freya Allan]] · [[Kevin Durand]] · [[Peter Macon]] · [[William H. Macy]] · [[Eka Darville]] · [[Travis Jeffery]] · [[Lydia Peckham]] · [[Neil Sandilands]] · [[Ras-Samuel Welda'abzgi]]
 > **Studios** [[20th Century Studios]] · [[Oddball Entertainment]] · [[Jason T. Reed Productions]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

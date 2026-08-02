@@ -76,3 +76,4 @@ A young artist gets stranded in an extensive, immaculate forest in western Irela
 > **Cast** [[Dakota Fanning]] · [[Georgina Campbell]] · [[Olwen Fouéré]] · [[Oliver Finnegan]] · [[Alistair Brammer]] · [[John Lynch]] · [[Siobhan Hewlett]] · [[Hannah Dargan]] · [[Emily Dargan]] · [[Joel Figueroa]]
 > **Studios** [[Blinding Edge Pictures]] · [[Inimitable Pictures]] · [[Fís ÉireannScreen Ireland]]
 > **Genres** [[Fantasy]] · [[Horror]] · [[Mystery]]
+

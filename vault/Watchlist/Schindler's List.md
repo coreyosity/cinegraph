@@ -56,7 +56,6 @@ providers:
 - Netflix Standard with Ads
 - Crave Amazon Channel
 - BINGE
-- Paramount+ Amazon Channel
 - Foxtel Now
 ---
 
@@ -67,3 +66,4 @@ The true story of how businessman Oskar Schindler saved over a thousand Jewish l
 > **Cast** [[Liam Neeson]] · [[Ben Kingsley]] · [[Ralph Fiennes]] · [[Caroline Goodall]] · [[Jonathan Sagall]] · [[Embeth Davidtz]] · [[Małgorzata Gebel]] · [[Shmuel Levy]] · [[Mark Ivanir]] · [[Béatrice Macola]]
 > **Studios** [[Amblin Entertainment]]
 > **Genres** [[Drama]] · [[History]] · [[War]]
+

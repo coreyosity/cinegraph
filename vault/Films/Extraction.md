@@ -65,3 +65,4 @@ A hardened gun-for-hire's latest mission becomes a soul-searching race to surviv
 > **Cast** [[Chris Hemsworth]] · [[Rudhraksh Jaiswal]] · [[Randeep Hooda]] · [[Golshifteh Farahani]] · [[Pankaj Tripathi]] · [[David Harbour]] · [[Bryon Lerum]] · [[Ryder Lerum]] · [[Shivam Vichare]] · [[Piyush Khati]]
 > **Studios** [[AGBO]] · [[Thematic Entertainment]] · [[TGIM Films]]
 > **Genres** [[Action]] · [[Thriller]]
+

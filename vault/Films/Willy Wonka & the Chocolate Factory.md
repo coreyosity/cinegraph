@@ -83,3 +83,4 @@ When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a 
 > **Cast** [[Peter Ostrum]] · [[Gene Wilder]] · [[Jack Albertson]] · [[Roy Kinnear]] · [[Julie Dawn Cole]] · [[Leonard Stone]] · [[Denise Nickerson]] · [[Nora Denney]] · [[Paris Themmen]] · [[Ursula Reit]]
 > **Studios** [[Wolper Pictures]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Comedy]]
+

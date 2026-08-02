@@ -76,3 +76,4 @@ A research team in Antarctica is hunted by a shape-shifting alien that assumes t
 > **Cast** [[Kurt Russell]] · [[Wilford Brimley]] · [[T.K. Carter]] · [[David Clennon]] · [[Keith David]] · [[Richard Dysart]] · [[Charles Hallahan]] · [[Peter Maloney]] · [[Richard Masur]] · [[Donald Moffat]]
 > **Studios** [[Universal Pictures]] · [[The Turman-Foster Company]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Science Fiction]]
+

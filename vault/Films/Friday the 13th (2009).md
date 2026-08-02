@@ -45,6 +45,8 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
+- Starz Apple TV Channel
+- Starz
 - Starz Amazon Channel
 - Stan
 ---
@@ -59,3 +61,4 @@ A group of young adults visit a boarded up campsite named Crystal Lake where the
 > **Cast** [[Jared Padalecki]] · [[Travis Van Winkle]] · [[Danielle Panabaker]] · [[Amanda Righetti]] · [[Aaron Yoo]] · [[Derek Mears]] · [[Julianna Guill]] · [[Arlen Escarpeta]] · [[Ben Feldman]] · [[Richard Burgi]]
 > **Studios** [[New Line Cinema]] · [[Paramount Pictures]] · [[Platinum Dunes]] · [[Crystal Lake Entertainment]]
 > **Genres** [[Horror]] · [[Thriller]]
+

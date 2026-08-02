@@ -37,3 +37,4 @@ Tales From The Lodge is a fresh take on the portmanteau horror-comedy genre. An 
 > **Director** [[Abigail Blackmore]]
 > **Cast** [[Mackenzie Crook]] · [[Dustin Demri-Burns]] · [[Laura Fraser]] · [[Sophie Thompson]] · [[Johnny Vegas]] · [[Kelly Wenham]] · [[Adam Straughan]] · [[Robert Portal]] · [[Nicola Stephenson]] · [[Cavan Clerkin]]
 > **Genres** [[Comedy]] · [[Horror]]
+

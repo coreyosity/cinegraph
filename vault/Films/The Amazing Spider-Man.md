@@ -63,9 +63,11 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - Foxtel Now
 ---
 
@@ -79,3 +81,4 @@ A teenage Peter Parker grapples with both high school and amazing super-human cr
 > **Cast** [[Andrew Garfield]] · [[Emma Stone]] · [[Rhys Ifans]] · [[Denis Leary]] · [[Martin Sheen]] · [[Sally Field]] · [[Irrfan Khan]] · [[Campbell Scott]] · [[Embeth Davidtz]] · [[Chris Zylka]]
 > **Studios** [[Marvel Entertainment]] · [[Laura Ziskin Productions]] · [[Columbia Pictures]] · [[Matt Tolmach Productions]] · [[Arad Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

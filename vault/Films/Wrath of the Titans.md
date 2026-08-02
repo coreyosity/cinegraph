@@ -50,6 +50,8 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- Peacock Premium
+- Peacock Premium Plus
 ---
 
 Perseus tries to live a quieter life as a village fisherman while – dangerously weakened by humanity's lack of devotion – the gods are losing control of the long-imprisoned Titans and their ferocious leader, Kronos.
@@ -62,3 +64,4 @@ Perseus tries to live a quieter life as a village fisherman while – dangerousl
 > **Cast** [[Sam Worthington]] · [[Liam Neeson]] · [[Ralph Fiennes]] · [[Rosamund Pike]] · [[Bill Nighy]] · [[Edgar Ramírez]] · [[Toby Kebbell]] · [[Danny Huston]] · [[Sinéad Cusack]] · [[John Bell]]
 > **Studios** [[Thunder Road]] · [[Legendary Pictures]] · [[Cott Productions]] · [[Furia de Titanes II, A.I.E]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Action]]
+

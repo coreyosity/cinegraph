@@ -73,3 +73,4 @@ Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit. Together
 > **Cast** [[Dwayne Johnson]] · [[Zac Efron]] · [[Priyanka Chopra Jonas]] · [[Alexandra Daddario]] · [[Kelly Rohrbach Walton]] · [[Ilfenesh Hadera]] · [[Jon Bass]] · [[Yahya Abdul-Mateen II]] · [[Hannibal Buress]] · [[Rob Huebel]]
 > **Studios** [[Uncharted]] · [[Paramount Pictures]] · [[Flynn Picture Company]] · [[Fremantle Productions]] · [[Seven Bucks Productions]] · [[Skydance Media]] · [[The Montecito Picture Company]]
 > **Genres** [[Comedy]] · [[Action]] · [[Crime]]
+

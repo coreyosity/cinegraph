@@ -42,11 +42,6 @@ letterboxd: https://boxd.it/20wu
 providers:
 - Channel 4 Plus
 - Amazon Prime Video
-- Philo
-- 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
-- AMC+ Roku Premium Channel
-- AMC+
 - YouTube TV
 - Amazon Prime Video with Ads
 - Hollywood Suite
@@ -61,3 +56,4 @@ A listless and alienated teenager decides to help his new friend win the class p
 > **Cast** [[Jon Heder]] · [[Efren Ramirez]] · [[Tina Majorino]] · [[Aaron Ruell]] · [[Jon Gries]] · [[Sandy Martin]] · [[Diedrich Bader]] · [[Haylie Duff]] · [[Trevor Snarr]] · [[Shondrella Avery]]
 > **Studios** [[Napoleon Pictures]]
 > **Genres** [[Comedy]]
+

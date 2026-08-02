@@ -63,3 +63,4 @@ Chon Wang, a clumsy imperial guard, trails Princess Pei Pei when she's kidnapped
 > **Cast** [[Jackie Chan]] · [[Owen Wilson]] · [[Lucy Liu]] · [[Xander Berkeley]] · [[Roger Yuan]] · [[Yu Rongguang]] · [[Walton Goggins]] · [[Brandon Merrill]] · [[Jason Connery]] · [[Adrien Dorval]]
 > **Studios** [[Touchstone Pictures]] · [[Spyglass Entertainment]] · [[BirnbaumBarber Productions]] · [[JCE Movies]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Western]]
+

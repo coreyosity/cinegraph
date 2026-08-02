@@ -58,3 +58,4 @@ On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, an
 > **Cast** [[Debbie Reynolds]] · [[Kimberly J. Brown]] · [[Judith Hoag]] · [[Joey Zimmerman]] · [[Phillip Van Dyke]] · [[Emily Roeske]] · [[Robin Thomas]] · [[Rino Romano]] · [[Shannon Day]] · [[J.W. Crawford]]
 > **Studios** [[SingerWhite Entertainment]] · [[Ventura Valley Films]] · [[Disney Channel]]
 > **Genres** [[TV Movie]] · [[Fantasy]] · [[Comedy]]
+

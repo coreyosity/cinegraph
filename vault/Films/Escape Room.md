@@ -54,8 +54,8 @@ letterboxd: https://boxd.it/iYlS
 providers:
 - Netflix
 - Netflix Standard with Ads
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Sony Pictures Core Amazon Channel
 ---
 
@@ -69,3 +69,4 @@ Six strangers find themselves in circumstances beyond their control, and must us
 > **Cast** [[Taylor Russell]] · [[Logan Miller]] · [[Jay Ellis]] · [[Deborah Ann Woll]] · [[Nik Dodani]] · [[Tyler Labine]] · [[Yorick van Wageningen]] · [[Cornelius Geaney Jr]] · [[Russell Crous]] · [[Bart Fouche]]
 > **Studios** [[Columbia Pictures]] · [[Original Film]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

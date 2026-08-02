@@ -56,6 +56,7 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/2aqc
 providers:
+- STUDIOCANAL PRESENTS Apple TV Channel
 - Studiocanal Presents Amazon Channel
 - Amazon Prime Video
 - YouTube TV
@@ -72,3 +73,4 @@ The true story of pianist Władysław Szpilman's experiences in Warsaw during th
 > **Cast** [[Adrien Brody]] · [[Thomas Kretschmann]] · [[Frank Finlay]] · [[Maureen Lipman]] · [[Emilia Fox]] · [[Ed Stoppard]] · [[Julia Rayner]] · [[Jessica Kate Meyer]] · [[Michał Żebrowski]] · [[Wanja Mues]]
 > **Studios** [[R.P. Productions]] · [[Heritage Films]] · [[Studio Babelsberg]] · [[Runteam]] · [[StudioCanal]]
 > **Genres** [[Drama]] · [[War]]
+

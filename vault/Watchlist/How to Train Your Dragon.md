@@ -53,3 +53,4 @@ On the rugged isle of Berk, where Vikings and dragons have been bitter enemies f
 > **Cast** [[Mason Thames]] · [[Nico Parker]] · [[Gerard Butler]] · [[Nick Frost]] · [[Gabriel Howell]] · [[Julian Dennison]] · [[Bronwyn James]] · [[Harry Trevaldwyn]] · [[Murray McArthur]] · [[Peter Serafinowicz]]
 > **Studios** [[DreamWorks Animation]] · [[Marc Platt Productions]]
 > **Genres** [[Fantasy]] · [[Family]] · [[Action]] · [[Adventure]]
+

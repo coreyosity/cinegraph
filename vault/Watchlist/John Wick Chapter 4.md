@@ -51,9 +51,13 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/mh48
 providers:
-- HBO Max Amazon Channel
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
+- AMC+
 - YouTube TV
-- HBO Max
+- AMC
 - Crave
 - Club Illico
 - Starz Amazon Channel
@@ -67,3 +71,4 @@ With the price on his head ever increasing, John Wick uncovers a path to defeati
 > **Cast** [[Keanu Reeves]] · [[Donnie Yen]] · [[Bill Skarsgård]] · [[Ian McShane]] · [[Laurence Fishburne]] · [[Lance Reddick]] · [[Clancy Brown]] · [[Hiroyuki Sanada]] · [[Rina Sawayama]] · [[Scott Adkins]]
 > **Studios** [[Thunder Road]] · [[87Eleven]] · [[Studio Babelsberg]] · [[Lionsgate]]
 > **Genres** [[Action]] · [[Thriller]] · [[Crime]]
+

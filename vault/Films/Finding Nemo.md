@@ -69,3 +69,4 @@ Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barri
 > **Cast** [[Albert Brooks]] · [[Ellen DeGeneres]] · [[Alexander Gould]] · [[Willem Dafoe]] · [[Geoffrey Rush]] · [[Brad Garrett]] · [[Allison Janney]] · [[Austin Pendleton]] · [[Stephen Root]] · [[Vicki Lewis]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]]
+

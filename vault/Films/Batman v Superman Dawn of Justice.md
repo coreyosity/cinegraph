@@ -58,6 +58,8 @@ providers:
 - TBS
 - tru TV
 - Crave
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Crave Amazon Channel
 ---
@@ -72,3 +74,4 @@ Fearing the actions of a god-like Super Hero left unchecked, Gotham City’s own
 > **Cast** [[Ben Affleck]] · [[Henry Cavill]] · [[Jesse Eisenberg]] · [[Gal Gadot]] · [[Amy Adams]] · [[Diane Lane]] · [[Laurence Fishburne]] · [[Jeremy Irons]] · [[Holly Hunter]] · [[Scoot McNairy]]
 > **Studios** [[Warner Bros. Pictures]] · [[RatPac Entertainment]] · [[Atlas Entertainment]] · [[Cruel & Unusual Films]] · [[DC]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

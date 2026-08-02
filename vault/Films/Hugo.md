@@ -80,3 +80,4 @@ Orphaned and alone except for an uncle, Hugo Cabret lives in the walls of a trai
 > **Cast** [[Asa Butterfield]] · [[Ben Kingsley]] · [[Chloë Grace Moretz]] · [[Sacha Baron Cohen]] · [[Ray Winstone]] · [[Emily Mortimer]] · [[Christopher Lee]] · [[Helen McCrory]] · [[Michael Stuhlbarg]] · [[Frances de la Tour]]
 > **Studios** [[GK Films]] · [[Infinitum Nihil]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Family]]
+

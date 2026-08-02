@@ -82,3 +82,4 @@ Celebrated sleuth Hercule Poirot, now retired and living in self-imposed exile i
 > **Cast** [[Kenneth Branagh]] · [[Kyle Allen]] · [[Camille Cottin]] · [[Jamie Dornan]] · [[Tina Fey]] · [[Jude Hill]] · [[Ali Khan]] · [[Emma Laird]] · [[Kelly Reilly]] · [[Riccardo Scamarcio]]
 > **Studios** [[20th Century Studios]] · [[Scott Free Productions]] · [[Genre Films]] · [[Agatha Christie]] · [[Mark Gordon Pictures]]
 > **Genres** [[Mystery]] · [[Thriller]] · [[Crime]]
+

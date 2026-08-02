@@ -69,3 +69,4 @@ After Homer accidentally pollutes the town's water supply, Springfield is encase
 > **Cast** [[Dan Castellaneta]] · [[Julie Kavner]] · [[Nancy Cartwright]] · [[Yeardley Smith]] · [[Hank Azaria]] · [[Harry Shearer]] · [[Pamela Hayden]] · [[Tress MacNeille]] · [[Albert Brooks]] · [[Karl Wiedergott]]
 > **Studios** [[Gracie Films]] · [[20th Century Fox]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

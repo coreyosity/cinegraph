@@ -48,8 +48,6 @@ tags:
 - film
 letterboxd: https://boxd.it/2PXw
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Foxtel Now
 ---
 
@@ -63,3 +61,4 @@ When an evil spirit known as Pitch lays down the gauntlet to take over the world
 > **Cast** [[Chris Pine]] · [[Alec Baldwin]] · [[Jude Law]] · [[Isla Fisher]] · [[Hugh Jackman]] · [[Dakota Goyo]] · [[Isabella Blake-Thomas]] · [[Jacob Bertrand]] · [[Khamani Griffin]] · [[Kamil McFadden]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Action]] · [[Adventure]] · [[Animation]] · [[Family]] · [[Fantasy]]
+

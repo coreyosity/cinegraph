@@ -79,3 +79,4 @@ In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a 
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Sigourney Weaver]] · [[Stephen Lang]] · [[Michelle Rodriguez]] · [[Giovanni Ribisi]] · [[Joel David Moore]] · [[CCH Pounder]] · [[Wes Studi]] · [[Laz Alonso]]
 > **Studios** [[Dune Entertainment]] · [[Lightstorm Entertainment]] · [[20th Century Fox]] · [[Ingenious Film Partners]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

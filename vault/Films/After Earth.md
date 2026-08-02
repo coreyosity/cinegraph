@@ -55,6 +55,7 @@ providers:
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
 - Amazon Prime Video
+- BINGE
 - Amazon Prime Video with Ads
 ---
 
@@ -68,3 +69,4 @@ One thousand years after cataclysmic events forced humanity's escape from Earth,
 > **Cast** [[Jaden Smith]] · [[Will Smith]] · [[Sophie Okonedo]] · [[Zoë Kravitz]] · [[Glenn Morshower]] · [[Kristofer Hivju]] · [[Sacha Dhawan]] · [[Chris Geere]] · [[Diego Klattenhoff]] · [[David Denman]]
 > **Studios** [[Columbia Pictures]] · [[Overbrook Entertainment]] · [[Blinding Edge Pictures]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

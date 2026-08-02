@@ -57,3 +57,4 @@ Tethered by a frightening conclusion, Maya and the Strangers are locked on an un
 > **Cast** [[Madelaine Petsch]] · [[Richard Brake]] · [[Ema Horvath]] · [[Gabriel Basso]] · [[Pedro Leandro]] · [[Rachel Shenton]] · [[George Young]] · [[Kyle Breitkopf]] · [[Finn Cofell]] · [[Stevee Davies]]
 > **Studios** [[Lionsgate]] · [[Fifth Element Productions]] · [[Lipsync Productions]] · [[Sherbone Media]] · [[Stream Media]]
 > **Genres** [[Horror]] · [[Thriller]]
+

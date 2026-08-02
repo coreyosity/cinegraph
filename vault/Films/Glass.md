@@ -65,3 +65,4 @@ In a series of escalating encounters, former security guard David Dunn uses his 
 > **Cast** [[James McAvoy]] · [[Bruce Willis]] · [[Samuel L. Jackson]] · [[Sarah Paulson]] · [[Anya Taylor-Joy]] · [[Spencer Treat Clark]] · [[Charlayne Woodard]] · [[Luke Kirby]] · [[Adam David Thompson]] · [[M. Night Shyamalan]]
 > **Studios** [[Blinding Edge Pictures]] · [[Blumhouse Productions]] · [[Perfect World Pictures]]
 > **Genres** [[Thriller]] · [[Drama]] · [[Science Fiction]]
+

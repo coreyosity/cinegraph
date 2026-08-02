@@ -77,3 +77,4 @@ A samurai answers a village's request for protection after he falls on hard time
 > **Cast** [[Toshirō Mifune]] · [[Takashi Shimura]] · [[Yoshio Inaba]] · [[Seiji Miyaguchi]] · [[Minoru Chiaki]] · [[Daisuke Katō]] · [[Isao Kimura]] · [[Keiko Tsushima]] · [[Yukiko Shimazaki]] · [[Kamatari Fujiwara]]
 > **Studios** [[TOHO]]
 > **Genres** [[Action]] · [[Drama]]
+

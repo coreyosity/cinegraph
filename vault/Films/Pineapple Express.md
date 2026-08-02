@@ -45,6 +45,11 @@ tags:
 - film
 letterboxd: https://boxd.it/1WRS
 providers:
+- Amazon Prime Video
+- Amazon Prime Video with Ads
+- fuboTV
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -63,3 +68,4 @@ A stoner and his dealer are forced to go on the run from the police after the po
 > **Cast** [[Seth Rogen]] · [[James Franco]] · [[Gary Cole]] · [[Danny McBride]] · [[Rosie Perez]] · [[Kevin Corrigan]] · [[Craig Robinson]] · [[Amber Heard]] · [[Ed Begley Jr]] · [[Nora Dunn]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Apatow Productions]]
 > **Genres** [[Action]] · [[Comedy]] · [[Crime]]
+

@@ -78,3 +78,4 @@ After getting a flat tire in the middle of nowhere, newly engaged couple Brad an
 > **Cast** [[Tim Curry]] · [[Susan Sarandon]] · [[Barry Bostwick]] · [[Richard O'Brien]] · [[Patricia Quinn]] · [[Nell Campbell]] · [[Jonathan Adams]] · [[Peter Hinwood]] · [[Meat Loaf]] · [[Charles Gray]]
 > **Studios** [[20th Century Fox]] · [[Lou Adler Productions]] · [[Michael White Productions]]
 > **Genres** [[Comedy]] · [[Science Fiction]] · [[Horror]]
+

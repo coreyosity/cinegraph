@@ -64,3 +64,4 @@ When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park
 > **Cast** [[Freddie Prinze Jr]] · [[Sarah Michelle Gellar]] · [[Matthew Lillard]] · [[Linda Cardellini]] · [[Neil Fanning]] · [[Rowan Atkinson]] · [[Isla Fisher]] · [[Miguel A. Núñez Jr]] · [[Steven Grives]] · [[Charles Stan Frazier]]
 > **Studios** [[Mosaic Media Group]] · [[Warner Bros. Pictures]]
 > **Genres** [[Mystery]] · [[Adventure]] · [[Comedy]]
+

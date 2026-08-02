@@ -61,3 +61,4 @@ Carl Fredricksen spent his entire life dreaming of exploring the globe and exper
 > **Cast** [[Ed Asner]] · [[Christopher Plummer]] · [[Jordan Nagai]] · [[Bob Peterson]] · [[Delroy Lindo]] · [[Jerome Ranft]] · [[John Ratzenberger]] · [[David Kaye]] · [[Elie Docter]] · [[Jeremy Leary]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Adventure]]
+

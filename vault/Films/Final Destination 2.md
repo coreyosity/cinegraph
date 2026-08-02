@@ -49,8 +49,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
-- Cinemax Amazon Channel
-- Cinemax Apple TV Channel
 - Crave
 - Crave Amazon Channel
 log_tags:
@@ -70,3 +68,4 @@ When Kimberly has a violent premonition of a highway pileup she blocks the freew
 > **Cast** [[Ali Larter]] · [[A.J. Cook]] · [[Michael Landes]] · [[David Paetkau]] · [[James Kirk]] · [[Lynda Boyd]] · [[Keegan Connor Tracy]] · [[Jonathan Cherry]] · [[Terrence 'T.C.' Carson]] · [[Justina Machado]]
 > **Studios** [[New Line Cinema]] · [[Zide-Perry Productions]]
 > **Genres** [[Horror]] · [[Mystery]]
+

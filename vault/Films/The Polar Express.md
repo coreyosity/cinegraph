@@ -74,3 +74,4 @@ When a doubting young boy takes an extraordinary train ride to the North Pole, h
 > **Cast** [[Tom Hanks]] · [[Leslie Zemeckis]] · [[Eddie Deezen]] · [[Nona Gaye]] · [[Peter Scolari]] · [[Michael Jeter]] · [[Josh Hutcherson]] · [[Daryl Sabara]] · [[Jimmy Bennett]] · [[Tinashe]]
 > **Studios** [[Golden Mean]] · [[Playtone]] · [[ImageMovers]] · [[Castle Rock Entertainment]] · [[Shangri-La Entertainment]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]] · [[Fantasy]]
+

@@ -74,3 +74,4 @@ Armed with only one word - Tenet - and fighting for the survival of the entire w
 > **Cast** [[John David Washington]] · [[Robert Pattinson]] · [[Elizabeth Debicki]] · [[Kenneth Branagh]] · [[Dimple Kapadia]] · [[Michael Caine]] · [[Martin Donovan]] · [[Fiona Dourif]] · [[Yuri Kolokolnikov]] · [[Himesh Patel]]
 > **Studios** [[Warner Bros. Pictures]] · [[Syncopy]]
 > **Genres** [[Action]] · [[Thriller]] · [[Science Fiction]]
+

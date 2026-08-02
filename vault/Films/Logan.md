@@ -71,3 +71,4 @@ In the near future, a weary Logan cares for an ailing Professor X in a hideout o
 > **Cast** [[Hugh Jackman]] · [[Dafne Keen]] · [[Patrick Stewart]] · [[Elizabeth Rodriguez]] · [[Boyd Holbrook]] · [[Stephen Merchant]] · [[Richard E. Grant]] · [[Stephen Dunlevy]] · [[Eriq La Salle]] · [[Elise Neal]]
 > **Studios** [[Hutch Parker Entertainment]] · [[The Donners' Company]] · [[Genre Films]] · [[20th Century Fox]] · [[Marvel Entertainment]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Drama]] · [[Science Fiction]]
+

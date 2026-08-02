@@ -53,3 +53,4 @@ In an alternate present-day where magical creatures live among us, two L.A. cops
 > **Cast** [[Will Smith]] · [[Joel Edgerton]] · [[Lucy Fry]] · [[Noomi Rapace]] · [[Edgar Ramírez]] · [[Ike Barinholtz]] · [[Veronica Ngô]] · [[Alex Meraz]] · [[Happy Anderson]] · [[Dawn Olivieri]]
 > **Studios** [[Clubhouse Pictures]] · [[Overbrook Entertainment]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Thriller]]
+

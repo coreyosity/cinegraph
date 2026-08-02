@@ -50,12 +50,14 @@ tags:
 - film
 letterboxd: https://boxd.it/2a1m
 providers:
+- Amazon Prime Video
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video
+- Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
 ---
@@ -70,3 +72,4 @@ Set in the 22nd century, The Matrix tells the story of a computer hacker who joi
 > **Cast** [[Keanu Reeves]] · [[Laurence Fishburne]] · [[Carrie-Anne Moss]] · [[Hugo Weaving]] · [[Gloria Foster]] · [[Joe Pantoliano]] · [[Marcus Chong]] · [[Julian Arahanga]] · [[Matt Doran]] · [[Belinda McClory]]
 > **Studios** [[Village Roadshow Pictures]] · [[Groucho II Film Partnership]] · [[Silver Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

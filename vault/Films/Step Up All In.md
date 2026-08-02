@@ -52,3 +52,4 @@ All-stars from previous installments convene in glittering Las Vegas, battling f
 > **Cast** [[Briana Evigan]] · [[Ryan Guzman]] · [[Chaton Anderson]] · [[Stephen 'tWitch' Boss]] · [[Misha Gabriel]] · [[Izabella Miko]] · [[Alyson Stoner]] · [[Adam Sevani]] · [[Christopher Scott]] · [[Luis Rosado]]
 > **Studios** [[Summit Entertainment]] · [[Offspring Entertainment]]
 > **Genres** [[Romance]] · [[Drama]] · [[Music]]
+

@@ -48,3 +48,4 @@ The advent of new weight loss drugs has a huge impact on everyone in South Park.
 > **Cast** [[Trey Parker]] · [[Matt Stone]] · [[April Stewart]] · [[Mona Marshall]] · [[Kimberly Brooks]] · [[Jessica Makinson]] · [[Vernon Chatman]] · [[Jennifer Howell]] · [[Feraz Ozel Ellahie]] · [[Betty Boogie Parker]]
 > **Studios** [[MTV Entertainment Studios]]
 > **Genres** [[Animation]] · [[Comedy]] · [[TV Movie]]
+

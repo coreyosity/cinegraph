@@ -55,10 +55,12 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 - Netflix Standard with Ads
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - Foxtel Now
 - Stan
 ---
@@ -73,3 +75,4 @@ Following the events of Captain America: Civil War, Peter Parker, with the help 
 > **Cast** [[Tom Holland]] · [[Michael Keaton]] · [[Robert Downey Jr]] · [[Marisa Tomei]] · [[Jon Favreau]] · [[Gwyneth Paltrow]] · [[Zendaya]] · [[Donald Glover]] · [[Jacob Batalon]] · [[Laura Harrier]]
 > **Studios** [[Marvel Studios]] · [[Pascal Pictures]] · [[LStar Capital]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

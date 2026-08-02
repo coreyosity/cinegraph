@@ -54,3 +54,4 @@ One day at work, unsuccessful puppeteer Craig finds a portal into the head of ac
 > **Cast** [[John Cusack]] · [[Cameron Diaz]] · [[John Malkovich]] · [[Catherine Keener]] · [[Orson Bean]] · [[Mary Kay Place]] · [[W. Earl Brown]] · [[Carlos Jacott]] · [[Willie Garson]] · [[Byrne Piven]]
 > **Studios** [[Propaganda Films]] · [[Single Cell Pictures]] · [[Gramercy Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Fantasy]]
+

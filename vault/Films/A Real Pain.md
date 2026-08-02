@@ -76,3 +76,4 @@ Mismatched cousins David and Benji reunite for a tour through Poland to honor th
 > **Cast** [[Jesse Eisenberg]] · [[Kieran Culkin]] · [[Will Sharpe]] · [[Jennifer Grey]] · [[Kurt Egyiawan]] · [[Liza Sadovy]] · [[Daniel Oreskes]] · [[Ellora Torchia]] · [[Banner Eisenberg]] · [[Olha Bosova]]
 > **Studios** [[Fruit Tree]] · [[Topic Studios]] · [[Extreme Emotions]] · [[Rego Park]] · [[Mazowiecki Instytut Kultury]]
 > **Genres** [[Comedy]] · [[Drama]]
+

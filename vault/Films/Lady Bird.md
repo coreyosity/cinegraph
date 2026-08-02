@@ -80,3 +80,4 @@ Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old c
 > **Cast** [[Saoirse Ronan]] · [[Laurie Metcalf]] · [[Tracy Letts]] · [[Lucas Hedges]] · [[Timothée Chalamet]] · [[Beanie Feldstein]] · [[Lois Smith]] · [[Stephen McKinley Henderson]] · [[Odeya Rush]] · [[Jordan Rodrigues]]
 > **Studios** [[IAC Films]] · [[Scott Rudin Productions]] · [[Entertainment 360]]
 > **Genres** [[Drama]] · [[Comedy]]
+

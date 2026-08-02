@@ -78,3 +78,4 @@ Twenty-eight years after the Rage virus outbreak, a heavily-defended island surv
 > **Cast** [[Aaron Taylor-Johnson]] · [[Alfie Williams]] · [[Ralph Fiennes]] · [[Jodie Comer]] · [[Jack O'Connell]] · [[Chi Lewis-Parry]] · [[Edvin Ryding]] · [[Christopher Fulford]] · [[Stella Gonet]] · [[Kim Allan]]
 > **Studios** [[Columbia Pictures]] · [[DNA Films]] · [[Decibel Films]] · [[TSG Entertainment]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Science Fiction]]
+

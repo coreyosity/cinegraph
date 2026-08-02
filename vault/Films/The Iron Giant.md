@@ -68,3 +68,4 @@ In the small town of Rockwell, Maine in October 1957, a giant metal machine befr
 > **Cast** [[Jennifer Aniston]] · [[Harry Connick Jr]] · [[Vin Diesel]] · [[James Gammon]] · [[Cloris Leachman]] · [[Christopher McDonald]] · [[John Mahoney]] · [[Eli Marienthal]] · [[M. Emmet Walsh]] · [[Jack Angel]]
 > **Studios** [[Warner Bros. Feature Animation]]
 > **Genres** [[Animation]] · [[Drama]] · [[Family]] · [[Science Fiction]]
+

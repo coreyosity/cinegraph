@@ -55,3 +55,4 @@ As seniors in high school, Troy and Gabriella struggle with the idea of being se
 > **Cast** [[Zac Efron]] · [[Vanessa Hudgens]] · [[Ashley French]] · [[Lucas Grabeel]] · [[Corbin Bleu]] · [[Monique Coleman]] · [[Olesya Rulin]] · [[Chris Warren]] · [[Ryne Sanborn]] · [[Kaycee Stroh]]
 > **Studios** [[Walt Disney Pictures]] · [[Borden & Rosenbush Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Family]]
+

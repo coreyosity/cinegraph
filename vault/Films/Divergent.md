@@ -50,17 +50,13 @@ tags:
 - film
 letterboxd: https://boxd.it/4VT0
 providers:
-- fuboTV
 - YouTube TV
 - 'VIX '
-- ViX Premium Amazon Channel
 - MovieSphere+ Amazon Channel
 - Hollywood Suite
-- Club Illico
 - Hollywood Suite Amazon Channel
 - Lionsgate+ Amazon Channels
 - Amazon Prime Video
-- Stan
 - Amazon Prime Video with Ads
 ---
 
@@ -74,3 +70,4 @@ In a world divided into factions based on personality types, Tris learns that sh
 > **Cast** [[Shailene Woodley]] · [[Theo James]] · [[Ashley Judd]] · [[Jai Courtney]] · [[Ray Stevenson]] · [[Zoë Kravitz]] · [[Miles Teller]] · [[Tony Goldwyn]] · [[Ansel Elgort]] · [[Maggie Q]]
 > **Studios** [[Summit Entertainment]] · [[Red Wagon Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

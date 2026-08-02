@@ -54,14 +54,11 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Amazon Prime Video
-- fuboTV
 - MGM+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Philo
 - Paramount+ Amazon Channel
 - YouTube TV
-- MGM Plus
 - Paramount+ Roku Premium Channel
 - Amazon Prime Video with Ads
 - Crave
@@ -89,3 +86,4 @@ As New York City is invaded by alien creatures who hunt by sound, a woman named 
 > **Cast** [[Lupita Nyong'o]] · [[Joseph Quinn]] · [[Alex Wolff]] · [[Djimon Hounsou]] · [[Eliane Umuhire]] · [[Takunda Khumalo]] · [[Alfie Todd]] · [[Avy-Berry Worrall]] · [[Ronnie Le Drew]] · [[Benjamin Wong]]
 > **Studios** [[Paramount Pictures]] · [[Platinum Dunes]] · [[Sunday Night Productions]]
 > **Genres** [[Horror]] · [[Science Fiction]] · [[Thriller]]
+

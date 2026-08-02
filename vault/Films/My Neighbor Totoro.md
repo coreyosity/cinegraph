@@ -65,3 +65,4 @@ Two sisters move to the country with their father in order to be closer to their
 > **Cast** [[Noriko Hidaka]] · [[Chika Sakamoto]] · [[Hitoshi Takagi]] · [[Shigesato Itoi]] · [[Sumi Shimamoto]] · [[Tanie Kitabayashi]] · [[Toshiyuki Amagasa]] · [[Yuko Maruyama]] · [[Masashi Hirose]] · [[Reiko Suzuki]]
 > **Studios** [[Studio Ghibli]] · [[Nibariki]] · [[Tokuma Shoten]]
 > **Genres** [[Fantasy]] · [[Animation]] · [[Family]]
+

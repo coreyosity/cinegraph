@@ -59,3 +59,4 @@ As Halloweentown prepares to celebrate its 1,000th anniversary, Marnie Piper and
 > **Cast** [[Sara Paxton]] · [[Judith Hoag]] · [[Lucas Grabeel]] · [[Joey Zimmerman]] · [[Kristy Wu]] · [[Keone Young]] · [[Millicent Martin]] · [[Summer Bishil]] · [[Leslie Wing]] · [[Debbie Reynolds]]
 > **Studios** [[Just Singer Entertainment]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Comedy]] · [[TV Movie]] · [[Action]]
+

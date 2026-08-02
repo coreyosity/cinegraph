@@ -57,7 +57,6 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Crave Amazon Channel
-- Stan
 - Sony Pictures Core Amazon Channel
 ---
 
@@ -71,3 +70,4 @@ A struggling salesman takes custody of his son as he's poised to begin a life-ch
 > **Cast** [[Will Smith]] · [[Jaden Smith]] · [[Thandiwe Newton]] · [[Brian Howe]] · [[James Karen]] · [[Dan Castellaneta]] · [[Kurt Fuller]] · [[Takayo Fischer]] · [[Kevin West]] · [[George Cheung]]
 > **Studios** [[Escape Artists]] · [[Relativity Media]] · [[Columbia Pictures]] · [[Overbrook Entertainment]]
 > **Genres** [[Drama]]
+

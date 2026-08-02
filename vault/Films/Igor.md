@@ -45,7 +45,8 @@ tags:
 - film
 letterboxd: https://boxd.it/1OsA
 providers:
-- Lionsgate+ Amazon Channels
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 ---
 
 A cliché hunchbacked evil scientist's assistant aspires to become a scientist himself, much to the displeasure of the rest of the evil science community.
@@ -58,3 +59,4 @@ A cliché hunchbacked evil scientist's assistant aspires to become a scientist h
 > **Cast** [[John Cusack]] · [[Myleene Klass]] · [[Robin Walsh]] · [[Matt McKenna]] · [[John Cleese]] · [[Steve Buscemi]] · [[Sean Hayes]] · [[Suzy Eddie Izzard]] · [[Jay Leno]] · [[Jennifer Coolidge]]
 > **Studios** [[Exodus Film Group]] · [[Sparx Animation Studios]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]] · [[Horror]]
+

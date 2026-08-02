@@ -80,6 +80,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -96,3 +98,4 @@ The human city of Zion defends itself against the massive invasion of the machin
 > **Cast** [[Keanu Reeves]] · [[Laurence Fishburne]] · [[Carrie-Anne Moss]] · [[Hugo Weaving]] · [[Jada Pinkett Smith]] · [[Mary Alice]] · [[Harold Perrineau]] · [[Collin Chou]] · [[Harry Lennix]] · [[Ian Bliss]]
 > **Studios** [[Village Roadshow Pictures]] · [[NPV Entertainment]] · [[Silver Pictures]]
 > **Genres** [[Adventure]] · [[Action]] · [[Thriller]] · [[Science Fiction]]
+

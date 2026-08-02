@@ -50,15 +50,15 @@ tags:
 - film
 letterboxd: https://boxd.it/24Cw
 providers:
-- Amazon Prime Video
 - Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
-- Amazon Prime Video with Ads
 - Paramount Plus Essential
 - YouTube TV
 - Paramount+ Roku Premium Channel
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Stan
 ---
 
@@ -72,3 +72,4 @@ A group of students visit a mansion called "Hell House," and murderous high jink
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Marlon Wayans]] · [[Shawn Wayans]] · [[Christopher Masterson]] · [[Kathleen Robertson]] · [[David Cross]] · [[James Woods]] · [[Tim Curry]] · [[Tori Spelling]]
 > **Studios** [[Brad Grey Pictures]] · [[GoldMiller Productions]] · [[Wayans Bros. Entertainment]] · [[Dimension Films]]
 > **Genres** [[Comedy]]
+

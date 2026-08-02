@@ -62,8 +62,11 @@ letterboxd: https://boxd.it/1Yws
 providers:
 - Netflix
 - Amazon Prime Video
+- Sky Go
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -83,3 +86,4 @@ Chosen by prophecy but doubted by all, Po is an unlikely choice for the mystical
 > **Cast** [[Jack Black]] · [[Dustin Hoffman]] · [[Angelina Jolie]] · [[Ian McShane]] · [[Seth Rogen]] · [[Lucy Liu]] · [[David Cross]] · [[Randall Duk Kim]] · [[James Hong]] · [[Dan Fogler]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Action]] · [[Animation]] · [[Comedy]] · [[Family]]
+

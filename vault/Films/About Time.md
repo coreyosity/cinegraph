@@ -69,7 +69,6 @@ providers:
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - BINGE
-- Paramount+ Amazon Channel
 - Foxtel Now
 ---
 
@@ -83,3 +82,4 @@ The night after another unsatisfactory New Year's party, Tim's father reveals to
 > **Cast** [[Domhnall Gleeson]] · [[Rachel McAdams]] · [[Bill Nighy]] · [[Tom Hollander]] · [[Margot Robbie]] · [[Lydia Wilson]] · [[Lindsay Duncan]] · [[Richard Cordery]] · [[Joshua McGuire]] · [[Will Merrick]]
 > **Studios** [[Universal Pictures]] · [[Relativity Media]] · [[Working Title Films]]
 > **Genres** [[Drama]] · [[Romance]] · [[Fantasy]]
+

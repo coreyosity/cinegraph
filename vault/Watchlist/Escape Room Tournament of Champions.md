@@ -36,6 +36,8 @@ tags:
 letterboxd: https://boxd.it/lwCM
 providers:
 - Sony Pictures Core Amazon Channel
+- Peacock Premium
+- Peacock Premium Plus
 - Club Illico
 ---
 
@@ -46,3 +48,4 @@ Six people unwittingly find themselves locked in another series of escape rooms,
 > **Cast** [[Taylor Russell]] · [[Logan Miller]] · [[Indya Moore]] · [[Holland Roden]] · [[Thomas Cocquerel]] · [[Carlito Olivero]] · [[James Frain]] · [[Isabelle Fuhrman]] · [[Deborah Ann Woll]] · [[Tanya van Graan]]
 > **Studios** [[Original Film]] · [[Columbia Pictures]] · [[Shaken, Not Stirred Productions]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Mystery]]
+

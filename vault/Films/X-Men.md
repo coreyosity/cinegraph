@@ -53,3 +53,4 @@ While Senator Kelly addresses a senate committee about the supposed mutant menac
 > **Cast** [[Bruce Davison]] · [[Terry Anzur]] · [[Bryan Singer]] · [[Hugh Jackman]] · [[Tom DeSanto]] · [[Patrick Stewart]] · [[Ian McKellen]] · [[Dick Anthony Williams]] · [[Halle Berry]] · [[Lauren Shuler Donner]]
 > **Studios** [[Woodholly Productions]] · [[Sam Hurwitz Productions]] · [[20th Century Fox]]
 > **Genres** [[Documentary]]
+

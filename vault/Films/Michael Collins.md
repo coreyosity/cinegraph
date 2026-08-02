@@ -61,3 +61,4 @@ Michael Collins plays a crucial role in the establishment of the Irish Free Stat
 > **Cast** [[Liam Neeson]] · [[Aidan Quinn]] · [[Stephen Rea]] · [[Alan Rickman]] · [[Julia Roberts]] · [[Ian Hart]] · [[Brendan Gleeson]] · [[Stuart Graham]] · [[Sean McGinley]] · [[Gerard McSorley]]
 > **Studios** [[Geffen Pictures]] · [[Fís ÉireannScreen Ireland]]
 > **Genres** [[War]] · [[Drama]] · [[Thriller]] · [[History]]
+

@@ -50,6 +50,7 @@ providers:
 - Netflix Standard with Ads
 - Crave
 - Crave Amazon Channel
+- Sony Pictures Core Amazon Channel
 - Disney Plus
 - BINGE
 - Foxtel Now
@@ -76,3 +77,4 @@ Struggling to find his place in the world while juggling school and family, Broo
 > **Cast** [[Shameik Moore]] · [[Jake Johnson]] · [[Hailee Steinfeld]] · [[Mahershala Ali]] · [[Brian Tyree Henry]] · [[Lily Tomlin]] · [[Luna Lauren Vélez]] · [[Zoë Kravitz]] · [[John Mulaney]] · [[Kimiko Glenn]]
 > **Studios** [[Columbia Pictures]] · [[Lord Miller]] · [[Pascal Pictures]] · [[Sony Pictures Animation]] · [[Arad Productions]] · [[Marvel Entertainment]]
 > **Genres** [[Animation]] · [[Action]] · [[Adventure]] · [[Science Fiction]]
+

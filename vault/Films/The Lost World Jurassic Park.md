@@ -83,3 +83,4 @@ Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimilli
 > **Cast** [[Jeff Goldblum]] · [[Julianne Moore]] · [[Pete Postlethwaite]] · [[Arliss Howard]] · [[Richard Attenborough]] · [[Vince Vaughn]] · [[Vanessa Lee Chester]] · [[Peter Stormare]] · [[Harvey Jason]] · [[Richard Schiff]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

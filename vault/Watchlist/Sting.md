@@ -68,3 +68,4 @@ After raising an unnervingly talented spider in secret, 12-year-old Charlotte mu
 > **Cast** [[Alyla Browne]] · [[Ryan Corr]] · [[Penelope Mitchell]] · [[Kate Walsh]] · [[Robyn Nevin]] · [[Noni Hazlehurst]] · [[Danny Kim]] · [[Silvia Colloca]] · [[Jermaine Fowler]] · [[Tony J. Black]]
 > **Studios** [[See Pictures]] · [[Align]] · [[Pictures in Paradise]] · [[Cumulus VFX]] · [[Spectrum Films]] · [[Cornerstone Films]]
 > **Genres** [[Horror]] · [[Thriller]]
+

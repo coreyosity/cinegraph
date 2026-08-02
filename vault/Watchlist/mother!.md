@@ -56,7 +56,6 @@ providers:
 - MGM Plus Roku Premium Channel
 - YouTube TV
 - MGM Plus
-- Stan
 ---
 
 A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
@@ -66,3 +65,4 @@ A couple's relationship is tested when uninvited guests arrive at their home, di
 > **Cast** [[Jennifer Lawrence]] · [[Javier Bardem]] · [[Ed Harris]] · [[Michelle Pfeiffer]] · [[Brian Gleeson]] · [[Domhnall Gleeson]] · [[Jovan Adepo]] · [[Amanda Chiu]] · [[Patricia Summersett]] · [[Eric Davis]]
 > **Studios** [[Paramount Pictures]] · [[Protozoa Pictures]]
 > **Genres** [[Horror]] · [[Drama]]
+

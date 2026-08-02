@@ -75,3 +75,4 @@ When actress Nikki Grace gets the lead role in a cursed film, her world becomes 
 > **Cast** [[Laura Dern]] · [[Jeremy Irons]] · [[Justin Theroux]] · [[Harry Dean Stanton]] · [[Karolina Gruszka]] · [[Peter J. Lucas]] · [[Krzysztof Majchrzak]] · [[Jan Hencz]] · [[Grace Zabriskie]] · [[William H. Macy]]
 > **Studios** [[Absurda]] · [[StudioCanal]] · [[Camerimage Film]] · [[Asymmetrical Productions]] · [[Fundacja Tumult]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Mystery]] · [[Drama]] · [[Fantasy]]
+

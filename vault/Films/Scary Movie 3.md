@@ -48,7 +48,6 @@ tags:
 - film
 letterboxd: https://boxd.it/24Be
 providers:
-- Amazon Prime Video
 - Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
@@ -56,7 +55,6 @@ providers:
 - Paramount Plus Essential
 - YouTube TV
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 ---
 
 News anchorwoman Cindy Campbell has to investigate mysterious crop circles and killing video tapes, and help the President stop an alien invasion in the process.
@@ -69,3 +67,4 @@ News anchorwoman Cindy Campbell has to investigate mysterious crop circles and k
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Simon Rex]] · [[Anthony Anderson]] · [[Charlie Sheen]] · [[Leslie Nielsen]] · [[Kevin Hart]] · [[Jeremy Piven]] · [[Pamela Anderson]] · [[Jenny McCarthy]]
 > **Studios** [[Brad Grey Pictures]] · [[Dimension Films]]
 > **Genres** [[Comedy]]
+

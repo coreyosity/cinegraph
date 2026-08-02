@@ -50,7 +50,6 @@ providers:
 - HBO Max
 - Amazon Prime Video with Ads
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -61,3 +60,4 @@ An epic love story centered around an older man who reads aloud to a woman with 
 > **Cast** [[Ryan Gosling]] · [[Rachel McAdams]] · [[Gena Rowlands]] · [[James Garner]] · [[Joan Allen]] · [[David Thornton]] · [[James Marsden]] · [[Kevin Connolly]] · [[Sam Shepard]] · [[Starletta DuPois]]
 > **Studios** [[New Line Cinema]] · [[Avery Pix]] · [[Gran Via Productions]]
 > **Genres** [[Romance]] · [[Drama]]
+

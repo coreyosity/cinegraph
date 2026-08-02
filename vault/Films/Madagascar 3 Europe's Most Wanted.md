@@ -77,3 +77,4 @@ Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to 
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Frances McDormand]] · [[Sacha Baron Cohen]] · [[Andy Richter]] · [[Cedric the Entertainer]] · [[Jessica Chastain]] · [[Bryan Cranston]]
 > **Studios** [[DreamWorks Animation]] · [[Pacific Data Images]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Adventure]]
+

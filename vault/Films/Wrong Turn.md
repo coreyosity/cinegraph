@@ -73,3 +73,4 @@ Chris crashes into a carload of other young people, and the group of stranded mo
 > **Cast** [[Eliza Dushku]] · [[Desmond Harrington]] · [[Emmanuelle Chriqui]] · [[Jeremy Sisto]] · [[Kevin Zegers]] · [[Lindy Booth]] · [[Julian Richings]] · [[Garry Robbins]] · [[James Downing]] · [[Wayne Robson]]
 > **Studios** [[Summit Entertainment]] · [[Constantin Film]] · [[Newmarket Capital Group]] · [[Stan Winston Productions]] · [[Media Cooperation One]]
 > **Genres** [[Horror]] · [[Thriller]]
+

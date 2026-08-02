@@ -92,3 +92,4 @@ A domineering but charismatic rancher wages a war of intimidation on his brother
 > **Cast** [[Benedict Cumberbatch]] · [[Kodi Smit-McPhee]] · [[Kirsten Dunst]] · [[Jesse Plemons]] · [[Thomasin McKenzie]] · [[Geneviève Lemon]] · [[Keith Carradine]] · [[Frances Conroy]] · [[Kenneth Radley]] · [[Sean Keenan]]
 > **Studios** [[See-Saw Films]] · [[Max Films]] · [[Brightstar]] · [[New Zealand Film Commission]] · [[Cross City Films]] · [[BBC Film]] · [[Bad Girl Creek]]
 > **Genres** [[Drama]] · [[Western]]
+

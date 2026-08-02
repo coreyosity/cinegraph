@@ -78,3 +78,4 @@ Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty con
 > **Cast** [[Margot Robbie]] · [[Idris Elba]] · [[John Cena]] · [[Joel Kinnaman]] · [[Sylvester Stallone]] · [[Viola Davis]] · [[David Dastmalchian]] · [[Daniela Melchior]] · [[Michael Rooker]] · [[Jai Courtney]]
 > **Studios** [[DC Films]] · [[Atlas Entertainment]] · [[The Safran Company]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Comedy]] · [[Adventure]]
+

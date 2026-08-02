@@ -47,8 +47,6 @@ providers:
 - Amazon Prime Video
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
-- Peacock Premium
-- Peacock Premium Plus
 - Crave
 - Club Illico
 - Starz Amazon Channel
@@ -67,3 +65,4 @@ When Susan Murphy is unwittingly clobbered by a meteor full of outer space gunk 
 > **Cast** [[Reese Witherspoon]] · [[Seth Rogen]] · [[Hugh Laurie]] · [[Rainn Wilson]] · [[Will Arnett]] · [[Kiefer Sutherland]] · [[Paul Rudd]] · [[Stephen Colbert]] · [[Julie White]] · [[Jeffrey Tambor]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Science Fiction]]
+

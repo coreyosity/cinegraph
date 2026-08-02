@@ -72,3 +72,4 @@ Kazakh journalist Borat Sagdiyev travels to America to make a documentary. As he
 > **Cast** [[Sacha Baron Cohen]] · [[Ken Davitian]] · [[Luenell]] · [[Pamela Anderson]] · [[Bob Barr]] · [[Alan Keyes]] · [[Carole De Saram]] · [[Mitchell Falk]] · [[Andre Darnell Myers]] · [[Jean-Pierre Parent]]
 > **Studios** [[20th Century Fox]] · [[Everyman Pictures]] · [[Four by Two]] · [[Talkback]] · [[Channel 4 Television]] · [[Dune Entertainment]] · [[One America]]
 > **Genres** [[Comedy]]
+

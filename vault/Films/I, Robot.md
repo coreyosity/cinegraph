@@ -68,9 +68,12 @@ letterboxd: https://boxd.it/27y8
 providers:
 - Disney Plus
 - Hulu
-- Peacock Premium
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Roku Premium Channel
+- AMC+
 - YouTube TV
-- Peacock Premium Plus
+- AMC
 - Crave
 - Crave Amazon Channel
 ---
@@ -85,3 +88,4 @@ In 2035, where robots are commonplace and abide by the three laws of robotics, a
 > **Cast** [[Will Smith]] · [[Bridget Moynahan]] · [[Alan Tudyk]] · [[James Cromwell]] · [[Bruce Greenwood]] · [[Adrian Ricard]] · [[Chi McBride]] · [[Jerry Wasserman]] · [[Fiona Hogan]] · [[Peter Shinkoda]]
 > **Studios** [[Davis Entertainment]] · [[Laurence Mark Productions]] · [[Canlaws Productions]] · [[20th Century Fox]] · [[Overbrook Entertainment]] · [[Mediastream Vierte Film]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

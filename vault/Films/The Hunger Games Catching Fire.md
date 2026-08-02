@@ -54,7 +54,6 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Amazon Prime Video
 - Stan
@@ -78,3 +77,4 @@ After surviving the Hunger Games, Katniss and Peeta struggle with the consequenc
 > **Cast** [[Jennifer Lawrence]] · [[Josh Hutcherson]] · [[Liam Hemsworth]] · [[Woody Harrelson]] · [[Elizabeth Banks]] · [[Donald Sutherland]] · [[Lenny Kravitz]] · [[Philip Seymour Hoffman]] · [[Jeffrey Wright]] · [[Stanley Tucci]]
 > **Studios** [[Lionsgate]] · [[Color Force]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

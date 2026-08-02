@@ -47,11 +47,9 @@ tags:
 letterboxd: https://boxd.it/1Pnc
 providers:
 - Amazon Prime Video
-- Philo
 - Starz Apple TV Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
 - Amazon Prime Video with Ads
 - MovieSphere+ Amazon Channel
 ---
@@ -66,3 +64,4 @@ Over the course of one evening, an unsuspecting group of twenty-somethings find 
 > **Cast** [[Matt Lanter]] · [[Vanessa Lachey]] · [[Gary 'G. Thang' Johnson]] · [[Nicole Parker]] · [[Crista Flanagan]] · [[Kim Kardashian]] · [[Ike Barinholtz]] · [[Carmen Electra]] · [[Tony Cox]] · [[Tad Hilgenbrink]]
 > **Studios** [[3 in the Box]] · [[Lionsgate]] · [[Summit Entertainment]] · [[Grosvenor Park Productions]]
 > **Genres** [[Comedy]] · [[Science Fiction]]
+

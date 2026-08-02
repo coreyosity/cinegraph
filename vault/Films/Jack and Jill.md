@@ -57,3 +57,4 @@ Jack Sadelstein, a successful advertising executive in Los Angeles with a beauti
 > **Cast** [[Adam Sandler]] · [[Al Pacino]] · [[Katie Holmes]] · [[Elodie Tougne]] · [[Rohan Chand]] · [[Eugenio Derbez]] · [[David Spade]] · [[Nick Swardson]] · [[Tim Meadows]] · [[Allen Covert]]
 > **Studios** [[Broken Road Productions]] · [[Columbia Pictures]] · [[Happy Madison Productions]]
 > **Genres** [[Comedy]] · [[Family]]
+

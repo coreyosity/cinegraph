@@ -48,8 +48,6 @@ letterboxd: https://boxd.it/20mE
 providers:
 - Disney Plus
 - Hulu
-- Peacock Premium
-- Peacock Premium Plus
 ---
 
 After being wrongfully convicted for stealing a pair of shoes, Stanley Yelnats is sent away to Camp Green Lake, a boys detention facility where inmates are forced to dig holes all day in the hot desert sun as a form of character building. As he endures the brutal routine, Stanley begins to uncover a hidden truth behind the camp—one that connects to a dangerous secret and his family’s history.
@@ -62,3 +60,4 @@ After being wrongfully convicted for stealing a pair of shoes, Stanley Yelnats i
 > **Cast** [[Shia LaBeouf]] · [[Khleo Thomas]] · [[Sigourney Weaver]] · [[Jon Voight]] · [[Tim Blake Nelson]] · [[Patricia Arquette]] · [[Dulé Hill]] · [[Henry Winkler]] · [[Siobhan Fallon Hogan]] · [[Eartha Kitt]]
 > **Studios** [[Phoenix Pictures]] · [[Chicago Pacific Entertainment]] · [[Walden Media]] · [[Walt Disney Pictures]]
 > **Genres** [[Adventure]] · [[Family]] · [[Drama]] · [[Comedy]]
+

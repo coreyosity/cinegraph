@@ -78,3 +78,4 @@ A century has passed since the Fire Nation declared war on the other three natio
 > **Cast** [[Noah Ringer]] · [[Dev Patel]] · [[Nicola Peltz]] · [[Jackson Rathbone]] · [[Shaun Toub]] · [[Aasif Mandvi]] · [[Cliff Curtis]] · [[Seychelle Gabriel]] · [[Katharine Houghton]] · [[Francis Guinan]]
 > **Studios** [[Paramount Pictures]] · [[Nickelodeon Movies]] · [[Blinding Edge Pictures]] · [[The KennedyMarshall Company]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

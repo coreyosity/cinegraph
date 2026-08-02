@@ -58,6 +58,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -75,3 +76,4 @@ Peter Parker is going through a major identity crisis. Burned out from being Spi
 > **Cast** [[Tobey Maguire]] · [[Kirsten Dunst]] · [[James Franco]] · [[Alfred Molina]] · [[Rosemary Harris]] · [[J.K. Simmons]] · [[Donna Murphy]] · [[Daniel Gillies]] · [[Dylan Baker]] · [[Bill Nunn]]
 > **Studios** [[Marvel Enterprises]] · [[Laura Ziskin Productions]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

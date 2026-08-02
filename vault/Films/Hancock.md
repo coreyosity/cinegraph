@@ -54,6 +54,8 @@ providers:
 - Sky Go
 - Netflix Standard with Ads
 - Hulu
+- Philo
+- AMC
 - Hollywood Suite
 - StackTV Amazon Channel
 - Hollywood Suite Amazon Channel
@@ -72,3 +74,4 @@ Hancock is a down-and-out superhero who's forced to employ a PR expert to help r
 > **Cast** [[Will Smith]] · [[Charlize Theron]] · [[Jason Bateman]] · [[Jae Head]] · [[Eddie Marsan]] · [[David Mattey]] · [[Maetrix Fitten]] · [[Thomas Lennon]] · [[Johnny Galecki]] · [[Hayley Marie Norman]]
 > **Studios** [[Columbia Pictures]] · [[Relativity Media]] · [[Blue Light]] · [[Weed Road Pictures]] · [[Overbrook Entertainment]]
 > **Genres** [[Fantasy]] · [[Action]]
+

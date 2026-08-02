@@ -47,7 +47,6 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/FRY
 providers:
-- STUDIOCANAL PRESENTS Apple TV Channel
 - Studiocanal Presents Amazon Channel
 ---
 
@@ -58,3 +57,4 @@ George Smiley, the aging master spy of the Cold War and once heir apparent to Co
 > **Cast** [[Gary Oldman]] · [[Colin Firth]] · [[Tom Hardy]] · [[John Hurt]] · [[Toby Jones]] · [[Mark Strong]] · [[Benedict Cumberbatch]] · [[Ciarán Hinds]] · [[David Dencik]] · [[Kathy Burke]]
 > **Studios** [[StudioCanal]] · [[Working Title Films]] · [[Karla Films]] · [[Paradis Films]] · [[Kinowelt]]
 > **Genres** [[Drama]] · [[Thriller]] · [[Mystery]]
+

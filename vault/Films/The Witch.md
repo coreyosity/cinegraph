@@ -55,7 +55,6 @@ tags:
 letterboxd: https://boxd.it/9X0m
 providers:
 - Netflix
-- fuboTV
 - YouTube TV
 - Netflix Standard with Ads
 - MovieSphere+ Amazon Channel
@@ -75,3 +74,4 @@ The modern world holds many secrets, but by far the most astounding is that witc
 > **Cast** [[Vin Diesel]] · [[Elijah Wood]] · [[Rose Leslie]] · [[Ólafur Darri Ólafsson]] · [[Julie Engelbrecht]] · [[Michael Caine]] · [[Joseph Gilgun]] · [[Isaach de Bankolé]] · [[Michael Halsey]] · [[Rena Owen]]
 > **Studios** [[NeoReel]] · [[Summit Entertainment]] · [[Atmosphere Entertainment MM]] · [[Goldmann Pictures]] · [[Aperture Entertainment]] · [[TIK Films]] · [[One Race]] · [[Lionsgate]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

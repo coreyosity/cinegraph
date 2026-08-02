@@ -57,3 +57,4 @@ Mitchie can't wait to go back to Camp Rock and spend the summer making new music
 > **Cast** [[Demi Lovato]] · [[Joe Jonas]] · [[Nick Jonas]] · [[Kevin Jonas]] · [[Daniel Fathers]] · [[Daniel Kash]] · [[Maria Canals-Barrera]] · [[Chloe Bridges]] · [[Matthew Finley]] · [[Meaghan Jette Martin]]
 > **Studios** [[Alan Sacks Productions]] · [[Walt Disney Television]] · [[Coin Flip Productions]] · [[Disney Channel]]
 > **Genres** [[Comedy]] · [[Music]] · [[TV Movie]]
+

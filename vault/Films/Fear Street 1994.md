@@ -69,3 +69,4 @@ After a series of brutal slayings, a teen and her friends take on an evil force 
 > **Cast** [[Kiana Madeira]] · [[Olivia Scott Welch]] · [[Benjamin Flores Jr]] · [[Julia Rehwald]] · [[Fred Hechinger]] · [[Maya Hawke]] · [[Charlene Amoia]] · [[David Thompson]] · [[Noah Bain Garret]] · [[Darrell Britt-Gibson]]
 > **Studios** [[Chernin Entertainment]]
 > **Genres** [[Horror]] · [[Mystery]]
+

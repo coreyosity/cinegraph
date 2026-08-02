@@ -53,7 +53,9 @@ providers:
 - Amazon Prime Video with Ads
 - Paramount Plus Premium
 - Paramount Plus Essential
+- Peacock Premium
 - Paramount+ Amazon Channel
+- Peacock Premium Plus
 - Netflix
 - Paramount Plus
 - Netflix Standard with Ads
@@ -77,3 +79,4 @@ The men who made millions from a global economic meltdown.
 > **Cast** [[Steve Carell]] · [[Christian Bale]] · [[Ryan Gosling]] · [[Brad Pitt]] · [[Marisa Tomei]] · [[Melissa Leo]] · [[Hamish Linklater]] · [[John Magaro]] · [[Rafe Spall]] · [[Jeremy Strong]]
 > **Studios** [[Paramount Pictures]] · [[Regency Enterprises]] · [[Plan B Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]]
+

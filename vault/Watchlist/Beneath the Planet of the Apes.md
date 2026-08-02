@@ -38,6 +38,7 @@ tags:
 letterboxd: https://boxd.it/28j4
 providers:
 - Disney Plus
+- Philo
 ---
 
 The sole survivor of an interplanetary rescue mission lands on the planet of the apes, and uncovers a horrible secret beneath the surface.
@@ -47,3 +48,4 @@ The sole survivor of an interplanetary rescue mission lands on the planet of the
 > **Cast** [[James Franciscus]] · [[Kim Hunter]] · [[Maurice Evans]] · [[Charlton Heston]] · [[Linda Harrison]] · [[Paul Richards]] · [[Victor Buono]] · [[James Gregory]] · [[David Watson]] · [[Jeff Corey]]
 > **Studios** [[APJAC Productions]] · [[20th Century Fox]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Mystery]]
+

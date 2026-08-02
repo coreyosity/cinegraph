@@ -57,6 +57,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
+- Cinemax Amazon Channel
+- Cinemax Apple TV Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -72,3 +74,4 @@ The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with co
 > **Cast** [[Michael Keaton]] · [[Danny DeVito]] · [[Michelle Pfeiffer]] · [[Christopher Walken]] · [[Michael Gough]] · [[Pat Hingle]] · [[Michael Murphy]] · [[Cristi Conaway]] · [[Andrew Bryniarski]] · [[Vincent Schiavelli]]
 > **Studios** [[Warner Bros. Pictures]] · [[Polygram Pictures]]
 > **Genres** [[Action]] · [[Fantasy]]
+

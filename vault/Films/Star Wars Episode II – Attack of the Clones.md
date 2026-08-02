@@ -64,3 +64,4 @@ Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anaki
 > **Cast** [[Hayden Christensen]] · [[Ewan McGregor]] · [[Natalie Portman]] · [[Christopher Lee]] · [[Samuel L. Jackson]] · [[Frank Oz]] · [[Ian McDiarmid]] · [[Pernilla August]] · [[Temuera Morrison]] · [[Jimmy Smits]]
 > **Studios** [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

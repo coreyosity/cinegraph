@@ -45,8 +45,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
-- Peacock Premium
-- Peacock Premium Plus
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -66,3 +64,4 @@ Inventor Flint Lockwood creates a machine that makes clouds rain food, enabling 
 > **Cast** [[Bill Hader]] · [[Anna Faris]] · [[James Caan]] · [[Andy Samberg]] · [[Bruce Campbell]] · [[Mr. T]] · [[Bobb'e J. Thompson]] · [[Benjamin Bratt]] · [[Neil Patrick Harris]] · [[Al Roker]]
 > **Studios** [[Sony Pictures Animation]] · [[Columbia Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

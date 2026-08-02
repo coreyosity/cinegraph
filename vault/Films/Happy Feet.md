@@ -73,3 +73,4 @@ Into the world of the Emperor Penguins, who find their soul mates through song, 
 > **Cast** [[Elijah Wood]] · [[Robin Williams]] · [[Brittany Murphy]] · [[Hugh Jackman]] · [[Nicole Kidman]] · [[Hugo Weaving]] · [[Anthony LaPaglia]] · [[E. G. Daily]] · [[Magda Szubanski]] · [[Miriam Margolyes]]
 > **Studios** [[Kennedy Miller Productions]] · [[Animal Logic]] · [[Village Roadshow Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

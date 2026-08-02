@@ -50,12 +50,10 @@ tags:
 - film
 letterboxd: https://boxd.it/24CG
 providers:
-- Amazon Prime Video
 - Paramount Plus
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
-- Amazon Prime Video with Ads
 - Paramount Plus Essential
 - YouTube TV
 - Paramount+ Roku Premium Channel
@@ -75,3 +73,4 @@ A familiar-looking group of teenagers find themselves being stalked by a more-th
 > **Cast** [[Anna Faris]] · [[Regina Hall]] · [[Marlon Wayans]] · [[Shawn Wayans]] · [[Jon Abrahams]] · [[Lochlyn Munro]] · [[Shannon Elizabeth]] · [[Dave Sheridan]] · [[Cheri Oteri]] · [[Tanja Reichert]]
 > **Studios** [[Brad Grey Pictures]] · [[GoldMiller Productions]] · [[Wayans Bros. Entertainment]] · [[Dimension Films]]
 > **Genres** [[Comedy]]
+

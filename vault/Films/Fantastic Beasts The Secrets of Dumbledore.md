@@ -54,7 +54,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - ITVX Premium
-- fuboTV
 - Peacock Premium
 - YouTube TV
 - Peacock Premium Plus
@@ -72,3 +71,4 @@ Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald i
 > **Cast** [[Eddie Redmayne]] · [[Jude Law]] · [[Mads Mikkelsen]] · [[Ezra Miller]] · [[Dan Fogler]] · [[Alison Sudol]] · [[Callum Turner]] · [[Jessica Williams]] · [[Katherine Waterston]] · [[Oliver Masucci]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Fantasy]] · [[Adventure]]
+

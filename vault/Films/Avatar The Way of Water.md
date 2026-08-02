@@ -78,3 +78,4 @@ Set more than a decade after the events of the first film, learn the story of th
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Sigourney Weaver]] · [[Stephen Lang]] · [[Kate Winslet]] · [[Cliff Curtis]] · [[Joel David Moore]] · [[CCH Pounder]] · [[Edie Falco]] · [[Jemaine Clement]]
 > **Studios** [[20th Century Studios]] · [[Lightstorm Entertainment]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

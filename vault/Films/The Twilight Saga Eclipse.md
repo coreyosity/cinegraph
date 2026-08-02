@@ -52,13 +52,11 @@ providers:
 - ITVX Premium
 - Hulu
 - YouTube TV
-- Amazon Prime Video
 - Disney Plus
 - Netflix
 - Crave
 - Hollywood Suite
 - Netflix Standard with Ads
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
 ---
@@ -73,3 +71,4 @@ Bella once again finds herself surrounded by danger as Seattle is ravaged by a s
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Bryce Dallas Howard]] · [[Dakota Fanning]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Elizabeth Reaser]] · [[Jackson Rathbone]] · [[Kellan Lutz]]
 > **Studios** [[Summit Entertainment]] · [[Temple Hill Entertainment]] · [[Imprint Entertainment]] · [[Maverick Films]] · [[Sunswept Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Drama]] · [[Romance]]
+

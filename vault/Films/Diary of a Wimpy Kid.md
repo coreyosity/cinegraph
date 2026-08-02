@@ -60,3 +60,4 @@ Greg Heffley is headed for big things, but first he has to survive the scariest,
 > **Cast** [[Zachary Gordon]] · [[Robert Capron]] · [[Steve Zahn]] · [[Devon Bostick]] · [[Rachael Harris]] · [[Chloë Grace Moretz]] · [[Laine MacNeil]] · [[Andrew McNee]] · [[Connor Fielding]] · [[Owen Fielding]]
 > **Studios** [[Dayday Films]] · [[Color Force]] · [[Dune Entertainment]] · [[Fox 2000 Pictures]]
 > **Genres** [[Comedy]] · [[Family]]
+

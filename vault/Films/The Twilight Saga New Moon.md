@@ -76,3 +76,4 @@ Forks, Washington resident Bella Swan is reeling from the departure of her vampi
 > **Cast** [[Kristen Stewart]] · [[Robert Pattinson]] · [[Taylor Lautner]] · [[Dakota Fanning]] · [[Michael Sheen]] · [[Ashley Greene]] · [[Rachelle Lefevre]] · [[Billy Burke]] · [[Peter Facinelli]] · [[Elizabeth Reaser]]
 > **Studios** [[Summit Entertainment]] · [[Temple Hill Entertainment]] · [[Maverick Films]] · [[Imprint Entertainment]] · [[Sunswept Entertainment]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Drama]] · [[Romance]]
+

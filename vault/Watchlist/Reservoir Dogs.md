@@ -59,7 +59,6 @@ providers:
 - fuboTV
 - Starz Amazon Channel
 - Crave Amazon Channel
-- Stan
 ---
 
 A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.
@@ -69,3 +68,4 @@ A botched robbery indicates a police informant, and the pressure mounts in the a
 > **Cast** [[Harvey Keitel]] · [[Tim Roth]] · [[Michael Madsen]] · [[Chris Penn]] · [[Steve Buscemi]] · [[Lawrence Tierney]] · [[Randy Brooks]] · [[Kirk Baltz]] · [[Edward Bunker]] · [[Quentin Tarantino]]
 > **Studios** [[Live Entertainment]] · [[Dog Eat Dog Productions]]
 > **Genres** [[Crime]] · [[Thriller]]
+

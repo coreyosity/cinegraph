@@ -83,3 +83,4 @@ Defense attorney Martin Vail takes on jobs for money and prestige rather than an
 > **Cast** [[Richard Gere]] · [[Laura Linney]] · [[Edward Norton]] · [[John Mahoney]] · [[Alfre Woodard]] · [[Frances McDormand]] · [[Terry O'Quinn]] · [[Andre Braugher]] · [[Steven Bauer]] · [[Joe Spano]]
 > **Studios** [[Paramount Pictures]] · [[Rysher Entertainment]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

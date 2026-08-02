@@ -63,3 +63,4 @@ Dispatched to a small Italian town to await further orders, assassin Jack embark
 > **Cast** [[George Clooney]] · [[Violante Placido]] · [[Thekla Reuten]] · [[Paolo Bonacelli]] · [[Johan Leysen]] · [[Irina Björklund]] · [[Lars Hjelm]] · [[Björn Granath]] · [[Giorgio Gobbi]] · [[Silvana Bosi]]
 > **Studios** [[Twins Financing]] · [[This is that]] · [[Focus Features]] · [[Greenlit Rights]] · [[Smokehouse Pictures]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

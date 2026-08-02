@@ -98,3 +98,4 @@ Vlogger Keith Gill sinks his life savings into GameStop stock and posts about it
 > **Cast** [[Paul Dano]] · [[Shailene Woodley]] · [[America Ferrera]] · [[Pete Davidson]] · [[Seth Rogen]] · [[Myha'la]] · [[Talia Ryder]] · [[Anthony Ramos]] · [[Nick Offerman]] · [[Sebastian Stan]]
 > **Studios** [[Black Bear Pictures]] · [[Ryder Picture Company]] · [[Winklevoss Pictures]]
 > **Genres** [[History]] · [[Comedy]] · [[Drama]]
+

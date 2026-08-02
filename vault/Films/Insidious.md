@@ -51,7 +51,9 @@ tags:
 - film
 letterboxd: https://boxd.it/H4k
 providers:
+- Peacock Premium
 - YouTube TV
+- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 - Stan
@@ -67,3 +69,4 @@ A family discovers that dark spirits have invaded their home after their son ine
 > **Cast** [[Patrick Wilson]] · [[Rose Byrne]] · [[Lin Shaye]] · [[Ty Simpkins]] · [[Barbara Hershey]] · [[Leigh Whannell]] · [[Angus Sampson]] · [[Andrew Astor]] · [[Corbett Tuck]] · [[Heather Tocquigny]]
 > **Studios** [[Alliance Films]] · [[IM Global]] · [[Haunted Movies]] · [[FilmDistrict]]
 > **Genres** [[Horror]] · [[Thriller]]
+

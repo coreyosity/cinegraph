@@ -65,3 +65,4 @@ Fashionable sorority queen Elle Woods has it all, but, she wants nothing more th
 > **Cast** [[Reese Witherspoon]] · [[Luke Wilson]] · [[Selma Blair]] · [[Matthew Davis]] · [[Victor Garber]] · [[Jennifer Coolidge]] · [[Holland Taylor]] · [[Ali Larter]] · [[Jessica Cauffiel]] · [[Alanna Ubach]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[Marc Platt Productions]]
 > **Genres** [[Comedy]]
+

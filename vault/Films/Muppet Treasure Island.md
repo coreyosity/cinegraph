@@ -56,3 +56,4 @@ Young Jim Hawkins and his two best friends embark on a voyage across the high se
 > **Cast** [[Tim Curry]] · [[Kevin Bishop]] · [[Billy Connolly]] · [[Jennifer Saunders]] · [[Dave Goelz]] · [[Steve Whitmire]] · [[Frank Oz]] · [[Kevin Clash]] · [[Bill Barretta]] · [[Jerry Nelson]]
 > **Studios** [[Walt Disney Pictures]] · [[Jim Henson Productions]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Family]]
+

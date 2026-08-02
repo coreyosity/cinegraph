@@ -72,3 +72,4 @@ The true story of the Mauritanian Mohamedou Ould Slahi, who was held at the U.S 
 > **Cast** [[Tahar Rahim]] · [[Jodie Foster]] · [[Benedict Cumberbatch]] · [[Shailene Woodley]] · [[Zachary Levi]] · [[Langley Kirkwood]] · [[Saamer Usmani]] · [[Corey Johnson]] · [[Matthew Marsh]] · [[David Fynn]]
 > **Studios** [[30WEST]] · [[Topic Studios]] · [[STXfilms]] · [[SunnyMarch]] · [[BBC Film]] · [[Shadowplay Features]]
 > **Genres** [[Drama]] · [[Thriller]]
+

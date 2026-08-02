@@ -74,3 +74,4 @@ An alien is left behind on Earth and saved by the 10-year-old Elliott who decide
 > **Cast** [[Henry Thomas]] · [[Drew Barrymore]] · [[Robert MacNaughton]] · [[Peter Coyote]] · [[Dee Wallace]] · [[Erika Eleniak]] · [[K.C. Martel]] · [[C. Thomas Howell]] · [[Sean Frye]] · [[David M. O'Dell]]
 > **Studios** [[Universal Pictures]] · [[Amblin Entertainment]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Family]]
+

@@ -48,9 +48,9 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/EzY
 providers:
-- Amazon Prime Video
 - fuboTV
-- Amazon Prime Video with Ads
+- Magnolia Selects Amazon Channel
+- Monsters and Nightmares Amazon Channel
 ---
 
 In 1983, a young mute woman with psychic abilities is held captive within the Arboria Institute, a secluded futuristic facility overseen by a sinister doctor with an unraveling mind and a growing obsession with her.
@@ -60,3 +60,4 @@ In 1983, a young mute woman with psychic abilities is held captive within the Ar
 > **Cast** [[Michael J Rogers]] · [[Eva Bourne]] · [[Scott Hylands]] · [[Marilyn Norry]] · [[Rondel Reynoldson]] · [[Ryley Zinger]] · [[Gerry South]] · [[Chris Gauthier]] · [[Geoffrey Conder]] · [[Ronald Reagan]]
 > **Studios** [[Chromewood Productions]]
 > **Genres** [[Science Fiction]] · [[Horror]] · [[Mystery]]
+

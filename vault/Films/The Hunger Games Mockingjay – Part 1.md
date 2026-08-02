@@ -76,3 +76,4 @@ After surviving the Quarter Quell, Katniss finds herself in the hidden stronghol
 > **Cast** [[Jennifer Lawrence]] · [[Josh Hutcherson]] · [[Liam Hemsworth]] · [[Woody Harrelson]] · [[Elizabeth Banks]] · [[Julianne Moore]] · [[Philip Seymour Hoffman]] · [[Jeffrey Wright]] · [[Stanley Tucci]] · [[Donald Sutherland]]
 > **Studios** [[Lionsgate]] · [[Color Force]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Thriller]]
+

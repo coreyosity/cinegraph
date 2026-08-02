@@ -70,3 +70,4 @@ Young teenager Sam Witwicky becomes involved in the ancient struggle between two
 > **Cast** [[Shia LaBeouf]] · [[Megan Fox]] · [[Mark Ryan]] · [[Peter Cullen]] · [[Hugo Weaving]] · [[Josh Duhamel]] · [[Tyrese Gibson]] · [[Charlie Adler]] · [[Rachael Taylor]] · [[Anthony Anderson]]
 > **Studios** [[DreamWorks Pictures]] · [[di Bonaventura Pictures]] · [[DeSantoMurphy Productions]] · [[Paramount Pictures]]
 > **Genres** [[Adventure]] · [[Science Fiction]] · [[Action]]
+

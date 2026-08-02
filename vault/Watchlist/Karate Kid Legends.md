@@ -63,3 +63,4 @@ After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Bei
 > **Cast** [[Jackie Chan]] · [[Ben Wang]] · [[Joshua Jackson]] · [[Sadie Stanley]] · [[Ming-Na Wen]] · [[Wyatt Oleff]] · [[Aramis Knight]] · [[Ralph Macchio]] · [[Olivia Yang Avis]] · [[Aaron Wang]]
 > **Studios** [[Columbia Pictures]] · [[Sunswept Entertainment]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Drama]]
+

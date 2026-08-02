@@ -54,7 +54,6 @@ providers:
 - YouTube TV
 - Crave
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -68,3 +67,4 @@ Using massive piloted robots to combat the alien threat, earth's survivors take 
 > **Cast** [[Charlie Hunnam]] · [[Rinko Kikuchi]] · [[Idris Elba]] · [[Max Martini]] · [[Clifton Collins Jr]] · [[Ron Perlman]] · [[Charlie Day]] · [[Burn Gorman]] · [[Robert Kazinsky]] · [[Robert Maillet]]
 > **Studios** [[Double Dare You]] · [[Legendary Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

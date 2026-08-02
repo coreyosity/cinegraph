@@ -96,3 +96,4 @@ Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a m
 > **Cast** [[Ben Schwartz]] · [[Jim Carrey]] · [[Keanu Reeves]] · [[Idris Elba]] · [[Colleen O'Shaughnessey]] · [[James Marsden]] · [[Tika Sumpter]] · [[Lee Majdoub]] · [[Krysten Ritter]] · [[Adam Pally]]
 > **Studios** [[Paramount Pictures]] · [[Original Film]] · [[Marza Animation Planet]] · [[SEGA]] · [[Blur Studio]] · [[SEGA of America]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Comedy]] · [[Family]]
+

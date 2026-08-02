@@ -73,3 +73,4 @@ A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinair
 > **Cast** [[Michael Caine]] · [[Dave Goelz]] · [[Steve Whitmire]] · [[Jerry Nelson]] · [[Frank Oz]] · [[David Rudman]] · [[Don Austen]] · [[Jessica Fox]] · [[Robert Tygner]] · [[Steven Mackintosh]]
 > **Studios** [[Walt Disney Pictures]] · [[Jim Henson Productions]]
 > **Genres** [[Music]] · [[Comedy]] · [[Family]] · [[Fantasy]] · [[Drama]]
+

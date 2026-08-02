@@ -54,3 +54,4 @@ Stan is a sailor whose girl gets kidnapped by a rough sea captain. Stan dresses 
 > **Cast** [[Stan Laurel]] · [[Oliver Hardy]] · [[Viola Richard]] · [[Anita Garvin]] · [[Malcolm Waite]] · [[Edgar Dearing]] · [[Bobby Dunn]] · [[Jerry Mandy]] · [[Anna May Wong]] · [[Sôjin Kamiyama]]
 > **Studios** [[Hal Roach Studios]]
 > **Genres** [[Comedy]]
+

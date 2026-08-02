@@ -82,3 +82,4 @@ Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to 
 > **Cast** [[Robert Downey Jr]] · [[Jude Law]] · [[Rachel McAdams]] · [[Mark Strong]] · [[Eddie Marsan]] · [[Robert Maillet]] · [[Geraldine James]] · [[Kelly Reilly]] · [[William Houston]] · [[Hans Matheson]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[Silver Pictures]] · [[Wigram Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Mystery]]
+

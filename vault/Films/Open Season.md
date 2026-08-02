@@ -51,7 +51,6 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Hulu
-- Sony Pictures Core Amazon Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -70,3 +69,4 @@ Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 d
 > **Cast** [[Martin Lawrence]] · [[Ashton Kutcher]] · [[Gary Sinise]] · [[Debra Messing]] · [[Billy Connolly]] · [[Georgia Engel]] · [[Jon Favreau]] · [[Jane Krakowski]] · [[Gordon Tootoosis]] · [[Patrick Warburton]]
 > **Studios** [[Sony Pictures Animation]] · [[Columbia Pictures]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Comedy]]
+

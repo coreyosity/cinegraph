@@ -63,3 +63,4 @@ In postwar Japan, Godzilla brings new devastation to an already scorched landsca
 > **Cast** [[Ryunosuke Kamiki]] · [[Minami Hamabe]] · [[Yuki Yamada]] · [[Munetaka Aoki]] · [[Hidetaka Yoshioka]] · [[Sakura Ando]] · [[Kuranosuke Sasaki]] · [[Sae Nagatani]] · [[Miou Tanaka]] · [[Yuya Endo]]
 > **Studios** [[TOHO]] · [[TOHO Studios]] · [[Robot Communications]]
 > **Genres** [[Science Fiction]] · [[Horror]] · [[Action]]
+

@@ -65,3 +65,4 @@ Hapless museum night watchman Larry Daley must help his living, breathing exhibi
 > **Cast** [[Ben Stiller]] · [[Amy Adams]] · [[Owen Wilson]] · [[Hank Azaria]] · [[Robin Williams]] · [[Christopher Guest]] · [[Alain Chabat]] · [[Steve Coogan]] · [[Ricky Gervais]] · [[Bill Hader]]
 > **Studios** [[21 Laps Entertainment]] · [[1492 Pictures]] · [[Dune Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]] · [[Comedy]] · [[Family]]
+

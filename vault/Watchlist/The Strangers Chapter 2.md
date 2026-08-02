@@ -40,10 +40,8 @@ letterboxd: https://boxd.it/Cdk4
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- Philo
 - Starz Apple TV Channel
 - YouTube TV
-- Starz
 - Starz Amazon Channel
 - Crave
 - Crave Amazon Channel
@@ -58,3 +56,4 @@ After learning that one of their victims, Maya, is still alive, The Strangers re
 > **Cast** [[Madelaine Petsch]] · [[Froy Gutierrez]] · [[Gabriel Basso]] · [[Ema Horvath]] · [[Brooke Lena Johnson]] · [[Richard Brake]] · [[Pedro Leandro]] · [[Rachel Shenton]] · [[Florian Clare]] · [[Janis Ahern]]
 > **Studios** [[Sherbone Media]] · [[Lipsync Productions]] · [[Stream Media]] · [[Fifth Element Productions]] · [[Lionsgate]]
 > **Genres** [[Horror]] · [[Thriller]]
+

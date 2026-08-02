@@ -62,16 +62,15 @@ tags:
 letterboxd: https://boxd.it/26EY
 providers:
 - Disney Plus
+- ITVX Premium
 - Lionsgate+ Amazon Channels
 - Hulu
+- fuboTV
 - Philo
-- 'AMC Plus Apple TV Channel '
 - AMC+ Amazon Channel
-- AMC+ Roku Premium Channel
-- AMC+
+- BBC America
 - Crave
 - Crave Amazon Channel
-- Stan
 ---
 
 In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.
@@ -84,3 +83,4 @@ In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and th
 > **Cast** [[Cary Elwes]] · [[Robin Wright]] · [[Mandy Patinkin]] · [[Chris Sarandon]] · [[Christopher Guest]] · [[Wallace Shawn]] · [[André Roussimoff]] · [[Fred Savage]] · [[Peter Falk]] · [[Peter Cook]]
 > **Studios** [[The Princess Bride]] · [[Buttercup Films]] · [[Act III Productions]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Romance]] · [[Family]] · [[Comedy]]
+

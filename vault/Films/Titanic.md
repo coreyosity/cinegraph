@@ -62,12 +62,10 @@ providers:
 - Hulu
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Peacock Premium
 - Starz Apple TV Channel
 - Paramount+ Amazon Channel
 - YouTube TV
 - Paramount+ Roku Premium Channel
-- Peacock Premium Plus
 - Netflix
 - Paramount Plus
 - Netflix Standard with Ads
@@ -84,3 +82,4 @@ providers:
 > **Cast** [[Leonardo DiCaprio]] · [[Kate Winslet]] · [[Billy Zane]] · [[Kathy Bates]] · [[Frances Fisher]] · [[Gloria Stuart]] · [[Bill Paxton]] · [[Bernard Hill]] · [[David Warner]] · [[Victor Garber]]
 > **Studios** [[Paramount Pictures]] · [[20th Century Fox]] · [[Lightstorm Entertainment]]
 > **Genres** [[Drama]] · [[Romance]]
+

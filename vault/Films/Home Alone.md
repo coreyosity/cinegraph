@@ -70,3 +70,4 @@ Eight-year-old Kevin McCallister makes the most of the situation after his famil
 > **Cast** [[Macaulay Culkin]] · [[Joe Pesci]] · [[Daniel Stern]] · [[John Heard]] · [[Roberts Blossom]] · [[Catherine O'Hara]] · [[Angela Goethals]] · [[Devin Ratray]] · [[Gerry Bamman]] · [[Hillary Wolf]]
 > **Studios** [[Hughes Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Comedy]] · [[Family]]
+

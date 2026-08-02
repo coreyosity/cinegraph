@@ -48,14 +48,12 @@ tags:
 - film
 letterboxd: https://boxd.it/1Vs8
 providers:
-- MGM Plus Amazon Channel
 - fuboTV
 - Paramount Plus Premium
 - Paramount+ Amazon Channel
 - YouTube TV
 - Paramount+ Roku Premium Channel
 - Crave
-- MGM Amazon Channel
 - Crave Amazon Channel
 log_tags:
 - myself
@@ -74,3 +72,4 @@ Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest m
 > **Cast** [[Daniel Craig]] · [[Olga Kurylenko]] · [[Mathieu Amalric]] · [[Judi Dench]] · [[Giancarlo Giannini]] · [[Gemma Arterton]] · [[Jeffrey Wright]] · [[David Harbour]] · [[Jesper Christensen]] · [[Anatole Taubman]]
 > **Studios** [[EON Productions]] · [[Metro-Goldwyn-Mayer]] · [[Columbia Pictures]] · [[B22]]
 > **Genres** [[Adventure]] · [[Action]] · [[Thriller]]
+

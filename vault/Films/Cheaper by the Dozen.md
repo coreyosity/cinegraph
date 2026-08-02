@@ -63,3 +63,4 @@ The Baker brood moves to Chicago after patriarch Tom gets a job coaching footbal
 > **Cast** [[Steve Martin]] · [[Bonnie Hunt]] · [[Hilary Duff]] · [[Tom Welling]] · [[Piper Perabo]] · [[Kevin G. Schmidt]] · [[Alyson Stoner]] · [[Jacob Smith]] · [[Liliana Mumy]] · [[Morgan York]]
 > **Studios** [[20th Century Fox]] · [[Robert Simonds Productions]]
 > **Genres** [[Comedy]] · [[Family]] · [[Drama]]
+

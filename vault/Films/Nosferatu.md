@@ -91,3 +91,4 @@ A gothic tale of obsession between a haunted young woman and the terrifying vamp
 > **Cast** [[Lily-Rose Depp]] · [[Nicholas Hoult]] · [[Bill Skarsgård]] · [[Aaron Taylor-Johnson]] · [[Willem Dafoe]] · [[Emma Corrin]] · [[Ralph Ineson]] · [[Simon McBurney]] · [[Adéla Hesová]] · [[Milena Konstantinova]]
 > **Studios** [[Focus Features]] · [[Studio 8]] · [[Maiden Voyage Pictures]] · [[Birch Hill Road Entertainment]]
 > **Genres** [[Horror]] · [[Fantasy]]
+

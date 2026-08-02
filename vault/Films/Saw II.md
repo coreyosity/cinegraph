@@ -43,6 +43,7 @@ letterboxd: https://boxd.it/2aRs
 providers:
 - Lionsgate+ Amazon Channels
 - YouTube TV
+- MovieSphere+ Amazon Channel
 - Netflix
 - Netflix Standard with Ads
 - Stan
@@ -58,3 +59,4 @@ The chilling and relentless Jigsaw killer returns to terrorize the city once aga
 > **Cast** [[Tobin Bell]] · [[Donnie Wahlberg]] · [[Shawnee Smith]] · [[Erik Knudsen]] · [[Franky G]] · [[Glenn Plummer]] · [[Emmanuelle Vaugier]] · [[Beverley Mitchell]] · [[Noam Jenkins]] · [[Timothy Burd]]
 > **Studios** [[Twisted Pictures]]
 > **Genres** [[Horror]]
+

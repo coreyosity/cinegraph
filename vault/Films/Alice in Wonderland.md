@@ -66,3 +66,4 @@ Alice, now 19 years old, returns to the whimsical world she first entered as a c
 > **Cast** [[Mia Wasikowska]] · [[Johnny Depp]] · [[Anne Hathaway]] · [[Helena Bonham Carter]] · [[Crispin Glover]] · [[Matt Lucas]] · [[Alan Rickman]] · [[Stephen Fry]] · [[Michael Sheen]] · [[Timothy Spall]]
 > **Studios** [[Walt Disney Pictures]] · [[Roth Films]] · [[Team Todd]] · [[Tim Burton Productions]] · [[The Zanuck Company]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Adventure]]
+

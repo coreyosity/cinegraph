@@ -56,13 +56,11 @@ tags:
 - film
 letterboxd: https://boxd.it/1alk
 providers:
-- MGM Plus Amazon Channel
 - fuboTV
 - Philo
 - MGM Plus Roku Premium Channel
 - MGM Plus
 - Crave
-- MGM Amazon Channel
 - Crave Amazon Channel
 log_tags:
 - myself
@@ -81,3 +79,4 @@ Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a
 > **Cast** [[Daniel Craig]] · [[Eva Green]] · [[Mads Mikkelsen]] · [[Judi Dench]] · [[Jeffrey Wright]] · [[Giancarlo Giannini]] · [[Caterina Murino]] · [[Simon Abkarian]] · [[Isaach de Bankolé]] · [[Jesper Christensen]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[Columbia Pictures]] · [[EON Productions]] · [[Casino Royale Productions]]
 > **Genres** [[Adventure]] · [[Action]] · [[Thriller]]
+

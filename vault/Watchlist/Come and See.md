@@ -60,3 +60,4 @@ The invasion of a village in Belarus by German forces sends young Florya into th
 > **Cast** [[Aleksei Kravchenko]] · [[Olga Mironova]] · [[Liubomiras Laucevičius]] · [[Vladas Bagdonas]] · [[Jüri Lumiste]] · [[Viktors Lorencs]] · [[Kazimir Rabetsky]] · [[Yevgeni Tilicheyev]] · [[Aleksandr Berda]] · [[G. Velts]]
 > **Studios** [[Belarusfilm]] · [[Mosfilm]]
 > **Genres** [[Drama]] · [[War]] · [[Horror]] · [[History]]
+

@@ -76,3 +76,4 @@ A look at the life of the astronaut, Neil Armstrong, and the legendary space mis
 > **Cast** [[Ryan Gosling]] · [[Claire Foy]] · [[Jason Clarke]] · [[Kyle Chandler]] · [[Corey Stoll]] · [[Patrick Fugit]] · [[Christopher Abbott]] · [[Ciarán Hinds]] · [[Olivia Hamilton]] · [[Pablo Schreiber]]
 > **Studios** [[Universal Pictures]] · [[DreamWorks Pictures]] · [[Temple Hill Entertainment]] · [[Perfect World Pictures]]
 > **Genres** [[History]] · [[Drama]]
+

@@ -75,3 +75,4 @@ Intrepid young reporter, Tintin, and his loyal dog, Snowy, are thrust into a wor
 > **Cast** [[Jamie Bell]] · [[Andy Serkis]] · [[Daniel Craig]] · [[Nick Frost]] · [[Simon Pegg]] · [[Daniel Mays]] · [[Gad Elmaleh]] · [[Toby Jones]] · [[Enn Reitel]] · [[Mackenzie Crook]]
 > **Studios** [[Paramount Pictures]] · [[Columbia Pictures]] · [[Hemisphere Media Capital]] · [[Nickelodeon Movies]] · [[Amblin Entertainment]] · [[WingNut Films]] · [[The KennedyMarshall Company]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Mystery]]
+

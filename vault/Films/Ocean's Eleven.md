@@ -62,11 +62,11 @@ letterboxd: https://boxd.it/2aZm
 providers:
 - HBO Max Amazon Channel
 - HBO Max
-- Peacock Premium
 - Starz Apple TV Channel
 - YouTube TV
-- Peacock Premium Plus
 - Amazon Prime Video
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Starz Amazon Channel
 - Amazon Prime Video with Ads
 - Stan
@@ -87,3 +87,4 @@ Less than 24 hours into his parole, charismatic thief Danny Ocean is already rol
 > **Cast** [[George Clooney]] · [[Brad Pitt]] · [[Andy Garcia]] · [[Matt Damon]] · [[Julia Roberts]] · [[Casey Affleck]] · [[Scott Caan]] · [[Don Cheadle]] · [[Elliott Gould]] · [[Eddie Jemison]]
 > **Studios** [[Warner Bros. Pictures]] · [[Village Roadshow Pictures]] · [[NPV Entertainment]] · [[Jerry Weintraub Productions]] · [[Section Eight]]
 > **Genres** [[Thriller]] · [[Crime]]
+

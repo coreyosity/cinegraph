@@ -54,7 +54,9 @@ providers:
 - Disney Plus
 - HBO Max Amazon Channel
 - YouTube TV
+- Cinemax Amazon Channel
 - HBO Max
+- Cinemax Apple TV Channel
 ---
 
 After seven months have passed without a culprit in her daughter's murder case, Mildred Hayes makes a bold move, painting three signs leading into her town with a controversial message directed at Bill Willoughby, the town's revered chief of police. When his second-in-command Officer Jason Dixon, an immature mother's boy with a penchant for violence, gets involved, the battle between Mildred and Ebbing's law enforcement is only exacerbated.
@@ -67,3 +69,4 @@ After seven months have passed without a culprit in her daughter's murder case, 
 > **Cast** [[Frances McDormand]] · [[Woody Harrelson]] · [[Sam Rockwell]] · [[Abbie Cornish]] · [[Lucas Hedges]] · [[Željko Ivanek]] · [[Caleb Landry Jones]] · [[Clarke Peters]] · [[Samara Weaving]] · [[John Hawkes]]
 > **Studios** [[Blueprint Pictures]] · [[Fox Searchlight Pictures]] · [[Film4 Productions]] · [[TSG Entertainment]]
 > **Genres** [[Crime]] · [[Drama]]
+

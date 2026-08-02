@@ -66,3 +66,4 @@ David Rice is a man who knows no boundaries, a Jumper, born with the uncanny abi
 > **Cast** [[Hayden Christensen]] · [[Jamie Bell]] · [[Samuel L. Jackson]] · [[Rachel Bilson]] · [[Michael Rooker]] · [[Diane Lane]] · [[AnnaSophia Robb]] · [[Max Thieriot]] · [[Jesse James]] · [[Tom Hulce]]
 > **Studios** [[Dune Entertainment]] · [[Hypnotic]] · [[New Regency Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

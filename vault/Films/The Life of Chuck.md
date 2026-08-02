@@ -62,8 +62,6 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Hulu
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - HBO Max
 - HBO Max Amazon Channel
 log_tags:
@@ -85,3 +83,4 @@ In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experienc
 > **Cast** [[Tom Hiddleston]] · [[Benjamin Pajak]] · [[Nick Offerman]] · [[Chiwetel Ejiofor]] · [[Karen Gillan]] · [[Mia Sara]] · [[Mark Hamill]] · [[Annalise Basso]] · [[Jacob Tremblay]] · [[Cody Flanagan]]
 > **Studios** [[Intrepid Pictures]] · [[Red Room Pictures]] · [[QWGmire]] · [[FilmNation Entertainment]]
 > **Genres** [[Fantasy]] · [[Drama]]
+

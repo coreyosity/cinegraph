@@ -47,6 +47,8 @@ providers:
 - Sky Go
 - Now TV Cinema
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Netflix
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -64,3 +66,4 @@ He's Ace Ventura: Pet Detective. The Ace is on the case to find the Miami Dolphi
 > **Cast** [[Jim Carrey]] · [[Courteney Cox]] · [[Sean Young]] · [[Tone Loc]] · [[Dan Marino]] · [[Noble Willingham]] · [[Troy Evans]] · [[Raynor Scheine]] · [[Udo Kier]] · [[Frank Adonis]]
 > **Studios** [[Morgan Creek Entertainment]]
 > **Genres** [[Comedy]] · [[Crime]] · [[Mystery]]
+

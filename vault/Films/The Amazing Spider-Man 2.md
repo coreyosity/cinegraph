@@ -54,6 +54,7 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -71,3 +72,4 @@ For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man an
 > **Cast** [[Andrew Garfield]] · [[Emma Stone]] · [[Jamie Foxx]] · [[Dane DeHaan]] · [[Colm Feore]] · [[Felicity Jones]] · [[Paul Giamatti]] · [[Sally Field]] · [[Embeth Davidtz]] · [[Campbell Scott]]
 > **Studios** [[Columbia Pictures]] · [[Matt Tolmach Productions]] · [[Arad Productions]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

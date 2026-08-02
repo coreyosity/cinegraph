@@ -96,3 +96,4 @@ In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to 
 > **Cast** [[Harrison Ford]] · [[Sean Connery]] · [[Denholm Elliott]] · [[Alison Doody]] · [[John Rhys-Davies]] · [[Julian Glover]] · [[River Phoenix]] · [[Michael Byrne]] · [[Kevork Malikyan]] · [[Robert Eddison]]
 > **Studios** [[Paramount Pictures]] · [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]]
+

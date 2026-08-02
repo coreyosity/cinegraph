@@ -52,8 +52,6 @@ letterboxd: https://boxd.it/1ZXa
 providers:
 - Disney Plus
 - Crave
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -67,3 +65,4 @@ Bryan Mills, a former government operative, is trying to reconnect with his teen
 > **Cast** [[Liam Neeson]] · [[Maggie Grace]] · [[Famke Janssen]] · [[Olivier Rabourdin]] · [[Katie Cassidy]] · [[Nicolas Giraud]] · [[Leland Orser]] · [[Jon Gries]] · [[Holly Valance]] · [[David Warshofsky]]
 > **Studios** [[EuropaCorp]] · [[M6 Films]] · [[Grive Productions]] · [[Seaside Film Taken]] · [[All Pictures Media]]
 > **Genres** [[Action]] · [[Thriller]]
+

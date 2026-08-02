@@ -63,3 +63,4 @@ When a cure is found to treat mutations, lines are drawn amongst the X-Men led b
 > **Cast** [[Hugh Jackman]] · [[Halle Berry]] · [[Ian McKellen]] · [[Patrick Stewart]] · [[Famke Janssen]] · [[Anna Paquin]] · [[Kelsey Grammer]] · [[James Marsden]] · [[Rebecca Romijn]] · [[Shawn Ashmore]]
 > **Studios** [[The Donners' Company]] · [[20th Century Fox]] · [[Marvel Entertainment]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

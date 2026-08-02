@@ -46,3 +46,4 @@ In the year 2020, when Covid-19 is rapidly spreading around the world, chaos ens
 > **Cast** [[Minami Hamabe]] · [[Eiji Akaso]] · [[GACKT]] · [[Masahiro Takashima]] · [[Noriko Eguchi]] · [[Tetsuhiro Ikeda]] · [[Shinya Kote]] · [[Mijika Nagai]] · [[Arisa Mizuki]] · [[Naoto Takenaka]]
 > **Studios** [[TOHO Studios]] · [[TOHO]] · [[Sunmark Publishing]] · [[Tristone Entertainment]] · [[Lawson]] · [[Akita Shoten]] · [[Quaras]] · [[Nippon Broadcasting System]]
 > **Genres** [[Drama]] · [[Fantasy]]
+

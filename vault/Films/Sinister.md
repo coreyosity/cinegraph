@@ -62,7 +62,6 @@ tags:
 letterboxd: https://boxd.it/2TnW
 providers:
 - Lionsgate+ Amazon Channels
-- fuboTV
 - YouTube TV
 - MovieSphere+ Amazon Channel
 - Crave
@@ -83,3 +82,4 @@ True-crime writer Ellison Oswalt is in a slump; he hasn't had a best seller in m
 > **Cast** [[Ethan Hawke]] · [[Juliet Rylance]] · [[Vincent D'Onofrio]] · [[James Ransone]] · [[Fred Thompson]] · [[Clare Foley]] · [[Michael Hall D'Addario]] · [[Victoria Leigh]] · [[Blake Mizrahi]] · [[Cameron Ocasio]]
 > **Studios** [[Automatik Entertainment]] · [[Blumhouse Productions]] · [[Alliance Films]] · [[IM Global]] · [[Summit Entertainment]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Mystery]]
+

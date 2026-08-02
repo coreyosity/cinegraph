@@ -76,3 +76,4 @@ A timid magazine photo manager who lives life vicariously through daydreams emba
 > **Cast** [[Ben Stiller]] · [[Kristen Wiig]] · [[Sean Penn]] · [[Shirley MacLaine]] · [[Adam Scott]] · [[Kathryn Hahn]] · [[Patton Oswalt]] · [[Adrian Martinez]] · [[Ólafur Darri Ólafsson]] · [[Gunnar Helgason]]
 > **Studios** [[Samuel Goldwyn Films]] · [[Red Hour]] · [[New Line Cinema]] · [[Big Screen Productions]] · [[Down Productions]] · [[Ingenious Media]] · [[20th Century Fox]] · [[TSG Entertainment]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Drama]] · [[Fantasy]]
+

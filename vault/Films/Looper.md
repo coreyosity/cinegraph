@@ -53,12 +53,9 @@ tags:
 letterboxd: https://boxd.it/ham
 providers:
 - Lionsgate+ Amazon Channels
-- Philo
 - Starz Apple TV Channel
-- Starz Roku Premium Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
 - Amazon Prime Video
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
@@ -76,3 +73,4 @@ In the year 2044, time travel has not yet been invented but in 30 years it will 
 > **Cast** [[Joseph Gordon-Levitt]] · [[Bruce Willis]] · [[Emily Blunt]] · [[Paul Dano]] · [[Noah Segan]] · [[Piper Perabo]] · [[Jeff Daniels]] · [[Pierce Gagnon]] · [[Xu Qing]] · [[Tracie Thoms]]
 > **Studios** [[Endgame Entertainment]] · [[DMG Entertainment]] · [[Ram Bergman Productions]]
 > **Genres** [[Action]] · [[Thriller]] · [[Science Fiction]]
+

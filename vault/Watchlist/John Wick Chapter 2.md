@@ -52,10 +52,11 @@ letterboxd: https://boxd.it/ayGu
 providers:
 - HBO Max Amazon Channel
 - HBO Max
+- Philo
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
 - YouTube TV
-- Starz Amazon Channel
 - Crave Amazon Channel
-- Lionsgate+ Amazon Channels
 - Stan
 ---
 
@@ -66,3 +67,4 @@ John Wick is forced out of retirement by a former associate looking to seize con
 > **Cast** [[Keanu Reeves]] · [[Common]] · [[Laurence Fishburne]] · [[Riccardo Scamarcio]] · [[Ruby Rose]] · [[Lance Reddick]] · [[Peter Stormare]] · [[Bridget Moynahan]] · [[Franco Nero]] · [[John Leguizamo]]
 > **Studios** [[Thunder Road]] · [[87Eleven]] · [[Summit Entertainment]]
 > **Genres** [[Action]] · [[Thriller]] · [[Crime]]
+

@@ -53,8 +53,6 @@ letterboxd: https://boxd.it/2a6G
 providers:
 - Netflix
 - Netflix Standard with Ads
-- Philo
-- AMC+ Amazon Channel
 - YouTube TV
 - Hollywood Suite Amazon Channel
 - Foxtel Now
@@ -70,3 +68,4 @@ The true story of technical troubles that scuttle the Apollo 13 lunar mission in
 > **Cast** [[Tom Hanks]] · [[Bill Paxton]] · [[Kevin Bacon]] · [[Gary Sinise]] · [[Ed Harris]] · [[Kathleen Quinlan]] · [[David Andrews]] · [[Xander Berkeley]] · [[Christian Clemenson]] · [[Brett Cullen]]
 > **Studios** [[Imagine Entertainment]] · [[Universal Pictures]]
 > **Genres** [[Drama]] · [[History]]
+

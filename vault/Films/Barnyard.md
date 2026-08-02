@@ -65,3 +65,4 @@ Otis is a mischievous, carefree Holstein cow who lives on a farm where, unbeknow
 > **Cast** [[Kevin James]] · [[Courteney Cox]] · [[Sam Elliott]] · [[Danny Glover]] · [[Wanda Sykes]] · [[Andie MacDowell]] · [[David Koechner]] · [[Jeffrey Garcia]] · [[Cam Clarke]] · [[Rob Paulsen]]
 > **Studios** [[O Entertainment]] · [[Nickelodeon Movies]] · [[Paramount Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

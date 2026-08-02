@@ -59,3 +59,4 @@ Everyone has their own Chimera, something they try to achieve but never manage t
 > **Cast** [[Josh O'Connor]] · [[Carol Duarte]] · [[Alba Rohrwacher]] · [[Isabella Rossellini]] · [[Vincenzo Nemolato]] · [[Lou Roy-Lecollinet]] · [[Giuliano Mantovani]] · [[Gian Piero Capretto]] · [[Melchiorre Pala]] · [[Ramona Fiorini]]
 > **Studios** [[Tempesta]] · [[RAI Cinema]] · [[Ad Vitam Production]] · [[Amka Films]] · [[ARTE France Cinéma]] · [[RSI]] · [[TRT 12 PUNTO]]
 > **Genres** [[Drama]] · [[Fantasy]] · [[Comedy]]
+

@@ -41,9 +41,8 @@ tags:
 - film
 letterboxd: https://boxd.it/aZiu
 providers:
-- Sky Go
-- Now TV Cinema
-- Paramount+ Amazon Channel
+- fuboTV
+- Paramount+ Roku Premium Channel
 log_tags:
 - myself
 - torrent
@@ -61,3 +60,4 @@ After a catastrophic car crash, a young woman wakes up in a survivalist's underg
 > **Cast** [[John Goodman]] · [[Mary Elizabeth Winstead]] · [[John Gallagher Jr]] · [[Douglas M. Griffin]] · [[Suzanne Cryer]] · [[Bradley Cooper]] · [[Sumalee Montano]] · [[Frank Mottek]]
 > **Studios** [[Bad Robot]]
 > **Genres** [[Thriller]] · [[Science Fiction]] · [[Drama]] · [[Horror]]
+

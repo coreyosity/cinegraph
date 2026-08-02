@@ -48,3 +48,4 @@ Farid, who works abroad, locks himself on the last day of his stay in Beirut in 
 > **Cast** [[Fadi Abi Samra]]
 > **Studios** [[IESAV]]
 > **Genres** [[Drama]]
+

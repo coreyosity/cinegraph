@@ -56,3 +56,4 @@ When Martians suddenly abduct his mom, mischievous Milo rushes to the rescue and
 > **Cast** [[Seth Green]] · [[Seth Robert Dusky]] · [[Joan Cusack]] · [[Dan Fogler]] · [[Breckin Meyer]] · [[Elisabeth Harnois]] · [[Tom Everett Scott]] · [[Mindy Sterling]] · [[Julene Renee]] · [[Raymond Ochoa]]
 > **Studios** [[Walt Disney Pictures]] · [[ImageMovers Digital]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]]
+

@@ -52,6 +52,8 @@ providers:
 - Disney Plus
 - Hulu
 - fuboTV
+- FXNow
+- Freeform
 ---
 
 Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.
@@ -64,3 +66,4 @@ Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spou
 > **Cast** [[Robin Williams]] · [[Sally Field]] · [[Lisa Jakub]] · [[Matthew Lawrence]] · [[Mara Wilson]] · [[Pierce Brosnan]] · [[Robert Prosky]] · [[Anne Haney]] · [[Harvey Fierstein]] · [[Scott Capurro]]
 > **Studios** [[20th Century Fox]] · [[Blue Wolf Productions]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Family]]
+

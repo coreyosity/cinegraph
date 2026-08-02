@@ -45,8 +45,6 @@ letterboxd: https://boxd.it/38EI
 providers:
 - Netflix
 - Netflix Standard with Ads
-- Peacock Premium
-- Peacock Premium Plus
 - Midnight Pulp Amazon Channel
 - Starz Amazon Channel
 - Stan
@@ -62,3 +60,4 @@ On a quest to find out what happened to his missing brother, a scientist, his ne
 > **Cast** [[Brendan Fraser]] · [[Josh Hutcherson]] · [[Anita Briem]] · [[Seth Meyers]] · [[Jean Michel Paré]] · [[Jane Wheeler]] · [[Frank Fontaine]] · [[Giancarlo Caltabiano]] · [[Kaniehtiio Horn]] · [[Garth Gilker]]
 > **Studios** [[New Line Cinema]] · [[Walden Media]] · [[Journey Films]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

@@ -49,3 +49,4 @@ The world is shocked by the appearance of three talking chimpanzees, who arrived
 > **Cast** [[Roddy McDowall]] · [[Kim Hunter]] · [[Bradford Dillman]] · [[Natalie Trundy]] · [[Eric Braeden]] · [[William Windom]] · [[Sal Mineo]] · [[Albert Salmi]] · [[Jason Evers]] · [[John Randolph]]
 > **Studios** [[APJAC Productions]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

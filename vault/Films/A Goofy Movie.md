@@ -63,3 +63,4 @@ Goofy’s teenage son Max is desperate to impress his crush and fit in at school
 > **Cast** [[Bill Farmer]] · [[Jason Marsden]] · [[Aaron Lohr]] · [[Jim Cummings]] · [[Rob Paulsen]] · [[Kellie Martin]] · [[Jenna Von Oÿ]] · [[Kevin Lima]] · [[Joey Lawrence]] · [[Julie Brown]]
 > **Studios** [[Walt Disney Pictures]] · [[Walt Disney Animation]] · [[Phoenix Animation Studios]] · [[Pixibox]] · [[Walt Disney Animation]] · [[Walt Disney Feature Animation]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Romance]] · [[Animation]] · [[Family]]
+

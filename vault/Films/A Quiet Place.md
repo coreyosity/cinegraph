@@ -63,6 +63,7 @@ providers:
 - fuboTV
 - Paramount Plus Essential
 - YouTube TV
+- FXNow
 - Paramount+ Roku Premium Channel
 - BINGE
 - Foxtel Now
@@ -79,3 +80,4 @@ A family is forced to live in silence while hiding from creatures that hunt by s
 > **Cast** [[Emily Blunt]] · [[John Krasinski]] · [[Millicent Simmonds]] · [[Noah Jupe]] · [[Cade Woodward]] · [[Leon Russom]] · [[Rhoda Pell]]
 > **Studios** [[Paramount Pictures]] · [[Platinum Dunes]] · [[Sunday Night Productions]]
 > **Genres** [[Horror]] · [[Drama]] · [[Science Fiction]]
+

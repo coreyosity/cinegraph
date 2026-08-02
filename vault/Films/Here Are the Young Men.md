@@ -59,3 +59,4 @@ Dublin teenagers Matthew, nihilistic Rez, and the deranged Kearney, leave school
 > **Cast** [[Dean-Charles Chapman]] · [[Anya Taylor-Joy]] · [[Finn Cole]] · [[Ferdia Walsh-Peelo]] · [[Conleth Hill]] · [[Emmett J. Scanlan]] · [[Lola Petticrew]] · [[Carl Shaaban]] · [[Chris Newman]] · [[Susan Lynch]]
 > **Studios** [[Fís ÉireannScreen Ireland]] · [[Foton Pictures]] · [[Glanzrock Productions]] · [[Union Entertainment Group]] · [[Funny Leopard Films]] · [[Hail Mary Pictures]] · [[Signature Entertainment]] · [[West Egg Studios]]
 > **Genres** [[Drama]]
+

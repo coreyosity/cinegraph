@@ -67,9 +67,7 @@ providers:
 - Paramount Plus Premium
 - Paramount+ Amazon Channel
 - Paramount+ Roku Premium Channel
-- Amazon Prime Video
 - Stan
-- Amazon Prime Video with Ads
 rewatch: true
 log_tags:
 - myself
@@ -88,3 +86,4 @@ Taking place after alien crafts land around the world, an expert linguist is rec
 > **Cast** [[Amy Adams]] · [[Jeremy Renner]] · [[Forest Whitaker]] · [[Michael Stuhlbarg]] · [[Mark O'Brien]] · [[Tzi Ma]] · [[Abigail Pniowsky]] · [[Julia Scarlett Dan]] · [[Jadyn Malone]] · [[Frank Schorpion]]
 > **Studios** [[FilmNation Entertainment]] · [[Lava Bear Films]] · [[21 Laps Entertainment]]
 > **Genres** [[Drama]] · [[Science Fiction]] · [[Mystery]]
+

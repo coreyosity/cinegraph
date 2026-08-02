@@ -72,3 +72,4 @@ Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because s
 > **Cast** [[Miyu Irino]] · [[Saori Hayami]] · [[Aoi Yuuki]] · [[Kensho Ono]] · [[Yuki Kaneko]] · [[Yui Ishikawa]] · [[Megumi Han]] · [[Toshiyuki Toyonaga]] · [[Mayu Matsuoka]] · [[Sachiko Kojima]]
 > **Studios** [[Kyoto Animation]] · [[ABC Animation]] · [[Kodansha]] · [[Pony Canyon]] · [[Quaras]] · [[Shochiku]]
 > **Genres** [[Animation]] · [[Drama]] · [[Romance]]
+

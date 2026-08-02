@@ -58,3 +58,4 @@ When five ragtag freshman first meet in detention, it seems they have nothing in
 > **Cast** [[Bridgit Mendler]] · [[Adam Hicks]] · [[Hayley Kiyoko]] · [[Naomi Scott]] · [[Blake Michael]] · [[Christopher McDonald]] · [[Nick Roux]] · [[Tisha Campbell]] · [[Chris Brochu]] · [[Bob Jesser]]
 > **Studios** [[Martin Chase Productions]] · [[GWave Productions]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Music]] · [[TV Movie]]
+

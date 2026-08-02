@@ -69,3 +69,4 @@ The story of American showman P.T. Barnum, founder of the circus that became the
 > **Cast** [[Hugh Jackman]] · [[Zac Efron]] · [[Michelle Williams]] · [[Rebecca Ferguson]] · [[Zendaya]] · [[Keala Settle]] · [[Yahya Abdul-Mateen II]] · [[Natasha Liu Bordizzo]] · [[Paul Sparks]] · [[Sam Humphrey]]
 > **Studios** [[Chernin Entertainment]] · [[20th Century Fox]] · [[TSG Entertainment]]
 > **Genres** [[Drama]]
+

@@ -44,3 +44,4 @@ Takumi and his daughter Hana live in Mizubiki Village, close to Tokyo. One day, 
 > **Cast** [[Hitoshi Omika]] · [[Ryo Nishikawa]] · [[Ryuji Kosaka]] · [[Ayaka Shibutani]] · [[Hazuki Kikuchi]] · [[Hiroyuki Miura]] · [[Yoshinori Miyata]] · [[Yûto Torii]] · [[Takako Yamamura]] · [[Takuma Nagao]]
 > **Studios** [[Neopa]] · [[Fictive]]
 > **Genres** [[Drama]]
+

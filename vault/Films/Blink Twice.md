@@ -63,8 +63,6 @@ tags:
 - film
 letterboxd: https://boxd.it/vIOg
 providers:
-- Peacock Premium
-- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 log_tags:
@@ -84,3 +82,4 @@ When tech billionaire Slater King meets cocktail waitress Frida at his fundraisi
 > **Cast** [[Naomi Ackie]] · [[Channing Tatum]] · [[Alia Shawkat]] · [[Christian Slater]] · [[Simon Rex]] · [[Adria Arjona]] · [[Haley Joel Osment]] · [[Liz Caribel Sierra]] · [[Levon Hawke]] · [[Trew Mullen]]
 > **Studios** [[Free Association]] · [[This Is Important]] · [[Bold Choices]] · [[Amazon MGM Studios]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

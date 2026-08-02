@@ -77,3 +77,4 @@ When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Brendan Gleeson]] · [[Michael Gambon]] · [[Robert Pattinson]] · [[Ralph Fiennes]] · [[Robbie Coltrane]] · [[Alan Rickman]] · [[David Tennant]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]] · [[Patalex IV Productions]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

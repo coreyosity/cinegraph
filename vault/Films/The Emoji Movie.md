@@ -39,9 +39,7 @@ tags:
 - film
 letterboxd: https://boxd.it/d9x4
 providers:
-- Amazon Prime Video
 - Hulu
-- Amazon Prime Video with Ads
 - Crave
 - Crave Amazon Channel
 - Netflix
@@ -60,3 +58,4 @@ Gene, a multi-expressional emoji, sets out on a journey to become a normal emoji
 > **Cast** [[T.J. Miller]] · [[James Corden]] · [[Anna Faris]] · [[Maya Rudolph]] · [[Steven Wright]] · [[Jennifer Coolidge]] · [[Jake T. Austin]] · [[Christina Aguilera]] · [[Sofía Vergara]] · [[Patrick Stewart]]
 > **Studios** [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[LStar Capital]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]]
+

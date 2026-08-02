@@ -61,3 +61,4 @@ Britt Reid, the heir to the largest newspaper fortune in Los Angeles, is a spoil
 > **Cast** [[Seth Rogen]] · [[Jay Chou]] · [[Cameron Diaz]] · [[Tom Wilkinson]] · [[Christoph Waltz]] · [[Edward James Olmos]] · [[David Harbour]] · [[Chad L. Coleman]] · [[Jamie Harris]] · [[Edward Furlong]]
 > **Studios** [[Original Film]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Crime]] · [[Comedy]]
+

@@ -61,3 +61,4 @@ Ten-year-old Arthur, in a bid to save his grandfather's house from being demolis
 > **Cast** [[Freddie Highmore]] · [[Madonna]] · [[Mia Farrow]] · [[Adam LeFevre]] · [[Doug Rand]] · [[Penny Balfour]] · [[Ron Crawford]] · [[David Bowie]] · [[David Suchet]] · [[Robert De Niro]]
 > **Studios** [[EuropaCorp]] · [[Avalanche Productions]] · [[Apipoulaï Prod]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Animation]] · [[Family]]
+

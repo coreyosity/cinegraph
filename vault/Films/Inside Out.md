@@ -74,3 +74,4 @@ When 11-year-old Riley moves to a new city, her Emotions team up to help her thr
 > **Cast** [[Amy Poehler]] · [[Phyllis Smith]] · [[Richard Kind]] · [[Bill Hader]] · [[Lewis Black]] · [[Mindy Kaling]] · [[Kaitlyn Dias]] · [[Diane Lane]] · [[Kyle MacLachlan]] · [[Paula Poundstone]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Adventure]] · [[Drama]] · [[Comedy]]
+

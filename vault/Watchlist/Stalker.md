@@ -52,3 +52,4 @@ Near a gray and unnamed city is the Zone, a place guarded by barbed wire and sol
 > **Cast** [[Alisa Freyndlikh]] · [[Aleksandr Kaydanovskiy]] · [[Anatoliy Solonitsyn]] · [[Mykola Hrynko]] · [[Natalya Abramova]] · [[Faime Jurno]] · [[Evgeniy Kostin]] · [[Raimo Rendi]] · [[Vladimir Zamanskiy]]
 > **Studios** [[Mosfilm]]
 > **Genres** [[Science Fiction]] · [[Drama]]
+

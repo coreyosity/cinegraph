@@ -43,3 +43,4 @@ The fifth and final episode in the Planet of the Apes series. After the collapse
 > **Cast** [[Roddy McDowall]] · [[Natalie Trundy]] · [[Austin Stoker]] · [[Severn Darden]] · [[Claude Akins]] · [[Paul Williams]] · [[Richard Eastham]] · [[Lew Ayres]] · [[Bobby Porter]] · [[Noah Keen]]
 > **Studios** [[Apjac International]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

@@ -46,3 +46,4 @@ Loki is banished from Asgard once again and must face his toughest opponents yet
 > **Cast** [[Tom Hiddleston]] · [[Dan Castellaneta]] · [[Nancy Cartwright]] · [[Yeardley Smith]] · [[Maurice LaMarche]] · [[Dawnn Lewis]]
 > **Studios** [[Gracie Films]] · [[20th Television]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]]
+

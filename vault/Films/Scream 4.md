@@ -79,8 +79,6 @@ providers:
 - Paramount+ Roku Premium Channel
 - MovieSphere+ Amazon Channel
 - Crave
-- Shudder Amazon Channel
-- Shudder Apple TV Channel
 - Crave Amazon Channel
 - Stan
 - Lionsgate+ Amazon Channels
@@ -103,3 +101,4 @@ Fifteen years after the original Woodsboro murders, Sidney Prescott returns home
 > **Cast** [[David Arquette]] · [[Neve Campbell]] · [[Courteney Cox]] · [[Emma Roberts]] · [[Hayden Panettiere]] · [[Anthony Anderson]] · [[Adam Brody]] · [[Rory Culkin]] · [[Mary McDonnell]] · [[Marley Shelton]]
 > **Studios** [[Dimension Films]] · [[Outerbanks Entertainment]] · [[Corvus Corax Productions]]
 > **Genres** [[Horror]] · [[Mystery]]
+

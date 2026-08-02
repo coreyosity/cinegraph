@@ -71,3 +71,4 @@ Exactly one year after young rock guitarist Eric Draven and his fiancée are bru
 > **Cast** [[Brandon Lee]] · [[Rochelle Davis]] · [[Ernie Hudson]] · [[Michael Wincott]] · [[Bai Ling]] · [[Sofia Shinas]] · [[Anna Thomson]] · [[David Patrick Kelly]] · [[Angel David]] · [[Laurence Mason]]
 > **Studios** [[Entertainment Media Investment]] · [[Jeff Most Productions]] · [[Pressman Film]] · [[Dimension Films]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Thriller]]
+

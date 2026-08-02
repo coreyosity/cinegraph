@@ -52,15 +52,10 @@ letterboxd: https://boxd.it/bUeE
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
-- Peacock Premium Plus
 - Crave
 - Paramount Plus
-- Paramount+ Amazon Channel
 - Hollywood Suite
 - Club Illico
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -80,3 +75,4 @@ Four teenagers in detention discover an old video game console with a game they�
 > **Cast** [[Dwayne Johnson]] · [[Kevin Hart]] · [[Jack Black]] · [[Karen Gillan]] · [[Rhys Darby]] · [[Bobby Cannavale]] · [[Nick Jonas]] · [[Alex Wolff]] · [[Ser'Darius Blain]] · [[Madison Iseman]]
 > **Studios** [[Matt Tolmach Productions]] · [[Seven Bucks Productions]] · [[Columbia Pictures]]
 > **Genres** [[Adventure]] · [[Comedy]] · [[Fantasy]] · [[Action]]
+

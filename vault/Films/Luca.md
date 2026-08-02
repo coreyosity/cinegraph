@@ -66,3 +66,4 @@ Luca and his best friend Alberto experience an unforgettable summer on the Itali
 > **Cast** [[Jacob Tremblay]] · [[Jack Dylan Grazer]] · [[Emma Berman]] · [[Saverio Raimondo]] · [[Maya Rudolph]] · [[Marco Barricelli]] · [[Jim Gaffigan]] · [[Peter Sohn]] · [[Lorenzo Crisci]] · [[Marina Massironi]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]] · [[Drama]] · [[Comedy]]
+

@@ -57,6 +57,7 @@ tags:
 letterboxd: https://boxd.it/2b1i
 providers:
 - Netflix
+- Disney Plus
 - Netflix Standard with Ads
 - Crunchyroll
 - Crunchyroll Amazon Channel
@@ -69,3 +70,4 @@ A secret military project endangers Neo-Tokyo when it turns a biker gang member 
 > **Cast** [[Mitsuo Iwata]] · [[Nozomu Sasaki]] · [[Mami Koyama]] · [[Taro Ishida]] · [[Mizuho Suzuki]] · [[Tessyo Genda]] · [[Koichi Kitamura]] · [[Yuriko Fuchizaki]] · [[Masaaki Okura]] · [[Takeshi Kusao]]
 > **Studios** [[MBS]] · [[Sumitomo Corporation]] · [[TOHO]] · [[Kodansha]] · [[Tokyo Movie Shinsha]] · [[Bandai]] · [[Hakuhodo]] · [[LaserDisc Corporation]]
 > **Genres** [[Animation]] · [[Science Fiction]] · [[Action]]
+

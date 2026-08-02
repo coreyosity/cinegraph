@@ -55,3 +55,4 @@ The origin story of former Special Forces operative turned mercenary Wade Wilson
 > **Cast** [[Ryan Reynolds]] · [[Morena Baccarin]] · [[Ed Skrein]] · [[T.J. Miller]] · [[Gina Carano]] · [[Leslie Uggams]] · [[Brianna Hildebrand]] · [[Stefan Kapičić]] · [[Karan Soni]] · [[Randal Reeder]]
 > **Studios** [[20th Century Fox]] · [[The Donners' Company]] · [[Genre Films]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Adventure]] · [[Comedy]]
+

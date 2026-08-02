@@ -71,3 +71,4 @@ Bruce Nolan toils as a "human interest" television reporter in Buffalo, NY, but 
 > **Cast** [[Jim Carrey]] · [[Morgan Freeman]] · [[Jennifer Aniston]] · [[Philip Baker Hall]] · [[Catherine Bell]] · [[Lisa Ann Walter]] · [[Steve Carell]] · [[Nora Dunn]] · [[Eddie Jemison]] · [[Paul Satterfield]]
 > **Studios** [[Pit Bull Productions]] · [[Spyglass Entertainment]] · [[Universal Pictures]] · [[Shady Acres Entertainment]]
 > **Genres** [[Fantasy]] · [[Comedy]]
+

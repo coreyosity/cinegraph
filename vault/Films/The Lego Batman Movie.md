@@ -68,3 +68,4 @@ A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to
 > **Cast** [[Will Arnett]] · [[Michael Cera]] · [[Rosario Dawson]] · [[Ralph Fiennes]] · [[Zach Galifianakis]] · [[Jenny Slate]] · [[Jason Mantzoukas]] · [[Conan O'Brien]] · [[Doug Benson]] · [[Billy Dee Williams]]
 > **Studios** [[Lin Pictures]] · [[Animal Logic]] · [[DC Entertainment]] · [[Lord Miller]] · [[Warner Bros. Pictures]] · [[The LEGO Group]] · [[Warner Animation Group]] · [[RatPac Entertainment]]
 > **Genres** [[Animation]] · [[Action]] · [[Comedy]] · [[Family]]
+

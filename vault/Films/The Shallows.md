@@ -62,10 +62,7 @@ tags:
 - film
 letterboxd: https://boxd.it/aXgQ
 providers:
-- Peacock Premium
 - YouTube TV
-- ViX Premium Amazon Channel
-- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 - Sony Pictures Core Amazon Channel
@@ -83,3 +80,4 @@ While surfing on a secluded beach, Nancy finds herself in the feeding grounds of
 > **Cast** [[Blake Lively]] · [[Óscar Jaenada]] · [[Brett Cullen]] · [[Janelle Bailey]] · [[Sedona Legge]] · [[Pablo Calva]] · [[Diego Espejel]] · [[Ava Dean]] · [[Chelsea Moody]] · [[Angelo Josue Lozano Corzo]]
 > **Studios** [[Columbia Pictures]] · [[Ombra Films]] · [[Weimaraner Republic Pictures]]
 > **Genres** [[Horror]] · [[Drama]] · [[Thriller]]
+

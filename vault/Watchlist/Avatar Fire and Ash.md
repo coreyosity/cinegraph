@@ -53,3 +53,4 @@ In the wake of the devastating war against the RDA and the loss of their eldest 
 > **Cast** [[Sam Worthington]] · [[Zoe Saldaña]] · [[Sigourney Weaver]] · [[Stephen Lang]] · [[Oona Chaplin]] · [[Jack Champion]] · [[Kate Winslet]] · [[Cliff Curtis]] · [[Joel David Moore]] · [[CCH Pounder]]
 > **Studios** [[20th Century Studios]] · [[Lightstorm Entertainment]] · [[TSG Entertainment]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Fantasy]]
+

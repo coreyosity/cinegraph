@@ -77,3 +77,4 @@ Harry, Ron and Hermione walk away from their last year at Hogwarts to find and d
 > **Cast** [[Daniel Radcliffe]] · [[Emma Watson]] · [[Rupert Grint]] · [[Toby Jones]] · [[Helena Bonham Carter]] · [[Alan Rickman]] · [[Ralph Fiennes]] · [[Bill Nighy]] · [[Simon McBurney]] · [[Rhys Ifans]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

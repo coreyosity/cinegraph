@@ -63,10 +63,12 @@ letterboxd: https://boxd.it/nmS
 providers:
 - Netflix
 - Netflix Standard with Ads
+- MGM Plus Amazon Channel
 - HBO Max Amazon Channel
 - YouTube TV
 - HBO Max
 - Crave
+- MGM Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -80,3 +82,4 @@ The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, an
 > **Cast** [[Ian McKellen]] · [[Martin Freeman]] · [[Richard Armitage]] · [[Benedict Cumberbatch]] · [[Orlando Bloom]] · [[Evangeline Lilly]] · [[Lee Pace]] · [[Luke Evans]] · [[Stephen Fry]] · [[Ken Stott]]
 > **Studios** [[New Line Cinema]] · [[Metro-Goldwyn-Mayer]] · [[WingNut Films]]
 > **Genres** [[Fantasy]] · [[Adventure]] · [[Action]]
+

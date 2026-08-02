@@ -58,3 +58,4 @@ Life's a beach for surfers Brady and McKenzie – until a rogue wave magically t
 > **Cast** [[Ross Lynch]] · [[Maia Mitchell]] · [[Gracie Gillam]] · [[Garrett Clayton]] · [[John DeLuca]] · [[Chrissie Fit]] · [[Suzanne Cryer]] · [[Barry Bostwick]] · [[Kevin Chamberlin]] · [[Steve Valentine]]
 > **Studios** [[Rainforest Productions]]
 > **Genres** [[Family]] · [[Music]] · [[TV Movie]] · [[Comedy]] · [[Fantasy]]
+

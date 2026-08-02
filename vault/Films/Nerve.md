@@ -63,3 +63,4 @@ Industrious high school senior Vee Delmonico has had it with living life on the 
 > **Cast** [[Emma Roberts]] · [[Dave Franco]] · [[Emily Meade]] · [[Miles Heizer]] · [[Juliette Lewis]] · [[Kimiko Glenn]] · [[mgk]] · [[Marc John Jefferies]] · [[Samira Wiley]] · [[Brian Marc]]
 > **Studios** [[Lionsgate]] · [[Allison Shearmur Productions]] · [[Keep Your Head Productions]] · [[TIK Films]]
 > **Genres** [[Mystery]] · [[Adventure]] · [[Crime]]
+

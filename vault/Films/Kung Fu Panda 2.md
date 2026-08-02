@@ -59,10 +59,11 @@ letterboxd: https://boxd.it/G36
 providers:
 - Netflix
 - Amazon Prime Video
+- Sky Go
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
-- HBO Max Amazon Channel
-- HBO Max
+- Peacock Premium
+- Peacock Premium Plus
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -81,3 +82,4 @@ Po is finally living the dream as the Dragon Warrior—until a shadow from his p
 > **Cast** [[Jack Black]] · [[Angelina Jolie]] · [[Dustin Hoffman]] · [[Gary Oldman]] · [[Jackie Chan]] · [[Lucy Liu]] · [[Seth Rogen]] · [[David Cross]] · [[Michelle Yeoh]] · [[James Hong]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]] · [[Action]]
+

@@ -62,7 +62,6 @@ providers:
 - Channel 4 Plus
 - fuboTV
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
 ---
 
 A representative of an alien race that went through drastic evolution to survive its own climate change, Klaatu comes to Earth to assess whether humanity can prevent the environmental damage they have inflicted on their own planet. When barred from speaking to the United Nations, he decides humankind shall be exterminated so the planet can survive.
@@ -75,3 +74,4 @@ A representative of an alien race that went through drastic evolution to survive
 > **Cast** [[Keanu Reeves]] · [[Jennifer Connelly]] · [[Jaden Smith]] · [[Jon Hamm]] · [[Kathy Bates]] · [[John Cleese]] · [[Kyle Chandler]] · [[Robert Knepper]] · [[Brandon T. Jackson]] · [[James Hong]]
 > **Studios** [[Dune Entertainment III]] · [[Earth Canada Productions]] · [[Hammerhead Productions]] · [[3 Arts Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Drama]] · [[Science Fiction]] · [[Thriller]]
+

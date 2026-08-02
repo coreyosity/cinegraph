@@ -79,3 +79,4 @@ Humans and Transformers are at war. Optimus Prime is gone. The key to saving our
 > **Cast** [[Mark Wahlberg]] · [[Laura Haddock]] · [[Peter Cullen]] · [[Anthony Hopkins]] · [[Erik Aadahl]] · [[Josh Duhamel]] · [[Gemma Chan]] · [[Jim Carter]] · [[Santiago Cabrera]] · [[Isabela Merced]]
 > **Studios** [[Paramount Pictures]] · [[di Bonaventura Pictures]] · [[Ian Bryce Productions]] · [[DeSantoMurphy Productions]] · [[Hasbro]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

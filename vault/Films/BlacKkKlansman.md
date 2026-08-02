@@ -68,3 +68,4 @@ Colorado Springs, late 1970s. Ron Stallworth, an African American police officer
 > **Cast** [[John David Washington]] · [[Adam Driver]] · [[Topher Grace]] · [[Laura Harrier]] · [[Alec Baldwin]] · [[Jasper Pääkkönen]] · [[Corey Hawkins]] · [[Paul Walter Hauser]] · [[Ryan Eggold]] · [[Isiah Whitlock Jr]]
 > **Studios** [[Legendary Pictures]] · [[QC Entertainment]] · [[Blumhouse Productions]] · [[Monkeypaw Productions]] · [[40 Acres and a Mule Filmworks]] · [[Perfect World Pictures]]
 > **Genres** [[Crime]] · [[Comedy]] · [[Drama]] · [[History]]
+

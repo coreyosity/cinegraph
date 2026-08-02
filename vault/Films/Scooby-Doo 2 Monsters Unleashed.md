@@ -64,3 +64,4 @@ A masked villain wreaks mayhem on the city of Coolsville with a monster machine 
 > **Cast** [[Freddie Prinze Jr]] · [[Sarah Michelle Gellar]] · [[Matthew Lillard]] · [[Linda Cardellini]] · [[Neil Fanning]] · [[Seth Green]] · [[Peter Boyle]] · [[Tim Blake Nelson]] · [[Alicia Silverstone]] · [[Pat O'Brien]]
 > **Studios** [[Mosaic Media Group]] · [[Warner Bros. Pictures]]
 > **Genres** [[Mystery]] · [[Adventure]] · [[Comedy]]
+

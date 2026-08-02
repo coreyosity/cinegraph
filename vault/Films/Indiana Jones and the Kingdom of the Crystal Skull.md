@@ -62,6 +62,7 @@ providers:
 - Paramount Plus Essential
 - Paramount+ Amazon Channel
 - YouTube TV
+- FXNow
 - Freeform
 - Paramount+ Roku Premium Channel
 - Crave
@@ -83,3 +84,4 @@ Set during the Cold War, the Soviets—led by sword-wielding Irina Spalko—are 
 > **Cast** [[Harrison Ford]] · [[Cate Blanchett]] · [[Karen Allen]] · [[Shia LaBeouf]] · [[Ray Winstone]] · [[John Hurt]] · [[Jim Broadbent]] · [[Igor Jijikine]] · [[Dimitri Diatchenko]] · [[Ilia Volok]]
 > **Studios** [[Paramount Pictures]] · [[Lucasfilm Ltd]]
 > **Genres** [[Adventure]] · [[Action]]
+

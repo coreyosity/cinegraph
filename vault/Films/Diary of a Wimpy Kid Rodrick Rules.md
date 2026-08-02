@@ -54,3 +54,4 @@ Wimpy Greg Heffley, now in seventh grade, thinks he has it all together. He has 
 > **Cast** [[Zachary Gordon]] · [[Devon Bostick]] · [[Robert Capron]] · [[Rachael Harris]] · [[Peyton List]] · [[Steve Zahn]] · [[Connor Fielding]] · [[Owen Fielding]] · [[Fran Kranz]] · [[Andrew McNee]]
 > **Studios** [[Color Force]] · [[Dune Entertainment]] · [[Fox 2000 Pictures]]
 > **Genres** [[Family]] · [[Comedy]]
+

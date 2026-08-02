@@ -75,3 +75,4 @@ As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble ge
 > **Cast** [[Michael Cera]] · [[Mary Elizabeth Winstead]] · [[Ellen Wong]] · [[Kieran Culkin]] · [[Alison Pill]] · [[Mark Webber]] · [[Johnny Simmons]] · [[Jason Schwartzman]] · [[Anna Kendrick]] · [[Aubrey Plaza]]
 > **Studios** [[Marc Platt Productions]] · [[Big Talk Studios]] · [[Closed on Mondays Entertainment]] · [[dentsu]]
 > **Genres** [[Action]] · [[Comedy]] · [[Romance]]
+

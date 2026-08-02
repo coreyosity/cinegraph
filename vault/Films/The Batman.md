@@ -80,3 +80,4 @@ In his second year of fighting crime, Batman uncovers corruption in Gotham City 
 > **Cast** [[Robert Pattinson]] · [[Zoë Kravitz]] · [[Jeffrey Wright]] · [[Colin Farrell]] · [[Paul Dano]] · [[John Turturro]] · [[Andy Serkis]] · [[Peter Sarsgaard]] · [[Barry Keoghan]] · [[Jayme Lawson]]
 > **Studios** [[6th & Idaho Motion Picture Company]] · [[Dylan Clark Productions]] · [[DC Films]] · [[Warner Bros. Pictures]]
 > **Genres** [[Crime]] · [[Mystery]] · [[Thriller]]
+

@@ -56,10 +56,12 @@ letterboxd: https://boxd.it/2a0I
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
+- fuboTV
+- MGM+ Amazon Channel
+- Philo
+- MGM Plus Roku Premium Channel
 - YouTube TV
 - MGM Plus
-- Peacock Premium Plus
 - Crave
 - Stan
 ---
@@ -74,3 +76,4 @@ After a police chase with an otherworldly being, a New York City cop is recruite
 > **Cast** [[Tommy Lee Jones]] · [[Will Smith]] · [[Linda Fiorentino]] · [[Vincent D'Onofrio]] · [[Rip Torn]] · [[Tony Shalhoub]] · [[Siobhan Fallon Hogan]] · [[Mike Nussbaum]] · [[Jon Gries]] · [[Sergio Calderón]]
 > **Studios** [[Columbia Pictures]] · [[Amblin Entertainment]] · [[Parkes+MacDonald Production]]
 > **Genres** [[Action]] · [[Adventure]] · [[Comedy]] · [[Science Fiction]]
+

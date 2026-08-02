@@ -39,6 +39,10 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/1ZRQ
 providers:
+- fuboTV
+- MGM+ Amazon Channel
+- Philo
+- MGM Plus Roku Premium Channel
 - YouTube TV
 - Criterion Channel
 - MGM Plus
@@ -57,3 +61,4 @@ Nerdy high schooler Arnie Cunningham falls for Christine, a rusty 1958 Plymouth 
 > **Cast** [[Keith Gordon]] · [[John Stockwell]] · [[Alexandra Paul]] · [[Robert Prosky]] · [[Harry Dean Stanton]] · [[Christine Belford]] · [[Roberts Blossom]] · [[William Ostrander]] · [[David Spielberg]] · [[Malcolm Danare]]
 > **Studios** [[Columbia Pictures]] · [[Polar Film]]
 > **Genres** [[Horror]]
+

@@ -57,3 +57,4 @@ An imaginative elephant named Horton hears a faint cry for help coming from a ti
 > **Cast** [[Jim Carrey]] · [[Steve Carell]] · [[Carol Burnett]] · [[Will Arnett]] · [[Seth Rogen]] · [[Dan Fogler]] · [[Isla Fisher]] · [[Jonah Hill]] · [[Amy Poehler]] · [[Jaime Pressly]]
 > **Studios** [[Blue Sky Studios]] · [[20th Century Fox Animation]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Adventure]] · [[Fantasy]]
+

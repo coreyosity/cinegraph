@@ -58,6 +58,8 @@ letterboxd: https://boxd.it/16Sk
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
@@ -75,3 +77,4 @@ After Megamind, a highly intelligent alien supervillain, defeats his long-time n
 > **Cast** [[Will Ferrell]] · [[Brad Pitt]] · [[Tina Fey]] · [[Jonah Hill]] · [[David Cross]] · [[Ben Stiller]] · [[Justin Theroux]] · [[Jessica Schulte]] · [[Tom McGrath]] · [[Emily Nordwind]]
 > **Studios** [[DreamWorks Animation]] · [[Pacific Data Images]]
 > **Genres** [[Animation]] · [[Action]] · [[Comedy]] · [[Family]] · [[Science Fiction]]
+

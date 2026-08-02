@@ -70,3 +70,4 @@ The powerful story of love and loss that inspired the creation of Shakespeare's 
 > **Cast** [[Jessie Buckley]] · [[Paul Mescal]] · [[Emily Watson]] · [[Joe Alwyn]] · [[Jacobi Jupe]] · [[Noah Jupe]] · [[Olivia Lynes]] · [[Justine Mitchell]] · [[David Wilmot]] · [[Louisa Harland]]
 > **Studios** [[Hera Pictures]] · [[Neal Street Productions]] · [[Amblin Entertainment]] · [[Book of Shadows]]
 > **Genres** [[Drama]] · [[Romance]]
+

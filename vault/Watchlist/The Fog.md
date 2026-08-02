@@ -44,6 +44,7 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/29Cc
 providers:
+- STUDIOCANAL PRESENTS Apple TV Channel
 - Studiocanal Presents Amazon Channel
 - Philo
 - YouTube TV
@@ -60,3 +61,4 @@ Strange things begin to occur as a tiny California coastal town prepares to comm
 > **Cast** [[Adrienne Barbeau]] · [[Tom Atkins]] · [[Jamie Lee Curtis]] · [[Hal Holbrook]] · [[Janet Leigh]] · [[Nancy Kyes]] · [[Ty Mitchell]] · [[John Houseman]] · [[James Canning]] · [[Charles Cyphers]]
 > **Studios** [[AVCO Embassy Pictures]] · [[EDI]] · [[Debra Hill Productions]]
 > **Genres** [[Horror]]
+

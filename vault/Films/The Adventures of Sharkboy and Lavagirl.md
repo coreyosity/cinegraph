@@ -39,11 +39,8 @@ tags:
 letterboxd: https://boxd.it/1Ozm
 providers:
 - Sony Pictures Core Amazon Channel
-- fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Paramount+ Amazon Channel
-- Paramount+ Roku Premium Channel
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 ---
@@ -58,3 +55,4 @@ Everyone always knew that Max had a wild imagination, but no one believed that h
 > **Cast** [[Taylor Lautner]] · [[Taylor Dooley]] · [[Cayden Boyd]] · [[David Arquette]] · [[Kristin Davis]] · [[Jacob Davich]] · [[Sasha Pieterse]] · [[George López]] · [[Rico Torres]] · [[Marc Musso]]
 > **Studios** [[Troublemaker Studios]]
 > **Genres** [[Adventure]] · [[Family]] · [[Science Fiction]]
+

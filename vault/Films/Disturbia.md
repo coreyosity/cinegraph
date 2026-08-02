@@ -45,6 +45,9 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
+- fuboTV
+- Paramount Plus Essential
+- Paramount+ Roku Premium Channel
 ---
 
 Kale has a life most teenagers would envy. He spends his days endlessly playing video games, surfing the net, eating junk food and watching cable. He has complete free reign of the house, and a beautiful young hottie named Ashley has just moved in next door. There’s only one problem—he’s not allowed to leave the house. Kale’s under court-ordered house arrest for three months, and if he takes one step beyond a 100-foot perimeter of the house, his next confinement will be in a real prison.
@@ -57,3 +60,4 @@ Kale has a life most teenagers would envy. He spends his days endlessly playing 
 > **Cast** [[Shia LaBeouf]] · [[Sarah Roemer]] · [[Carrie-Anne Moss]] · [[David Morse]] · [[Aaron Yoo]] · [[Jose Pablo Cantillo]] · [[Matt Craven]] · [[Viola Davis]] · [[Brandon Caruso]] · [[Luciano Rauso]]
 > **Studios** [[The Montecito Picture Company]] · [[DreamWorks Pictures]] · [[Cold Spring Productions]]
 > **Genres** [[Thriller]] · [[Drama]] · [[Mystery]]
+

@@ -78,3 +78,4 @@ In the mystical Scottish Highlands, Merida is the princess of a kingdom ruled by
 > **Cast** [[Kelly Macdonald]] · [[Emma Thompson]] · [[Billy Connolly]] · [[Julie Walters]] · [[Robbie Coltrane]] · [[Kevin McKidd]] · [[Craig Ferguson]] · [[Peigi Barker]] · [[Steve Purcell]] · [[Patrick Doyle]]
 > **Studios** [[Pixar]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]] · [[Fantasy]]
+

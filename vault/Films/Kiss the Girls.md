@@ -74,3 +74,4 @@ Forensic psychologist and detective Alex Cross travels to North Carolina and tea
 > **Cast** [[Morgan Freeman]] · [[Ashley Judd]] · [[Cary Elwes]] · [[Alex McArthur]] · [[Tony Goldwyn]] · [[Jay O. Sanders]] · [[Bill Nunn]] · [[Brian Cox]] · [[Richard T. Jones]] · [[Roma Maffia]]
 > **Studios** [[Paramount Pictures]] · [[Rysher Entertainment]] · [[David Brown Productions]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Mystery]] · [[Drama]]
+

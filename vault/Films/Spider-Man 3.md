@@ -61,6 +61,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -78,3 +79,4 @@ The seemingly invincible Spider-Man goes up against an all-new crop of villains�
 > **Cast** [[Tobey Maguire]] · [[Kirsten Dunst]] · [[James Franco]] · [[Thomas Haden Church]] · [[Topher Grace]] · [[Bryce Dallas Howard]] · [[Rosemary Harris]] · [[J.K. Simmons]] · [[James Cromwell]] · [[Dylan Baker]]
 > **Studios** [[Laura Ziskin Productions]] · [[Marvel Studios]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

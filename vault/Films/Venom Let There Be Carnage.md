@@ -53,6 +53,7 @@ providers:
 - Disney Plus
 - fuboTV
 - Starz Apple TV Channel
+- FXNow
 - Club Illico
 - Stan
 ---
@@ -67,3 +68,4 @@ After finding a host body in investigative reporter Eddie Brock, the alien symbi
 > **Cast** [[Tom Hardy]] · [[Woody Harrelson]] · [[Michelle Williams]] · [[Naomie Harris]] · [[Reid Scott]] · [[Stephen Graham]] · [[Peggy Lu]] · [[Sian Webber]] · [[Michelle Greenidge]] · [[Rob Bowen]]
 > **Studios** [[Columbia Pictures]] · [[Pascal Pictures]] · [[Matt Tolmach Productions]] · [[Arad Productions]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

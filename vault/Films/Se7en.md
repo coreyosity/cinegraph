@@ -60,8 +60,6 @@ letterboxd: https://boxd.it/29zs
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
-- Peacock Premium Plus
 - Starz Amazon Channel
 - Crave Amazon Channel
 ---
@@ -76,3 +74,4 @@ Two homicide detectives are on a desperate hunt for a serial killer whose crimes
 > **Cast** [[Morgan Freeman]] · [[Brad Pitt]] · [[Gwyneth Paltrow]] · [[John Cassini]] · [[Peter Crombie]] · [[Reg E. Cathey]] · [[R. Lee Ermey]] · [[Daniel Zacapa]] · [[Andrew Kevin Walker]] · [[George Christy]]
 > **Studios** [[New Line Cinema]] · [[Juno Pix]] · [[Arnold Kopelson Productions]]
 > **Genres** [[Crime]] · [[Mystery]] · [[Thriller]]
+

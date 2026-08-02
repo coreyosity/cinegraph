@@ -69,3 +69,4 @@ In 1926, Newt Scamander arrives at the Magical Congress of the United States of 
 > **Cast** [[Eddie Redmayne]] · [[Katherine Waterston]] · [[Dan Fogler]] · [[Alison Sudol]] · [[Colin Farrell]] · [[Jon Voight]] · [[Ron Perlman]] · [[Johnny Depp]] · [[Zoë Kravitz]] · [[Ezra Miller]]
 > **Studios** [[Heyday Films]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Adventure]]
+

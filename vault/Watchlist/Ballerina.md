@@ -67,3 +67,4 @@ Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macar
 > **Cast** [[Ana de Armas]] · [[Keanu Reeves]] · [[Ian McShane]] · [[Anjelica Huston]] · [[Gabriel Byrne]] · [[Catalina Sandino Moreno]] · [[Ava McCarthy]] · [[Juliet Doherty]] · [[Norman Reedus]] · [[Lance Reddick]]
 > **Studios** [[Thunder Road]] · [[87Eleven]] · [[Lionsgate]]
 > **Genres** [[Action]] · [[Thriller]] · [[Crime]]
+

@@ -61,3 +61,4 @@ Thor is imprisoned on the other side of the universe and finds himself in a race
 > **Cast** [[Chris Hemsworth]] · [[Mark Ruffalo]] · [[Tom Hiddleston]] · [[Cate Blanchett]] · [[Idris Elba]] · [[Jeff Goldblum]] · [[Tessa Thompson]] · [[Karl Urban]] · [[Anthony Hopkins]] · [[Benedict Cumberbatch]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Comedy]]
+

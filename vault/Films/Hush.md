@@ -70,3 +70,4 @@ A deaf woman is stalked by a psychotic killer in her secluded home.
 > **Cast** [[John Gallagher Jr]] · [[Kate Siegel]] · [[Michael Trucco]] · [[Samantha Sloyan]] · [[Emma Graves]]
 > **Studios** [[Intrepid Pictures]] · [[Blumhouse Productions]]
 > **Genres** [[Horror]] · [[Thriller]]
+

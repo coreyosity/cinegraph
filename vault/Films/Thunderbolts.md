@@ -74,3 +74,4 @@ After finding themselves ensnared in a death trap, seven disillusioned castoffs 
 > **Cast** [[Florence Pugh]] · [[Sebastian Stan]] · [[Julia Louis-Dreyfus]] · [[Lewis Pullman]] · [[David Harbour]] · [[Wyatt Russell]] · [[Hannah John-Kamen]] · [[Olga Kurylenko]] · [[Geraldine Viswanathan]] · [[Wendell Pierce]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

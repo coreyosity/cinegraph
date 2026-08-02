@@ -51,11 +51,10 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video
 - Paramount Plus Premium
-- Paramount+ Amazon Channel
 - Amazon Prime Video with Ads
 - Paramount Plus
+- Paramount+ Amazon Channel
 - Paramount Plus Basic with Ads
-- BINGE
 - Foxtel Now
 ---
 
@@ -69,3 +68,4 @@ When Pete and Ellie decide to start a family, they stumble into the world of fos
 > **Cast** [[Mark Wahlberg]] · [[Rose Byrne]] · [[Allyn Rachel]] · [[Isabela Merced]] · [[Julie Hagerty]] · [[Tig Notaro]] · [[Octavia Spencer]] · [[Gustavo Escobar]] · [[Margo Martindale]] · [[Julianna Gamiz]]
 > **Studios** [[Closest to the Hole Productions]] · [[Paramount Pictures]] · [[Leverage Entertainment]]
 > **Genres** [[Comedy]] · [[Drama]]
+

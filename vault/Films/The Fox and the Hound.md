@@ -56,3 +56,4 @@ When a feisty little fox named Tod is adopted into a farm family, he quickly bec
 > **Cast** [[Mickey Rooney]] · [[Kurt Russell]] · [[Pearl Bailey]] · [[Jack Albertson]] · [[Sandy Duncan]] · [[Jeanette Nolan]] · [[Pat Buttram]] · [[Richard Bakalyan]] · [[Paul Winchell]] · [[John Fiedler]]
 > **Studios** [[Walt Disney Productions]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Drama]] · [[Family]]
+

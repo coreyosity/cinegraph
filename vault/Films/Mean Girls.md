@@ -68,7 +68,9 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
 - Paramount Plus Essential
+- Peacock Premium
 - Paramount+ Roku Premium Channel
+- Peacock Premium Plus
 - BINGE
 - Foxtel Now
 - Stan
@@ -84,3 +86,4 @@ Cady Heron is a hit with The Plastics, the A-list girl clique at her new school,
 > **Cast** [[Lindsay Lohan]] · [[Rachel McAdams]] · [[Lizzy Caplan]] · [[Lacey Chabert]] · [[Amanda Seyfried]] · [[Daniel Franzese]] · [[Jonathan Bennett]] · [[Rajiv Surendra]] · [[Tina Fey]] · [[Tim Meadows]]
 > **Studios** [[Broadway Video]] · [[Paramount Pictures]] · [[M.G. Films]]
 > **Genres** [[Drama]] · [[Comedy]]
+

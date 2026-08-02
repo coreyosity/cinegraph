@@ -67,3 +67,4 @@ Jesse Aarons trained all summer to become the fastest runner in school. So he's 
 > **Cast** [[Josh Hutcherson]] · [[AnnaSophia Robb]] · [[Zooey Deschanel]] · [[Robert Patrick]] · [[Bailee Madison]] · [[Kate Butler]] · [[Devon Wood]] · [[Emma Fenton]] · [[Grace Brannigan]] · [[Latham Gaines]]
 > **Studios** [[Lauren Levine Productions Inc]] · [[Walden Media]] · [[Hal Lieberman Company]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Family]]
+

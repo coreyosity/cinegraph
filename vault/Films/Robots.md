@@ -59,3 +59,4 @@ Rodney Copperbottom is a young robot inventor who dreams of making the world a b
 > **Cast** [[Ewan McGregor]] · [[Halle Berry]] · [[Greg Kinnear]] · [[Mel Brooks]] · [[Drew Carey]] · [[Amanda Bynes]] · [[Robin Williams]] · [[Jim Broadbent]] · [[Stanley Tucci]] · [[Dianne Wiest]]
 > **Studios** [[Blue Sky Studios]] · [[20th Century Fox Animation]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Science Fiction]]
+

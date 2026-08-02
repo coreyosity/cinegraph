@@ -44,3 +44,4 @@ Discover what Thor was up to during the events of Captain America: Civil War.
 > **Cast** [[Chris Hemsworth]] · [[Mark Ruffalo]] · [[Daley Pearson]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Comedy]] · [[Science Fiction]]
+

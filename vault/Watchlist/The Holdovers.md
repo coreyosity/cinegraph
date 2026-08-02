@@ -70,3 +70,4 @@ A curmudgeonly instructor at a New England prep school is forced to remain on ca
 > **Cast** [[Paul Giamatti]] · [[Dominic Sessa]] · [[Da'Vine Joy Randolph]] · [[Carrie Preston]] · [[Brady Hepner]] · [[Ian Dolley]] · [[Jim Kaplan]] · [[Michael Provost]] · [[Andrew Garman]] · [[Naheem Garcia]]
 > **Studios** [[Miramax]] · [[Gran Via Productions]]
 > **Genres** [[Drama]] · [[Comedy]]
+

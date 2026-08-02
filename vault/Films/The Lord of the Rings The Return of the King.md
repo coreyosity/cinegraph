@@ -99,3 +99,4 @@ As armies mass for a final battle that will decide the fate of the world--and po
 > **Cast** [[Elijah Wood]] · [[Ian McKellen]] · [[Viggo Mortensen]] · [[Sean Astin]] · [[Andy Serkis]] · [[Dominic Monaghan]] · [[Billy Boyd]] · [[John Noble]] · [[David Wenham]] · [[Miranda Otto]]
 > **Studios** [[New Line Cinema]] · [[WingNut Films]] · [[The Saul Zaentz Company]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

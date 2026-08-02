@@ -71,3 +71,4 @@ Chaos reigns at the natural history museum when night watchman Larry Daley accid
 > **Cast** [[Ben Stiller]] · [[Carla Gugino]] · [[Dick Van Dyke]] · [[Mickey Rooney]] · [[Bill Cobbs]] · [[Jake Cherry]] · [[Ricky Gervais]] · [[Robin Williams]] · [[Kim Raver]] · [[Patrick Gallagher]]
 > **Studios** [[1492 Pictures]] · [[21 Laps Entertainment]] · [[20th Century Fox]] · [[Ingenious Media]] · [[Sun Canada Productions]]
 > **Genres** [[Fantasy]] · [[Family]] · [[Comedy]]
+

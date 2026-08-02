@@ -56,9 +56,16 @@ providers:
 - Channel 4 Plus
 - Netflix Standard with Ads
 - Amazon Prime Video
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+ Roku Premium Channel
+- AMC+
 - Amazon Prime Video with Ads
 - Paramount Plus
 - Paramount+ Amazon Channel
+- Hollywood Suite
+- Hollywood Suite Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
@@ -71,3 +78,4 @@ After getting a green card in exchange for assassinating a Cuban government offi
 > **Cast** [[Al Pacino]] · [[Steven Bauer]] · [[Michelle Pfeiffer]] · [[Mary Elizabeth Mastrantonio]] · [[Robert Loggia]] · [[Miriam Colon]] · [[F. Murray Abraham]] · [[Paul Shenar]] · [[Harris Yulin]] · [[Ángel Salazar]]
 > **Studios** [[Universal Pictures]] · [[Martin Bregman Productions]]
 > **Genres** [[Action]] · [[Crime]] · [[Drama]]
+

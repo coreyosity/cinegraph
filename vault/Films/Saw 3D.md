@@ -62,3 +62,4 @@ As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivor
 > **Cast** [[Tobin Bell]] · [[Costas Mandylor]] · [[Betsy Russell]] · [[Cary Elwes]] · [[Sean Patrick Flanery]] · [[Chad Donella]] · [[Chester Bennington]] · [[Gina Holden]] · [[Dean Armstrong]] · [[Naomi Snieckus]]
 > **Studios** [[Twisted Pictures]] · [[Serendipity Productions]] · [[A Bigger Boat]]
 > **Genres** [[Horror]] · [[Crime]]
+

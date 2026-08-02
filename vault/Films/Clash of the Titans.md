@@ -53,7 +53,9 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- Peacock Premium
 - History Vault
+- Peacock Premium Plus
 - Crave
 - Crave Amazon Channel
 ---
@@ -68,3 +70,4 @@ Born of a god but raised as a man, Perseus is helpless to save his family from H
 > **Cast** [[Sam Worthington]] · [[Gemma Arterton]] · [[Mads Mikkelsen]] · [[Alexa Davalos]] · [[Jason Flemyng]] · [[Ralph Fiennes]] · [[Liam Neeson]] · [[Pete Postlethwaite]] · [[Polly Walker]] · [[Ashraf Barhom]]
 > **Studios** [[The Zanuck Company]] · [[Legendary Pictures]] · [[Thunder Road]] · [[Moving Picture Company]] · [[Warner Bros. Pictures]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

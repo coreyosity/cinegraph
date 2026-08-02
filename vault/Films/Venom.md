@@ -71,3 +71,4 @@ Investigative journalist Eddie Brock attempts a comeback following a scandal, bu
 > **Cast** [[Tom Hardy]] · [[Michelle Williams]] · [[Riz Ahmed]] · [[Scott Haze]] · [[Reid Scott]] · [[Jenny Slate]] · [[Melora Walters]] · [[Woody Harrelson]] · [[Peggy Lu]] · [[Malcolm C. Murray]]
 > **Studios** [[Matt Tolmach Productions]] · [[Pascal Pictures]] · [[Marvel Entertainment]] · [[Tencent Pictures]] · [[Arad Productions]] · [[Columbia Pictures]]
 > **Genres** [[Science Fiction]] · [[Action]]
+

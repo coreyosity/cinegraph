@@ -73,3 +73,4 @@ Based on the real life story of legendary cryptanalyst Alan Turing, the film por
 > **Cast** [[Benedict Cumberbatch]] · [[Keira Knightley]] · [[Matthew Goode]] · [[Rory Kinnear]] · [[Allen Leech]] · [[Matthew Beard]] · [[Charles Dance]] · [[Mark Strong]] · [[James Northcote]] · [[Tom Goodman-Hill]]
 > **Studios** [[Bristol Automotive]] · [[Black Bear Pictures]] · [[FilmNation Entertainment]]
 > **Genres** [[History]] · [[Drama]] · [[Thriller]] · [[War]]
+

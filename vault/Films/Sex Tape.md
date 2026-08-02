@@ -40,8 +40,6 @@ tags:
 letterboxd: https://boxd.it/6FRG
 providers:
 - Netflix
-- Sky Go
-- Now TV Cinema
 - Sony Pictures Core Amazon Channel
 - Starz Apple TV Channel
 - Hollywood Suite
@@ -59,3 +57,4 @@ When Jay and Annie first got together, their romantic connection was intense –
 > **Cast** [[Cameron Diaz]] · [[Jason Segel]] · [[Rob Corddry]] · [[Ellie Kemper]] · [[Rob Lowe]] · [[Jolene Blalock]] · [[Melissa Paulo]] · [[Nat Faxon]] · [[Nancy Lenehan]] · [[Giselle Eisenberg]]
 > **Studios** [[Escape Artists]] · [[LStar Capital]] · [[MRC]] · [[Columbia Pictures]]
 > **Genres** [[Comedy]]
+

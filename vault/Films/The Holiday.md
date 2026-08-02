@@ -75,3 +75,4 @@ Two women, one American and one British, swap homes at Christmastime following b
 > **Cast** [[Cameron Diaz]] · [[Kate Winslet]] · [[Jude Law]] · [[Jack Black]] · [[Eli Wallach]] · [[Edward Burns]] · [[Rufus Sewell]] · [[Miffy Englefield]] · [[Emma Pritchard]] · [[Sarah Parish]]
 > **Studios** [[Relativity Media]] · [[Waverly Films]] · [[Universal Pictures]] · [[Columbia Pictures]]
 > **Genres** [[Comedy]] · [[Romance]]
+

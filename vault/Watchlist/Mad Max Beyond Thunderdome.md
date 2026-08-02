@@ -73,3 +73,4 @@ Mad Max becomes a pawn in a decadent oasis of a technological society, and when 
 > **Cast** [[Mel Gibson]] · [[Tina Turner]] · [[Helen Buday]] · [[Bruce Spence]] · [[Angelo Rossitto]] · [[Adam Cockburn]] · [[Frank Thring]] · [[Paul Larsson]] · [[Angry Anderson]] · [[Robert Grubb]]
 > **Studios** [[Kennedy Miller Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

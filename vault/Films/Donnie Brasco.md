@@ -52,9 +52,15 @@ tags:
 letterboxd: https://boxd.it/1YRA
 providers:
 - Netflix
+- Philo
+- 'AMC Plus Apple TV Channel '
+- AMC+ Amazon Channel
+- AMC+
 - YouTube TV
+- AMC
 - Netflix Standard with Ads
 - Sony Pictures Core Amazon Channel
+- BINGE
 - Foxtel Now
 - Stan
 ---
@@ -69,3 +75,4 @@ An FBI undercover agent infiltrates the mob and identifies more with the mafia l
 > **Cast** [[Johnny Depp]] · [[Al Pacino]] · [[Michael Madsen]] · [[Bruno Kirby]] · [[James Russo]] · [[Anne Heche]] · [[Željko Ivanek]] · [[Brian Tarantina]] · [[Rocco Sisto]] · [[Zach Grenier]]
 > **Studios** [[Mark Johnson Productions]] · [[Baltimore Pictures]] · [[Mandalay Entertainment]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

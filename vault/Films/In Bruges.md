@@ -69,3 +69,4 @@ Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission
 > **Cast** [[Colin Farrell]] · [[Brendan Gleeson]] · [[Ralph Fiennes]] · [[Clémence Poésy]] · [[Thekla Reuten]] · [[Jordan Prentice]] · [[Elizabeth Berrington]] · [[Jérémie Renier]] · [[Mark Donovan]] · [[Éric Godon]]
 > **Studios** [[Twins Financing]] · [[Blueprint Pictures]] · [[Focus Features]] · [[Scion Films]] · [[Film4 Productions]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Crime]]
+

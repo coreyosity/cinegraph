@@ -59,6 +59,7 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 ---
 
 Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.
@@ -71,3 +72,4 @@ Jojo, a lonely German boy during World War II has his world shaken when he learn
 > **Cast** [[Roman Griffin Davis]] · [[Thomasin McKenzie]] · [[Scarlett Johansson]] · [[Taika Waititi]] · [[Sam Rockwell]] · [[Rebel Wilson]] · [[Alfie Allen]] · [[Stephen Merchant]] · [[Archie Yates]] · [[Luke Brandon Field]]
 > **Studios** [[Fox Searchlight Pictures]] · [[Defender Films]] · [[Piki Films]] · [[TSG Entertainment]]
 > **Genres** [[Comedy]] · [[War]] · [[Drama]]
+

@@ -46,8 +46,6 @@ providers:
 - Netflix
 - Netflix Standard with Ads
 - Lionsgate+ Amazon Channels
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 ---
 
 Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.
@@ -60,3 +58,4 @@ Two academic teenage superstars realize, on the eve of their high school graduat
 > **Cast** [[Kaitlyn Dever]] · [[Beanie Feldstein]] · [[Jessica Williams]] · [[Jason Sudeikis]] · [[Lisa Kudrow]] · [[Will Forte]] · [[Victoria Ruesga]] · [[Mason Gooding]] · [[Skyler Gisondo]] · [[Diana Silvers]]
 > **Studios** [[Annapurna Pictures]] · [[Gloria Sanchez Productions]]
 > **Genres** [[Comedy]]
+

@@ -90,3 +90,4 @@ Benjamin Franklin Gates and Abigail Chase re-team with Riley Poole and, now arme
 > **Cast** [[Nicolas Cage]] · [[Diane Kruger]] · [[Justin Bartha]] · [[Ed Harris]] · [[Jon Voight]] · [[Helen Mirren]] · [[Harvey Keitel]] · [[Bruce Greenwood]] · [[Ty Burrell]] · [[Michael Maize]]
 > **Studios** [[Walt Disney Pictures]] · [[Jerry Bruckheimer Films]] · [[Saturn Films]] · [[Junction Entertainment]] · [[Sparkler Entertainment]] · [[NT2 Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Mystery]]
+

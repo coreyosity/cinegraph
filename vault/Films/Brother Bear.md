@@ -63,3 +63,4 @@ When an impulsive boy named Kenai is magically transformed into a bear, he must 
 > **Cast** [[Joaquin Phoenix]] · [[Jeremy Suarez]] · [[Jason Raize]] · [[Rick Moranis]] · [[Dave Thomas]] · [[D. B. Sweeney]] · [[Joan Copeland]] · [[Michael Clarke Duncan]] · [[Harold Gould]] · [[Paul Christie]]
 > **Studios** [[Walt Disney Feature Animation]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Family]]
+

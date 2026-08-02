@@ -72,3 +72,4 @@ During World War II, the British Army assigns a group of competent soldiers to c
 > **Cast** [[Henry Cavill]] · [[Eiza González]] · [[Alan Ritchson]] · [[Henry Golding]] · [[Cary Elwes]] · [[Alex Pettyfer]] · [[Hero Fiennes Tiffin]] · [[Babs Olusanmokun]] · [[Til Schweiger]] · [[Freddie Fox]]
 > **Studios** [[Jerry Bruckheimer Films]] · [[Black Bear Pictures]] · [[Toff Guy Films]]
 > **Genres** [[Action]] · [[Comedy]] · [[War]]
+

@@ -47,9 +47,7 @@ letterboxd: https://boxd.it/103U
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
 - YouTube TV
-- Peacock Premium Plus
 - Sony Pictures Core Amazon Channel
 - Disney Plus
 - Stan
@@ -65,3 +63,4 @@ Agents J and K are back...in time. J has seen some inexplicable things in his 15
 > **Cast** [[Will Smith]] · [[Tommy Lee Jones]] · [[Josh Brolin]] · [[Jemaine Clement]] · [[Emma Thompson]] · [[Michael Stuhlbarg]] · [[Mike Colter]] · [[Nicole Scherzinger]] · [[Michael Chernus]] · [[Alice Eve]]
 > **Studios** [[Columbia Pictures]] · [[Hemisphere Media Capital]] · [[Amblin Entertainment]] · [[Parkes+MacDonald Image Nation]] · [[Image Nation Abu Dhabi]]
 > **Genres** [[Action]] · [[Comedy]] · [[Science Fiction]]
+

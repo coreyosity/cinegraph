@@ -54,3 +54,4 @@ providers:
 > **Cast** [[Jim Carrey]] · [[Jeff Daniels]] · [[Laurie Holden]] · [[Rachel Melvin]] · [[Kathleen Turner]] · [[Rob Riggle]] · [[Tembi Locke]] · [[Paul Blackthorne]] · [[Brady Bluhm]] · [[Patricia French]]
 > **Studios** [[New Line Cinema]] · [[Universal Pictures]] · [[Conundrum Entertainment]] · [[Red Granite Pictures]]
 > **Genres** [[Comedy]]
+

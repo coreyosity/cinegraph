@@ -56,7 +56,9 @@ tags:
 - film
 letterboxd: https://boxd.it/29WQ
 providers:
+- Amazon Prime Video
 - Sky Go
+- Amazon Prime Video with Ads
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
@@ -86,3 +88,4 @@ Bridget Jones is an average woman struggling against expectations. As a New Year
 > **Cast** [[Renée Zellweger]] · [[Colin Firth]] · [[Hugh Grant]] · [[Jim Broadbent]] · [[Gemma Jones]] · [[James Callis]] · [[Sally Phillips]] · [[Shirley Henderson]] · [[Embeth Davidtz]] · [[Lisa Barbuscia]]
 > **Studios** [[Universal Pictures]] · [[StudioCanal]] · [[Miramax]] · [[Working Title Films]] · [[Little Bird]]
 > **Genres** [[Comedy]] · [[Romance]] · [[Drama]]
+

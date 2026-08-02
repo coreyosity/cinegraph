@@ -63,3 +63,4 @@ After graduating from Emory University in 1992, top student and athlete Christop
 > **Cast** [[Emile Hirsch]] · [[Marcia Gay Harden]] · [[William Hurt]] · [[Jena Malone]] · [[Brian H. Dierker]] · [[Catherine Keener]] · [[Vince Vaughn]] · [[Kristen Stewart]] · [[Hal Holbrook]] · [[Thure Lindhardt]]
 > **Studios** [[River Road Entertainment]] · [[Paramount Vantage]] · [[Linson Entertainment]] · [[Square One C.I.H]] · [[Into the Wild]]
 > **Genres** [[Adventure]] · [[Drama]]
+

@@ -44,14 +44,10 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/2b3e
 providers:
-- Philo
 - AMC
-- Sony Pictures Core Amazon Channel
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
-- Amazon Prime Video
-- Amazon Prime Video with Ads
+- Sony Pictures Core Amazon Channel
 ---
 
 A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.
@@ -61,3 +57,4 @@ A cynical TV weatherman, along with his idealistic producer and his sardonic cam
 > **Cast** [[Bill Murray]] · [[Andie MacDowell]] · [[Chris Elliott]] · [[Stephen Tobolowsky]] · [[Brian Doyle-Murray]] · [[Marita Geraghty]] · [[Angela Paton]] · [[Rick Ducommun]] · [[Rick Overton]] · [[Robin Duke]]
 > **Studios** [[Columbia Pictures]]
 > **Genres** [[Romance]] · [[Fantasy]] · [[Comedy]]
+

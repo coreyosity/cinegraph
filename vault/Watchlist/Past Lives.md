@@ -53,6 +53,7 @@ letterboxd: https://boxd.it/oNB8
 providers:
 - MUBI
 - MUBI Amazon Channel
+- STUDIOCANAL PRESENTS Apple TV Channel
 - Studiocanal Presents Amazon Channel
 - Crave
 - Crave Amazon Channel
@@ -67,3 +68,4 @@ After decades apart, childhood friends Nora and Hae Sung are reunited in New Yor
 > **Cast** [[Greta Lee]] · [[Teo Yoo]] · [[John Magaro]] · [[Moon Seung-ah]] · [[Leem Seung-min]] · [[Yoon Ji-hye]] · [[Choi Won-young]] · [[An Min-young]] · [[Seo Yeon-woo]] · [[Chang Ki-ha]]
 > **Studios** [[A24]] · [[Killer Films]] · [[2AM]] · [[CJ ENM]]
 > **Genres** [[Drama]] · [[Romance]]
+

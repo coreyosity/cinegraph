@@ -57,3 +57,4 @@ Former Avenger Clint Barton has a seemingly simple mission: get back to his fami
 > **Cast** [[Jeremy Renner]] · [[Hailee Steinfeld]] · [[Tony Dalton]] · [[Alaqua Cox]] · [[Fra Fee]] · [[Aleks Paunovic]] · [[Piotr Adamczyk]] · [[Vera Farmiga]]
 > **Studios** [[Marvel Studios]] · [[Kevin Feige Productions]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Action & Adventure]]
+

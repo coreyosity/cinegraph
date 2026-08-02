@@ -57,3 +57,4 @@ Two small-town singers chase their pop star dreams at a global music competition
 > **Cast** [[Rachel McAdams]] · [[Will Ferrell]] · [[Pierce Brosnan]] · [[Dan Stevens]] · [[Jamie Demetriou]] · [[Ólafur Darri Ólafsson]] · [[Melissanthi Mahut]] · [[Joi Johannsson]] · [[Björn Hlynur Haraldsson]] · [[Graham Norton]]
 > **Studios** [[Gary Sanchez Productions]] · [[Gloria Sanchez Productions]] · [[European Broadcasting Union]]
 > **Genres** [[Music]] · [[Comedy]]
+

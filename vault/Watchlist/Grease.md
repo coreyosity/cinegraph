@@ -73,7 +73,9 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
+- fuboTV
 - Paramount Plus Essential
+- Freeform
 - Paramount+ Roku Premium Channel
 - BINGE
 - Stan
@@ -86,3 +88,4 @@ Australian good girl Sandy and greaser Danny fell in love over the summer. But w
 > **Cast** [[Olivia Newton-John]] · [[John Travolta]] · [[Stockard Channing]] · [[Jeff Conaway]] · [[Barry Pearl]] · [[Michael Tucci]] · [[Kelly Ward]] · [[Didi Conn]] · [[Jamie Donnelly]] · [[Dinah Manoff]]
 > **Studios** [[Paramount Pictures]] · [[Robert Stigwood Organization]] · [[Fine Arts Films]]
 > **Genres** [[Romance]] · [[Comedy]]
+

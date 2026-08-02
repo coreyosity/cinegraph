@@ -46,11 +46,9 @@ tags:
 - film
 letterboxd: https://boxd.it/9DFE
 providers:
-- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
 - Channel 4 Plus
-- Amazon Prime Video with Ads
 - YouTube TV
 - Netflix
 - Netflix Standard with Ads
@@ -68,3 +66,4 @@ Calvin Joyner, a mild-mannered accountant whose high school glory days are long 
 > **Cast** [[Dwayne Johnson]] · [[Kevin Hart]] · [[Amy Ryan]] · [[Danielle Nicolet]] · [[Jason Bateman]] · [[Aaron Paul]] · [[Ryan Hansen]] · [[Tim Griffin]] · [[Timothy John Smith]] · [[Sione Kelepi]]
 > **Studios** [[New Line Cinema]] · [[Bluegrass Films]] · [[RatPac Entertainment]] · [[Principato-Young Entertainment]] · [[Perfect World Pictures]]
 > **Genres** [[Action]] · [[Comedy]]
+

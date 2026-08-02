@@ -68,3 +68,4 @@ Based on the true nail-biting mission that captivated the world. Twelve boys and
 > **Cast** [[Viggo Mortensen]] · [[Colin Farrell]] · [[Joel Edgerton]] · [[Tom Bateman]] · [[Paul Gleeson]] · [[Teeradon Supapunpinyo]] · [[Girati Sugiyama]] · [[Pasakorn Hoyhon]] · [[Tanatat Srita]] · [[Kaokuson Sorapap]]
 > **Studios** [[Imagine Entertainment]] · [[Storyteller Productions]] · [[Magnolia Mae Films]] · [[Metro-Goldwyn-Mayer]] · [[Bron Studios]]
 > **Genres** [[Drama]] · [[Thriller]] · [[History]]
+

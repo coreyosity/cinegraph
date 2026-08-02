@@ -60,8 +60,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
-- Cinemax Amazon Channel
-- Cinemax Apple TV Channel
 - Crave
 - Crave Amazon Channel
 - Amazon Prime Video
@@ -79,3 +77,4 @@ providers:
 > **Cast** [[Jessica Chastain]] · [[James McAvoy]] · [[Bill Hader]] · [[Isaiah Mustafa]] · [[Jay Ryan]] · [[James Ransone]] · [[Andy Bean]] · [[Bill Skarsgård]] · [[Jaeden Martell]] · [[Wyatt Oleff]]
 > **Studios** [[Vertigo Entertainment]] · [[Double Dream]] · [[Rideback]] · [[New Line Cinema]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Drama]]
+

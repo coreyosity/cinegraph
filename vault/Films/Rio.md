@@ -57,9 +57,7 @@ providers:
 - fuboTV
 - Paramount Plus Premium
 - Paramount Plus Essential
-- Peacock Premium
-- Paramount+ Amazon Channel
-- Peacock Premium Plus
+- Freeform
 - Crave Amazon Channel
 ---
 
@@ -73,3 +71,4 @@ Captured by smugglers when he was just a hatchling, a macaw named Blu never lear
 > **Cast** [[Jesse Eisenberg]] · [[Anne Hathaway]] · [[Leslie Mann]] · [[Jane Lynch]] · [[will.i.am]] · [[George López]] · [[Wanda Sykes]] · [[Jamie Foxx]] · [[Rodrigo Santoro]] · [[Jemaine Clement]]
 > **Studios** [[Blue Sky Studios]] · [[20th Century Fox Animation]]
 > **Genres** [[Animation]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

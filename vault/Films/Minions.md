@@ -48,7 +48,9 @@ letterboxd: https://boxd.it/6jCO
 providers:
 - Sky Go
 - Now TV Cinema
+- Netflix
 - Peacock Premium
+- Netflix Standard with Ads
 - Peacock Premium Plus
 - Crave
 - Club Illico
@@ -66,3 +68,4 @@ Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain
 > **Cast** [[Sandra Bullock]] · [[Jon Hamm]] · [[Michael Keaton]] · [[Allison Janney]] · [[Steve Coogan]] · [[Jennifer Saunders]] · [[Geoffrey Rush]] · [[Steve Carell]] · [[Pierre Coffin]] · [[Katy Mixon]]
 > **Studios** [[Illumination]] · [[Universal Pictures]]
 > **Genres** [[Family]] · [[Animation]] · [[Adventure]] · [[Comedy]]
+

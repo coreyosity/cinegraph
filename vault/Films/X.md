@@ -77,3 +77,4 @@ In 1979, a group of young filmmakers set out to make an adult film in rural Texa
 > **Cast** [[Mia Goth]] · [[Jenna Ortega]] · [[Brittany Snow]] · [[Kid Cudi]] · [[Martin Henderson]] · [[Owen Campbell]] · [[Stephen Ure]] · [[James Gaylyn]] · [[Simon Prast]] · [[Geoff Dolan]]
 > **Studios** [[A24]] · [[Little Lamb Productions]]
 > **Genres** [[Horror]]
+

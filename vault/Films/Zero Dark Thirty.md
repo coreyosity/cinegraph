@@ -73,9 +73,13 @@ letterboxd: https://boxd.it/3n1w
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Netflix
 - Hulu
+- fuboTV
 - Philo
 - AMC
+- Netflix Standard with Ads
+- Sony Pictures Core Amazon Channel
 - Crave
 - Crave Amazon Channel
 - Lionsgate+ Amazon Channels
@@ -92,3 +96,4 @@ A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Lade
 > **Cast** [[Jessica Chastain]] · [[Jason Clarke]] · [[Kyle Chandler]] · [[Jennifer Ehle]] · [[Mark Strong]] · [[Joel Edgerton]] · [[Chris Pratt]] · [[Edgar Ramírez]] · [[Mark Duplass]] · [[Scott Adkins]]
 > **Studios** [[Annapurna Pictures]] · [[First Light]] · [[Mark Boal Productions]]
 > **Genres** [[Thriller]] · [[Drama]]
+

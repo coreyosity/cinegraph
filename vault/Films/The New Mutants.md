@@ -48,6 +48,7 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 ---
 
 Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.
@@ -60,3 +61,4 @@ Five young mutants, just discovering their abilities while held in a secret faci
 > **Cast** [[Blu Hunt]] · [[Charlie Heaton]] · [[Maisie Williams]] · [[Henrique Zaga]] · [[Anya Taylor-Joy]] · [[Alice Braga]] · [[Adam Beach]] · [[Happy Anderson]] · [[Dustin Ceithamer]] · [[Marilyn Manson]]
 > **Studios** [[20th Century Studios]] · [[Genre Films]] · [[Sunswept Entertainment]] · [[Marvel Entertainment]]
 > **Genres** [[Science Fiction]] · [[Horror]]
+

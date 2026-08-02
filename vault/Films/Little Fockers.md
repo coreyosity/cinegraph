@@ -45,6 +45,7 @@ tags:
 - film
 letterboxd: https://boxd.it/13Ea
 providers:
+- Amazon Prime Video
 - Paramount Plus
 - Sky Go
 - Now TV Cinema
@@ -52,6 +53,7 @@ providers:
 - Paramount Plus Basic with Ads
 - Channel 4 Plus
 - Paramount+ Amazon Channel
+- Amazon Prime Video with Ads
 - Netflix
 - Netflix Standard with Ads
 - Stan
@@ -67,3 +69,4 @@ It has taken 10 years, two little Fockers with wife Pam and countless hurdles fo
 > **Cast** [[Robert De Niro]] · [[Ben Stiller]] · [[Owen Wilson]] · [[Dustin Hoffman]] · [[Barbra Streisand]] · [[Blythe Danner]] · [[Teri Polo]] · [[Jessica Alba]] · [[Laura Dern]] · [[Kevin Hart]]
 > **Studios** [[Universal Pictures]] · [[Paramount Pictures]] · [[Relativity Media]] · [[Tribeca Productions]] · [[Everyman Pictures]] · [[Nancy Tenenbaum Films]]
 > **Genres** [[Comedy]] · [[Romance]]
+

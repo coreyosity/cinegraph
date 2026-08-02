@@ -67,3 +67,4 @@ After hundreds of years doing what he was built for, WALL•E— a robot designe
 > **Cast** [[Ben Burtt]] · [[Elissa Knight]] · [[Jeff Garlin]] · [[Fred Willard]] · [[John Ratzenberger]] · [[Kathy Najimy]] · [[Sigourney Weaver]] · [[Lori Alan]] · [[Bob Bergen]] · [[John Cygan]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Science Fiction]]
+

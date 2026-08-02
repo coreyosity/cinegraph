@@ -69,3 +69,4 @@ After receiving an unexpected call from her wayfinding ancestors, Moana journeys
 > **Cast** [[Auliʻi Cravalho]] · [[Dwayne Johnson]] · [[Hualālai Chung]] · [[Rose Matafeo]] · [[David Fane]] · [[Awhimai Fraser]] · [[Khaleesi Lambert-Tsuda]] · [[Temuera Morrison]] · [[Nicole Scherzinger]] · [[Rachel House]]
 > **Studios** [[Walt Disney Animation Studios]] · [[Walt Disney Animation Studios]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

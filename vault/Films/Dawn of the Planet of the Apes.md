@@ -105,3 +105,4 @@ A group of scientists in San Francisco struggle to stay alive in the aftermath o
 > **Cast** [[Andy Serkis]] · [[Jason Clarke]] · [[Toby Kebbell]] · [[Gary Oldman]] · [[Keri Russell]] · [[Kodi Smit-McPhee]] · [[Nick Thurston]] · [[Karin Konoval]] · [[Terry Notary]] · [[Doc Shaw]]
 > **Studios** [[TSG Entertainment]] · [[Chernin Entertainment]] · [[Ingenious Media]] · [[20th Century Fox]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Drama]] · [[Thriller]]
+

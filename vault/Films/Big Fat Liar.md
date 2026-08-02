@@ -54,3 +54,4 @@ After one of his class papers is stolen and turned into a movie, a young student
 > **Cast** [[Frankie Muniz]] · [[Paul Giamatti]] · [[Amanda Bynes]] · [[Amanda Detmer]] · [[Sandra Oh]] · [[Russell Hornsby]] · [[Michael Bryan French]] · [[Christine Tucci]] · [[Lee Majors]] · [[Donald Faison]]
 > **Studios** [[TollinRobbins Productions]]
 > **Genres** [[Family]] · [[Comedy]] · [[Adventure]]
+

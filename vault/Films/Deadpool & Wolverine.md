@@ -71,3 +71,4 @@ A listless Wade Wilson toils away in civilian life with his days as the morally 
 > **Cast** [[Ryan Reynolds]] · [[Hugh Jackman]] · [[Emma Corrin]] · [[Matthew Macfadyen]] · [[Dafne Keen]] · [[Jon Favreau]] · [[Morena Baccarin]] · [[Rob Delaney]] · [[Leslie Uggams]] · [[Jennifer Garner]]
 > **Studios** [[Marvel Studios]] · [[Maximum Effort]] · [[21 Laps Entertainment]] · [[20th Century Studios]] · [[Kevin Feige Productions]] · [[TSG Entertainment]]
 > **Genres** [[Action]] · [[Comedy]] · [[Science Fiction]]
+

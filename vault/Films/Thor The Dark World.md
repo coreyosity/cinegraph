@@ -55,3 +55,4 @@ Thor fights to restore order across the cosmos… but an ancient race led by the
 > **Cast** [[Chris Hemsworth]] · [[Natalie Portman]] · [[Tom Hiddleston]] · [[Christopher Eccleston]] · [[Anthony Hopkins]] · [[Jaimie Alexander]] · [[Zachary Levi]] · [[Ray Stevenson]] · [[Tadanobu Asano]] · [[Idris Elba]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

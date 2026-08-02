@@ -58,6 +58,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -78,3 +79,4 @@ A young bride's wedding night turns into her worst nightmare when her ridiculous
 > **Cast** [[Samara Weaving]] · [[Adam Brody]] · [[Mark O'Brien]] · [[Henry Czerny]] · [[Andie MacDowell]] · [[Melanie Scrofano]] · [[Kristian Bruun]] · [[Elyse Levesque]] · [[Nicky Guadagni]] · [[John Ralston]]
 > **Studios** [[Mythology Entertainment]] · [[Vinson Films]] · [[Fox Searchlight Pictures]] · [[Radio Silence]] · [[TSG Entertainment]]
 > **Genres** [[Horror]] · [[Comedy]]
+

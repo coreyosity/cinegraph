@@ -58,3 +58,4 @@ Thirty years after defeating the Galactic Empire, Han Solo and his allies face a
 > **Cast** [[Daisy Ridley]] · [[John Boyega]] · [[Oscar Isaac]] · [[Adam Driver]] · [[Carrie Fisher]] · [[Harrison Ford]] · [[Mark Hamill]] · [[Lupita Nyong'o]] · [[Andy Serkis]] · [[Domhnall Gleeson]]
 > **Studios** [[Lucasfilm Ltd]] · [[Bad Robot]]
 > **Genres** [[Adventure]] · [[Action]] · [[Science Fiction]]
+

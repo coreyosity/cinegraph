@@ -49,10 +49,8 @@ tags:
 - film
 letterboxd: https://boxd.it/15HA
 providers:
-- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
-- Amazon Prime Video with Ads
 - Netflix
 - Crave
 - Starz Amazon Channel
@@ -70,3 +68,4 @@ providers:
 > **Cast** [[Jaden Smith]] · [[Jackie Chan]] · [[Taraji P. Henson]] · [[Wenwen Han]] · [[Zac Wang]] · [[Yu Rongguang]] · [[Wu Zhensu]] · [[Wang Ji]] · [[Tess Liu]] · [[Xu Ming]]
 > **Studios** [[Jerry Weintraub Productions]] · [[Columbia Pictures]] · [[Overbrook Entertainment]] · [[Emperor Motion Pictures]] · [[China Film Group Corporation]]
 > **Genres** [[Action]] · [[Adventure]] · [[Drama]] · [[Family]]
+

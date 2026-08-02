@@ -61,3 +61,4 @@ Raised by her father, an ex-CIA agent, in the wilds of Finland, Hanna's upbringi
 > **Cast** [[Saoirse Ronan]] · [[Eric Bana]] · [[Cate Blanchett]] · [[Tom Hollander]] · [[Jessica Barden]] · [[Olivia Williams]] · [[Jason Flemyng]] · [[Aldo Maland]] · [[Tim Beckmann]] · [[John Macmillan]]
 > **Studios** [[Holleran Company]] · [[Neunte Babelsberg Film]] · [[Sechzehnte Babelsberg Film]] · [[Twins Financing]]
 > **Genres** [[Action]] · [[Thriller]] · [[Adventure]]
+

@@ -54,6 +54,10 @@ providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - Hulu
+- Paramount Plus
+- Paramount+ Amazon Channel
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 - Sony Pictures Core Amazon Channel
 ---
 
@@ -64,3 +68,4 @@ In an isolated family mansion, a group of rich 20-somethings decides to play Bod
 > **Cast** [[Amandla Stenberg]] · [[Maria Bakalova]] · [[Myha'la]] · [[Rachel Sennott]] · [[Chase Sui Wonders]] · [[Pete Davidson]] · [[Lee Pace]] · [[Conner O'Malley]]
 > **Studios** [[A24]] · [[2AM]]
 > **Genres** [[Comedy]] · [[Mystery]] · [[Horror]]
+

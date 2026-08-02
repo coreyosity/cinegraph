@@ -80,3 +80,4 @@ While the Second World War rages, the teenage Mahito, haunted by his mother's tr
 > **Cast** [[Soma Santoki]] · [[Masaki Suda]] · [[Ko Shibasaki]] · [[Aimyon]] · [[Yoshino Kimura]] · [[Takuya Kimura]] · [[Keiko Takeshita]] · [[Jun Fubuki]] · [[Sawako Agawa]] · [[Karen Takizawa]]
 > **Studios** [[Studio Ghibli]]
 > **Genres** [[Animation]] · [[Fantasy]] · [[Drama]]
+

@@ -80,3 +80,4 @@ A sadistic serial rapist and murderer of young women terrorizes a small province
 > **Cast** [[Song Kang-ho]] · [[Kim Sang-kyung]] · [[Kim Roi-ha]] · [[Song Jae-ho]] · [[Byun Hee-bong]] · [[Go Seo-hee]] · [[Ryu Tae-ho]] · [[Park No-shik]] · [[Park Hae-il]] · [[Jeon Mi-seon]]
 > **Studios** [[CJ Entertainment]] · [[Muhan Investment]] · [[Sidus]]
 > **Genres** [[Crime]] · [[Drama]] · [[Thriller]]
+

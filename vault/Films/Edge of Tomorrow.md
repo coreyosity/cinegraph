@@ -85,3 +85,4 @@ Major Bill Cage is an officer who has never seen a day of combat when he is unce
 > **Cast** [[Tom Cruise]] · [[Emily Blunt]] · [[Brendan Gleeson]] · [[Bill Paxton]] · [[Jonas Armstrong]] · [[Tony Way]] · [[Kick Gurry]] · [[Franz Drameh]] · [[Dragomir Mrsic]] · [[Charlotte Riley]]
 > **Studios** [[RatPac Entertainment]] · [[Village Roadshow Pictures]] · [[VIZ Media]] · [[3 Arts Entertainment]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]]
+

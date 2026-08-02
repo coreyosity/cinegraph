@@ -64,3 +64,4 @@ Kid is an anonymous young man who ekes out a meager living in an underground fig
 > **Cast** [[Dev Patel]] · [[Sikandar Kher]] · [[Makrand Deshpande]] · [[Pitobash]] · [[Vipin Sharma]] · [[Ashwini Kalsekar]] · [[Sobhita Dhulipala]] · [[Adithi Kalkunte]] · [[Sharlto Copley]] · [[Jatin Malik]]
 > **Studios** [[Thunder Road]] · [[Bron Studios]] · [[Monkeypaw Productions]] · [[Minor Realm]] · [[Creative Wealth Media Finance]] · [[S'YA Concept]] · [[WME Independent]]
 > **Genres** [[Thriller]] · [[Crime]] · [[Action]]
+

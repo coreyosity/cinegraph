@@ -67,3 +67,4 @@ A young girl, Chihiro, becomes trapped in a strange new world of spirits. When h
 > **Cast** [[Rumi Hiiragi]] · [[Miyu Irino]] · [[Mari Natsuki]] · [[Takashi Naito]] · [[Yasuko Sawaguchi]] · [[Tatsuya Gashuin]] · [[Ryunosuke Kamiki]] · [[Yumi Tamai]] · [[Yo Oizumi]] · [[Koba Hayashi]]
 > **Studios** [[Studio Ghibli]] · [[Tokuma Shoten]] · [[Nippon Television Network Corporation]] · [[Mitsubishi]] · [[dentsu]] · [[TFC]]
 > **Genres** [[Animation]] · [[Family]] · [[Fantasy]]
+

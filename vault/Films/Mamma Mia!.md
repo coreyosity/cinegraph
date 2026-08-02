@@ -64,9 +64,7 @@ providers:
 - Netflix Standard with Ads
 - Amazon Prime Video with Ads
 - Hulu
-- Peacock Premium
 - Starz Apple TV Channel
-- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - BINGE
@@ -83,3 +81,4 @@ A spirited young bride-to-be living with her single mother on a small Greek isla
 > **Cast** [[Amanda Seyfried]] · [[Meryl Streep]] · [[Pierce Brosnan]] · [[Colin Firth]] · [[Stellan Skarsgård]] · [[Christine Baranski]] · [[Julie Walters]] · [[Dominic Cooper]] · [[Niall Buggy]] · [[Ashley Lilley]]
 > **Studios** [[Littlestar]] · [[Playtone]] · [[Internationale Filmproduktion Richter]]
 > **Genres** [[Comedy]] · [[Romance]]
+

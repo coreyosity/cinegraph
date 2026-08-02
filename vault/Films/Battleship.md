@@ -62,6 +62,8 @@ letterboxd: https://boxd.it/QZ0
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Peacock Premium
+- Peacock Premium Plus
 - BINGE
 - Foxtel Now
 ---
@@ -76,3 +78,4 @@ When mankind beams a radio signal into space, a reply comes from ‘Planet G’,
 > **Cast** [[Taylor Kitsch]] · [[Alexander Skarsgård]] · [[Rihanna]] · [[Brooklyn Decker]] · [[Tadanobu Asano]] · [[Hamish Linklater]] · [[Liam Neeson]] · [[Peter MacNicol]] · [[John Tui]] · [[Jesse Plemons]]
 > **Studios** [[Bluegrass Films]] · [[Film 44]] · [[Universal Pictures]] · [[Hasbro Studios]]
 > **Genres** [[Thriller]] · [[Action]] · [[Adventure]] · [[Science Fiction]]
+

@@ -70,7 +70,6 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - Crave
-- Starz Amazon Channel
 - Crave Amazon Channel
 - Stan
 - MUBI
@@ -87,3 +86,4 @@ Following the death of the Leigh family matriarch, Annie and her children uncove
 > **Cast** [[Toni Collette]] · [[Alex Wolff]] · [[Gabriel Byrne]] · [[Milly Shapiro]] · [[Ann Dowd]] · [[Mallory Bechtel]] · [[Brock McKinney]] · [[Jake Brown]] · [[Morgan Lund]] · [[Christy Summerhays]]
 > **Studios** [[PalmStar Media]] · [[Pulse Films]] · [[Finch Entertainment]] · [[Windy Hill Pictures]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

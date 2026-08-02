@@ -45,10 +45,8 @@ tags:
 - film
 letterboxd: https://boxd.it/2HvO
 providers:
-- Amazon Prime Video
 - Sky Go
 - Now TV Cinema
-- Amazon Prime Video with Ads
 - Netflix
 - Netflix Standard with Ads
 - Sony Pictures Core Amazon Channel
@@ -72,3 +70,4 @@ The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures ca
 > **Cast** [[Katy Perry]] · [[Hank Azaria]] · [[Neil Patrick Harris]] · [[Jayma Mays]] · [[Brendan Gleeson]] · [[Jacob Tremblay]] · [[Nancy O'Dell]] · [[Karim Babin]] · [[Gaston Morrison]] · [[Jocelyn Blanchard]]
 > **Studios** [[NeoReel]] · [[Columbia Pictures]] · [[Sony Pictures Animation]] · [[Hemisphere Media Capital]] · [[The Kerner Entertainment Company]]
 > **Genres** [[Fantasy]] · [[Family]] · [[Comedy]] · [[Animation]]
+

@@ -62,3 +62,4 @@ A group of unwitting teens are stranded near a strange wax museum and soon must 
 > **Cast** [[Elisha Cuthbert]] · [[Chad Michael Murray]] · [[Brian Van Holt]] · [[Paris Hilton]] · [[Jon Abrahams]] · [[Jared Padalecki]] · [[Robert Ri'chard]] · [[Damon Herriman]] · [[Dragicia Debert]] · [[Murray Smith]]
 > **Studios** [[Village Roadshow Pictures]] · [[Dark Castle Entertainment]] · [[Warner Bros. Pictures]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Mystery]]
+

@@ -74,8 +74,6 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/2ab2
 providers:
-- Sky Go
-- Now TV Cinema
 - Crave
 - Crave Amazon Channel
 - BINGE
@@ -89,3 +87,4 @@ When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash
 > **Cast** [[Anthony Perkins]] · [[Janet Leigh]] · [[Vera Miles]] · [[John Gavin]] · [[Martin Balsam]] · [[John McIntire]] · [[Simon Oakland]] · [[Frank Albertson]] · [[Patricia Hitchcock]] · [[Vaughn Taylor]]
 > **Studios** [[Shamley Productions]]
 > **Genres** [[Horror]] · [[Thriller]] · [[Mystery]]
+

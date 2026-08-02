@@ -56,3 +56,4 @@ It's all extreme sports and a life of freedom as Max sets off for college -- but
 > **Cast** [[Bill Farmer]] · [[Jason Marsden]] · [[Jeff Bennett]] · [[Jim Cummings]] · [[Brad Garrett]] · [[Vicki Lewis]] · [[Bebe Neuwirth]] · [[Rob Paulsen]] · [[Pauly Shore]] · [[Kath Soucie]]
 > **Studios** [[Disney Television Animation]] · [[Walt Disney Animation]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]]
+

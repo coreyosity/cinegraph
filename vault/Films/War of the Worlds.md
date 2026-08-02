@@ -55,17 +55,16 @@ providers:
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
+- fuboTV
+- MGM+ Amazon Channel
 - Paramount Plus Essential
-- Peacock Premium
 - Philo
 - Starz Apple TV Channel
 - 'AMC Plus Apple TV Channel '
-- AMC+ Amazon Channel
 - AMC+
 - YouTube TV
 - MGM Plus
 - Paramount+ Roku Premium Channel
-- Peacock Premium Plus
 - Foxtel Now
 - Stan
 rewatch: true
@@ -87,3 +86,4 @@ Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after hi
 > **Cast** [[Tom Cruise]] · [[Dakota Fanning]] · [[Miranda Otto]] · [[Justin Chatwin]] · [[Tim Robbins]] · [[Rick Gonzalez]] · [[Yul Vazquez]] · [[Lenny Venito]] · [[Lisa Ann Walter]] · [[Ann Robinson]]
 > **Studios** [[Paramount Pictures]] · [[DreamWorks Pictures]] · [[Amblin Entertainment]] · [[CruiseWagner Productions]]
 > **Genres** [[Adventure]] · [[Thriller]] · [[Science Fiction]]
+

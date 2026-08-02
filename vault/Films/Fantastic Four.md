@@ -74,3 +74,4 @@ During a space voyage, four scientists are altered by cosmic rays: Reed Richards
 > **Cast** [[Ioan Gruffudd]] · [[Jessica Alba]] · [[Chris Evans]] · [[Michael Chiklis]] · [[Julian McMahon]] · [[Hamish Linklater]] · [[Kerry Washington]] · [[Laurie Holden]] · [[David Parker]] · [[Kevin McNulty]]
 > **Studios** [[Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG]] · [[1492 Pictures]] · [[Marvel Enterprises]] · [[20th Century Fox]] · [[Bernd Eichinger Productions]] · [[Constantin Film]]
 > **Genres** [[Action]] · [[Fantasy]] · [[Science Fiction]]
+

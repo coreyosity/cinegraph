@@ -47,11 +47,9 @@ letterboxd: https://boxd.it/2pgc
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- Philo
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - Starz
-- Starz Amazon Channel
 - Disney Plus
 - BINGE
 - Paramount Plus
@@ -71,3 +69,4 @@ John Bennett, a man whose childhood wish of bringing his teddy bear to life came
 > **Cast** [[Mark Wahlberg]] · [[Mila Kunis]] · [[Seth MacFarlane]] · [[Joel McHale]] · [[Giovanni Ribisi]] · [[Patrick Warburton]] · [[Matt Walsh]] · [[Jessica Barth]] · [[Aedin Mincks]] · [[Bill Smitrovich]]
 > **Studios** [[Universal Pictures]] · [[MRC]] · [[Fuzzy Door Productions]] · [[Bluegrass Films]] · [[Smart Entertainment]]
 > **Genres** [[Comedy]] · [[Fantasy]]
+

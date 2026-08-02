@@ -60,3 +60,4 @@ Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Empor
 > **Cast** [[Dustin Hoffman]] · [[Natalie Portman]] · [[Jason Bateman]] · [[Zach Mills]] · [[Jonathan Potts]] · [[Rebecca Northan]] · [[David Rendall]] · [[Jade Cohen]] · [[Marcia Bennett]] · [[Ted Ludzik]]
 > **Studios** [[Ontario Media Development Corporation]] · [[Mandate Pictures]] · [[Walden Media]] · [[FilmColony]] · [[Gang of Two Productions]]
 > **Genres** [[Family]] · [[Fantasy]] · [[Comedy]]
+

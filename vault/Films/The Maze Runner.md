@@ -53,8 +53,6 @@ providers:
 - Amazon Prime Video with Ads
 - Crave
 - Hollywood Suite
-- Hollywood Suite Amazon Channel
-- Starz Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -68,3 +66,4 @@ A teenager with no memory of his past finds himself among a group of boys living
 > **Cast** [[Dylan O'Brien]] · [[Kaya Scodelario]] · [[Thomas Brodie-Sangster]] · [[Ki Hong Lee]] · [[Will Poulter]] · [[Aml Ameen]] · [[Patricia Clarkson]] · [[Blake Cooper]] · [[Dexter Darden]] · [[Jacob Latimore]]
 > **Studios** [[Ingenious Media]] · [[The Gotham Group]] · [[Dayday Films]] · [[Temple Hill Entertainment]] · [[TSG Entertainment]] · [[20th Century Fox]]
 > **Genres** [[Action]] · [[Mystery]] · [[Science Fiction]] · [[Thriller]]
+

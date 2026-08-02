@@ -54,9 +54,7 @@ letterboxd: https://boxd.it/2a0y
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
 - YouTube TV
-- Peacock Premium Plus
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 - Sony Pictures Core Amazon Channel
@@ -74,3 +72,4 @@ Kay and Jay reunite to provide our best, last and only line of defense against a
 > **Cast** [[Tommy Lee Jones]] · [[Will Smith]] · [[Rip Torn]] · [[Lara Flynn Boyle]] · [[Johnny Knoxville]] · [[Rosario Dawson]] · [[Tony Shalhoub]] · [[Patrick Warburton]] · [[Jack Kehler]] · [[David Cross]]
 > **Studios** [[Columbia Pictures]] · [[Amblin Entertainment]] · [[Parkes+MacDonald Production]]
 > **Genres** [[Action]] · [[Comedy]] · [[Science Fiction]]
+

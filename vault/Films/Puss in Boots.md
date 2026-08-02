@@ -50,11 +50,10 @@ tags:
 letterboxd: https://boxd.it/eL34
 providers:
 - Amazon Prime Video
+- Sky Go
 - Amazon Prime Video with Ads
 - HBO Max Amazon Channel
-- Peacock Premium
 - HBO Max
-- Peacock Premium Plus
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -74,3 +73,4 @@ Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in B
 > **Cast** [[Antonio Banderas]] · [[Salma Hayek Pinault]] · [[Zach Galifianakis]] · [[Billy Bob Thornton]] · [[Amy Sedaris]] · [[Constance Marie]] · [[Mike Mitchell]] · [[Rich Dietl]] · [[Guillermo del Toro]] · [[Conrad Vernon]]
 > **Studios** [[DreamWorks Animation]]
 > **Genres** [[Action]] · [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

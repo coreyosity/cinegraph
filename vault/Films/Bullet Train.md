@@ -81,3 +81,4 @@ Unlucky assassin Ladybug is determined to do his job peacefully after one too ma
 > **Cast** [[Brad Pitt]] · [[Joey King]] · [[Aaron Taylor-Johnson]] · [[Brian Tyree Henry]] · [[Andrew Koji]] · [[Hiroyuki Sanada]] · [[Michael Shannon]] · [[Sandra Bullock]] · [[Bad Bunny]] · [[Logan Lerman]]
 > **Studios** [[87North Productions]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Comedy]] · [[Thriller]]
+

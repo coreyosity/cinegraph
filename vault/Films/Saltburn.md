@@ -83,3 +83,4 @@ Struggling to find his place at Oxford University, student Oliver Quick finds hi
 > **Cast** [[Barry Keoghan]] · [[Jacob Elordi]] · [[Rosamund Pike]] · [[Richard E. Grant]] · [[Alison Oliver]] · [[Archie Madekwe]] · [[Carey Mulligan]] · [[Paul Rhys]] · [[Ewan Mitchell]] · [[Sadie Soverall]]
 > **Studios** [[LuckyChap Entertainment]] · [[MRC]] · [[Lie Still]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Thriller]]
+

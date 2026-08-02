@@ -55,3 +55,4 @@ When Cole stays up past his bedtime, he discovers that his hot babysitter is par
 > **Cast** [[Judah Lewis]] · [[Samara Weaving]] · [[Robbie Amell]] · [[Hana Mae Lee]] · [[Bella Thorne]] · [[Emily Alyn Lind]] · [[Andrew Bachelor]] · [[Doug Haley]] · [[Leslie Bibb]] · [[Ken Marino]]
 > **Studios** [[Wonderland Sound and Vision]] · [[BoiesSchiller Film Group]]
 > **Genres** [[Comedy]] · [[Horror]]
+

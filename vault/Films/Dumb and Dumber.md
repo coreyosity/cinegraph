@@ -72,3 +72,4 @@ Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, 
 > **Cast** [[Jim Carrey]] · [[Jeff Daniels]] · [[Lauren Holly]] · [[Teri Garr]] · [[Charles Rocket]] · [[Karen Duffy]] · [[Mike Starr]] · [[Felton Perry]] · [[Hank Brandt]] · [[Brad Lockerman]]
 > **Studios** [[New Line Cinema]] · [[Motion Picture Corporation of America]]
 > **Genres** [[Comedy]]
+

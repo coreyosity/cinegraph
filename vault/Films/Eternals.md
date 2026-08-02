@@ -59,3 +59,4 @@ The Eternals are a team of ancient aliens who have been living on Earth in secre
 > **Cast** [[Gemma Chan]] · [[Richard Madden]] · [[Angelina Jolie]] · [[Salma Hayek Pinault]] · [[Kumail Nanjiani]] · [[Lia McHugh]] · [[Brian Tyree Henry]] · [[Lauren Ridloff]] · [[Barry Keoghan]] · [[Don Lee]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

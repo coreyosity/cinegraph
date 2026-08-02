@@ -55,8 +55,8 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/qTKY
 providers:
-- MGM Plus Amazon Channel
-- MGM Amazon Channel
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 ---
 
 The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.
@@ -66,3 +66,4 @@ The story of Gary Valentine and Alana Kane growing up, running around and going 
 > **Cast** [[Alana Haim]] · [[Cooper Hoffman]] · [[Sean Penn]] · [[Tom Waits]] · [[Bradley Cooper]] · [[Benny Safdie]] · [[Skyler Gisondo]] · [[Mary Elizabeth Ellis]] · [[John Michael Higgins]] · [[Christine Ebersole]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[Focus Features]] · [[Bron Studios]] · [[Ghoulardi Film Company]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Romance]]
+

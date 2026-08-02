@@ -57,6 +57,7 @@ providers:
 - fuboTV
 - Starz Apple TV Channel
 - YouTube TV
+- FXNow
 - Club Illico
 - Stan
 ---
@@ -71,3 +72,4 @@ When single mom Callie and her two kids Trevor and Phoebe arrive in a small Okla
 > **Cast** [[Mckenna Grace]] · [[Finn Wolfhard]] · [[Carrie Coon]] · [[Paul Rudd]] · [[Logan Kim]] · [[Celeste O'Connor]] · [[Bill Murray]] · [[Dan Aykroyd]] · [[Ernie Hudson]] · [[Annie Potts]]
 > **Studios** [[Columbia Pictures]] · [[Bron Studios]] · [[The Montecito Picture Company]] · [[Ghost Corps]]
 > **Genres** [[Fantasy]] · [[Comedy]] · [[Adventure]]
+

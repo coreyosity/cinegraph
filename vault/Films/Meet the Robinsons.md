@@ -59,7 +59,6 @@ tags:
 letterboxd: https://boxd.it/28Ym
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Lewis, a brilliant young inventor, is keen on creating a time machine to find his mother, who abandoned him in an orphanage. Things take a turn when he meets Wilbur Robinson and his family.
@@ -72,3 +71,4 @@ Lewis, a brilliant young inventor, is keen on creating a time machine to find hi
 > **Cast** [[Daniel Hansen]] · [[Jordan Fry]] · [[Wesley Singerman]] · [[Matthew Josten]] · [[Stephen J. Anderson]] · [[Tom Selleck]] · [[Tom Kenny]] · [[Laurie Metcalf]] · [[Angela Bassett]] · [[Nicole Sullivan]]
 > **Studios** [[Walt Disney Animation Studios]] · [[Walt Disney Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Science Fiction]] · [[Adventure]]
+

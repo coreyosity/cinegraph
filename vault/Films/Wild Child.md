@@ -51,8 +51,6 @@ tags:
 - film
 letterboxd: https://boxd.it/1P0C
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - Paramount Plus
 - Paramount+ Amazon Channel
 - Paramount Plus Premium
@@ -69,3 +67,4 @@ Sixteen-year-old Poppy has everything her unlimited credit cards can buy, and a 
 > **Cast** [[Emma Roberts]] · [[Alex Pettyfer]] · [[Natasha Richardson]] · [[Kimberley Nixon]] · [[Juno Temple]] · [[Johnny Pacar]] · [[Linzey Cocker]] · [[Aidan Quinn]] · [[Georgia King]] · [[Sophie Wu]]
 > **Studios** [[Working Title Films]] · [[StudioCanal]] · [[Universal Pictures]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Romance]]
+

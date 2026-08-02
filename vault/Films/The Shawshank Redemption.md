@@ -55,7 +55,6 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
-- Philo
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -71,3 +70,4 @@ Imprisoned in the 1940s for the double murder of his wife and her lover, upstand
 > **Cast** [[Tim Robbins]] · [[Morgan Freeman]] · [[Bob Gunton]] · [[William Sadler]] · [[Clancy Brown]] · [[Gil Bellows]] · [[James Whitmore]] · [[Mark Rolston]] · [[Jeffrey DeMunn]] · [[Larry Brandenburg]]
 > **Studios** [[Castle Rock Entertainment]]
 > **Genres** [[Drama]] · [[Crime]]
+

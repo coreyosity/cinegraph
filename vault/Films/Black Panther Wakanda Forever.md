@@ -64,3 +64,4 @@ Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their
 > **Cast** [[Letitia Wright]] · [[Tenoch Huerta Mejía]] · [[Lupita Nyong'o]] · [[Danai Gurira]] · [[Winston Duke]] · [[Angela Bassett]] · [[Martin Freeman]] · [[Julia Louis-Dreyfus]] · [[Dominique Thorne]] · [[Florence Kasumba]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

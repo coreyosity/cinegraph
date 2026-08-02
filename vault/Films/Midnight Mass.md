@@ -48,3 +48,4 @@ Two worn-out wrestling brothers take part in a midnight fight on Halloween. What
 > **Cast** [[Chris Margetis]] · [[Mike Carey]] · [[Adrian Pasdar]] · [[D. B. Sweeney]] · [[Randy Couture]] · [[Bas Rutten]] · [[Mike O'Hearn]] · [[Mindy Robinson]] · [[Max Martini]] · [[Luce Rains]]
 > **Studios** [[Mona Vista Productions]]
 > **Genres** [[Horror]] · [[Action]] · [[Comedy]]
+

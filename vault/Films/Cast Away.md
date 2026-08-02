@@ -56,7 +56,7 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Paramount+ Amazon Channel
-- fuboTV
+- Philo
 - YouTube TV
 - BINGE
 - Foxtel Now
@@ -72,3 +72,4 @@ Chuck Noland, a top international manager for FedEx, and Kelly, a Ph.D. student,
 > **Cast** [[Tom Hanks]] · [[Helen Hunt]] · [[Nick Searcy]] · [[Jenifer Lewis]] · [[Geoffrey Blake]] · [[Peter Von Berg]] · [[Chris Noth]] · [[Lari White]] · [[Elden Henson]] · [[Timothy Stack]]
 > **Studios** [[20th Century Fox]] · [[DreamWorks Pictures]] · [[ImageMovers]] · [[Playtone]]
 > **Genres** [[Adventure]] · [[Drama]]
+

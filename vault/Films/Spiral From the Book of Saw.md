@@ -49,6 +49,7 @@ providers:
 - Hulu
 - fuboTV
 - YouTube TV
+- FXNow
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 ---
@@ -63,3 +64,4 @@ Working in the shadow of an esteemed police veteran, brash Detective Ezekiel “
 > **Cast** [[Chris Rock]] · [[Samuel L. Jackson]] · [[Max Minghella]] · [[Marisol Nichols]] · [[Dan Petronijevic]] · [[Richard Zeppieri]] · [[Patrick McManus]] · [[Edie Inksetter]] · [[Thomas Mitchell]] · [[Nazneen Contractor]]
 > **Studios** [[Twisted Pictures]] · [[Lionsgate]] · [[Serendipity Productions]] · [[Dahlstar LLC]]
 > **Genres** [[Horror]] · [[Mystery]]
+

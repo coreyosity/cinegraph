@@ -41,8 +41,6 @@ tags:
 - film
 letterboxd: https://boxd.it/ePpI
 providers:
-- Amazon Prime Video
-- Amazon Prime Video with Ads
 - ITVX Premium
 - fuboTV
 - MGM+ Amazon Channel
@@ -57,7 +55,6 @@ providers:
 - Paramount Plus Premium
 - Paramount Plus Basic with Ads
 - Crave Amazon Channel
-- BINGE
 - Foxtel Now
 - Stan
 ---
@@ -72,3 +69,4 @@ Father and stepfather Dusty and Brad join forces to make Christmastime perfect f
 > **Cast** [[Will Ferrell]] · [[Mark Wahlberg]] · [[Mel Gibson]] · [[John Lithgow]] · [[Linda Cardellini]] · [[Alessandra Ambrosio]] · [[Owen Vaccaro]] · [[Scarlett Estevez]] · [[Didi Costine]] · [[Connor Wise]]
 > **Studios** [[Red Granite Pictures]] · [[Gary Sanchez Productions]] · [[Paramount Pictures]]
 > **Genres** [[Comedy]]
+

@@ -60,3 +60,4 @@ An orphaned child's dreams—and nightmares—manifest physically as he sleeps.
 > **Cast** [[Kate Bosworth]] · [[Jacob Tremblay]] · [[Thomas Jane]] · [[Annabeth Gish]] · [[Lance E. Nichols]] · [[Scottie Thompson]] · [[Dash Mihok]] · [[Jay Karnes]] · [[Kyla Deaver]] · [[Courtney Bell]]
 > **Studios** [[MICA Entertainment]] · [[Intrepid Pictures]] · [[Demarest Films]]
 > **Genres** [[Drama]] · [[Fantasy]] · [[Horror]] · [[Thriller]]
+

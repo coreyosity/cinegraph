@@ -77,3 +77,4 @@ Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, 
 > **Cast** [[James McAvoy]] · [[Michael Fassbender]] · [[Jennifer Lawrence]] · [[Rose Byrne]] · [[Kevin Bacon]] · [[January Jones]] · [[Nicholas Hoult]] · [[Lucas Till]] · [[Zoë Kravitz]] · [[Caleb Landry Jones]]
 > **Studios** [[The Donners' Company]] · [[Bad Hat Harry Productions]] · [[20th Century Fox]] · [[Marvel Entertainment]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

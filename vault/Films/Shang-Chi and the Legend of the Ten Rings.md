@@ -55,3 +55,4 @@ Shang-Chi must confront the past he thought he left behind when he is drawn into
 > **Cast** [[Simu Liu]] · [[Tony Leung Chiu-wai]] · [[Awkwafina]] · [[Ben Kingsley]] · [[Zhang Meng'er]] · [[Fala Chen]] · [[Michelle Yeoh]] · [[Yuen Wah]] · [[Florian Munteanu]] · [[Andy Le]]
 > **Studios** [[Marvel Studios]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

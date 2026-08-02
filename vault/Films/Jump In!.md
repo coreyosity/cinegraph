@@ -57,3 +57,4 @@ A young boxer, Izzy Daniels, trains to follow in his father's footsteps by winni
 > **Cast** [[Corbin Bleu]] · [[Keke Palmer]] · [[David Reivers]] · [[Shanica Knowles]] · [[Laivan Greene]] · [[Kylee Russell]] · [[Patrick Johnson Jr]] · [[Micah Williams]] · [[Paula Brancati]] · [[Jajube Mandiela]]
 > **Studios** [[Davis Entertainment]] · [[Hop, Skip and Jump Productions]] · [[Jumping Rope Productions]] · [[Walt Disney Television]] · [[Disney Channel]]
 > **Genres** [[Drama]] · [[Comedy]] · [[Romance]]
+

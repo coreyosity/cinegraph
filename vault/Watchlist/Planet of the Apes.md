@@ -53,7 +53,6 @@ tags:
 letterboxd: https://boxd.it/29p8
 providers:
 - Disney Plus
-- IndieFlix
 - Hollywood Suite
 - Hollywood Suite Amazon Channel
 ---
@@ -65,3 +64,4 @@ Astronaut Taylor crash lands on a distant planet ruled by apes who use a primiti
 > **Cast** [[Charlton Heston]] · [[Roddy McDowall]] · [[Kim Hunter]] · [[Maurice Evans]] · [[James Whitmore]] · [[James Daly]] · [[Linda Harrison]] · [[Robert Gunner]] · [[Lou Wagner]] · [[Woodrow Parfrey]]
 > **Studios** [[APJAC Productions]] · [[20th Century Fox]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Drama]] · [[Action]]
+

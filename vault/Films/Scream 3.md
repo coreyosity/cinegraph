@@ -58,10 +58,8 @@ providers:
 - YouTube TV
 - Paramount+ Roku Premium Channel
 - Netflix Standard with Ads
-- Amazon Prime Video
 - Crave
 - AMC+ Amazon Channel
-- Amazon Prime Video with Ads
 - Crave Amazon Channel
 - Stan
 log_tags:
@@ -83,3 +81,4 @@ As bodies begin dropping around the Hollywood set of STAB 3, the third film base
 > **Cast** [[David Arquette]] · [[Neve Campbell]] · [[Courteney Cox]] · [[Patrick Dempsey]] · [[Scott Foley]] · [[Lance Henriksen]] · [[Matt Keeslar]] · [[Emily Mortimer]] · [[Jenny McCarthy]] · [[Parker Posey]]
 > **Studios** [[Dimension Films]] · [[Konrad Pictures]] · [[Craven-Maddalena Films]]
 > **Genres** [[Horror]] · [[Mystery]]
+

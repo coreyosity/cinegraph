@@ -54,3 +54,4 @@ Paranormal investigators Ed and Lorraine Warren encounter what would become one 
 > **Cast** [[Vera Farmiga]] · [[Patrick Wilson]] · [[Sterling Jerins]] · [[Sarah Catherine Hook]] · [[Ruairí O'Connor]] · [[Julian Hilliard]] · [[Charlene Amoia]] · [[John Noble]] · [[Eugenie Bondurant]] · [[Shannon Kook]]
 > **Studios** [[New Line Cinema]] · [[The Safran Company]] · [[Atomic Monster]]
 > **Genres** [[Horror]] · [[Mystery]] · [[Thriller]]
+

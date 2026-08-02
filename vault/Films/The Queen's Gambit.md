@@ -64,3 +64,4 @@ In a 1950s orphanage, a young girl reveals an astonishing talent for chess and b
 > **Cast** [[Anya Taylor-Joy]] · [[Chloe Pirrie]]
 > **Studios** [[Flitcraft]] · [[Wonderful Films]]
 > **Genres** [[Drama]]
+

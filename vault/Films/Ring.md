@@ -73,3 +73,4 @@ A mysterious video has been linked to a number of deaths, and when an inquisitiv
 > **Cast** [[Nanako Matsushima]] · [[Hiroyuki Sanada]] · [[Rikiya Ôtaka]] · [[Miki Nakatani]] · [[Yuko Takeuchi]] · [[Hitomi Sato]] · [[Yutaka Matsushige]] · [[Yōichi Numata]] · [[Katsumi Muramatsu]] · [[Masako]]
 > **Studios** [[KADOKAWA Shoten]] · [[Omega Project]] · [[Rasen Production Committee]] · [[TOHO]]
 > **Genres** [[Horror]] · [[Thriller]]
+

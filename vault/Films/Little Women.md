@@ -80,3 +80,4 @@ Four sisters come of age in America in the aftermath of the Civil War.
 > **Cast** [[Saoirse Ronan]] · [[Emma Watson]] · [[Florence Pugh]] · [[Eliza Scanlen]] · [[Laura Dern]] · [[Timothée Chalamet]] · [[Tracy Letts]] · [[Bob Odenkirk]] · [[James Norton]] · [[Louis Garrel]]
 > **Studios** [[Columbia Pictures]] · [[Regency Enterprises]] · [[Pascal Pictures]]
 > **Genres** [[Drama]] · [[Romance]]
+

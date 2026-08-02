@@ -52,3 +52,4 @@ Rexxx, Hollywood's top canine star, gets lost and is adopted into a shabby fireh
 > **Cast** [[Josh Hutcherson]] · [[Bruce Greenwood]] · [[Bill Nunn]] · [[Scotch Ellis Loring]] · [[Teddy Sears]] · [[Arwen]] · [[Frodo]] · [[Rohan]] · [[Stryder]] · [[Steven Culp]]
 > **Studios** [[Regency Enterprises]] · [[C.O.R.E. Digital Pictures]] · [[Doghouse Productions]] · [[New Regency Pictures]]
 > **Genres** [[Family]] · [[Comedy]]
+

@@ -70,3 +70,4 @@ Lorraine and Ed Warren travel to north London to help a single mother raising fo
 > **Cast** [[Vera Farmiga]] · [[Patrick Wilson]] · [[Madison Wolfe]] · [[Frances O'Connor]] · [[Lauren Esposito]] · [[Benjamin Haigh]] · [[Patrick McAuley]] · [[Sterling Jerins]] · [[Bonnie Aarons]] · [[Simon McBurney]]
 > **Studios** [[New Line Cinema]] · [[The Safran Company]] · [[Atomic Monster]] · [[RatPac Entertainment]]
 > **Genres** [[Horror]]
+

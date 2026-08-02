@@ -49,9 +49,9 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/EFIM
 providers:
-- Netflix
 - MUBI
 - MUBI Amazon Channel
+- Netflix
 - Netflix Standard with Ads
 - Crave
 ---
@@ -63,3 +63,4 @@ Three British teenage girls go on a rites-of-passage holiday—drinking, clubbin
 > **Cast** [[Mia McKenna-Bruce]] · [[Lara Peake]] · [[Enva Lewis]] · [[Samuel Bottomley]] · [[Shaun Thomas]] · [[Laura Ambler]] · [[Eilidh Loan]] · [[Daisy Jelley]] · [[Elliot Warren]] · [[Anna Antoniades]]
 > **Studios** [[Film4 Productions]] · [[mk2 Films]] · [[Metrol Technology]] · [[uMedia]] · [[Wild Swim Films]] · [[Heretic]] · [[Head Gear Films]]
 > **Genres** [[Drama]]
+

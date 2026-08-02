@@ -86,3 +86,4 @@ In late-90s suburbia, a lonely teenager meets a girl at school who introduces hi
 > **Cast** [[Justice Smith]] · [[Jack Haven]] · [[Ian Foreman]] · [[Helena Howard]] · [[Lindsey Jordan]] · [[Danielle Deadwyler]] · [[Fred Durst]] · [[Conner O'Malley]] · [[Emma Portner]] · [[Madaline Riley]]
 > **Studios** [[A24]] · [[Fruit Tree]] · [[Smudge Films]] · [[Hypnic Jerk]]
 > **Genres** [[Horror]] · [[Drama]]
+

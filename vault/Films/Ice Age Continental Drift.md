@@ -49,7 +49,6 @@ providers:
 - Amazon Prime Video
 - Disney Plus
 - Amazon Prime Video with Ads
-- ITVX Premium
 - HBO Max Amazon Channel
 - HBO Max
 - Crave
@@ -67,3 +66,4 @@ Manny, Diego, and Sid embark upon another adventure after their continent is set
 > **Cast** [[Ray Romano]] · [[John Leguizamo]] · [[Denis Leary]] · [[Seann William Scott]] · [[Josh Peck]] · [[Peter Dinklage]] · [[Wanda Sykes]] · [[Jennifer Lopez]] · [[Queen Latifah]] · [[Keke Palmer]]
 > **Studios** [[Blue Sky Studios]] · [[20th Century Fox Animation]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Adventure]] · [[Family]]
+

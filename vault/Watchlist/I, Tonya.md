@@ -64,3 +64,4 @@ Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure 
 > **Cast** [[Margot Robbie]] · [[Sebastian Stan]] · [[Allison Janney]] · [[Julianne Nicholson]] · [[Paul Walter Hauser]] · [[Bobby Cannavale]] · [[Bojana Novaković]] · [[Caitlin Carver]] · [[Maizie Smith]] · [[Mckenna Grace]]
 > **Studios** [[LuckyChap Entertainment]] · [[Clubhouse Pictures]]
 > **Genres** [[Drama]] · [[Comedy]]
+

@@ -85,3 +85,4 @@ Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryp
 > **Cast** [[David Corenswet]] · [[Rachel Brosnahan]] · [[Nicholas Hoult]] · [[Edi Gathegi]] · [[Nathan Fillion]] · [[Isabela Merced]] · [[María Gabriela de Faría]] · [[Skyler Gisondo]] · [[Alan Tudyk]] · [[Grace Chan]]
 > **Studios** [[Troll Court Entertainment]] · [[The Safran Company]] · [[DC Studios]] · [[Domain Entertainment]]
 > **Genres** [[Science Fiction]] · [[Adventure]] · [[Action]]
+

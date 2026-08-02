@@ -61,3 +61,4 @@ Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With
 > **Cast** [[Tom Hanks]] · [[Tim Allen]] · [[Joan Cusack]] · [[Don Rickles]] · [[Wallace Shawn]] · [[John Ratzenberger]] · [[Estelle Harris]] · [[Blake Clark]] · [[Jeff Pidgeon]] · [[Ned Beatty]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Family]] · [[Comedy]]
+

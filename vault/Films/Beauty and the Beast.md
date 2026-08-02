@@ -54,7 +54,6 @@ tags:
 letterboxd: https://boxd.it/1XhG
 providers:
 - Disney Plus
-- fuboTV
 ---
 
 Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.
@@ -67,3 +66,4 @@ Follow the adventures of Belle, a bright young woman who finds herself in the ca
 > **Cast** [[Paige O'Hara]] · [[Robby Benson]] · [[Richard White]] · [[Jerry Orbach]] · [[David Ogden Stiers]] · [[Angela Lansbury]] · [[Rex Everhart]] · [[Jesse Corti]] · [[Bradley Pierce]] · [[Hal Smith]]
 > **Studios** [[Silver Screen Partners IV]] · [[Walt Disney Pictures]]
 > **Genres** [[Romance]] · [[Family]] · [[Animation]] · [[Fantasy]]
+

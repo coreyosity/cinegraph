@@ -46,7 +46,10 @@ tags:
 - film
 letterboxd: https://boxd.it/1K0C
 providers:
+- fuboTV
+- Paramount Plus Premium
 - Paramount Plus Essential
+- Paramount+ Amazon Channel
 - Crave
 - Starz Amazon Channel
 - Crave Amazon Channel
@@ -65,3 +68,4 @@ Max imagines running away from his mom and sailing to a far-off land where large
 > **Cast** [[Max Records]] · [[Catherine Keener]] · [[James Gandolfini]] · [[Lauren Ambrose]] · [[Catherine O'Hara]] · [[Forest Whitaker]] · [[Chris Cooper]] · [[Paul Dano]] · [[Spike Jonze]] · [[Pepita Emmerichs]]
 > **Studios** [[Warner Bros. Pictures]] · [[Legendary Pictures]] · [[Village Roadshow Pictures]] · [[Playtone]] · [[KLG Film Invest]] · [[Wild Things Productions]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Family]] · [[Fantasy]]
+

@@ -70,3 +70,4 @@ In 1933 New York, an overly ambitious movie producer coerces his cast and hired 
 > **Cast** [[Naomi Watts]] · [[Adrien Brody]] · [[Jack Black]] · [[Andy Serkis]] · [[Colin Hanks]] · [[Thomas Kretschmann]] · [[Jamie Bell]] · [[Kyle Chandler]] · [[Evan Parke]] · [[Lobo Chan]]
 > **Studios** [[Universal Pictures]] · [[WingNut Films]] · [[Big Primate Pictures]] · [[MFPV Film]]
 > **Genres** [[Adventure]] · [[Drama]] · [[Action]]
+

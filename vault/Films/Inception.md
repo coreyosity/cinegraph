@@ -54,6 +54,10 @@ providers:
 - Now TV Cinema
 - HBO Max Amazon Channel
 - HBO Max
+- fuboTV
+- MGM+ Amazon Channel
+- Philo
+- MGM Plus Roku Premium Channel
 - Amazon Prime Video
 - Crave
 - Hollywood Suite
@@ -76,3 +80,4 @@ Cobb, a skilled thief who commits corporate espionage by infiltrating the subcon
 > **Cast** [[Leonardo DiCaprio]] · [[Joseph Gordon-Levitt]] · [[Ken Watanabe]] · [[Tom Hardy]] · [[Elliot Page]] · [[Dileep Rao]] · [[Cillian Murphy]] · [[Tom Berenger]] · [[Marion Cotillard]] · [[Pete Postlethwaite]]
 > **Studios** [[Legendary Pictures]] · [[Syncopy]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Science Fiction]] · [[Adventure]]
+

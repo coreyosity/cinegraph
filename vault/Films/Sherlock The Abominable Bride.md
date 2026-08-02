@@ -55,3 +55,4 @@ Sherlock Holmes and Dr. Watson find themselves in 1890s London in this holiday s
 > **Cast** [[Benedict Cumberbatch]] · [[Martin Freeman]] · [[Una Stubbs]] · [[Rupert Graves]] · [[Mark Gatiss]] · [[Andrew Scott]] · [[Louise Brealey]] · [[Amanda Abbington]] · [[Jonathan Aris]] · [[Yasmine Akram]]
 > **Studios** [[BBC]]
 > **Genres** [[Crime]] · [[Drama]] · [[Mystery]] · [[Thriller]] · [[TV Movie]]
+

@@ -50,9 +50,7 @@ tags:
 - film
 letterboxd: https://boxd.it/1MmK
 providers:
-- Peacock Premium
 - Starz Apple TV Channel
-- Peacock Premium Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - BINGE
@@ -69,3 +67,4 @@ Two salesmen trash a company truck on an energy drink-fueled bender. Upon their 
 > **Cast** [[Seann William Scott]] · [[Paul Rudd]] · [[Christopher Mintz-Plasse]] · [[Bobb'e J. Thompson]] · [[Elizabeth Banks]] · [[Jane Lynch]] · [[Ken Jeong]] · [[Ken Marino]] · [[Kerri Kenney]] · [[A.D. Miles]]
 > **Studios** [[Universal Pictures]] · [[Relativity Media]] · [[StuberParent]]
 > **Genres** [[Comedy]]
+

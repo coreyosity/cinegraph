@@ -53,18 +53,16 @@ letterboxd: https://boxd.it/29rS
 providers:
 - HBO Max Amazon Channel
 - HBO Max
-- Amazon Prime Video
-- Amazon Prime Video with Ads
-- Peacock Premium
 - TNT
 - TBS
 - tru TV
-- Peacock Premium Plus
 - Netflix
 - Crave
 - Starz Amazon Channel
 - Netflix Standard with Ads
 - Crave Amazon Channel
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 ---
 
 Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit of the Norse god Loki. Donning it transforms him into an unrestrained, green-faced, cartoon-like wild man. While the mask grants him the confidence to woo a local singer, it also makes him the target of a ruthless mobster.
@@ -77,3 +75,4 @@ Timid bank clerk Stanley Ipkiss discovers a magical mask infused with the spirit
 > **Cast** [[Jim Carrey]] · [[Peter Riegert]] · [[Peter Greene]] · [[Amy Yasbeck]] · [[Richard Jeni]] · [[Orestes Matacena]] · [[Tim Bagley]] · [[Nancy Fish]] · [[Johnny Williams]] · [[Reg E. Cathey]]
 > **Studios** [[Dark Horse Entertainment]] · [[New Line Cinema]]
 > **Genres** [[Comedy]] · [[Fantasy]] · [[Crime]] · [[Romance]]
+

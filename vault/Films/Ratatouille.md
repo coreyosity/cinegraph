@@ -78,3 +78,4 @@ Remy, a rat, possesses a palate far more refined than that of his fellow comrade
 > **Cast** [[Patton Oswalt]] · [[Ian Holm]] · [[Lou Romano]] · [[Brian Dennehy]] · [[Peter Sohn]] · [[Peter O'Toole]] · [[Brad Garrett]] · [[Janeane Garofalo]] · [[Will Arnett]] · [[Julius Callahan]]
 > **Studios** [[Pixar]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

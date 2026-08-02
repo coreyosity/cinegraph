@@ -57,3 +57,4 @@ Eddie and Venom are on the run. Hunted by both of their worlds and with the net 
 > **Cast** [[Tom Hardy]] · [[Chiwetel Ejiofor]] · [[Juno Temple]] · [[Rhys Ifans]] · [[Stephen Graham]] · [[Peggy Lu]] · [[Clark Backo]] · [[Alanna Ubach]] · [[Cristo Fernández]] · [[Jared Abrahamson]]
 > **Studios** [[Columbia Pictures]] · [[Pascal Pictures]] · [[Matt Tolmach Productions]] · [[Hutch Parker Entertainment]] · [[Arad Productions]]
 > **Genres** [[Science Fiction]] · [[Action]] · [[Adventure]]
+

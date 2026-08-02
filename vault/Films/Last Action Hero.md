@@ -64,3 +64,4 @@ After his father's death, a young boy finds solace in action movies featuring an
 > **Cast** [[Arnold Schwarzenegger]] · [[Austin O'Brien]] · [[Bridgette Wilson]] · [[F. Murray Abraham]] · [[Art Carney]] · [[Charles Dance]] · [[Frank McRae]] · [[Tom Noonan]] · [[Robert Prosky]] · [[Anthony Quinn]]
 > **Studios** [[Oak Productions]] · [[Columbia Pictures]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Comedy]]
+

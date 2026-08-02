@@ -54,7 +54,7 @@ tags:
 letterboxd: https://boxd.it/7eJi
 providers:
 - Disney Plus
-- fuboTV
+- FXNow
 ---
 
 After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.
@@ -67,3 +67,4 @@ After the re-emergence of the world's first mutant, world-destroyer Apocalypse, 
 > **Cast** [[James McAvoy]] · [[Michael Fassbender]] · [[Jennifer Lawrence]] · [[Nicholas Hoult]] · [[Oscar Isaac]] · [[Rose Byrne]] · [[Evan Peters]] · [[Josh Helman]] · [[Sophie Turner]] · [[Tye Sheridan]]
 > **Studios** [[The Donners' Company]] · [[Bad Hat Harry Productions]] · [[Genre Films]] · [[Hutch Parker Entertainment]] · [[20th Century Fox]] · [[Marvel Entertainment]] · [[TSG Entertainment]]
 > **Genres** [[Science Fiction]] · [[Fantasy]] · [[Action]]
+

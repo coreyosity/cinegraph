@@ -83,3 +83,4 @@ When fate brings Belfast teacher JJ into the orbit of self-confessed "low life s
 > **Cast** [[Móglaí Bap]] · [[Mo Chara]] · [[DJ Próvaí]] · [[Josie Walker]] · [[Fionnuala Flaherty]] · [[Jessica Reynolds]] · [[Adam Best]] · [[Simone Kirby]] · [[Michael Fassbender]] · [[Matthew Sharpe]]
 > **Studios** [[Mother Tongues Films]] · [[Fine Point Films]] · [[Wildcard Distribution]] · [[Naughty Step]] · [[DMC Film]] · [[Northern Ireland Screen]] · [[Fís ÉireannScreen Ireland]] · [[Great Point Media]] · [[Coimisiún na Meán]] · [[TG4]] · [[BFI]] · [[Charades]] · [[Curzon Film]]
 > **Genres** [[Music]] · [[Comedy]] · [[Drama]]
+

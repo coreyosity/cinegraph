@@ -57,15 +57,16 @@ tags:
 - watchlist
 letterboxd: https://boxd.it/gH0O
 providers:
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 - fuboTV
 - YouTube TV
-- Amazon Prime Video
+- FXNow
 - Netflix
 - Hollywood Suite
 - Club Illico
 - Hollywood Suite Amazon Channel
 - Netflix Standard with Ads
-- Amazon Prime Video with Ads
 - Foxtel Now
 - Stan
 ---
@@ -77,3 +78,4 @@ Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in weste
 > **Cast** [[Leonardo DiCaprio]] · [[Brad Pitt]] · [[Margot Robbie]] · [[Emile Hirsch]] · [[Margaret Qualley]] · [[Timothy Olyphant]] · [[Julia Butters]] · [[Austin Butler]] · [[Dakota Fanning]] · [[Bruce Dern]]
 > **Studios** [[Heyday Films]] · [[Columbia Pictures]] · [[Bona Film Group]]
 > **Genres** [[Comedy]] · [[Drama]] · [[Thriller]]
+

@@ -47,8 +47,6 @@ letterboxd: https://boxd.it/2cCk
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
-- fuboTV
-- Paramount Plus Premium
 - Philo
 - Starz Apple TV Channel
 - YouTube TV
@@ -58,10 +56,15 @@ providers:
 - Crave
 - Super Channel Plus
 - Super Channel Amazon Channel
+- fuboTV
 - Netflix Standard with Ads
 - Crave Amazon Channel
+- Paramount Plus
+- Paramount+ Amazon Channel
 - Foxtel Now
 - Stan
+- Paramount Plus Premium
+- Paramount Plus Basic with Ads
 ---
 
 With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
@@ -71,3 +74,4 @@ With the help of a German bounty hunter, a freed slave sets out to rescue his wi
 > **Cast** [[Jamie Foxx]] · [[Christoph Waltz]] · [[Leonardo DiCaprio]] · [[Kerry Washington]] · [[Samuel L. Jackson]] · [[Walton Goggins]] · [[Dennis Christopher]] · [[James Remar]] · [[David Steen]] · [[Dana Gourrier]]
 > **Studios** [[The Weinstein Company]] · [[Columbia Pictures]]
 > **Genres** [[Drama]] · [[Western]]
+

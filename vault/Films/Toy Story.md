@@ -75,3 +75,4 @@ Led by Woody, Andy's toys live happily in his room until Andy's birthday brings 
 > **Cast** [[Tom Hanks]] · [[Tim Allen]] · [[Don Rickles]] · [[Jim Varney]] · [[Wallace Shawn]] · [[John Ratzenberger]] · [[Annie Potts]] · [[John Morris]] · [[Erik von Detten]] · [[Laurie Metcalf]]
 > **Studios** [[Pixar]]
 > **Genres** [[Family]] · [[Comedy]] · [[Animation]] · [[Adventure]]
+

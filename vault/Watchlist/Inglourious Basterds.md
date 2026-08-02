@@ -46,12 +46,9 @@ letterboxd: https://boxd.it/1JzG
 providers:
 - Sky Go
 - Channel 4 Plus
-- Philo
 - Netflix
 - Super Channel Plus
-- Super Channel Amazon Channel
 - fuboTV
-- Starz Amazon Channel
 - Netflix Standard with Ads
 - BINGE
 - Paramount Plus
@@ -68,3 +65,4 @@ In Nazi-occupied France during World War II, a group of Jewish-American soldiers
 > **Cast** [[Brad Pitt]] · [[Mélanie Laurent]] · [[Christoph Waltz]] · [[Eli Roth]] · [[Michael Fassbender]] · [[Diane Kruger]] · [[Daniel Brühl]] · [[Til Schweiger]] · [[Gedeon Burkhard]] · [[Jacky Ido]]
 > **Studios** [[Universal Pictures]] · [[The Weinstein Company]] · [[A Band Apart]] · [[Zehnte Babelsberg Film]] · [[Visiona Romantica]]
 > **Genres** [[Drama]] · [[Thriller]] · [[War]]
+

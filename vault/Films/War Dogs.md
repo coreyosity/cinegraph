@@ -60,3 +60,4 @@ Based on the true story of two young men, David Packouz and Efraim Diveroli, who
 > **Cast** [[Miles Teller]] · [[Jonah Hill]] · [[Ana de Armas]] · [[Bradley Cooper]] · [[Kevin Pollak]] · [[Patrick St. Esprit]] · [[Shaun Toub]] · [[JB Blanc]] · [[Gabriel Spahiu]] · [[Julian Sergi]]
 > **Studios** [[The Mark Gordon Company]] · [[Joint Effort]] · [[RatPac Entertainment]] · [[Warner Bros. Pictures]]
 > **Genres** [[Comedy]] · [[Crime]] · [[Drama]]
+

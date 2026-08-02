@@ -64,3 +64,4 @@ Instead of flying to Florida with his folks, Kevin ends up alone in New York, wh
 > **Cast** [[Macaulay Culkin]] · [[Joe Pesci]] · [[Daniel Stern]] · [[Catherine O'Hara]] · [[John Heard]] · [[Brenda Fricker]] · [[Tim Curry]] · [[Devin Ratray]] · [[Gerry Bamman]] · [[Rob Schneider]]
 > **Studios** [[20th Century Fox]] · [[Hughes Entertainment]]
 > **Genres** [[Comedy]] · [[Family]] · [[Adventure]]
+

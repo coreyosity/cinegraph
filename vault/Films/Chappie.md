@@ -59,3 +59,4 @@ Every child comes into the world full of promise, and none more so than Chappie:
 > **Cast** [[Sharlto Copley]] · [[Dev Patel]] · [[Hugh Jackman]] · [[Ninja]] · [[Yo-Landi Visser]] · [[Sigourney Weaver]] · [[Chris Shields]] · [[Anderson Cooper]] · [[Jose Pablo Cantillo]] · [[Brandon Auret]]
 > **Studios** [[Columbia Pictures]] · [[MRC]] · [[LStar Capital]] · [[Genre Films]]
 > **Genres** [[Crime]] · [[Action]] · [[Science Fiction]]
+

@@ -79,3 +79,4 @@ When a new professor's methods leave Hogwarts unprepared to fight the rising tid
 > **Cast** [[Daniel Radcliffe]] · [[Rupert Grint]] · [[Emma Watson]] · [[Imelda Staunton]] · [[Helena Bonham Carter]] · [[Robbie Coltrane]] · [[Gary Oldman]] · [[Ralph Fiennes]] · [[Michael Gambon]] · [[Alan Rickman]]
 > **Studios** [[Warner Bros. Pictures]] · [[Heyday Films]]
 > **Genres** [[Adventure]] · [[Fantasy]]
+

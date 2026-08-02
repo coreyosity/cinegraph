@@ -39,3 +39,4 @@ Freaks of Nurture is an animated short about a neurotic mother-daughter relation
 > **Cast** [[Amanda Plummer]] · [[Alexandra Lemay]] · [[Claudia Besso]]
 > **Studios** [[ONF NFB]]
 > **Genres** [[Animation]]
+

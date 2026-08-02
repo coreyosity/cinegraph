@@ -87,3 +87,4 @@ An aging Chinese immigrant is swept up in an insane adventure, where she alone c
 > **Cast** [[Michelle Yeoh]] · [[Stephanie Hsu]] · [[Ke Huy Quan]] · [[James Hong]] · [[Jamie Lee Curtis]] · [[Tallie Medel]] · [[Jenny Slate]] · [[Harry Shum Jr]] · [[Biff Wiff]] · [[Sunita Mani]]
 > **Studios** [[IAC Films]] · [[AGBO]] · [[Ley Line Entertainment]] · [[Year of the Rat]] · [[A24]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

@@ -56,7 +56,7 @@ letterboxd: https://boxd.it/24QI
 providers:
 - HBO Max Amazon Channel
 - HBO Max
-- fuboTV
+- Philo
 - YouTube TV
 - Netflix
 - Crave
@@ -82,3 +82,4 @@ A newly dead New England couple seeks help from a deranged demon exorcist to sca
 > **Cast** [[Alec Baldwin]] · [[Geena Davis]] · [[Winona Ryder]] · [[Catherine O'Hara]] · [[Jeffrey Jones]] · [[Michael Keaton]] · [[Glenn Shadix]] · [[Sylvia Sidney]] · [[Patrice Martinez]] · [[Dick Cavett]]
 > **Studios** [[Geffen Pictures]] · [[Warner Bros. Pictures]]
 > **Genres** [[Fantasy]] · [[Comedy]]
+

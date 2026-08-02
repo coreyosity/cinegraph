@@ -56,6 +56,8 @@ providers:
 - HBO Max Amazon Channel
 - HBO Max
 - YouTube TV
+- Cinemax Amazon Channel
+- Cinemax Apple TV Channel
 - Crave
 - Crave Amazon Channel
 ---
@@ -70,3 +72,4 @@ Having witnessed his parents' brutal murder as a child, millionaire philanthropi
 > **Cast** [[Michael Keaton]] · [[Jack Nicholson]] · [[Kim Basinger]] · [[Robert Wuhl]] · [[Pat Hingle]] · [[Billy Dee Williams]] · [[Michael Gough]] · [[Jack Palance]] · [[Jerry Hall]] · [[Tracey Walter]]
 > **Studios** [[Warner Bros. Pictures]] · [[Polygram Pictures]] · [[The Guber-Peters Company]]
 > **Genres** [[Fantasy]] · [[Action]] · [[Crime]]
+

@@ -76,3 +76,4 @@ Light Yagami finds the "Death Note," a notebook with the power to kill, and deci
 > **Cast** [[Tatsuya Fujiwara]] · [[Kenichi Matsuyama]] · [[Asaka Seto]] · [[Shigeki Hosokawa]] · [[Erika Toda]] · [[Shunji Fujimura]] · [[Takeshi Kaga]] · [[Yuu Kashii]] · [[Shido Nakamura]] · [[Sota Aoyama]]
 > **Studios** [[Nippon Television Network Corporation]] · [[Shueisha]] · [[Shochiku]] · [[VAP]] · [[Nikkatsu Corporation]] · [[Horipro]] · [[Warner Bros. Japan]] · [[Nikkatsu Studio]] · [[Sapporo Television Broadcasting Company]] · [[Miyagi Television Broadcasting]] · [[Chukyo TV Broadcasting Company]] · [[Hiroshima Telecasting]] · [[Fukuoka Broadcasting System]] · [[Yomiuri Telecasting Corporation]] · [[Konami]]
 > **Genres** [[Fantasy]] · [[Mystery]] · [[Thriller]]
+

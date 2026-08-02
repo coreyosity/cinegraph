@@ -74,3 +74,4 @@ After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Eliz
 > **Cast** [[Johnny Depp]] · [[Geoffrey Rush]] · [[Orlando Bloom]] · [[Keira Knightley]] · [[Jack Davenport]] · [[Bill Nighy]] · [[Jonathan Pryce]] · [[Lee Arenberg]] · [[Mackenzie Crook]] · [[Kevin McNally]]
 > **Studios** [[Jerry Bruckheimer Films]] · [[Second Mate Productions]] · [[Walt Disney Pictures]]
 > **Genres** [[Adventure]] · [[Fantasy]] · [[Action]]
+

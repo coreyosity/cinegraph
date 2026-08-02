@@ -71,3 +71,4 @@ Lara Croft, the fiercely independent daughter of a missing adventurer, must push
 > **Cast** [[Alicia Vikander]] · [[Dominic West]] · [[Walton Goggins]] · [[Daniel Wu]] · [[Kristin Scott Thomas]] · [[Derek Jacobi]] · [[Alexandre Willaume]] · [[Tamer Burjaq]] · [[Adrian Collins]] · [[Keenan Arrison]]
 > **Studios** [[Square Enix]] · [[GK Films]] · [[Metro-Goldwyn-Mayer]] · [[Warner Bros. Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Fantasy]]
+

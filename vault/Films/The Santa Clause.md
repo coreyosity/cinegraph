@@ -63,3 +63,4 @@ On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has
 > **Cast** [[Tim Allen]] · [[Judge Reinhold]] · [[Wendy Crewson]] · [[Eric Lloyd]] · [[David Krumholtz]] · [[Larry Brandenburg]] · [[Mary Gross]] · [[Paige Tamada]] · [[Peter Boyle]] · [[Judith Scott]]
 > **Studios** [[Walt Disney Pictures]] · [[Hollywood Pictures]] · [[Outlaw Productions]]
 > **Genres** [[Fantasy]] · [[Drama]] · [[Comedy]] · [[Family]]
+

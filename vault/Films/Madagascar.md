@@ -57,6 +57,7 @@ letterboxd: https://boxd.it/29dc
 providers:
 - Amazon Prime Video
 - Amazon Prime Video with Ads
+- Wonder Project Amazon Channel
 - BINGE
 - Paramount Plus
 - Paramount+ Amazon Channel
@@ -76,3 +77,4 @@ Four animal friends get a taste of the wild life when they break out of captivit
 > **Cast** [[Ben Stiller]] · [[Chris Rock]] · [[David Schwimmer]] · [[Jada Pinkett Smith]] · [[Sacha Baron Cohen]] · [[Cedric the Entertainer]] · [[Andy Richter]] · [[Tom McGrath]] · [[Christopher Knights]] · [[Chris Miller]]
 > **Studios** [[Pacific Data Images]] · [[DreamWorks Animation]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]]
+

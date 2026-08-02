@@ -58,3 +58,4 @@ Dangerous missions are the bread and butter of the Thunderbirds, a high-tech sec
 > **Cast** [[Brady Corbet]] · [[Bill Paxton]] · [[Anthony Edwards]] · [[Ben Kingsley]] · [[Sophia Myles]] · [[Vanessa Hudgens]] · [[Philip Winchester]] · [[Soren Fulton]] · [[Debora Weston]] · [[Lou Hirsch]]
 > **Studios** [[Working Title Films]] · [[Tracy Films]] · [[StudioCanal]] · [[Universal Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Comedy]] · [[Family]]
+

@@ -63,7 +63,6 @@ providers:
 - Paramount+ Amazon Channel
 - fuboTV
 - Paramount Plus Essential
-- Philo
 - Paramount+ Roku Premium Channel
 - Crave
 - Crave Amazon Channel
@@ -80,3 +79,4 @@ There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crow
 > **Cast** [[Tom Kenny]] · [[Clancy Brown]] · [[Rodger Bumpass]] · [[Bill Fagerbakke]] · [[Mr. Lawrence]] · [[Jill Talley]] · [[Carolyn Lawrence]] · [[Mary Jo Catlett]] · [[Jeffrey Tambor]] · [[Scarlett Johansson]]
 > **Studios** [[Paramount Pictures]] · [[Nickelodeon Movies]] · [[United Plankton Pictures]]
 > **Genres** [[Adventure]] · [[Animation]] · [[Comedy]] · [[Family]] · [[Fantasy]]
+

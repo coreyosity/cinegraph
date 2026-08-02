@@ -70,3 +70,4 @@ When the crew of the Enterprise is called back home, they find an unstoppable fo
 > **Cast** [[Chris Pine]] · [[Zachary Quinto]] · [[Zoe Saldaña]] · [[Benedict Cumberbatch]] · [[Karl Urban]] · [[Simon Pegg]] · [[Bruce Greenwood]] · [[Peter Weller]] · [[Alice Eve]] · [[Anton Yelchin]]
 > **Studios** [[Bad Robot]] · [[Paramount Pictures]] · [[Skydance Media]]
 > **Genres** [[Action]] · [[Adventure]] · [[Science Fiction]]
+

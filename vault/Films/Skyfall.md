@@ -55,13 +55,11 @@ tags:
 - film
 letterboxd: https://boxd.it/17Fc
 providers:
-- MGM Plus Amazon Channel
 - fuboTV
 - MGM+ Amazon Channel
 - Philo
 - MGM Plus Roku Premium Channel
 - Crave
-- MGM Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -75,3 +73,4 @@ When Bond's latest assignment goes gravely wrong, agents around the world are ex
 > **Cast** [[Daniel Craig]] · [[Judi Dench]] · [[Javier Bardem]] · [[Ralph Fiennes]] · [[Naomie Harris]] · [[Bérénice Marlohe]] · [[Albert Finney]] · [[Ben Whishaw]] · [[Rory Kinnear]] · [[Ola Rapace]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[EON Productions]] · [[Columbia Pictures]]
 > **Genres** [[Action]] · [[Adventure]] · [[Thriller]]
+

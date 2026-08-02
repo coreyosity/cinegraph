@@ -52,14 +52,11 @@ letterboxd: https://boxd.it/21aa
 providers:
 - Sky Go
 - Now TV Cinema
-- Peacock Premium
 - Philo
 - Starz Apple TV Channel
 - Starz Roku Premium Channel
 - YouTube TV
 - Starz
-- Starz Amazon Channel
-- Peacock Premium Plus
 - Amazon Prime Video
 - Amazon Prime Video with Ads
 - BINGE
@@ -76,3 +73,4 @@ Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist
 > **Cast** [[Hugh Jackman]] · [[Kate Beckinsale]] · [[Richard Roxburgh]] · [[Josie Maran]] · [[David Wenham]] · [[Shuler Hensley]] · [[Elena Anaya]] · [[Kevin J. O'Connor]] · [[Alun Armstrong]] · [[Will Kemp]]
 > **Studios** [[Universal Pictures]] · [[The Sommers Company]] · [[Stillking Films]]
 > **Genres** [[Horror]] · [[Adventure]] · [[Action]]
+

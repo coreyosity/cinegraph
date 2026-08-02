@@ -49,9 +49,7 @@ tags:
 - film
 letterboxd: https://boxd.it/6bXY
 providers:
-- MGM Plus Amazon Channel
 - Crave
-- MGM Amazon Channel
 - Crave Amazon Channel
 ---
 
@@ -65,3 +63,4 @@ A cryptic message from Bond’s past sends him on a trail to uncover a sinister 
 > **Cast** [[Daniel Craig]] · [[Christoph Waltz]] · [[Léa Seydoux]] · [[Ralph Fiennes]] · [[Monica Bellucci]] · [[Ben Whishaw]] · [[Naomie Harris]] · [[Dave Bautista]] · [[Andrew Scott]] · [[Rory Kinnear]]
 > **Studios** [[Metro-Goldwyn-Mayer]] · [[Columbia Pictures]] · [[EON Productions]]
 > **Genres** [[Action]] · [[Adventure]] · [[Thriller]]
+

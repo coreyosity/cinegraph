@@ -61,3 +61,4 @@ From the mean streets of the Belleville district of Paris to the dazzling limeli
 > **Cast** [[Marion Cotillard]] · [[Sylvie Testud]] · [[Pascal Greggory]] · [[Emmanuelle Seigner]] · [[Jean-Paul Rouve]] · [[Gérard Depardieu]] · [[Clotilde Courau]] · [[Jean-Pierre Martins]] · [[Catherine Allégret]] · [[Marc Barbé]]
 > **Studios** [[TF1 International]] · [[Légende Films]] · [[Okko Production]] · [[Songbird Pictures]] · [[TF1 Films Production]]
 > **Genres** [[Music]] · [[Drama]]
+

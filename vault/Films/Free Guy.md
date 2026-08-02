@@ -55,6 +55,7 @@ providers:
 - Disney Plus
 - fuboTV
 - YouTube TV
+- FXNow
 ---
 
 A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.
@@ -67,3 +68,4 @@ A bank teller discovers he is actually a background player in an open-world vide
 > **Cast** [[Ryan Reynolds]] · [[Jodie Comer]] · [[Lil Rel Howery]] · [[Joe Keery]] · [[Utkarsh Ambudkar]] · [[Taika Waititi]] · [[Channing Tatum]] · [[Aaron W Reed]] · [[Britne Oldford]] · [[Camille Kostek]]
 > **Studios** [[Berlanti Productions]] · [[21 Laps Entertainment]] · [[Maximum Effort]] · [[Lit Entertainment Group]] · [[20th Century Studios]]
 > **Genres** [[Comedy]] · [[Adventure]] · [[Science Fiction]]
+

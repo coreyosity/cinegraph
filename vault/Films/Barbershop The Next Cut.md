@@ -45,13 +45,10 @@ tags:
 - film
 letterboxd: https://boxd.it/aEaa
 providers:
-- MGM Plus Amazon Channel
-- fuboTV
-- MGM+ Amazon Channel
-- Philo
+- Amazon Prime Video
+- Amazon Prime Video with Ads
 - YouTube TV
 - MGM Plus
-- MGM Amazon Channel
 - Stan
 ---
 
@@ -65,3 +62,4 @@ To survive harsh economic times, Calvin and Angie have merged the barbershop and
 > **Cast** [[Ice Cube]] · [[Cedric the Entertainer]] · [[Regina Hall]] · [[Sean Patrick Thomas]] · [[Eve]] · [[Nicki Minaj]] · [[Anthony Anderson]] · [[Common]] · [[Jazsmin Lewis]] · [[Troy Garity]]
 > **Studios** [[New Line Cinema]] · [[Cube Vision]] · [[Metro-Goldwyn-Mayer]] · [[State Street Pictures]]
 > **Genres** [[Comedy]] · [[Drama]]
+

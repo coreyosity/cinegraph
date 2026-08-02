@@ -77,3 +77,4 @@ Gru is recruited by the Anti-Villain League to help deal with a powerful new sup
 > **Cast** [[Steve Carell]] · [[Kristen Wiig]] · [[Benjamin Bratt]] · [[Miranda Cosgrove]] · [[Dana Gaier]] · [[Elsie Fisher]] · [[Russell Brand]] · [[Ken Jeong]] · [[Steve Coogan]] · [[Moisés Arias]]
 > **Studios** [[Illumination]] · [[Universal Pictures]]
 > **Genres** [[Animation]] · [[Comedy]] · [[Family]] · [[Science Fiction]]
+

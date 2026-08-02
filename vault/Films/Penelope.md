@@ -29,3 +29,4 @@ Economic depression and political chaos force Tajik men to become migrant labour
 > [!info]- Cast & crew
 > **Director** [[Georgi Dzalayev]]
 > **Genres** [[Documentary]]
+
